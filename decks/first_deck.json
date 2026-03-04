@@ -1,70 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Flashcard Databank</title>
-    <style>
-        body {
-            font-family: sans-serif;
-            margin: 20px;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        h1 {
-            text-align: center;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-            background-color: #fff;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px;
-            text-align: left;
-        }
-        th {
-            background-color: #0056b3;
-            color: white;
-            position: sticky;
-            top: 0;
-        }
-        tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-        .meta-col {
-            width: 8%;
-            font-family: monospace;
-            font-size: 0.9em;
-            text-align: center;
-        }
-        .content-col {
-            width: 34%;
-        }
-    </style>
-</head>
-<body>
-    <h1>Flashcard Databank</h1>
-    <table id="flashcardTable">
-        <thead>
-            <tr>
-                <th class="meta-col">ID (Top-L)</th>
-                <th class="meta-col">Subject (Top-R)</th>
-                <th class="meta-col">Doc (Bot-L)</th>
-                <th class="meta-col">Section (Bot-R)</th>
-                <th class="content-col">Question (Front)</th>
-                <th class="content-col">Answer (Back)</th>
-            </tr>
-        </thead>
-        <tbody>
-        </tbody>
-    </table>
-
-    <script>
-        // INSTRUCTIONS TO AI: Populate this array with the extracted flashcard data.
-        // Ensure "q" and "a" do not contain unescaped HTML or markdown.
-        const cardsData = [
+[
             { id: 1, subj: "PHYS", doc: "CH14CV", sec: "14.1 Overview", q: "What were the ancient beliefs regarding blood distribution?", a: "Blood was made in the liver and distributed via veins, while air from the lungs was distributed via arteries." },
             { id: 2, subj: "PHYS", doc: "CH14CV", sec: "14.1 Overview", q: "Who was William Harvey and what did he demonstrate?", a: "A 17th-century English physician who demonstrated that the heart pumps blood in a closed, recirculating loop (a one-way circuit guided by valves), refuting the idea that tissues consume all delivered blood." },
             { id: 3, subj: "PHYS", doc: "CH14CV", sec: "14.1 Overview", q: "Who was Marcello Malpighi and what was his contribution?", a: "An Italian anatomist who discovered capillaries in the 17th century, providing the missing structural link in Harvey's closed-loop theory." },
@@ -215,23 +149,4 @@
             { id: 148, subj: "PHYS", doc: "CH14CV", sec: "14.4 Pump", q: "Define Afterload.", a: "The combined load of blood in the ventricle (EDV) and the arterial resistance during ventricular contraction. The force the heart must overcome to eject blood." },
             { id: 149, subj: "PHYS", doc: "CH14CV", sec: "14.4 Pump", q: "What are Cardiac Glycosides (Digitalis/Ouabain) and their mechanism?", a: "Pharmacological positive inotropic agents that depress Na+-K+-ATPase activity, increasing cytosolic Ca2+ and thus increasing contractility." },
             { id: "END", subj: "END", doc: "END", sec: "END", q: "END", a: "END" }
-        ];
-
-        const tbody = document.querySelector('#flashcardTable tbody');
-
-        cardsData.forEach(card => {
-            const row = document.createElement('tr');
-            row.innerHTML = `
-                <td class="meta-col"><strong>${card.id}</strong></td>
-                <td class="meta-col">${card.subj}</td>
-                <td class="meta-col">${card.doc}</td>
-                <td class="meta-col">${card.sec}</td>
-                <td class="content-col">${card.q}</td>
-                <td class="content-col">${card.a}</td>
-            `;
-            tbody.appendChild(row);
-        });
-        // The raw JSON is preserved in the cardsData variable for easy export to your future app.
-    </script>
-</body>
-</html>
+        ]
