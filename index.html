@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard Library</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #09090b; color: #f4f4f5; font-family: sans-serif; }
+    </style>
+</head>
+<body class="p-6 md:p-12">
+    <div class="max-w-3xl mx-auto">
+        <header class="mb-12 border-b border-zinc-800 pb-8">
+            <h1 class="text-4xl font-bold mb-2">Preset Deck Library</h1>
+            <p class="text-zinc-400">Select a preset stack to download and import into your Flashcard App.</p>
+        </header>
+
+        <div id="deck-list" class="grid gap-4">
+            <div class="animate-pulse flex flex-col gap-4">
+                <div class="h-20 bg-zinc-900 rounded-xl"></div>
+                <div class="h-20 bg-zinc-900 rounded-xl"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // CHANGE THIS to your GitHub username and repository name
+        const GITHUB_USER = "DrPeppere";
+        const GITHUB_REPO = "flashcard-databank";
+        const RAW_BASE = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/`;
+
+        async function init() {
+            try {
+                const response = await fetch(RAW_BASE + 'catalog.json');
+                const catalog = await response.json();
+                renderDecks(catalog);
+            } catch (err) {
+                document.getElementById('deck-list').innerHTML = `
+                    <div class="p-6 bg-red-900/20 border border-red-800 rounded-xl text-red-400">
+                        Failed to load catalog. Ensure catalog.json exists in your GitHub repo.
+                    </div>`;
+            }
+        }
+
+        function renderDecks(catalog) {
+            const list = document.getElementById('deck-list');
+            list.innerHTML = '';
+            
+            catalog.forEach(deck => {
+                const card = document.createElement('div');
+                card.className = "p-6 bg-zinc-900 border border-zinc-800 rounded-2xl flex items-center justify-between hover:border-zinc-600 transition-colors group";
+                card.innerHTML = `
+                    <div>
+                        <h3 class="text-xl font-bold group-hover:text-white transition-colors">${deck.name}</h3>
+                        <div class="flex gap-4 mt-1 text-sm text-zinc-500">
+                            <span>${deck.subject}</span>
+                            <span>${deck.doc}</span>
+                        </div>
+                    </div>
+                    <button onclick="downloadDeck('${deck.file}', '${deck.name}', '${deck.subject}', '${deck.doc}')" 
+                        class="px-5 py-2 bg-white text-black font-bold rounded-lg hover:bg-zinc-200 transition-colors shadow-lg">
+                        Install
+                    </button>
+                `;
+                list.appendChild(card);
+            });
+        }
+
+        async function downloadDeck(filePath, name, subj, doc) {
+            try {
+                const response = await fetch(RAW_BASE + filePath);
+                const cards = await response.json();
+                
+                // Format for the Flashcard App
+                const cardsJSON = cards.map((c, i) => ({
+                    id: i + 1,
+                    subj: subj,
+                    doc: doc,
+                    sec: c.sec || '',
+                    q: c.q || '',
+                    a: c.a || ''
+                }));
+                cardsJSON.push({ id: "END", subj: "END", doc: "END", sec: "END", q: "END", a: "END" });
+
+                const htmlContent = `<!DOCTYPE html><html><head><title>${name}</title><style>
+body { font-family: sans-serif; margin: 20px; background-color: #f4f4f9; color: #333; }
+table { width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fff; }
+th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+th { background-color: #0056b3; color: white; }
+</style></head><body><h1>${name}</h1><table id="flashcardTable"><thead><tr><th>ID</th><th>Subj</th><th>Doc</th><th>Sec</th><th>Question</th><th>Answer</th></tr></thead><tbody></tbody></table><script>
+const cardsData = ${JSON.stringify(cardsJSON, null, 2)};
+<\/script></body></html>`;
+
+                const blob = new Blob([htmlContent], { type: 'text/html' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = `${name.toLowerCase().replace(/\s/g, '_')}.html`;
+                a.click();
+            } catch (err) {
+                alert("Error downloading deck: " + err.message);
+            }
+        }
+
+        init();
+    </script>
+</body>
+</html>
