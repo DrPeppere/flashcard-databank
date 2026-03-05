@@ -1,666 +1,96 @@
 [
-  {
-    "id": "1",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Describe the primary transport functions of the cardiovascular system.",
-    "a": "The primary function is the transport of materials to and from all parts of the body. This includes materials entering the body (oxygen, nutrients, water), materials moved from cell to cell (wastes, immune cells, antibodies, hormones, stored nutrients), and materials leaving the body (metabolic wastes, heat, carbon dioxide)."
-  },
-  {
-    "id": "2",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Describe the organization of the cardiovascular system.",
-    "a": "It is a closed circulatory system consisting of a heart (the pump), blood vessels (the tubes or vasculature), and blood (the fluid containing cells and plasma)."
-  },
-  {
-    "id": "3",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Capillaries",
-    "a": "Location: Microscopic vessels located within tissues. Function: The site where blood exchanges material with the interstitial fluid."
-  },
-  {
-    "id": "4",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Arteries",
-    "a": "Blood vessels that carry blood away from the heart."
-  },
-  {
-    "id": "5",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Veins",
-    "a": "Blood vessels that return blood to the heart."
-  },
-  {
-    "id": "6",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Septum",
-    "a": "Location: The central wall of the heart. Function: Divides the heart into independent left and right halves and prevents blood from mixing."
-  },
-  {
-    "id": "7",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Atria (Atrium)",
-    "a": "Location: The upper chambers of the heart. Function: Receives blood returning to the heart from the blood vessels."
-  },
-  {
-    "id": "8",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Ventricle",
-    "a": "Location: The lower chambers of the heart. Function: Pumps blood out into the blood vessels."
-  },
-  {
-    "id": "9",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Pulmonary Arteries",
-    "a": "Location: Connect the right ventricle to the lungs. Function: Carry low-oxygen blood to the lungs for oxygenation."
-  },
-  {
-    "id": "10",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Pulmonary Veins",
-    "a": "Location: Connect the lungs to the left atrium. Function: Carry well-oxygenated blood from the lungs back to the left side of the heart."
-  },
-  {
-    "id": "11",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Pulmonary Circulation",
-    "a": "The specific route of blood vessels that go from the right ventricle of the heart, to the lungs, and back to the left atrium."
-  },
-  {
-    "id": "12",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Systemic Circulation",
-    "a": "The specific route of blood vessels that carry blood from the left side of the heart to the body tissues, and then back to the right side of the heart."
-  },
-  {
-    "id": "13",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Aorta",
-    "a": "Location: The large artery exiting the left ventricle. Function: Branches into smaller arteries to distribute oxygenated blood to capillary networks throughout the body's tissues."
-  },
-  {
-    "id": "14",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Superior Vena Cava",
-    "a": "Location: A large vein entering the right atrium. Function: Returns blood from the upper part of the body to the heart."
-  },
-  {
-    "id": "15",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.1",
-    "q": "Define: Inferior Vena Cava",
-    "a": "Location: A large vein entering the right atrium. Function: Returns blood from the lower part of the body to the heart."
-  },
-  {
-    "id": "16",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Pericardium",
-    "a": "Location: The membranous sac encasing the heart. Function: Protects the heart and contains a thin layer of pericardial fluid that lubricates the external surface as it beats."
-  },
-  {
-    "id": "17",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Myocardium",
-    "a": "Location: The thick muscular walls of the heart. Function: The cardiac muscle responsible for generating the mechanical force of contraction."
-  },
-  {
-    "id": "18",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Pulmonary Trunk",
-    "a": "The major blood vessel exiting the right ventricle that quickly splits into the left and right pulmonary arteries."
-  },
-  {
-    "id": "19",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Atrioventricular (AV) Valves",
-    "a": "Location: Situated between the atria and the ventricles. Function: Ensure one-way blood flow from the atria to the ventricles and prevent backward flow during ventricular contraction."
-  },
-  {
-    "id": "20",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Semilunar Valves",
-    "a": "Location: Situated between the ventricles and the major arteries (aorta and pulmonary trunk). Function: Snap closed to prevent blood from flowing backward into the ventricles from the arteries after contraction."
-  },
-  {
-    "id": "21",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Papillary Muscles",
-    "a": "Location: Moundlike extensions of the ventricular muscle. Function: Tether the chordae tendineae to provide stability to the AV valves; they do not actively open or close the valves."
-  },
-  {
-    "id": "22",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Tricuspid Valve",
-    "a": "Location: The right AV valve, separating the right atrium and the right ventricle. It consists of three flaps."
-  },
-  {
-    "id": "23",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Bicuspid Valve (Mitral Valve)",
-    "a": "Location: The left AV valve, separating the left atrium and the left ventricle. It consists of two flaps."
-  },
-  {
-    "id": "24",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Aortic Valve",
-    "a": "Location: The semilunar valve located between the left ventricle and the aorta."
-  },
-  {
-    "id": "25",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Pulmonary Valve",
-    "a": "Location: The semilunar valve located between the right ventricle and the pulmonary trunk."
-  },
-  {
-    "id": "26",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Coronary Circulation",
-    "a": "The heart's dedicated blood supply, essential because of the heart's high energy and oxygen demands (extracts 70-80% of delivered oxygen at rest)."
-  },
-  {
-    "id": "27",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Coronary Arteries (Right, Left, Circumflex, Anterior Interventricular)",
-    "a": "Location: Branches originating from the aorta. Function: Arteries that nourish the heart muscle itself by delivering highly oxygenated blood."
-  },
-  {
-    "id": "28",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Coronary Veins",
-    "a": "Location: Running alongside coronary arteries on the surface of the heart. Function: Collect deoxygenated blood from the myocardial capillaries."
-  },
-  {
-    "id": "29",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Coronary Sinus",
-    "a": "Location: On the posterior aspect of the heart. Function: A large vein that drains about 85% of the deoxygenated venous blood from the myocardium directly into the right atrium."
-  },
-  {
-    "id": "30",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Describe the two types of myocardial cells and their arrangement in the heart.",
-    "a": "1. Contractile cells: Striated muscle organized into sarcomeres that make up the bulk of heart muscle. 2. Autorhythmic cells: Specialized cells (1%) that generate action potentials spontaneously without innervation."
-  },
-  {
-    "id": "31",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Contractile Cells",
-    "a": "Striated muscle cells organized into sarcomeres that generate the mechanical force of the heart."
-  },
-  {
-    "id": "32",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Autorhythmic Cells (Pacemakers)",
-    "a": "Specialized, distinct cells (1% of myocardium) that generate action potentials spontaneously; signal for contraction is myogenic."
-  },
-  {
-    "id": "33",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Explain the key role of pacemaker cells.",
-    "a": "They initiate action potentials without innervation, setting the heart rate and coordinating contractions."
-  },
-  {
-    "id": "34",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Describe the process of EC-coupling (Excitation) within cardiac muscle.",
-    "a": "AP enters via gap junctions, moves into T-tubules, and opens L-type Ca2+ channels, allowing extracellular Ca2+ entry."
-  },
-  {
-    "id": "35",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Describe the process of EC-coupling (Contraction) within cardiac muscle.",
-    "a": "Ca2+ entry triggers RyR channels to release stored Ca2+ (CICR). Ca2+ binds to troponin, initiating crossbridge formation and sliding filament contraction."
-  },
-  {
-    "id": "36",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Calcium-induced calcium release (CICR)",
-    "a": "Process where calcium entry through L-type channels triggers RyR channels in the sarcoplasmic reticulum to release more Ca2+."
-  },
-  {
-    "id": "37",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Describe the process of relaxation in cardiac muscle.",
-    "a": "Cytoplasmic Ca2+ decreases as Ca2+ is moved back into SR (Ca2+-ATPase) and out of cell (NCX antiporter). Ca2+ unbinds from troponin, and filaments slide back."
-  },
-  {
-    "id": "38",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: RyR channels",
-    "a": "Ryanodine receptor channels in the sarcoplasmic reticulum that release Ca2+ into the cytosol during CICR."
-  },
-  {
-    "id": "39",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Na+-Ca2+ antiporter (NCX)",
-    "a": "Membrane protein that removes 1 Ca2+ from the cell in exchange for 3 Na+ moving in."
-  },
-  {
-    "id": "40",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Sodium-potassium pump (Na+-K+-ATPase) in cardiac EC coupling",
-    "a": "Pumps Na+ out of the cell to maintain gradients used by the NCX antiporter."
-  },
-  {
-    "id": "41",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Describe Phase 4 (Resting potential) of a contractile action potential.",
-    "a": "Stable resting membrane potential at about -90 mV."
-  },
-  {
-    "id": "42",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Describe Phase 0 (Depolarization) of a contractile action potential.",
-    "a": "Rapid Na+ entry via voltage-gated channels brings potential to +20 mV."
-  },
-  {
-    "id": "43",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Describe Phase 1 (Initial repolarization) of a contractile action potential.",
-    "a": "Na+ channels close and fast K+ channels open, allowing K+ to leave."
-  },
-  {
-    "id": "44",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Describe Phase 2 (The plateau) of a contractile action potential.",
-    "a": "Ca2+ entry and decreased K+ efflux maintain a long plateau (200+ msec), preventing tetanus."
-  },
-  {
-    "id": "45",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Describe Phase 3 (Rapid repolarization) of a contractile action potential.",
-    "a": "Ca2+ channels close and slow K+ channels open, returning the cell to -90 mV."
-  },
-  {
-    "id": "46",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Explain refractory periods and summation in cardiac muscle.",
-    "a": "Long plateau creates a long refractory period lasting almost as long as the muscle twitch, preventing summation and tetanus."
-  },
-  {
-    "id": "47",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: Pacemaker potential",
-    "a": "Unstable membrane potential (-60 mV) that drifts toward threshold in autorhythmic cells."
-  },
-  {
-    "id": "48",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Describe the mechanism of the Pacemaker Potential.",
-    "a": "If channels open at -60 mV, allowing Na+ influx to exceed K+ efflux, causing slow depolarization."
-  },
-  {
-    "id": "49",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Describe AP firing in autorhythmic cells.",
-    "a": "Threshold triggers voltage-gated Ca2+ channels to open (steep depolarization); repolarization is via slow K+ channels."
-  },
-  {
-    "id": "50",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Define: If channels (funny current)",
-    "a": "HCN channels permeable to Na+ and K+ that open at -60 mV to initiate pacemaker potential."
-  },
-  {
-    "id": "51",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.3",
-    "q": "Compare autorhythmic vs. contractile action potentials.",
-    "a": "Contractile: Stable RMP, Na+ depolarization, plateau phase. Autorhythmic: Unstable potential, Ca2+ depolarization, no plateau."
-  },
-  {
-    "id": "52",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Describe electrical conduction through the heart.",
-    "a": "SA node -> Internodal pathway -> AV node -> AV bundle -> Bundle branches -> Purkinje fibers."
-  },
-  {
-    "id": "53",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: SA node",
-    "a": "The main pacemaker in the right atrium that sets the heart rate."
-  },
-  {
-    "id": "54",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: Internodal pathway",
-    "a": "Pathway connecting SA node to AV node, spreading signals across atria."
-  },
-  {
-    "id": "55",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: AV node",
-    "a": "Gateway to ventricles; slows signal (AV delay) to allow atrial completion."
-  },
-  {
-    "id": "56",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: AV node delay",
-    "a": "Slowing of the AP at the AV node to ensure atria finish contracting before ventricles begin."
-  },
-  {
-    "id": "57",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: AV bundle (Bundle of His)",
-    "a": "Transmits signals from AV node down the ventricular septum."
-  },
-  {
-    "id": "58",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: Bundle branches",
-    "a": "Left and right branches from the AV bundle that lead toward the apex."
-  },
-  {
-    "id": "59",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: Purkinje fibers",
-    "a": "Rapid conductors from apex to base, ensuring near-simultaneous apex contraction."
-  },
-  {
-    "id": "60",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: Diastole",
-    "a": "Time during which cardiac muscle relaxes."
-  },
-  {
-    "id": "61",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: Systole",
-    "a": "Time during which cardiac muscle contracts."
-  },
-  {
-    "id": "62",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Describe Phase: Late diastole",
-    "a": "Atria and ventricles relaxed; AV valves open; blood flows passively into ventricles."
-  },
-  {
-    "id": "63",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Describe Phase: Atrial systole",
-    "a": "Atria contract (P wave), forcing final 20% of blood into ventricles."
-  },
-  {
-    "id": "64",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: EDV",
-    "a": "End-diastolic volume; max blood in ventricles (~135 mL)."
-  },
-  {
-    "id": "65",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Describe Phase: Isovolumic contraction",
-    "a": "Ventricles contract (QRS); AV valves close (S1); semilunar valves closed; volume constant."
-  },
-  {
-    "id": "66",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: First heart sound",
-    "a": "S1 (lub) caused by closure of AV valves."
-  },
-  {
-    "id": "67",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Describe Phase: Ventricular ejection",
-    "a": "Ventricular pressure > arterial pressure; semilunar valves open; blood ejected."
-  },
-  {
-    "id": "68",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: ESV",
-    "a": "End-systolic volume; min blood in ventricles (~65 mL)."
-  },
-  {
-    "id": "69",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Describe Phase: Isovolumic relaxation",
-    "a": "Ventricles relax (T wave); semilunar valves close (S2); volume constant until AV open."
-  },
-  {
-    "id": "70",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: Second heart sound",
-    "a": "S2 (dup) caused by closure of semilunar valves."
-  },
-  {
-    "id": "71",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Describe parts of an ECG.",
-    "a": "Summed electrical activity including P wave, QRS complex, and T wave."
-  },
-  {
-    "id": "72",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: P wave",
-    "a": "Represents atrial depolarization."
-  },
-  {
-    "id": "73",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: QRS complex",
-    "a": "Represents ventricular depolarization; hides atrial repolarization."
-  },
-  {
-    "id": "74",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: T wave",
-    "a": "Represents ventricular repolarization."
-  },
-  {
-    "id": "75",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: P-R segment",
-    "a": "Represents AV node delay; atrial contraction occurs here."
-  },
-  {
-    "id": "76",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: S-T segment",
-    "a": "Segment between ventricular depolarization and repolarization; site of ischemia changes."
-  },
-  {
-    "id": "77",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Explain pressure changes and flow.",
-    "a": "Contraction raises ventricular pressure above arterial, opening valves for flow."
-  },
-  {
-    "id": "78",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: SV formula",
-    "a": "Stroke Volume = EDV - ESV."
-  },
-  {
-    "id": "79",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: Ejection fraction formula",
-    "a": "Ejection Fraction = SV / EDV."
-  },
-  {
-    "id": "80",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Define: CO formula",
-    "a": "Cardiac Output = Heart Rate x Stroke Volume."
-  },
-  {
-    "id": "81",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Parasympathetic heart control",
-    "a": "ACh binds muscarinic receptors; increases K+ efflux/decreases Ca2+ influx; slows HR."
-  },
-  {
-    "id": "82",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Sympathetic heart control",
-    "a": "NE binds beta-1 receptors; cAMP keeps If channels open longer; increases Na+/Ca2+ influx; speeds HR."
-  },
-  {
-    "id": "83",
-    "subj": "PHYZ",
-    "doc": "CH14SG",
-    "sec": "14.4",
-    "q": "Role of phospholamban",
-    "a": "Phosphorylation enhances SR Ca2+-ATPase, causing stronger and shorter contractions."
-  }
+    { "id": "1", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "What are the three broad categories of substances transported by the cardiovascular system?", "a": "1. Nutrients, water, and gases (from external environment). 2. Materials moving from cell to cell. 3. Wastes eliminated by the cells." },
+    { "id": "2", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Cardiovascular Transport Function: What is the source and destination for Oxygen?", "a": "Source: Lungs. Destination: All cells." },
+    { "id": "3", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Cardiovascular Transport Function: What is the source and destination for Nutrients and Water?", "a": "Source: Intestinal tract. Destination: All cells." },
+    { "id": "4", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Cardiovascular Transport Function: What is the source and destination for Wastes moving cell-to-cell?", "a": "Source: Some cells. Destination: Liver for processing." },
+    { "id": "5", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Cardiovascular Transport Function: What is the source and destination for Immune cells, antibodies, and clotting proteins?", "a": "Source: Present in blood continuously. Destination: Available to any cell that needs them." },
+    { "id": "6", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Cardiovascular Transport Function: What is the source and destination for Hormones?", "a": "Source: Endocrine cells. Destination: Target cells." },
+    { "id": "7", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Cardiovascular Transport Function: What is the source and destination for Stored nutrients?", "a": "Source: Liver and adipose tissue. Destination: All cells." },
+    { "id": "8", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Cardiovascular Transport Function: What is the source and destination for Metabolic wastes?", "a": "Source: All cells. Destination: Kidneys." },
+    { "id": "9", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Cardiovascular Transport Function: What is the source and destination for Heat?", "a": "Source: All cells. Destination: Skin." },
+    { "id": "10", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Cardiovascular Transport Function: What is the source and destination for Carbon dioxide?", "a": "Source: All cells. Destination: Lungs." },
+    { "id": "11", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "What are Capillaries?", "a": "Microscopic blood vessels where exchange of materials between blood and interstitial fluid occurs." },
+    { "id": "12", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "What are Arteries?", "a": "Blood vessels that carry blood away from the heart." },
+    { "id": "13", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "What are Veins?", "a": "Blood vessels that return blood to the heart." },
+    { "id": "14", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Septum?", "a": "Location: Central wall of the heart. Function: Divides the heart into left and right halves to prevent mixing of oxygenated and deoxygenated blood." },
+    { "id": "15", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Atrium?", "a": "Location: Upper chambers of the heart. Function: Receives blood returning to the heart from blood vessels." },
+    { "id": "16", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Ventricle?", "a": "Location: Lower chambers of the heart. Function: Pumps blood out into the blood vessels." },
+    { "id": "17", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "What is Pulmonary circulation?", "a": "The blood vessels that go from the right ventricle to the lungs and back to the left atrium." },
+    { "id": "18", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "What is Systemic circulation?", "a": "The blood vessels that carry blood from the left side of the heart to the tissues and back to the right side of the heart." },
+    { "id": "19", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "What is the Aorta?", "a": "A large artery that receives oxygenated blood pumped out of the left ventricle." },
+    { "id": "20", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "What are the Superior and Inferior Vena Cava?", "a": "The large veins where blood pressure is the lowest; they empty deoxygenated blood into the right atrium." },
+    { "id": "21", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Trace the pathway of deoxygenated blood (Pulmonary Circulation flow).", "a": "Vena cava -> Right atrium -> Right ventricle -> Pulmonary trunk / Pulmonary arteries -> Lungs." },
+    { "id": "22", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Trace the pathway of oxygenated blood (Systemic Circulation flow).", "a": "Lungs -> Pulmonary veins -> Left atrium -> Left ventricle -> Aorta -> Body tissues." },
+    { "id": "23", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Pericardium?", "a": "Location: Encasing the heart. Function: A tough membranous sac that protects the heart and contains lubricating fluid." },
+    { "id": "24", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Myocardium?", "a": "Location: Forms the bulk of the heart wall. Function: Cardiac muscle that provides the contractile force of the heart." },
+    { "id": "25", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Pulmonary trunk?", "a": "Location: Arises from the right ventricle. Function: The major artery that receives deoxygenated blood to send to the lungs." },
+    { "id": "26", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of Atrioventricular (AV) valves?", "a": "Location: Between the atria and ventricles. Function: Prevent backward flow of blood from ventricles into atria during ventricular contraction." },
+    { "id": "27", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of Semilunar valves?", "a": "Location: Between the ventricles and the major arteries (aorta/pulmonary trunk). Function: Prevent backward flow of blood from arteries into ventricles during ventricular relaxation." },
+    { "id": "28", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of Papillary muscles?", "a": "Location: Moundlike extensions of ventricular muscle. Function: Provide stability for the chordae tendineae to prevent valve prolapse during contraction." },
+    { "id": "29", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Tricuspid valve?", "a": "Location: Right side of the heart (between right atrium and right ventricle). Function: Right-sided AV valve with three flaps that prevents backflow into the right atrium." },
+    { "id": "30", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Bicuspid (mitral) valve?", "a": "Location: Left side of the heart (between left atrium and left ventricle). Function: Left-sided AV valve with two flaps that prevents backflow into the left atrium." },
+    { "id": "31", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Aortic valve?", "a": "Location: Between the left ventricle and the aorta. Function: Semilunar valve preventing backflow into the left ventricle." },
+    { "id": "32", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Pulmonary valve?", "a": "Location: Between the right ventricle and the pulmonary trunk. Function: Semilunar valve preventing backflow into the right ventricle." },
+    { "id": "33", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "What is the Coronary circulation?", "a": "The special blood supply consisting of blood vessels feeding the cardiac muscle itself." },
+    { "id": "34", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Right coronary artery (RCA)?", "a": "Location: Runs from the aorta around the right side of the heart. Function: Feeds the right atrium, most of the right ventricle, and the posterior interventricular septum." },
+    { "id": "35", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Left coronary artery (LCA)?", "a": "Location: Left side of the heart. Function: Divides into the circumflex and anterior interventricular branches to supply the left atrium, left ventricle, and interventricular septum." },
+    { "id": "36", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "Anatomical Location and Function of the Coronary sinus?", "a": "Location: Major vein on the posterior aspect of the heart. Function: Empties venous blood directly into the right atrium." },
+    { "id": "37", "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy of the Heart", "q": "What is the primary importance of the heart valves?", "a": "They ensure the one-way, unidirectional flow of blood through the heart." },
+    { "id": "38", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What are Contractile cells and what is their function?", "a": "The typical cardiac muscle cells that contract in response to depolarization signals to provide the pumping force of the heart." },
+    { "id": "39", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What are Autorhythmic cells (pacemakers) and what is their function?", "a": "Specialized myocardial cells that generate action potentials spontaneously and set the rate of the heartbeat." },
+    { "id": "40", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "How are myocardial cells arranged and connected in the heart?", "a": "Cells branch and join via intercalated disks, which contain desmosomes for transferring force and gap junctions for electrical connectivity." },
+    { "id": "41", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What is the key role of pacemaker cells in initiating action potentials without innervation?", "a": "They are \"myogenic,\" meaning the signal for contraction originates within the heart muscle itself. They spontaneously depolarize to generate action potentials that spread rapidly to contractile cells." },
+    { "id": "42", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What are the first 5 steps of Excitation-Contraction (EC) Coupling in cardiac muscle?", "a": "1. Action potential enters from adjacent cell. 2. Voltage-gated L-type Ca2+ channels open, Ca2+ enters. 3. Ca2+ induces Ca2+ release through RyR channels in SR. 4. Local release causes a Ca2+ spark. 5. Summed Ca2+ sparks create a Ca2+ signal." },
+    { "id": "43", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What are the final 5 steps of Excitation-Contraction (EC) Coupling and Relaxation in cardiac muscle?", "a": "6. Ca2+ binds to troponin to initiate contraction. 7. Relaxation occurs when Ca2+ unbinds from troponin. 8. Ca2+ is pumped back into SR via Ca2+-ATPase. 9. Ca2+ is exchanged with Na+ by the NCX antiporter. 10. Na+ gradient is maintained by Na+-K+-ATPase." },
+    { "id": "44", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What is Calcium-induced calcium release (CICR)?", "a": "The process where the initial influx of extracellular Ca2+ through voltage-gated channels triggers the release of more Ca2+ from the sarcoplasmic reticulum." },
+    { "id": "45", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What is the role of RyR channels in myocardial EC-coupling?", "a": "They are ryanodine receptor-channels in the sarcoplasmic reticulum that open in response to Ca2+ influx, releasing stored Ca2+ into the cytosol (CICR)." },
+    { "id": "46", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What is the role of the Na+-Ca2+ antiporter (NCX) in myocardial relaxation?", "a": "It exchanges 1 Ca2+ out of the cell for 3 Na+ into the cell to remove calcium from the cytosol during relaxation." },
+    { "id": "47", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What is the role of the sodium-potassium pump (Na+-K+-ATPase) in myocardial relaxation?", "a": "It maintains the necessary Na+ concentration gradient by pumping out the Na+ that entered via the NCX antiporter." },
+    { "id": "48", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What occurs during Phase 4 (Resting membrane potential) of a cardiac contractile cell action potential?", "a": "The resting membrane potential is stable at roughly -90 mV." },
+    { "id": "49", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What occurs during Phase 0 (Depolarization) of a cardiac contractile cell action potential?", "a": "Depolarization occurs due to voltage-gated Na+ channels opening and a rapid influx of Na+." },
+    { "id": "50", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What occurs during Phase 1 (Initial repolarization) of a cardiac contractile cell action potential?", "a": "Initial repolarization begins as Na+ channels close and fast K+ channels open, allowing K+ efflux." },
+    { "id": "51", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What occurs during Phase 2 (Plateau) of a cardiac contractile cell action potential?", "a": "The plateau phase results from an increase in Ca2+ permeability (influx via L-type channels) and a decrease in fast K+ permeability." },
+    { "id": "52", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What occurs during Phase 3 (Rapid repolarization) of a cardiac contractile cell action potential?", "a": "Rapid repolarization occurs as Ca2+ channels close and slow K+ channels open, allowing K+ efflux to return the cell to resting potential." },
+    { "id": "53", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What is the refractory period in a cardiac contractile cell?", "a": "The long period (due to the plateau phase) during which the cell cannot be re-stimulated." },
+    { "id": "54", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "Why can't cardiac muscle undergo summation and tetanus?", "a": "The long refractory period lasts almost as long as the entire muscle twitch, preventing the sustained contraction (tetanus) and allowing the heart to relax and fill with blood." },
+    { "id": "55", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What is a pacemaker potential?", "a": "The unstable membrane potential of autorhythmic cells that starts at -60 mV and slowly depolarizes toward threshold." },
+    { "id": "56", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What is the role of If channels (funny current / HCN channels) in autorhythmic cells?", "a": "They are permeable to K+ and Na+. Net influx of Na+ slowly depolarizes the cell toward threshold during the pacemaker potential phase." },
+    { "id": "57", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What causes the steep depolarization phase in an autorhythmic cell action potential?", "a": "At threshold, voltage-gated Ca2+ channels open, causing a steep depolarization due to Ca2+ influx." },
+    { "id": "58", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "What happens during repolarization of an autorhythmic cell action potential?", "a": "Slow K+ channels open, resulting in an efflux of K+ that repolarizes the cell." },
+    { "id": "59", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "How does the resting potential differ between contractile and autorhythmic cells?", "a": "Contractile cells have a stable resting potential around -90 mV. Autorhythmic cells have an unstable pacemaker potential starting at -60 mV." },
+    { "id": "60", "subj": "PHYS", "doc": "CH14SG", "sec": "14.3 Cardiac Muscle", "q": "How does the depolarization phase differ between contractile and autorhythmic cells?", "a": "Contractile cells depolarize via a rapid influx of Na+. Autorhythmic cells depolarize steeply via an influx of Ca2+." },
+    { "id": "61", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "Anatomical Location and Function of the Sinoatrial (SA) node?", "a": "Location: Right atrium. Function: The main pacemaker of the heart that sets the pace of the heartbeat." },
+    { "id": "62", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is the function of the Internodal pathways?", "a": "They connect the SA node to the AV node, conducting the electrical signal." },
+    { "id": "63", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "Anatomical Location and Function of the Atrioventricular (AV) node?", "a": "Location: Near the floor of the right atrium. Function: Delays the transmission of action potentials to allow atria to complete contraction before ventricular contraction begins." },
+    { "id": "64", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is the Atrioventricular bundle (AV bundle / bundle of His)?", "a": "A pathway that passes the electrical signal from the AV node down the ventricular septum." },
+    { "id": "65", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What are the Bundle branches?", "a": "Pathways that split from the AV bundle and continue downward to the apex along the left and right sides of the ventricular septum." },
+    { "id": "66", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What are Purkinje fibers?", "a": "Fibers that spread outward from the apex among the contractile cells to rapidly transmit impulses throughout the ventricular muscle wall." },
+    { "id": "67", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is the AV node delay and why is it important?", "a": "The AV node slows down the transmission of action potentials, which allows the atria to finish contracting and filling the ventricles before ventricular contraction begins." },
+    { "id": "68", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "Define Diastole and Systole.", "a": "Diastole is the time during which cardiac muscle relaxes. Systole is the time during which the muscle contracts." },
+    { "id": "69", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "Cardiac Cycle Phase 1: What happens during Late diastole (The heart at rest)?", "a": "Atrial and ventricular diastole occurs. The heart is at rest, allowing passive filling of the ventricles (accounts for 80% of filling)." },
+    { "id": "70", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "Cardiac Cycle Phase 2: What happens during Atrial systole (Completion of ventricular filling)?", "a": "Atria contract, forcing a small amount of additional blood (active filling, about 20%) into the ventricles, reaching End-Diastolic Volume (EDV)." },
+    { "id": "71", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is End-diastolic volume (EDV)?", "a": "The total volume of blood in the ventricle at the end of ventricular relaxation/filling (the maximum volume)." },
+    { "id": "72", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "Cardiac Cycle Phase 3: What happens during Isovolumic ventricular contraction?", "a": "Ventricular muscle begins to contract against closed valves. AV valves close, blood volume doesn't change, and pressure increases." },
+    { "id": "73", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What causes the first heart sound (\"lub\")?", "a": "The closing of the AV valves during early (isovolumic) ventricular contraction." },
+    { "id": "74", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "Cardiac Cycle Phase 4: What happens during Ventricular ejection?", "a": "Semilunar valves open, and blood is actively ejected into the arteries, leaving behind the End-Systolic Volume (ESV)." },
+    { "id": "75", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is End-systolic volume (ESV)?", "a": "The volume of blood remaining in the ventricle at the end of ventricular contraction (the minimum volume)." },
+    { "id": "76", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "Cardiac Cycle Phase 5: What happens during Isovolumic ventricular relaxation?", "a": "Ventricular muscles relax, pressure drops rapidly, and semilunar valves close. No blood enters or exits because ventricular pressure is still higher than atrial pressure." },
+    { "id": "77", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What causes the second heart sound (\"dup\")?", "a": "The closing of the semilunar valves during isovolumic ventricular relaxation." },
+    { "id": "78", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "Define Waves, Segments, and Intervals on an ECG.", "a": "Waves: Parts of the trace that go above/below baseline. Segments: Sections of baseline between two waves. Intervals: Combinations of waves and segments." },
+    { "id": "79", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What does the P wave represent on an ECG?", "a": "Depolarization of the atria." },
+    { "id": "80", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What does the P-R segment (or P-Q segment) represent?", "a": "Conduction time through the AV node and the AV bundle. During this time, the mechanical event of atrial contraction occurs." },
+    { "id": "81", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What does the QRS complex represent on an ECG?", "a": "The progressive wave of ventricular depolarization (and masked atrial repolarization)." },
+    { "id": "82", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What does the S-T segment represent?", "a": "The period between ventricular depolarization and repolarization. During this time, the mechanical event of ventricular contraction occurs." },
+    { "id": "83", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What does the T wave represent on an ECG?", "a": "Repolarization of the ventricles." },
+    { "id": "84", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is the relationship between pressure changes and flow through the heart?", "a": "Blood flows down pressure gradients. The ventricles generate high driving pressure during contraction, forcing blood out into arteries. Pressure drops during relaxation, allowing blood to flow from atria into ventricles." },
+    { "id": "85", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is Stroke Volume (SV) and how is it calculated?", "a": "The volume of blood pumped by one ventricle during one contraction. SV = EDV - ESV." },
+    { "id": "86", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is Ejection Fraction and how is it calculated?", "a": "The percentage of EDV ejected with one contraction. Formula: Stroke Volume / EDV." },
+    { "id": "87", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is Cardiac Output (CO) and how is it calculated?", "a": "The volume of blood pumped by one ventricle in a given period of time (per minute). CO = heart rate x stroke volume." },
+    { "id": "88", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is Preload and the Frank-Starling law of the heart?", "a": "Preload is the degree of myocardial stretch before contraction. The Frank-Starling law states that stroke volume is proportional to EDV; the heart pumps all the blood that returns to it." },
+    { "id": "89", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is Venous return and what factors affect it?", "a": "The amount of blood that enters the heart from the venous circulation (determines EDV). It is affected by the skeletal muscle pump, respiratory pump, and sympathetic constriction of veins." },
+    { "id": "90", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "Define Contractility, Inotropic agents, and Afterload.", "a": "Contractility: Intrinsic ability of a muscle fiber to contract. Inotropic agents: Chemicals that affect contractility. Afterload: Combined load of EDV and arterial resistance during contraction." },
+    { "id": "91", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "How does the Parasympathetic nervous system control heart rate at the cellular level?", "a": "It decreases heart rate via Acetylcholine on muscarinic receptors, which increases permeability to K+ (efflux) and decreases permeability to Ca2+." },
+    { "id": "92", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "How does the Sympathetic nervous system control heart rate at the cellular level?", "a": "It increases heart rate via Norepinephrine/Epinephrine on Beta-1-adrenergic receptors, which increases permeability to Na+ and Ca2+ (opening If and Ca2+ channels via cAMP)." },
+    { "id": "93", "subj": "PHYS", "doc": "CH14SG", "sec": "14.4 The Heart as a Pump", "q": "What is the role of Phospholamban in sympathetic control of contractility?", "a": "Catecholamines use phospholamban to enhance Ca2+-ATPase activity in the sarcoplasmic reticulum, concentrating Ca2+ to allow for stronger and shorter contractions." },
+    { "id": "END", "subj": "END", "doc": "END", "sec": "END", "q": "END", "a": "END" }
 ]
