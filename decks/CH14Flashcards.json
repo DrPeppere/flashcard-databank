@@ -1,747 +1,101 @@
 [
-    {
-        "q": "What were the ancient beliefs regarding blood distribution?",
-        "a": "Blood was made in the liver and distributed via veins, while air from the lungs was distributed via arteries.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "Who was William Harvey and what did he demonstrate?",
-        "a": "A 17th-century English physician who demonstrated that the heart pumps blood in a closed, recirculating loop (a one-way circuit guided by valves), refuting the idea that tissues consume all delivered blood.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "Who was Marcello Malpighi and what was his contribution?",
-        "a": "An Italian anatomist who discovered capillaries in the 17th century, providing the missing structural link in Harvey's closed-loop theory.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What three elements comprise the cardiovascular system?",
-        "a": "A series of tubes (blood vessels), fluid (blood), and a pump (heart).",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "From where does oxygen enter the body, and what is its transport destination?",
-        "a": "Enters from lungs; transported to all cells.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "From where do nutrients and water enter the body, and what is their transport destination?",
-        "a": "Enter from intestinal tract; transported to all cells.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the origin and transport destination of wastes moved from cell to cell?",
-        "a": "Originates from some cells; transported to the liver for processing.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "Where are immune cells, antibodies, and clotting proteins present, and what is their transport destination?",
-        "a": "Present in blood continuously; available to any cell that needs them.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the origin and transport destination of hormones moved from cell to cell?",
-        "a": "Originates from endocrine cells; transported to target cells.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the origin and transport destination of stored nutrients moved from cell to cell?",
-        "a": "Originates from the liver and adipose tissue; transported to all cells.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the origin and transport destination of metabolic wastes leaving the body?",
-        "a": "Originates from all cells; transported to kidneys.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the origin and transport destination of heat leaving the body?",
-        "a": "Originates from all cells; transported to skin.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the origin and transport destination of carbon dioxide leaving the body?",
-        "a": "Originates from all cells; transported to lungs.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "Define Hypoxia.",
-        "a": "A state of low oxygen.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "How quickly do neurons lose consciousness and suffer permanent damage during hypoxia?",
-        "a": "Loss of consciousness within 5-10 seconds of flow stoppage; permanent brain damage within 5-10 minutes.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What does homeostatic control prioritize above all else during hypoxia?",
-        "a": "Cerebral blood flow.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What makes up the functional network of the Cardiovascular System?",
-        "a": "The heart, blood vessels (vasculature), and the cells and plasma of the blood.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "Define Arteries.",
-        "a": "Blood vessels that carry blood away from the heart.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "Define Veins.",
-        "a": "Blood vessels that return blood to the heart.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the structural definition and function of the Septum?",
-        "a": "The central dividing wall of the heart that separates it into left and right, independently functioning halves.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "Define Atrium.",
-        "a": "The upper chamber of the heart that receives blood returning from the blood vessels.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "Define Ventricle.",
-        "a": "The lower chamber of the heart that pumps blood out into the blood vessels.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "Define Cyanosis.",
-        "a": "A condition causing a bluish coloration of the skin (around the mouth and under fingernails) resulting from lower oxygen content in the blood.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the Pulmonary Circulation pathway?",
-        "a": "The pathway of blood from the right ventricle to the lungs and back to the left atrium.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Step 1 of the Pulmonary Circuit process?",
-        "a": "Deoxygenated blood flows from the right atrium into the right ventricle.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Step 2 of the Pulmonary Circuit process?",
-        "a": "Blood is pumped through the pulmonary trunk/arteries to the lungs.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Step 3 of the Pulmonary Circuit process?",
-        "a": "Blood is oxygenated at the exchange surfaces of the lungs.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Step 4 of the Pulmonary Circuit process?",
-        "a": "Oxygenated blood returns through pulmonary veins to the left atrium.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the Systemic Circulation pathway?",
-        "a": "The pathway of blood from the left side of the heart to the tissues and back to the right side of the heart.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Step 1 of the Systemic Circuit process?",
-        "a": "Oxygenated blood flows from the left atrium to the left ventricle.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Step 2 of the Systemic Circuit process?",
-        "a": "Blood is pumped from the left ventricle into the aorta.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Step 3 of the Systemic Circuit process?",
-        "a": "The aorta branches into ascending arteries (to arms, head, brain) and descending/abdominal arteries (to trunk, liver, digestive tract, kidneys, pelvis, legs).",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Step 4 of the Systemic Circuit process?",
-        "a": "Arteries divide into capillary networks where exchange occurs (oxygen diffuses into tissues).",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Step 5 of the Systemic Circuit process?",
-        "a": "Deoxygenated blood enters the venous side, moving to small veins, then to larger ascending/descending veins.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Step 6 of the Systemic Circuit process?",
-        "a": "Veins converge into the superior vena cava (upper body) and inferior vena cava (lower body).",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Step 7 of the Systemic Circuit process?",
-        "a": "Venae cavae empty into the right atrium.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is Coronary Circulation?",
-        "a": "The first branch of the aorta contains the coronary arteries, which nourish the heart muscle itself and empty into the right atrium at the coronary sinus.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What are Portal Systems?",
-        "a": "A special arrangement where two capillary beds are joined in series before returning to the heart.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the Hepatic Portal System and its function?",
-        "a": "Connects the digestive tract capillaries directly to the liver capillaries (hepatic portal vein). Allows the liver to process nutrients and detoxify foreign substances before general circulation.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the Renal Portal System?",
-        "a": "Two capillary beds connected in series in the kidneys.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the Hypothalamic-hypophyseal Portal System?",
-        "a": "Connects the hypothalamus and the anterior pituitary.",
-        "sec": "14.1 Overview"
-    },
-    {
-        "q": "What is the flow mechanism for liquids and gases?",
-        "a": "They flow down pressure gradients (Delta P) from regions of higher pressure to regions of lower pressure.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "Define Hydrostatic Pressure.",
-        "a": "The pressure exerted by a fluid that is not moving on the walls of its container. Proportional to the height of the fluid column. Exerted equally in all directions.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "Define Hydraulic Pressure.",
-        "a": "The pressure of moving fluids. Contains a dynamic, flowing component (kinetic energy) and a lateral component (hydrostatic/potential energy).",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What is the normal Systemic Blood Pressure Range?",
-        "a": "High of 93 mm Hg in the aorta down to a few mm Hg in the venae cavae.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "Define Driving Pressure.",
-        "a": "The high pressure created in the ventricles by contracting muscle that is transferred to the blood, driving it through the blood vessels.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What happens to the pressure inside a fluid-filled container if its walls contract?",
-        "a": "Pressure inside increases.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What happens to the pressure inside a fluid-filled container if its walls expand?",
-        "a": "Pressure inside decreases.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "How does vasoconstriction affect blood pressure?",
-        "a": "Decreased vessel diameter increases blood pressure.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "How does vasodilation affect blood pressure?",
-        "a": "Increased vessel diameter decreases blood pressure.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What is the Pressure Gradient (Delta P) and what does it determine?",
-        "a": "The difference in pressure between two ends of a tube (P1 - P2). It determines flow, not absolute pressure.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What is the mathematical relationship between Flow and the Pressure Gradient?",
-        "a": "Flow is directly proportional to the pressure gradient.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "Define Resistance (R) in the cardiovascular system.",
-        "a": "The tendency of the cardiovascular system to oppose blood flow, caused by friction between the fluid and vessel walls, and friction among cells within the blood.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What is the mathematical relationship between Flow and Resistance?",
-        "a": "Flow is inversely proportional to resistance (Flow = 1 / R).",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What does Poiseuilles Law explain?",
-        "a": "The relationship of factors influencing resistance for fluid flowing through a tube.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What is the equation for Poiseuilles Law?",
-        "a": "R = 8 L eta / pi r^4.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "In Poiseuilles Law, what does L represent?",
-        "a": "Length of the tube (essentially constant in human body).",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "In Poiseuilles Law, what does eta represent?",
-        "a": "Viscosity of the fluid (normally constant, determined by ratio of red blood cells to plasma).",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "In Poiseuilles Law, what does r represent?",
-        "a": "Radius of the tube (the primary variable determining resistance).",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "How does changing the radius affect resistance and flow according to Poiseuilles Law?",
-        "a": "A small change in radius causes a massive change in resistance (R is proportional to 1/r^4). Doubling the radius decreases resistance to 1/16th and increases flow 16-fold.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What is the Combined Flow Equation?",
-        "a": "Blood flow is directly proportional to the pressure gradient and inversely proportional to the resistance (Flow = Delta P / R).",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "Define Mean Arterial Pressure (MAP).",
-        "a": "The primary driving force for blood flow.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What is the equation for Mean Arterial Pressure (MAP)?",
-        "a": "Mean arterial pressure is proportional to cardiac output x peripheral resistance.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "Define Flow Rate (Q).",
-        "a": "The volume of blood that passes a given point in the system per unit time. Expressed in L/min or mL/min. Measures how much.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "Define Velocity of Flow (v).",
-        "a": "The distance a fixed volume of blood travels in a given period of time. Expressed in cm/min or mm/sec. Measures how fast.",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What is the equation relating Velocity of Flow to Flow Rate?",
-        "a": "Velocity equals flow rate divided by cross-sectional area (v = Q / A).",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "If flow rate is constant, how does velocity vary with diameter?",
-        "a": "Velocity varies inversely with diameter (fluid flows faster through narrow sections and slower through wide sections).",
-        "sec": "14.2 Pressure"
-    },
-    {
-        "q": "What is the anatomical location of the heart?",
-        "a": "In the center of the thoracic cavity on the ventral side, sandwiched between the lungs.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Pericardium?",
-        "a": "Encasing the external surface of the heart.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the physiological function of the Pericardium?",
-        "a": "Protects the heart; contains a thin layer of pericardial fluid to lubricate the external surface as the heart beats.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "Define Pericarditis.",
-        "a": "Inflammation of the pericardium causing a friction rub.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Myocardium?",
-        "a": "Forms the bulk of the heart walls, covered by inner and outer epithelium/connective tissue.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the physiological function of the Myocardium?",
-        "a": "Contracts to pump blood.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Apex of the heart?",
-        "a": "Angles down to the left side of the body, resting on the diaphragm.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Base of the heart?",
-        "a": "Lies just behind the sternum (breastbone).",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the physiological function of the Base of the heart?",
-        "a": "Origin point for all major blood vessels.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Fibrous Skeleton?",
-        "a": "At the junction of atria and ventricles, surrounding the heart valves.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the physiological function of the Fibrous Skeleton?",
-        "a": "Origin/insertion for cardiac muscle; pulls apex and base together during contraction; acts as an electrical insulator blocking direct transmission from atria to ventricles.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "From where does the Superior Vena Cava receive blood, and where does it send it?",
-        "a": "Receives from systemic veins (upper body); Sends to Right Atrium.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "From where does the Inferior Vena Cava receive blood, and where does it send it?",
-        "a": "Receives from systemic veins (lower body); Sends to Right Atrium.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "From where does the Pulmonary Trunk (Artery) receive blood, and where does it send it?",
-        "a": "Receives from Right Ventricle; Sends to Lungs.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "From where do the Pulmonary Veins receive blood, and where do they send it?",
-        "a": "Receives from veins of the lungs; Sends to Left Atrium.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "From where does the Aorta receive blood, and where does it send it?",
-        "a": "Receives from Left Ventricle; Sends to Systemic Arteries.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the primary physiological function of heart valves?",
-        "a": "Ensure one-way flow of blood through the heart.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Tricuspid Valve?",
-        "a": "Between the right atrium and right ventricle.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Bicuspid (Mitral) Valve?",
-        "a": "Between the left atrium and left ventricle.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of Chordae Tendineae?",
-        "a": "Fasten to the edges of AV valve flaps on the ventricular side and connect to papillary muscles.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the physiological function of Chordae Tendineae?",
-        "a": "Prevent AV valves from prolapsing (being pushed back into the atrium) during ventricular contraction.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of Papillary Muscles?",
-        "a": "Walls of the ventricles.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the physiological function of Papillary Muscles?",
-        "a": "Provide stability for the chordae tendineae (they do not actively open/close valves).",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Aortic Valve?",
-        "a": "Between the left ventricle and the aorta.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Pulmonary Valve?",
-        "a": "Between the right ventricle and the pulmonary trunk.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Right Coronary Artery (RCA)?",
-        "a": "Originates at the root of the aorta, runs in the coronary sulcus on the right side.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the physiological function of the Right Coronary Artery (RCA)?",
-        "a": "Feeds the right atrium, most of the right ventricle, some of the left ventricle, and the posterior interventricular septum.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Left Coronary Artery (LCA)?",
-        "a": "Leaves the left side of the aorta.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the physiological function of the Left Coronary Artery (LCA)?",
-        "a": "Branches into the circumflex and anterior interventricular branches to feed the left side of the heart.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location of the Circumflex Branch?",
-        "a": "Runs around the left side of the heart to the posterior surface.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What is the anatomical location and function of the Anterior Interventricular Branch (LAD)?",
-        "a": "Runs in a groove toward the apex. Feeds the left atrium, most of the left ventricle and interventricular septum, and some of the right ventricle.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "Where do Coronary Veins empty their blood?",
-        "a": "About 85% of venous blood empties into the Coronary Sinus (posterior heart), which drains directly into the right atrium.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "Define Myocardial Infarction (MI).",
-        "a": "Heart attack. Tissue damage caused by ischemia (lack of blood flow/oxygen) due to narrowed or blocked coronary arteries.",
-        "sec": "14.3 Anatomy"
-    },
-    {
-        "q": "What percentage of myocardial cells are Autorhythmic Cells (Pacemakers)?",
-        "a": "About 1%.",
-        "sec": "14.3 Muscle"
-    },
-    {
-        "q": "Do Autorhythmic Cells have organized sarcomeres or contribute to contractile force?",
-        "a": "No, they do not have organized sarcomeres and do not contribute to contractile force.",
-        "sec": "14.3 Muscle"
-    },
-    {
-        "q": "What percentage of myocardial cells are Contractile Cells?",
-        "a": "99%.",
-        "sec": "14.3 Muscle"
-    },
-    {
-        "q": "Why do Contractile Cells have a smaller sarcoplasmic reticulum (SR) compared to skeletal muscle?",
-        "a": "Because they rely partially on extracellular Ca2+.",
-        "sec": "14.3 Muscle"
-    },
-    {
-        "q": "What is the physiological function of Desmosomes in intercalated disks?",
-        "a": "Strong connections that tie adjacent cells together, transferring force.",
-        "sec": "14.3 Muscle"
-    },
-    {
-        "q": "What is the physiological function of Gap Junctions in intercalated disks?",
-        "a": "Electrically connect cells, allowing waves of depolarization to spread rapidly, ensuring simultaneous contraction.",
-        "sec": "14.3 Muscle"
-    },
-    {
-        "q": "What is Step 1 of Cardiac EC Coupling?",
-        "a": "Action potential enters a contractile cell from an adjacent cell via gap junctions.",
-        "sec": "14.3 EC Coupling"
-    },
-    {
-        "q": "What is Step 2 of Cardiac EC Coupling?",
-        "a": "Action potential moves across the sarcolemma and into the t-tubules, opening voltage-gated L-type Ca2+ channels.",
-        "sec": "14.3 EC Coupling"
-    },
-    {
-        "q": "What is Step 3 of Cardiac EC Coupling?",
-        "a": "Ca2+ enters the cell from the extracellular fluid down its electrochemical gradient.",
-        "sec": "14.3 EC Coupling"
-    },
-    {
-        "q": "What is Step 4 of Cardiac EC Coupling?",
-        "a": "Ca2+ entry opens ryanodine receptor (RyR) Ca2+ release channels in the sarcoplasmic reticulum (Ca2+-induced Ca2+ release).",
-        "sec": "14.3 EC Coupling"
-    },
-    {
-        "q": "What is Step 5 of Cardiac EC Coupling?",
-        "a": "Stored Ca2+ flows out of the SR into the cytosol, creating a localized Ca2+ spark.",
-        "sec": "14.3 EC Coupling"
-    },
-    {
-        "q": "What is Step 6 of Cardiac EC Coupling?",
-        "a": "Multiple sparks summate to create a unified Ca2+ signal (90% of Ca2+ comes from SR, 10% from ECF).",
-        "sec": "14.3 EC Coupling"
-    },
-    {
-        "q": "What is Step 7 of Cardiac EC Coupling?",
-        "a": "Ca2+ ions bind to troponin, initiating the cycle of crossbridge formation (myosin binds to actin) and filament sliding (contraction).",
-        "sec": "14.3 EC Coupling"
-    },
-    {
-        "q": "What is Step 8 of Cardiac EC Coupling (Relaxation)?",
-        "a": "Relaxation occurs as cytoplasmic Ca2+ concentrations decrease, causing Ca2+ to unbind from troponin. Myosin releases actin.",
-        "sec": "14.3 EC Coupling"
-    },
-    {
-        "q": "What is Step 9 of Cardiac EC Coupling (Relaxation)?",
-        "a": "Ca2+ is pumped back into the SR via Ca2+-ATPase.",
-        "sec": "14.3 EC Coupling"
-    },
-    {
-        "q": "What is Step 10 of Cardiac EC Coupling (Relaxation)?",
-        "a": "Extracellular Ca2+ is removed from the cell via the Na+-Ca2+ exchanger (NCX) antiporter.",
-        "sec": "14.3 EC Coupling"
-    },
-    {
-        "q": "What is Phase 4 of the Action Potential of Myocardial Contractile Cells?",
-        "a": "Resting membrane potential: Stable at about -90 mV (equilibrium potential for K+).",
-        "sec": "14.3 APs"
-    },
-    {
-        "q": "What is Phase 0 of the Action Potential of Myocardial Contractile Cells?",
-        "a": "Depolarization: Gap junction depolarization triggers voltage-gated double-gated Na+ channels to open. Rapid Na+ influx depolarizes the cell to about +20 mV.",
-        "sec": "14.3 APs"
-    },
-    {
-        "q": "What is Phase 1 of the Action Potential of Myocardial Contractile Cells?",
-        "a": "Initial repolarization: Na+ channels close. Cell begins repolarizing as fast K+ channels open, allowing K+ to leave.",
-        "sec": "14.3 APs"
-    },
-    {
-        "q": "What is Phase 2 of the Action Potential of Myocardial Contractile Cells?",
-        "a": "The plateau: Action potential flattens out due to decreased K+ permeability and increased Ca2+ permeability.",
-        "sec": "14.3 APs"
-    },
-    {
-        "q": "What is Phase 3 of the Action Potential of Myocardial Contractile Cells?",
-        "a": "Rapid repolarization: Plateau ends as Ca2+ channels close and slow K+ channels open. Rapid K+ efflux returns the cell to resting potential.",
-        "sec": "14.3 APs"
-    },
-    {
-        "q": "Why is the refractory period in myocardial contractile cells so long?",
-        "a": "It lasts almost as long as the entire muscle twitch to prevent summation and fatal tetanus.",
-        "sec": "14.3 APs"
-    },
-    {
-        "q": "Define Pacemaker Potential.",
-        "a": "The unstable membrane potential of autorhythmic cells that slowly drifts upward from -60 mV toward threshold.",
-        "sec": "14.3 APs"
-    },
-    {
-        "q": "What happens in Step 1 of the Autorhythmic Action Potential?",
-        "a": "At -60 mV, If channels (funny current channels) open. They are permeable to both K+ and Na+.",
-        "sec": "14.3 APs"
-    },
-    {
-        "q": "What creates the steep rising/depolarization phase in Autorhythmic Cells (Step 4)?",
-        "a": "Voltage-gated Ca2+ channels open and Ca2+ rushes in (unlike neurons/muscle where this is driven by Na+).",
-        "sec": "14.3 APs"
-    },
-    {
-        "q": "What is the anatomical location of the Sinoatrial (SA) Node?",
-        "a": "Located in the right atrium.",
-        "sec": "14.4 Conduction"
-    },
-    {
-        "q": "What is the physiological function of the Sinoatrial (SA) Node?",
-        "a": "Serves as the main pacemaker setting the heart rate.",
-        "sec": "14.4 Conduction"
-    },
-    {
-        "q": "What is the anatomical location of the Atrioventricular (AV) Node?",
-        "a": "Located near the floor of the right atrium.",
-        "sec": "14.4 Conduction"
-    },
-    {
-        "q": "What is the physiological function of the Atrioventricular (AV) Node?",
-        "a": "Functions to route electrical signals and slow them down (AV node delay).",
-        "sec": "14.4 Conduction"
-    },
-    {
-        "q": "What is the physiological function of Purkinje Fibers?",
-        "a": "Transmit impulses very rapidly (up to 4 m/sec) outward among contractile cells from the apex toward the base.",
-        "sec": "14.4 Conduction"
-    },
-    {
-        "q": "Why is the AV Node Delay essential?",
-        "a": "It allows the atria to complete their contraction and completely fill the ventricles before ventricular contraction begins.",
-        "sec": "14.4 Conduction"
-    },
-    {
-        "q": "Define Ectopic Pacemaker.",
-        "a": "An out-of-place pacemaker. Parts of the conducting system take over pacing if the SA node fails.",
-        "sec": "14.4 Conduction"
-    },
-    {
-        "q": "Define Complete Heart Block.",
-        "a": "Conduction from atria to ventricles through the AV node is completely disrupted. Atria and ventricles fire at their own disconnected rates.",
-        "sec": "14.4 Conduction"
-    },
-    {
-        "q": "Define Fibrillation.",
-        "a": "Disorganized, uncoordinated myocardial contractions.",
-        "sec": "14.4 Conduction"
-    },
-    {
-        "q": "What does the P wave represent on an ECG?",
-        "a": "Atrial depolarization.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "What does the QRS complex represent on an ECG?",
-        "a": "The progressive wave of ventricular depolarization.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "What does the T wave represent on an ECG?",
-        "a": "The repolarization of the ventricles.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "Define Diastole.",
-        "a": "The time during which cardiac muscle relaxes.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "Define Systole.",
-        "a": "The time during which cardiac muscle contracts.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "What causes the First Heart Sound (S1)?",
-        "a": "Closure of AV valves during isovolumic ventricular contraction (Lub).",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "What causes the Second Heart Sound (S2)?",
-        "a": "Closure of Semilunar valves during isovolumic ventricular relaxation (Dup).",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "Define Stroke Volume (SV) and its equation.",
-        "a": "The amount of blood pumped by one ventricle during one contraction. Equation: SV = EDV - ESV.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "Define Cardiac Output (CO) and its equation.",
-        "a": "The volume of blood pumped by one ventricle in a given period of time. Equation: CO = Heart Rate x Stroke Volume.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "What is the Length-Tension Relationship (Frank-Starling Law of the Heart)?",
-        "a": "As stretch of the ventricular wall increases (due to increased EDV), the stroke volume increases. The heart pumps all the blood that returns to it.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "Define Preload.",
-        "a": "The degree of myocardial stretch before contraction begins, representing the load placed on cardiac muscles.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "Define Venous Return.",
-        "a": "The amount of blood entering the heart from the venous circulation. Primary determinant of EDV.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "Define Contractility.",
-        "a": "The intrinsic ability of a cardiac muscle fiber to contract at any given fiber length.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "Define Afterload.",
-        "a": "The combined load of blood in the ventricle (EDV) and the arterial resistance during ventricular contraction. The force the heart must overcome to eject blood.",
-        "sec": "14.4 Pump"
-    },
-    {
-        "q": "What are Cardiac Glycosides (Digitalis/Ouabain) and their mechanism?",
-        "a": "Pharmacological positive inotropic agents that depress Na+-K+-ATPase activity, increasing cytosolic Ca2+ and thus increasing contractility.",
-        "sec": "14.4 Pump"
-    }
+    { "id": 1, "subj": "PHYS", "doc": "CH14SG", "sec": "Functions", "q": "What is the primary function of the cardiovascular system?", "a": "Transport of materials to and from all parts of the body." },
+    { "id": 2, "subj": "PHYS", "doc": "CH14SG", "sec": "Functions", "q": "Give examples of materials entering the body that are transported by the cardiovascular system.", "a": "Oxygen is transferred from lungs to all cells. Nutrients and water are transferred from the intestinal tract to all cells." },
+    { "id": 3, "subj": "PHYS", "doc": "CH14SG", "sec": "Functions", "q": "Give examples of materials moved from cell to cell by the cardiovascular system.", "a": "Wastes are transferred from some cells to the liver for processing. Immune cells, antibodies, and clotting proteins are present in blood continuously and available to any cell that needs them. Hormones are transferred from endocrine cells to target cells. Stored nutrients are transferred from liver and adipose tissue to all cells." },
+    { "id": 4, "subj": "PHYS", "doc": "CH14SG", "sec": "Functions", "q": "Give examples of materials leaving the body that are transported by the cardiovascular system.", "a": "Metabolic wastes are transferred from all cells to the kidneys for elimination. Heat is transferred from all cells to the skin for dissipation. Carbon dioxide is transferred from all cells to the lungs for elimination." },
+    { "id": 5, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "Describe the organization of the cardiovascular system, starting and ending in the aorta. 
+
+[Image of the human cardiovascular system schematic]
+", "a": "The aorta branches into smaller arteries to distribute oxygenated blood to capillary networks in tissues. Blood returns from the upper and lower body via the superior and inferior vena cava into the right atrium. Blood moves to the right ventricle and is sent through pulmonary arteries to the lungs for oxygenation. Well-oxygenated blood returns through pulmonary veins to the left atrium, moves to the left ventricle, and is pumped back out into the aorta." },
+    { "id": 6, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the location of capillaries?", "a": "Microscopic vessels in tissues." },
+    { "id": 7, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the function of capillaries?", "a": "Site where blood exchanges material with the interstitial fluid." },
+    { "id": 8, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "Define arteries.", "a": "Blood vessels that carry blood away from the heart." },
+    { "id": 9, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "Define veins.", "a": "Blood vessels that return blood to the heart." },
+    { "id": 10, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the location of the septum?", "a": "Central wall of the heart." },
+    { "id": 11, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the function of the septum?", "a": "Divides the heart into independent left and right halves and prevents blood mixing." },
+    { "id": 12, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the location of the atria?", "a": "Upper chambers of the heart." },
+    { "id": 13, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the function of the atria?", "a": "Receives blood returning to the heart from the blood vessels." },
+    { "id": 14, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the location of the ventricle?", "a": "Lower chambers of the heart." },
+    { "id": 15, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the function of the ventricle?", "a": "Pumps blood out into the blood vessels." },
+    { "id": 16, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the location of the pulmonary arteries?", "a": "Connect right ventricle to lungs." },
+    { "id": 17, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the function of the pulmonary arteries?", "a": "Carry low-oxygen blood to the lungs." },
+    { "id": 18, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the location of the pulmonary veins?", "a": "Connect lungs to left atrium." },
+    { "id": 19, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the function of the pulmonary veins?", "a": "Carry well-oxygenated blood from the lungs to the left heart." },
+    { "id": 20, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "Define pulmonary circulation.", "a": "The blood vessels that go from the right ventricle to the lungs and back to the left atrium." },
+    { "id": 21, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "Define systemic circulation.", "a": "The blood vessels that carry blood from the left side of the heart to the tissues and back to the right side of the heart." },
+    { "id": 22, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the location of the aorta?", "a": "Large artery exiting the left ventricle." },
+    { "id": 23, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the function of the aorta?", "a": "Branches into smaller arteries to distribute oxygenated blood to capillary networks in tissues." },
+    { "id": 24, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the location of the superior vena cava?", "a": "Vein entering the right atrium." },
+    { "id": 25, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the function of the superior vena cava?", "a": "Returns blood from the upper part of the body." },
+    { "id": 26, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the location of the inferior vena cava?", "a": "Vein entering the right atrium." },
+    { "id": 27, "subj": "PHYS", "doc": "CH14SG", "sec": "Organization", "q": "What is the function of the inferior vena cava?", "a": "Returns blood from the lower part of the body." },
+    { "id": 28, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the location of the pericardium? ", "a": "Membranous sac encasing the heart." },
+    { "id": 29, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the function of the pericardium?", "a": "Protects the heart and contains a thin layer of pericardial fluid that lubricates the external surface as it beats." },
+    { "id": 30, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the location of the myocardium?", "a": "Thick muscular walls of the heart." },
+    { "id": 31, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the function of the myocardium?", "a": "Cardiac muscle responsible for contraction." },
+    { "id": 32, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the location of the atrioventricular (AV) valves?", "a": "Between the atria and ventricles." },
+    { "id": 33, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the function of the atrioventricular (AV) valves?", "a": "Ensure one-way flow from atria to ventricles and prevent backward flow." },
+    { "id": 34, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the location of the semilunar valves?", "a": "Between the ventricles and the major arteries." },
+    { "id": 35, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the function of the semilunar valves?", "a": "Snap closed when blood attempts to flow back into ventricles from arteries." },
+    { "id": 36, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the location of the papillary muscles?", "a": "Moundlike extensions of ventricular muscle." },
+    { "id": 37, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the function of the papillary muscles?", "a": "Tether chordae tendineae and provide stability, but do not actively open or close valves." },
+    { "id": 38, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "Describe the tricuspid valve.", "a": "It is the right AV valve that separates the right atrium and right ventricle, and it has three flaps." },
+    { "id": 39, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "Describe the bicuspid (mitral) valve.", "a": "It is the left AV valve that separates the left atrium and left ventricle, and it has two flaps." },
+    { "id": 40, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the location of the aortic valve?", "a": "Between left ventricle and aorta." },
+    { "id": 41, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the location of the pulmonary valve?", "a": "Between right ventricle and pulmonary trunk." },
+    { "id": 42, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the location of the coronary circulation?", "a": "Branches originating from the aorta." },
+    { "id": 43, "subj": "PHYS", "doc": "CH14SG", "sec": "Anatomy", "q": "What is the function of the coronary circulation?", "a": "Arteries that nourish the heart muscle itself. Blood flows into capillaries, then coronary veins, and empties directly into the right atrium at the coronary sinus." },
+    { "id": 44, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Define contractile cells and their function.", "a": "Typical striated muscle cells organized into sarcomeres that generate the mechanical force of the heart." },
+    { "id": 45, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Define autorhythmic cells (pacemakers) and their function.", "a": "Specialized, anatomically distinct cells that generate action potentials spontaneously. The signal for contraction is myogenic." },
+    { "id": 46, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Explain the key role of pacemaker cells in initiating action potentials.", "a": "They generate action potentials spontaneously without innervation because their signal for contraction is myogenic." },
+    { "id": 47, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "What is the first step in the process of EC-coupling within cardiac muscle?", "a": "An action potential enters a contractile cell from an adjacent cell via gap junctions." },
+    { "id": 48, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "What happens after the action potential enters the t-tubules during EC-coupling?", "a": "It opens voltage-gated L-type calcium channels, allowing calcium to enter the cell down its electrochemical gradient." },
+    { "id": 49, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Define Calcium-induced calcium release (CICR).", "a": "Calcium entry opens ryanodine receptor (RyR) calcium release channels in the sarcoplasmic reticulum, causing stored calcium to flow out into the cytosol." },
+    { "id": 50, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "How is a large calcium signal created during cardiac EC coupling?", "a": "Multiple local calcium sparks sum together, with 90% coming from the SR and 10% from extracellular fluid." },
+    { "id": 51, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "What is the final step initiating contraction in cardiac EC coupling?", "a": "Calcium diffuses and binds to troponin, initiating crossbridge formation and sliding filament contraction." },
+    { "id": 52, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "What is the first step in the process of cardiac muscle relaxation?", "a": "Cytoplasmic calcium concentration decreases, causing calcium to unbind from troponin." },
+    { "id": 53, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "What happens mechanically after calcium unbinds from troponin during relaxation?", "a": "Myosin releases actin, and the filaments slide back to their relaxed position." },
+    { "id": 54, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Describe the role of the calcium-ATPase in cardiac muscle relaxation.", "a": "It transports calcium back into the sarcoplasmic reticulum." },
+    { "id": 55, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Define the Na+-Ca2+ exchanger (NCX) antiporter and its function in relaxation.", "a": "It is a membrane protein that removes calcium from the cell by moving 1 Ca2+ out against its gradient for every 3 Na+ moving in down their gradient." },
+    { "id": 56, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "What is the role of the sodium-potassium pump (Na+-K+-ATPase) in cardiac muscle relaxation?", "a": "It pumps the Na+ that entered via the NCX back out of the cell to maintain gradients." },
+    { "id": 57, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Describe Phase 4 of an action potential in cardiac contractile cells. ", "a": "Phase 4 is the resting membrane potential, which is stable at about -90 mV." },
+    { "id": 58, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Describe Phase 0 of an action potential in cardiac contractile cells.", "a": "Phase 0 is depolarization. A wave of depolarization moves through gap junctions, voltage-gated Na+ channels open, and Na+ rapidly enters, bringing the potential to +20 mV." },
+    { "id": 59, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Describe Phase 1 of an action potential in cardiac contractile cells.", "a": "Phase 1 is initial repolarization. Na+ channels close, fast K+ channels open, and K+ begins to leave the cell." },
+    { "id": 60, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Describe Phase 2 of an action potential in cardiac contractile cells.", "a": "Phase 2 is the plateau. Slow voltage-gated Ca2+ channels open allowing Ca2+ to enter, while fast K+ channels close. The combination of Ca2+ influx and decreased K+ efflux creates a flat plateau, lengthening the action potential to 200+ msec." },
+    { "id": 61, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Describe Phase 3 of an action potential in cardiac contractile cells.", "a": "Phase 3 is rapid repolarization. The plateau ends when Ca2+ channels close, and slow K+ channels open allowing rapid K+ efflux, returning the cell to the resting potential of -90 mV." },
+    { "id": 62, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Explain the refractory period in cardiac muscle and its relationship to tetanus.", "a": "The extended plateau phase means the refractory period lasts almost as long as the entire muscle twitch, so the cell almost completely relaxes by the time a second action potential can fire, preventing summation and the fatal condition of tetanus." },
+    { "id": 63, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Describe the resting membrane state of myocardial autorhythmic cells. ", "a": "They have an unstable membrane potential called a pacemaker potential that starts at -60 mV and slowly drifts up toward threshold." },
+    { "id": 64, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "What are I_f channels (funny channels)?", "a": "Channels belonging to the HCN family that open at -60 mV and are permeable to both K+ and Na+." },
+    { "id": 65, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Explain the role of I_f channels and ion movement in creating the pacemaker potential.", "a": "Na+ influx exceeds K+ efflux through the I_f channels, creating a net influx of positive charge that slowly depolarizes the cell. As the cell becomes more positive, I_f channels gradually close." },
+    { "id": 66, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "What causes the continuation of steady depolarization toward threshold in autorhythmic cells after I_f channels close?", "a": "One set of Ca2+ channels opens, allowing an influx of Ca2+." },
+    { "id": 67, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Describe the depolarization phase of an action potential in myocardial autorhythmic cells.", "a": "When threshold is reached, a different subtype of voltage-gated Ca2+ channels opens, and Ca2+ rushes in, creating the steep depolarization phase." },
+    { "id": 68, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Describe the repolarization phase of an action potential in myocardial autorhythmic cells.", "a": "At the peak, Ca2+ channels close and slow K+ channels open. The efflux of K+ repolarizes the cell back to -60 mV." },
+    { "id": 69, "subj": "PHYS", "doc": "CH14SG", "sec": "14.3", "q": "Compare the ions responsible for the steep depolarization phase in contractile cells versus autorhythmic cells.", "a": "In contractile cells, steep depolarization is caused by Na+ influx, whereas in autorhythmic cells, it is caused by Ca2+ influx." },
+    { "id": 70, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Describe the location and function of the sinoatrial node (SA node). ", "a": "Located in the right atrium; it functions as the main pacemaker by firing an action potential." },
+    { "id": 71, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Describe the location and function of the internodal pathway.", "a": "Connects the SA node to the AV node; functions to rapidly spread the electrical signal across the atria." },
+    { "id": 72, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Describe the location and function of the atrioventricular node (AV node).", "a": "Located on the floor of the right atrium; it slows down transmission of the action potential (AV node delay) to allow atria to complete their contraction before ventricles begin, serving as the only electrical gateway to the ventricles." },
+    { "id": 73, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Describe the location and function of the atrioventricular bundle (AV bundle / Bundle of His).", "a": "Located in the ventricular septum; functions to transmit signals down the septum." },
+    { "id": 74, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Describe the location and function of the bundle branches.", "a": "Split left and right from the AV bundle; functions to continue downward to the apex of the heart." },
+    { "id": 75, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Describe the location and function of the Purkinje fibers.", "a": "Spreading outward from the apex among contractile cells; specialized conducting cells that transmit electrical signals very rapidly to ensure near simultaneous contraction of apex cells." },
+    { "id": 76, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Define diastole.", "a": "The time during which cardiac muscle relaxes." },
+    { "id": 77, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Define systole.", "a": "The time during which cardiac muscle contracts." },
+    { "id": 78, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Explain the Late Diastole phase of the cardiac cycle. ", "a": "Both atria and ventricles are relaxed, AV valves are open, and blood flows passively by gravity from veins into atria and then into ventricles." },
+    { "id": 79, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Explain the Atrial Systole phase of the cardiac cycle.", "a": "Atria contract following the P wave, forcing the last 20% of blood into the ventricles." },
+    { "id": 80, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Define end-diastolic volume (EDV).", "a": "The maximum volume of blood the ventricles contain at the end of relaxation/filling, averaging about 135 mL." },
+    { "id": 81, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Explain the Isovolumic Ventricular Contraction phase of the cardiac cycle.", "a": "Ventricular systole begins, pressure in ventricles rises to force AV valves closed, and ventricles contract isometrically without changing volume because semilunar valves remain closed." },
+    { "id": 82, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Define the first heart sound (S1).", "a": "The lub sound created by vibrations following the closure of the AV valves." },
+    { "id": 83, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Explain the Ventricular Ejection phase of the cardiac cycle.", "a": "Ventricular pressure exceeds arterial pressure in the aorta/pulmonary trunk, causing semilunar valves to open and blood to be ejected." },
+    { "id": 84, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Define end-systolic volume (ESV).", "a": "The minimum volume of blood left in the ventricle at the end of contraction, averaging about 65 mL." },
+    { "id": 85, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Explain the Isovolumic Ventricular Relaxation phase of the cardiac cycle.", "a": "Ventricles begin to relax and repolarize, pressure decreases, and blood flows backward from arteries to snap the semilunar valves closed, keeping the ventricles as sealed chambers until pressure drops below atrial pressure." },
+    { "id": 86, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Define the second heart sound (S2).", "a": "The dup sound created by vibrations from semilunar valve closure." },
+    { "id": 87, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Describe the P wave of an ECG. ", "a": "Represents atrial depolarization." },
+    { "id": 88, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Describe the QRS complex of an ECG.", "a": "Represents the progressive wave of ventricular depolarization, with atrial repolarization hidden within the complex." },
+    { "id": 89, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Describe the T wave of an ECG.", "a": "Represents ventricular repolarization." },
+    { "id": 90, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Describe the P-R segment of an ECG.", "a": "Represents conduction through the AV node and AV bundle (AV node delay), and this is where atrial contraction occurs." },
+    { "id": 91, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Define Stroke Volume (SV) and provide its equation.", "a": "The amount of blood pumped by one ventricle during one contraction. Equation: SV = EDV - ESV." },
+    { "id": 92, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Define Ejection Fraction and provide its equation.", "a": "The percentage of EDV ejected with one contraction. Equation: Ejection Fraction = SV / EDV." },
+    { "id": 93, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Define Cardiac Output (CO) and provide its equation.", "a": "The volume of blood pumped by one ventricle in a given period of time, serving as an indicator of total blood flow through the body. Equation: CO = Heart Rate x Stroke Volume." },
+    { "id": 94, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Explain the cellular mechanism by which the parasympathetic branch slows heart rate.", "a": "Parasympathetic neurons release ACh which binds to muscarinic cholinergic receptors on autorhythmic cells, increasing K+ permeability to hyperpolarize the cell, and decreasing Ca2+ permeability to slow the rate of pacemaker depolarization." },
+    { "id": 95, "subj": "PHYS", "doc": "CH14SG", "sec": "14.4", "q": "Explain the cellular mechanism by which the sympathetic branch speeds heart rate.", "a": "Sympathetic neurons release Norepinephrine, which binds to beta-1-adrenergic receptors on autorhythmic cells, activating a cAMP second messenger system to keep I_f channels open longer, increasing Na+ and Ca2+ influx." },
+    { "id": "END", "subj": "END", "doc": "END", "sec": "END", "q": "END", "a": "END" }
 ]
