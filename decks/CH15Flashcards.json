@@ -1,0 +1,1657 @@
+[
+    {
+        "q": "What is cardiovascular disease?",
+        "a": "The leading global cause of death.",
+        "sec": "Background"
+    },
+    {
+        "q": "What is vasovagal syncope?",
+        "a": "A benign and common emotional reaction to blood, hypodermic needles, or other upsetting sights.",
+        "sec": "Background"
+    },
+    {
+        "q": "What is the mechanism behind vasovagal syncope?",
+        "a": "Signals from the nervous system cause a sudden decrease in blood pressure, and the individual faints from lack of oxygen to the brain.",
+        "sec": "Background"
+    },
+    {
+        "q": "What is perfusion?",
+        "a": "Blood flow to tissues (such as the heart and brain).",
+        "sec": "Background"
+    },
+    {
+        "q": "How does the functional model of the cardiovascular system operate overall?",
+        "a": "It functions as a single closed loop.",
+        "sec": "Background"
+    },
+    {
+        "q": "What is the specific function of the right heart in the cardiovascular model?",
+        "a": "It functions as an independent pump; it pumps blood to the lungs and back to the left heart.",
+        "sec": "Background"
+    },
+    {
+        "q": "What is the specific function of the left heart in the cardiovascular model?",
+        "a": "It functions as an independent pump; it pumps blood through the rest of the body and back to the right heart.",
+        "sec": "Background"
+    },
+    {
+        "q": "What is the function of systemic arteries in the cardiovascular model?",
+        "a": "They serve as an expandable, elastic pressure reservoir that maintains blood flow during ventricular relaxation.",
+        "sec": "Background"
+    },
+    {
+        "q": "What is the primary function of arterioles in the cardiovascular model?",
+        "a": "They are the site of variable resistance; they direct the distribution of blood flow to individual tissues by selectively constricting and dilating.",
+        "sec": "Background"
+    },
+    {
+        "q": "How are arterioles visually represented in cardiovascular models?",
+        "a": "They are shown with adjustable screws that alter their diameter.",
+        "sec": "Background"
+    },
+    {
+        "q": "What is the function of capillaries in the cardiovascular model?",
+        "a": "They are the site where exchange between the blood and cells takes place.",
+        "sec": "Background"
+    },
+    {
+        "q": "What is the function of systemic veins in the cardiovascular model?",
+        "a": "They serve as an expandable volume reservoir from which blood can be sent to the arterial side of the circulation if blood pressure falls too low.",
+        "sec": "Background"
+    },
+    {
+        "q": "What is total blood flow equal to at any level of the circulation?",
+        "a": "Total blood flow is equal to cardiac output.",
+        "sec": "Background"
+    },
+    {
+        "q": "If cardiac output is 5 L/min, what is the blood flow through all systemic capillaries?",
+        "a": "5 L/min.",
+        "sec": "Background"
+    },
+    {
+        "q": "What are the structural layers that compose the walls of blood vessels?",
+        "a": "The walls are composed of layers of smooth muscle, elastic connective tissue, and fibrous connective tissue.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the endothelium?",
+        "a": "The inner lining of all blood vessels, which is a type of epithelium.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What are the three main functions of the endothelium?",
+        "a": "It secretes many paracrine signal molecules. It plays important roles in the regulation of blood pressure and blood vessel growth. It plays an important role in the absorption of materials.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the tunica intima (or intima)?",
+        "a": "It is the endothelium and its adjacent elastic connective tissue layer.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is vascular smooth muscle?",
+        "a": "The smooth muscle of blood vessels, arranged in either circular or spiral layers.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is muscle tone in the context of blood vessels?",
+        "a": "A state of partial contraction maintained at all times by most blood vessels.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What does the smooth muscle contraction mechanism in blood vessels depend on?",
+        "a": "It depends on the entry of $Ca^{2+}$ from the extracellular fluid through $Ca^{2+}$ channels.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What types of signal molecules modulate vascular smooth muscle tone?",
+        "a": "Neurotransmitters, hormones, and paracrine signals.",
+        "sec": "15.1"
+    },
+    {
+        "q": "Where are vasoactive paracrine molecules secreted from?",
+        "a": "They are secreted by endothelial cells lining blood vessels or by surrounding tissues.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is vasoconstriction?",
+        "a": "It narrows the diameter of the vessel lumen.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is vasodilation?",
+        "a": "It widens the diameter of the vessel lumen.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What are the physical characteristics of the aorta and major arteries?",
+        "a": "They are characterized by walls that are both stiff and springy. They have a thick, smooth muscle layer and large amounts of elastic and fibrous connective tissue.",
+        "sec": "15.1"
+    },
+    {
+        "q": "How do the mechanical properties of fibrous and elastic tissues function in major arteries?",
+        "a": "Fibrous tissue requires substantial amounts of energy to stretch the walls outward. That energy can be stored by stretched elastic fibers and released through elastic recoil.",
+        "sec": "15.1"
+    },
+    {
+        "q": "How does the wall character change as major arteries divide into smaller arteries (divergent pattern of flow)?",
+        "a": "The walls become less elastic and more muscular.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the structural composition of arteriole walls?",
+        "a": "The walls contain several layers of smooth muscle that contract and relax under the influence of various chemical signals.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What components form the microcirculation?",
+        "a": "It is formed by arterioles, capillaries, and small postcapillary venules.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What are metarterioles?",
+        "a": "They are branches of some arterioles that are only partially surrounded by smooth muscle, unlike true arterioles which have a continuous smooth muscle layer.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What are precapillary sphincters?",
+        "a": "They are muscle rings at metarteriole-capillary junctions that can close off capillaries in response to local signals.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What happens to blood flow when precapillary sphincters are in a relaxed state?",
+        "a": "Blood flowing into a metarteriole is directed into adjoining capillary beds.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What happens to blood flow when precapillary sphincters are in a constricted state?",
+        "a": "Metarteriole blood bypasses the capillaries completely and goes directly to the venous circulation.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What are the two defining functional features of capillaries?",
+        "a": "They are the smallest vessels in the cardiovascular system. They are the primary site of exchange between the blood and the interstitial fluid.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the structural composition of capillaries?",
+        "a": "They lack smooth muscle and elastic or fibrous tissue reinforcement. They consist of a flat layer of endothelium, one cell thick, supported on an acellular matrix called the basal lamina (basement membrane).",
+        "sec": "15.1"
+    },
+    {
+        "q": "What are pericytes?",
+        "a": "They are highly branched contractile cells that surround capillaries, forming a meshlike outer layer between the capillary endothelium and the interstitial fluid.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What are the three main functions of pericytes?",
+        "a": "They contribute to the tightness of capillary permeability (more pericytes = less leaky endothelium). They secrete factors that influence capillary growth. Some differentiate to become new endothelium or smooth muscle cells.",
+        "sec": "15.1"
+    },
+    {
+        "q": "How are the blood-brain barrier and blood-retinal barrier formed?",
+        "a": "They are formed by cerebral capillaries and retina capillaries, respectively, which are surrounded by pericytes and glial cells and connected with tight junctions.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is diabetic retinopathy?",
+        "a": "A leading cause of blindness characterized by the loss of pericytes around the capillaries of the retina.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What are venules?",
+        "a": "Small vessels where blood flows from the capillaries.",
+        "sec": "15.1"
+    },
+    {
+        "q": "How do the smallest venules differ from capillaries?",
+        "a": "They are similar to capillaries with a thin exchange epithelium and little connective tissue, but they are distinguished by their convergent pattern of flow.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What structural change occurs in larger venules?",
+        "a": "Smooth muscle begins to appear in the walls.",
+        "sec": "15.1"
+    },
+    {
+        "q": "How are veins formed?",
+        "a": "They are formed as venules converge and become larger in diameter.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What are the structural features of veins compared to arteries?",
+        "a": "They are more numerous than arteries and larger in diameter. They have thinner walls with less elastic tissue, allowing them to expand easily when filling with blood.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the primary function of veins in the circulatory system?",
+        "a": "They act as the volume reservoir of the circulatory system, holding more than half of the blood.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the function of internal valves present in some veins?",
+        "a": "They are one-way valves that prevent blood from flowing backward.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What are the venae cavae?",
+        "a": "They are the largest veins that empty into the right atrium.",
+        "sec": "15.1"
+    },
+    {
+        "q": "Are there valves in the vena cava?",
+        "a": "No, once blood reaches the vena cava, there are no valves.",
+        "sec": "15.1"
+    },
+    {
+        "q": "Why does a tourniquet cause surface veins to stand out during venipuncture?",
+        "a": "A tourniquet exerts pressure to stop outflow through low-pressure veins but does not affect flow into the arm through deep high-pressure arteries, causing surface veins to collect blood.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is angiogenesis?",
+        "a": "The process by which new blood vessels develop, especially after birth.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the function of angiogenesis in children?",
+        "a": "It is necessary for normal development.",
+        "sec": "15.1"
+    },
+    {
+        "q": "When does angiogenesis naturally occur in adults?",
+        "a": "It takes place as wounds heal. It occurs during endurance exercise training to enhance blood flow to heart and skeletal muscles. It occurs in women during the growth of the uterine lining after menstruation and during placental development.",
+        "sec": "15.1"
+    },
+    {
+        "q": "Name three angiogenic cytokines that promote angiogenesis.",
+        "a": "Vascular endothelial growth factor (VEGF), Fibroblast growth factor (FGF), and Angiopoietins.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What do angiopoietins bind to?",
+        "a": "They bind to a tyrosine kinase receptor called Tie found on vascular endothelium.",
+        "sec": "15.1"
+    },
+    {
+        "q": "Name two antiangiogenic cytokines that inhibit angiogenesis.",
+        "a": "Angiostatin and Endostatin.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is angiostatin made from?",
+        "a": "It is made from the blood protein plasminogen.",
+        "sec": "15.1"
+    },
+    {
+        "q": "How do malignant tumors utilize angiogenesis?",
+        "a": "They require angiogenesis to survive by instructing host tissue to develop new vessels.",
+        "sec": "15.1"
+    },
+    {
+        "q": "Why have antiangiogenic drugs aimed at starving tumors had mixed results?",
+        "a": "Hypoxia stimulates more blood vessel growth. Destroying vessels prevents chemotherapeutic drugs from reaching malignant cells.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is coronary heart disease (coronary artery disease)?",
+        "a": "A condition where blood flow to the myocardium is decreased by fatty deposits narrowing the lumen.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is collateral circulation?",
+        "a": "Spontaneously developed new blood vessels that supplement flow through a partially blocked artery.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the diameter and mean wall thickness of an artery according to Figure 15.2?",
+        "a": "Diameter is 0.1-10+ mm. Mean wall thickness is 1.0 mm.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What tissue layers do arteries contain according to Figure 15.2?",
+        "a": "They contain thick layers of Endothelium, Elastic tissue, Smooth muscle, and Fibrous tissue.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the diameter and mean wall thickness of an arteriole according to Figure 15.2?",
+        "a": "Diameter is 10-100 \\mu m. Mean wall thickness is 6.0 \\mu m.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What tissue layers do arterioles contain according to Figure 15.2?",
+        "a": "They contain Endothelium and Smooth muscle.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the diameter and mean wall thickness of a capillary according to Figure 15.2?",
+        "a": "Diameter is 4-10 \\mu m. Mean wall thickness is 0.5 \\mu m.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What tissue layers do capillaries contain according to Figure 15.2?",
+        "a": "They contain Endothelium only.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the diameter and mean wall thickness of a venule according to Figure 15.2?",
+        "a": "Diameter is 10-100 \\mu m. Mean wall thickness is 1.0 \\mu m.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What tissue layers do venules contain according to Figure 15.2?",
+        "a": "They contain Endothelium and Fibrous tissue.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What is the diameter and mean wall thickness of a vein according to Figure 15.2?",
+        "a": "Diameter is 0.1-100+ mm. Mean wall thickness is 0.5 mm.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What tissue layers do veins contain according to Figure 15.2?",
+        "a": "They contain Endothelium, Elastic tissue, Smooth muscle, and Fibrous tissue.",
+        "sec": "15.1"
+    },
+    {
+        "q": "What creates the driving pressure for blood flow through the cardiovascular system?",
+        "a": "Ventricular contraction.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is the mechanical result of ventricular contraction on arteries?",
+        "a": "Contraction of ventricles pushes blood into the elastic arteries, causing them to stretch and store pressure.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What happens during ventricular relaxation to maintain blood flow?",
+        "a": "Elastic recoil in the arteries maintains driving pressure during ventricular diastole, propelling blood forward into smaller arteries and arterioles.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is the proportional relationship between Flow, Pressure, and Resistance?",
+        "a": "Flow \\propto \\Delta P/R.",
+        "sec": "15.2"
+    },
+    {
+        "q": "Under what condition does blood flow?",
+        "a": "Blood flows if a pressure gradient (\\Delta P) is present.",
+        "sec": "15.2"
+    },
+    {
+        "q": "In what direction does blood flow relative to pressure?",
+        "a": "Blood flows from areas of higher pressure to areas of lower pressure.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What opposes blood flow?",
+        "a": "Blood flow is opposed by the resistance (R) of the system.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What three factors affect cardiovascular resistance?",
+        "a": "The radius of the blood vessels, the length of the blood vessels, and the viscosity of the blood.",
+        "sec": "15.2"
+    },
+    {
+        "q": "In what units is flow usually expressed?",
+        "a": "Liters or milliliters per minute (L/min or mL/min).",
+        "sec": "15.2"
+    },
+    {
+        "q": "In what units is the velocity of flow usually expressed?",
+        "a": "Centimeters per minute (cm/min) or millimeters per second (mm/sec).",
+        "sec": "15.2"
+    },
+    {
+        "q": "When flow rate is constant, what is the primary determinant of flow velocity?",
+        "a": "The total cross-sectional area of the vessel(s).",
+        "sec": "15.2"
+    },
+    {
+        "q": "What happens to blood pressure as blood flows continuously through the circulatory system?",
+        "a": "Blood pressure decreases continuously.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What causes energy loss in the circulatory system?",
+        "a": "Resistance to flow offered by vessels and friction between blood cells.",
+        "sec": "15.2"
+    },
+    {
+        "q": "Where is blood pressure the highest in the systemic circulation?",
+        "a": "Aortic pressure is the highest in the systemic circulation.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is systolic pressure?",
+        "a": "It is the peak pressure that reaches an average high of 120 mm Hg during ventricular systole.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is diastolic pressure?",
+        "a": "It is the pressure that falls steadily to a low of 80 mm Hg during ventricular diastole.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is a pulse (pressure wave)?",
+        "a": "It is a rapid pressure increase that occurs when the left ventricle pushes blood into the aorta.",
+        "sec": "15.2"
+    },
+    {
+        "q": "How fast does a pulse wave travel compared to blood flow?",
+        "a": "It travels through fluid-filled arteries about 10 times faster than blood itself.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is pulse pressure a measure of?",
+        "a": "It is a measure of the strength of the pressure wave.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is the formula for calculating pulse pressure?",
+        "a": "Pulse pressure = systolic pressure - diastolic pressure.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What are the characteristics of venous blood flow?",
+        "a": "It is steady rather than pulsatile, pushed along by continuous movement of blood out of the capillaries.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What three factors aid venous return?",
+        "a": "Valves, the respiratory pump, and the skeletal muscle pump.",
+        "sec": "15.2"
+    },
+    {
+        "q": "How does the skeletal muscle pump work?",
+        "a": "When muscles (e.g., calf muscles) contract, they compress veins, forcing blood upward past the one-way valves toward the heart.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is Mean Arterial Pressure (MAP)?",
+        "a": "A single value used to represent driving pressure, reflecting the balance between blood flow into arteries and blood flow out of arteries.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is the formula for calculating Mean Arterial Pressure (MAP)?",
+        "a": "MAP = diastolic P + 1/3 (systolic P - diastolic P).",
+        "sec": "15.2"
+    },
+    {
+        "q": "Why is MAP closer to diastolic pressure than systolic pressure?",
+        "a": "Because diastole lasts twice as long as systole.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is hypotension?",
+        "a": "Abnormally low blood pressure.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What happens in the body during hypotension?",
+        "a": "Driving force cannot overcome gravity, impairing blood flow and oxygen delivery to the brain, causing dizziness or fainting.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is hypertension?",
+        "a": "Chronically elevated blood pressure (high blood pressure).",
+        "sec": "15.2"
+    },
+    {
+        "q": "What physical danger does hypertension pose to vessel walls?",
+        "a": "High pressure on vessel walls may cause weakened areas to rupture and bleed.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is a cerebral hemorrhage (Stroke)?",
+        "a": "A rupture in the brain causing loss of neurological function.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What results from a major artery rupture, such as in the descending aorta?",
+        "a": "It causes rapid blood loss and a fatal drop in blood pressure.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is a sphygmomanometer?",
+        "a": "An instrument consisting of an inflatable cuff and a pressure gauge used to estimate arterial blood pressure in the radial artery of the arm.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is the first step in the process of sphygmomanometry?",
+        "a": "The cuff is inflated until it exerts pressure higher than systolic pressure, stopping arterial blood flow.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What happens when cuff pressure falls below systolic pressure during sphygmomanometry?",
+        "a": "Blood squeezes through the compressed artery.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What are Korotkoff sounds?",
+        "a": "Thumping noises heard with each pressure wave, caused by the turbulent flow of blood through the compression.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What does the first Korotkoff sound indicate?",
+        "a": "Systolic pressure.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What does the disappearance of Korotkoff sounds indicate?",
+        "a": "Diastolic pressure, because blood flow has smoothed out and the artery is no longer compressed.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What values indicate a hypertensive baseline at rest?",
+        "a": "Systolic > 140 mm Hg or diastolic > 90 mm Hg at rest is considered a sign of hypertension.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What two main variables determine Mean Arterial Pressure (MAP)?",
+        "a": "It is proportional to cardiac output (CO) times the resistance (R) of the arterioles. (MAP \\propto CO \\times R_{arterioles}).",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is peripheral resistance?",
+        "a": "The resistance to flow offered by the arterioles.",
+        "sec": "15.2"
+    },
+    {
+        "q": "Based on mass balance in arteries, what happens to MAP if flow in exceeds flow out?",
+        "a": "Arterial blood volume increases, raising MAP.",
+        "sec": "15.2"
+    },
+    {
+        "q": "Based on mass balance in arteries, what happens to MAP if cardiac output is constant but peripheral resistance increases?",
+        "a": "Arterial blood volume increases, raising MAP.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is the cause of most cases of hypertension regarding mass balance?",
+        "a": "Most cases of hypertension are due to increased peripheral resistance.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What percentage of total blood volume do arteries hold?",
+        "a": "Arteries hold ~11% of total blood volume.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What percentage of total circulating blood volume do veins hold?",
+        "a": "Veins hold ~60% of total circulating blood volume.",
+        "sec": "15.2"
+    },
+    {
+        "q": "If arterial blood pressure falls, how do veins compensate to raise MAP?",
+        "a": "Increased sympathetic activity constricts veins, decreasing their holding capacity and shifting blood to the arterial side via the Frank-Starling law.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is the relationship between blood volume and blood pressure?",
+        "a": "Increased blood volume equals increased blood pressure; decreased blood volume equals decreased blood pressure.",
+        "sec": "15.2"
+    },
+    {
+        "q": "How does the body compensate for increased blood volume (slow response)?",
+        "a": "It is the primary responsibility of the kidneys, which excrete excess water in the urine.",
+        "sec": "15.2"
+    },
+    {
+        "q": "How does the body compensate for decreased blood volume (fast response)?",
+        "a": "Cardiovascular compensation includes vasoconstriction and increased sympathetic stimulation to increase heart rate and stroke volume.",
+        "sec": "15.2"
+    },
+    {
+        "q": "Can the kidneys restore lost fluid directly?",
+        "a": "No, kidneys cannot restore lost fluid, they can only conserve it.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is required for the restoration of fluid lost from the body?",
+        "a": "It requires mass balance\u2014fluid must be replaced from the external environment via drinking or IV infusions.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What are two causes of fluid loss mentioned in the text?",
+        "a": "Dehydration and Hemorrhage.",
+        "sec": "15.2"
+    },
+    {
+        "q": "According to Figure 15.8b, what two elements determine Blood Volume?",
+        "a": "Fluid intake and Fluid loss (passive or regulated at kidneys).",
+        "sec": "15.2"
+    },
+    {
+        "q": "According to Figure 15.8b, what two elements determine the effectiveness of the heart as a pump (cardiac output)?",
+        "a": "Heart rate and Stroke volume.",
+        "sec": "15.2"
+    },
+    {
+        "q": "According to Figure 15.8b, what determines the resistance of the system to blood flow?",
+        "a": "The diameter of the arterioles.",
+        "sec": "15.2"
+    },
+    {
+        "q": "According to Figure 15.8b, what determines the relative distribution of blood between arterial and venous blood vessels?",
+        "a": "The diameter of the veins.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is circulatory shock?",
+        "a": "Generalized, severe circulatory failure where tissue perfusion cannot keep up with tissue oxygen demand, causing cellular damage, positive feedback failure, and death.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is cardiogenic shock?",
+        "a": "Failure of the heart to maintain normal cardiac output.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is hypovolemic shock?",
+        "a": "Decreased circulating blood volume.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What is neurogenic shock?",
+        "a": "Failure of the sympathetic nervous system to maintain vascular tone.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What causes septic shock?",
+        "a": "Bacterial toxins.",
+        "sec": "15.2"
+    },
+    {
+        "q": "What causes anaphylactic shock?",
+        "a": "Massive immune reactions.",
+        "sec": "15.2"
+    },
+    {
+        "q": "How is shock typically managed?",
+        "a": "Administration of oxygen, fluids, and norepinephrine (stimulates vasoconstriction and increases CO), and removal of precipitating cause.",
+        "sec": "15.2"
+    },
+    {
+        "q": "According to Poiseuille's law, how is resistance (R) related to length (L), viscosity (\\eta), and radius (r)?",
+        "a": "Resistance is directly proportional to length and viscosity, and inversely proportional to the fourth power of the radius. Formula: $R \\propto L\\eta / r^4$.",
+        "sec": "15.3"
+    },
+    {
+        "q": "Since length and viscosity are relatively constant, what is the primary determinant of resistance in blood vessels?",
+        "a": "The radius is the primary determinant: $R \\propto 1 / r^4$.",
+        "sec": "15.3"
+    },
+    {
+        "q": "Why are arterioles considered the main site of variable resistance?",
+        "a": "They contribute more than 60% of total resistance to flow in the system due to large amounts of smooth muscle.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the function of local control in arteriolar resistance?",
+        "a": "It matches tissue blood flow to metabolic needs. It takes precedence over reflex control in the heart and skeletal muscle.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the function of sympathetic reflexes in arteriolar resistance?",
+        "a": "Mediated by the CNS to maintain MAP and determine blood distribution for homeostatic needs (e.g., temperature regulation).",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the function of hormones in arteriolar resistance?",
+        "a": "They regulate salt and water excretion by kidneys; they influence BP by acting directly on arterioles and altering autonomic reflex control.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Norepinephrine ($\\alpha$-receptors) in mediating vasoconstriction?",
+        "a": "Source: Sympathetic neurons. Role: Baroreceptor reflex. Type: Neurotransmitter.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Serotonin in mediating vasoconstriction?",
+        "a": "Source: Neurons, digestive tract, platelets. Role: Platelet aggregation, smooth muscle contraction. Type: Paracrine signal, neurotransmitter.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Endothelin in mediating vasoconstriction?",
+        "a": "Source: Vascular endothelium. Role: Local control of blood flow. Type: Paracrine.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Vasopressin in mediating vasoconstriction?",
+        "a": "Source: Posterior pituitary. Role: Increases blood pressure in hemorrhage. Type: Neurohormone.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Angiotensin II in mediating vasoconstriction?",
+        "a": "Source: Plasma hormone. Role: Increases blood pressure. Type: Hormone.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Epinephrine ($\\beta_2$-receptors) in mediating vasodilation?",
+        "a": "Source: Adrenal medulla. Role: Increase blood flow to skeletal muscle, heart, liver. Type: Neurohormone.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Acetylcholine in mediating vasodilation?",
+        "a": "Source: Parasympathetic neurons. Role: Erection reflex (indirectly through NO production). Type: Neurotransmitter.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Nitric oxide (NO) in mediating vasodilation?",
+        "a": "Source: Endothelium. Role: Local control of blood flow. Type: Paracrine signal.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Bradykinin (via NO) in mediating vasodilation?",
+        "a": "Source: Multiple tissues. Role: Increases blood flow. Type: Paracrine signal.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Adenosine in mediating vasodilation?",
+        "a": "Source: Hypoxic cells. Role: Increases blood flow to match metabolism. Type: Paracrine signal.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of decreased $O_2$, increased $CO_2$, increased $H^+$, and increased $K^+$ in mediating vasodilation?",
+        "a": "Source: Cell metabolism. Role: Increase blood flow to match metabolism. Type: Paracrine.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Histamine in mediating vasodilation?",
+        "a": "Source: Mast cells. Role: Increases blood flow. Type: Paracrine signal.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Natriuretic peptides (e.g., ANP) in mediating vasodilation?",
+        "a": "Source: Atrial myocardium, brain. Role: Reduce blood pressure. Type: Hormone, neurotransmitter.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the source, role, and type of Vasoactive intestinal peptide in mediating vasodilation?",
+        "a": "Source: Neurons. Role: Digestive secretion, relax smooth muscle. Type: Neurotransmitter, neurohormone.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is myogenic autoregulation?",
+        "a": "The ability of vascular smooth muscle to regulate its own state of contraction automatically.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What are the step-by-step events of the myogenic autoregulation process when blood pressure increases?",
+        "a": "Arterioles stretch -> mechanically gated channels open -> cation entry depolarizes the cell -> voltage-gated $Ca^{2+}$ channels open -> $Ca^{2+}$ enters and combines with calmodulin, activating MLCK -> Myosin ATPase and crossbridge activity increase -> vasoconstriction.",
+        "sec": "15.3"
+    },
+    {
+        "q": "How do precapillary sphincters provide an additional site for local control of blood flow?",
+        "a": "They constrict to restrict blood flow into capillaries and dilate to increase flow.",
+        "sec": "15.3"
+    },
+    {
+        "q": "Which molecules act as metabolic vasodilators?",
+        "a": "$O_2$ (low levels), $CO_2$ (high levels), and NO.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is active hyperemia?",
+        "a": "An increase in blood flow that accompanies an increase in metabolic activity.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is reactive hyperemia and how is it triggered?",
+        "a": "An increase in tissue blood flow following a period of low perfusion (occlusion). Local hypoxia causes endothelial cells to synthesize NO; when flow resumes, accumulated NO, $CO_2$, and $H^+$ trigger significant vasodilation.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What role does Nitric Oxide (NO) play in the erection reflex and what pathologies are suspected from decreased endogenous NO?",
+        "a": "It causes the erection reflex (drugs treating erectile dysfunction prolong NO activity). Decreases in endogenous NO are suspected in hypertension and preeclampsia.",
+        "sec": "15.3"
+    },
+    {
+        "q": "Which molecules act as inflammatory vasodilators?",
+        "a": "Kinins and histamine.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the function of Serotonin (5-HT) released by activated platelets?",
+        "a": "It is a vaso-constricting signal molecule that helps slow blood loss.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What is the exception to sympathetic innervation in vascular smooth muscle?",
+        "a": "Arterioles in the erection reflex of the penis and clitoris are controlled indirectly by parasympathetic innervation.",
+        "sec": "15.3"
+    },
+    {
+        "q": "How does the parasympathetic nervous system indirectly cause vasodilation in the erection reflex?",
+        "a": "ACh causes paracrine release of NO, which leads to vasodilation.",
+        "sec": "15.3"
+    },
+    {
+        "q": "How does tonic control of arterioles work?",
+        "a": "Tonic discharge of norepinephrine from sympathetic neurons helps maintain the tone of arterioles.",
+        "sec": "15.3"
+    },
+    {
+        "q": "How do $\\alpha$-receptors on vascular smooth muscle respond to changes in sympathetic release of norepinephrine?",
+        "a": "Binding of norepinephrine causes vasoconstriction. Decreased sympathetic release causes vasodilation. Increased release causes vasoconstriction.",
+        "sec": "15.3"
+    },
+    {
+        "q": "How does epinephrine interact with $\\alpha$-receptors?",
+        "a": "It travels through blood and binds to $\\alpha$-receptors (with a lower affinity than NE) to reinforce vasoconstriction.",
+        "sec": "15.3"
+    },
+    {
+        "q": "Where are $\\beta_2$-receptors found and how do they respond to epinephrine?",
+        "a": "They are found on the vascular smooth muscle of heart, liver, and skeletal muscle arterioles. They are not innervated and respond primarily to circulating epinephrine to cause vasodilation.",
+        "sec": "15.3"
+    },
+    {
+        "q": "How does the fight-or-flight response affect blood flow distribution?",
+        "a": "It enhances blood flow to the heart, skeletal muscles, and liver via $\\beta_2$-mediated vasodilation. It diverts blood from nonessential organs (GI tract) via sympathetic $\\alpha$-receptor mediated vasoconstriction.",
+        "sec": "15.3"
+    },
+    {
+        "q": "What two main mechanisms govern blood distribution to tissues?",
+        "a": "Local control mechanisms and homeostatic reflexes.",
+        "sec": "15.4"
+    },
+    {
+        "q": "At rest, where does more than 2/3 of cardiac output go?",
+        "a": "It goes to the digestive tract, liver, muscles, and kidneys.",
+        "sec": "15.4"
+    },
+    {
+        "q": "At rest, what percentage and flow rate of cardiac output goes to the brain?",
+        "a": "14% (0.70 L/min).",
+        "sec": "15.4"
+    },
+    {
+        "q": "At rest, what percentage and flow rate of cardiac output goes to the heart?",
+        "a": "4% (0.20 L/min).",
+        "sec": "15.4"
+    },
+    {
+        "q": "At rest, what percentage and flow rate of cardiac output goes to the liver and digestive tract?",
+        "a": "27% (1.35 L/min).",
+        "sec": "15.4"
+    },
+    {
+        "q": "At rest, what percentage and flow rate of cardiac output goes to the kidneys?",
+        "a": "20% (1.00 L/min).",
+        "sec": "15.4"
+    },
+    {
+        "q": "At rest, what percentage and flow rate of cardiac output goes to skeletal muscle?",
+        "a": "21% (1.05 L/min).",
+        "sec": "15.4"
+    },
+    {
+        "q": "At rest, what percentage and flow rate of cardiac output goes to the skin?",
+        "a": "5% (0.25 L/min).",
+        "sec": "15.4"
+    },
+    {
+        "q": "At rest, what percentage and flow rate of cardiac output goes to bone and other tissues?",
+        "a": "9% (0.45 L/min).",
+        "sec": "15.4"
+    },
+    {
+        "q": "What does the parallel arrangement of arterioles in the body mean for blood delivery?",
+        "a": "All arterioles receive blood at the same time from the aorta, and total flow through all arterioles always equals cardiac output.",
+        "sec": "15.4"
+    },
+    {
+        "q": "How is blood flow diverted based on the path of least resistance?",
+        "a": "Flow diverted away from a constricted arteriole is distributed to lower-resistance arterioles. Formula: $Flow_{arteriole} \\propto 1 / R_{arteriole}$.",
+        "sec": "15.4"
+    },
+    {
+        "q": "Why are the brain and heart exceptions to normal vascular neural control?",
+        "a": "They are so dependent on steady oxygen that neural control plays a small part; tissue metabolism is the primary factor determining arteriolar resistance.",
+        "sec": "15.4"
+    },
+    {
+        "q": "How sensitive is brain tissue to hypoxia?",
+        "a": "It is extremely sensitive; hypoxia causes unconsciousness in seconds and damage in minutes.",
+        "sec": "15.4"
+    },
+    {
+        "q": "How do myogenic responses regulate cerebral blood flow?",
+        "a": "They trigger vasoconstriction if systemic blood pressure increases.",
+        "sec": "15.4"
+    },
+    {
+        "q": "What is the primary regulation factor for cerebral blood flow, and what acts as a vasodilator?",
+        "a": "Tissue metabolism is the primary regulation factor. Accumulation of $CO_2$ acts as a vasodilator.",
+        "sec": "15.4"
+    },
+    {
+        "q": "How does oxygen extraction differ between resting tissues and the working myocardium?",
+        "a": "Resting tissues extract ~25% of oxygen, whereas the working myocardium extracts ~75% of oxygen, leaving little in reserve.",
+        "sec": "15.4"
+    },
+    {
+        "q": "How does the heart respond to increased work to maintain oxygen delivery?",
+        "a": "Coronary blood flow must increase.",
+        "sec": "15.4"
+    },
+    {
+        "q": "Describe the adenosine mechanism in coronary blood flow.",
+        "a": "Low tissue oxygen (myocardial hypoxia) causes myocardial cells to release the nucleotide adenosine. Adenosine dilates coronary arterioles to decrease resistance and bring in additional blood flow.",
+        "sec": "15.4"
+    },
+    {
+        "q": "What is the cardiovascular control center (CVCC) and where is it located anatomically?",
+        "a": "It is the main integrating center located in the medulla oblongata.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What is the primary physiological function of the cardiovascular control center (CVCC)?",
+        "a": "To ensure adequate blood flow to the brain and heart by maintaining sufficient MAP.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What other centers does the CVCC communicate with?",
+        "a": "It communicates with thermoregulatory centers in the hypothalamus to alter skin blood flow, and uses brain-gut communication for intestinal tract flow.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What is the baroreceptor reflex?",
+        "a": "The primary reflex pathway for homeostatic control of mean arterial blood pressure.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What are baroreceptors and where are they located?",
+        "a": "They are stretch-sensitive mechanoreceptors located in the walls of the carotid arteries and aorta.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What is the specific function of carotid baroreceptors?",
+        "a": "They monitor the pressure of blood flowing to the brain.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What is the specific function of aortic baroreceptors?",
+        "a": "They monitor the pressure of blood flowing to the body.",
+        "sec": "15.5"
+    },
+    {
+        "q": "How does baroreceptor firing change in response to blood pressure variations?",
+        "a": "Increased BP stretches the membrane, increasing the firing rate. Decreased BP decreases the firing rate.",
+        "sec": "15.5"
+    },
+    {
+        "q": "How fast is the response time of the baroreceptor reflex?",
+        "a": "Quite rapid; changes in cardiac output and peripheral resistance occur within two heartbeats.",
+        "sec": "15.5"
+    },
+    {
+        "q": "Which neurons handle the output pathways of the baroreceptor reflex?",
+        "a": "Sympathetic and parasympathetic autonomic neurons.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What are the effects of increased sympathetic activity on cardiovascular function?",
+        "a": "Increases heart rate, shortens AV node conduction time, enhances force of myocardial contraction, and causes vasoconstriction in arterioles.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What are the effects of increased parasympathetic activity on cardiovascular function?",
+        "a": "It slows heart rate. (It has a small effect on ventricular contraction and no significant control of arterioles).",
+        "sec": "15.5"
+    },
+    {
+        "q": "During a baroreceptor reflex response to increased BP, what happens after baroreceptor firing increases?",
+        "a": "Sensory neurons carry the signal to the CVCC in the medulla.",
+        "sec": "15.5"
+    },
+    {
+        "q": "How does the CVCC alter autonomic output in response to an increased BP signal?",
+        "a": "It increases parasympathetic output and decreases sympathetic output.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What happens at the heart when parasympathetic output increases due to high BP?",
+        "a": "More ACh binds to muscarinic receptors, which slows the heart rate at the SA node.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What happens at $\\alpha$-receptors when sympathetic output decreases due to high BP?",
+        "a": "Arteriolar smooth muscle vasodilates, leading to decreased peripheral resistance.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What happens at $\\beta_1$-receptors when sympathetic output decreases due to high BP?",
+        "a": "Ventricular myocardium decreases its force of contraction, and the SA node decreases heart rate, leading to decreased cardiac output.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What is the final negative feedback result of the baroreceptor reflex to increased BP?",
+        "a": "Decreased peripheral resistance and decreased cardiac output cause blood pressure to drop to normal.",
+        "sec": "15.5"
+    },
+    {
+        "q": "Is the compensation via the baroreceptor reflex fixed or variable?",
+        "a": "The reflex is variable and can alter both cardiac output and peripheral resistance, or just one of the variables depending on tissue needs.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What is orthostatic hypotension?",
+        "a": "The instantaneous decrease in blood pressure upon standing.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What mechanism causes orthostatic hypotension when a person stands up?",
+        "a": "Gravity causes blood to pool in the lower extremities, instantaneously decreasing venous return, which drops cardiac output.",
+        "sec": "15.5"
+    },
+    {
+        "q": "How does a normal body recover from orthostatic hypotension?",
+        "a": "It triggers the baroreceptor reflex, resulting in increased CO and increased peripheral resistance to restore MAP within two heartbeats. The skeletal muscle pump also assists.",
+        "sec": "15.5"
+    },
+    {
+        "q": "What happens to blood volume during extended bed rest or zero gravity?",
+        "a": "Blood distributes evenly, raising arterial pressure, which triggers the kidneys to excrete perceived excess fluid (up to a 12% decrease in blood volume).",
+        "sec": "15.5"
+    },
+    {
+        "q": "Why do people often faint upon standing after extended bed rest?",
+        "a": "The system cannot compensate fully for orthostatic hypotension due to the volume loss that occurred during bed rest, leading to light-headedness or fainting.",
+        "sec": "15.5"
+    },
+    {
+        "q": "How do arterial chemoreceptors influence cardiovascular function?",
+        "a": "They are activated by low blood oxygen levels to increase cardiac output.",
+        "sec": "15.5"
+    },
+    {
+        "q": "How do respiratory centers influence cardiovascular function?",
+        "a": "They work in tandem with the CVCC; an increased breathing rate is usually accompanied by increased CO.",
+        "sec": "15.5"
+    },
+    {
+        "q": "How do higher brain centers modulate blood pressure?",
+        "a": "The hypothalamus modulates for temperature regulation and fight-or-flight, while the cerebral cortex modulates learned/emotional responses like blushing and fainting.",
+        "sec": "15.5"
+    },
+    {
+        "q": "Describe the specific physiological mechanism of vasovagal syncope.",
+        "a": "Increased parasympathetic activity and decreased sympathetic activity slow the heart rate and cause widespread vasodilation. CO and peripheral resistance drop, causing BP to plummet and resulting in fainting.",
+        "sec": "15.5"
+    },
+    {
+        "q": "How do the cardiovascular system and kidneys integrate to maintain fluid homeostasis?",
+        "a": "The heart secretes hormones acting on the kidneys, and the kidneys secrete hormones acting on the heart/blood vessels to maintain fluid homeostasis.",
+        "sec": "15.5"
+    },
+    {
+        "q": "How close are most cells to the nearest capillary?",
+        "a": "Most cells are located within 0.1 mm of the nearest capillary.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is capillary density directly related to?",
+        "a": "It is directly related to the metabolic activity of tissue cells.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Which tissues have the lowest capillary density?",
+        "a": "Subcutaneous tissue and cartilage.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Which tissues have the highest capillary density?",
+        "a": "Muscles and glands.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the total adult human capillary length?",
+        "a": "~50,000 miles.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the total adult human capillary surface area?",
+        "a": "> 6300 m\u00b2.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Describe the structure and diameter of a capillary wall.",
+        "a": "It is a single layer of flattened endothelial cells supported on a basal lamina; its diameter barely fits a red blood cell (single file).",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the structure of continuous capillaries?",
+        "a": "Endothelial cells joined with leaky junctions.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Where are continuous capillaries located?",
+        "a": "Muscle, connective tissue, and neural tissue.",
+        "sec": "15.6"
+    },
+    {
+        "q": "How are continuous capillaries specialized in the brain?",
+        "a": "They form the blood-brain barrier with tight junctions to protect neural tissue.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the structure and function of fenestrated capillaries?",
+        "a": "They have large pores (fenestrae) that allow high volumes of fluid to pass rapidly between plasma and interstitial fluid.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Where are fenestrated capillaries located?",
+        "a": "Kidney and intestine (associated with absorptive transporting epithelia).",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the structure of sinusoids?",
+        "a": "Modified vessels up to 5 times wider than a capillary, with fenestrated endothelium and gaps between cells. In the liver, the sinusoidal endothelium lacks a basal lamina.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Where are sinusoids located?",
+        "a": "Bone marrow, liver, and spleen.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the function of sinusoids?",
+        "a": "They allow blood cells and plasma proteins to cross the endothelium to enter the blood.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the primary determinant of the velocity of blood flow?",
+        "a": "The total cross-sectional area.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Which vessels have the largest total cross-sectional area?",
+        "a": "Capillaries.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Where is the velocity of blood flow slowest and why is this functional?",
+        "a": "It is slowest in the capillaries; this low velocity allows enough time for diffusion to go to equilibrium.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the paracellular pathway in capillary exchange?",
+        "a": "Movement between endothelial cells.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is endothelial transport in capillary exchange?",
+        "a": "Movement through the cells.",
+        "sec": "15.6"
+    },
+    {
+        "q": "How do smaller dissolved solutes and gases ($O_2$, $CO_2$) exchange at capillaries?",
+        "a": "By diffusion; plasma concentrations reach equilibrium by the venous end.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What process is used to transport larger molecules (including selected proteins) across continuous capillaries?",
+        "a": "Transcytosis.",
+        "sec": "15.6"
+    },
+    {
+        "q": "How does transcytosis occur physically across continuous capillaries?",
+        "a": "The surface is dotted with caveolae and noncoated pits that become vesicles. Vesicles may fuse to create temporary open channels.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is bulk flow in capillary exchange?",
+        "a": "Mass movement of fluid into or out of the capillary as a result of hydrostatic or osmotic pressure gradients.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is capillary absorption?",
+        "a": "Fluid movement into the capillary.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is capillary filtration?",
+        "a": "Fluid movement out of the capillary.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the general transition of fluid movement along most capillaries?",
+        "a": "Most capillaries transition from net filtration at the arterial end to net absorption at the venous end.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What are two exceptions to the typical transition of capillary net fluid movement?",
+        "a": "The kidney filters along its entire length, and the intestine absorbs along its entire length.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What are Starling forces?",
+        "a": "The forces regulating bulk flow.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is capillary hydrostatic pressure ($P_H$)?",
+        "a": "The lateral pressure component of blood flow that pushes fluid out through capillary pores.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Why does capillary hydrostatic pressure decrease along the length of the capillary?",
+        "a": "Due to friction.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the value of interstitial hydrostatic pressure ($P_{IF}$)?",
+        "a": "It is considered essentially zero.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What creates colloid osmotic pressure ($\\pi$ / oncotic pressure)?",
+        "a": "The presence of proteins in the plasma.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Does colloid osmotic pressure change along the length of the capillary?",
+        "a": "No, it is constant along the length of the capillary.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the functional role of colloid osmotic pressure in capillaries?",
+        "a": "It pulls water by osmosis from the interstitial fluid into the plasma.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the value of interstitial oncotic pressure?",
+        "a": "It is considered zero.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the equation for net pressure in capillary bulk flow?",
+        "a": "$Net pressure = P_H - \\pi$.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What does a positive net pressure value indicate?",
+        "a": "Net filtration.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What does a negative net pressure value indicate?",
+        "a": "Net absorption.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Based on Figure 15.18 calculations, what is the net pressure and fluid movement at the arterial end of a capillary?",
+        "a": "$P_H (32) - \\pi (25) = +7$ mm Hg (Filtration).",
+        "sec": "15.6"
+    },
+    {
+        "q": "Based on Figure 15.18 calculations, what is the net pressure and fluid movement at the venous end of a capillary?",
+        "a": "$P_H (15) - \\pi (25) = -10$ mm Hg (Absorption).",
+        "sec": "15.6"
+    },
+    {
+        "q": "Is capillary filtration or absorption usually greater overall?",
+        "a": "Filtration is usually greater than absorption.",
+        "sec": "15.6"
+    },
+    {
+        "q": "What is the net daily volume of bulk flow out into the interstitial space?",
+        "a": "About 3 liters per day.",
+        "sec": "15.6"
+    },
+    {
+        "q": "Which three organ systems does the lymphatic system interact with?",
+        "a": "The cardiovascular system, digestive system, and immune system.",
+        "sec": "15.7"
+    },
+    {
+        "q": "What are the three main functions of the lymphatic system?",
+        "a": "1. Return fluid and proteins filtered out of capillaries to the circulatory system. 2. Pick up fat absorbed at the small intestine and transfer it to the circulatory system. 3. Serve as a filter to help capture and destroy foreign pathogens.",
+        "sec": "15.7"
+    },
+    {
+        "q": "Where are blind-end lymph vessels (lymph capillaries) located?",
+        "a": "They lie close to all blood capillaries except in the kidney and CNS.",
+        "sec": "15.7"
+    },
+    {
+        "q": "Describe the structure of blind-end lymph vessels.",
+        "a": "A single layer of flattened endothelium, thinner than blood capillaries.",
+        "sec": "15.7"
+    },
+    {
+        "q": "What is the function of anchoring fibers in lymph vessels?",
+        "a": "They hold the thin-walled vessels open.",
+        "sec": "15.7"
+    },
+    {
+        "q": "What is the function of gaps between cells in lymph vessels?",
+        "a": "They allow fluid, interstitial proteins, and bacteria to enter via bulk flow.",
+        "sec": "15.7"
+    },
+    {
+        "q": "What is lymph?",
+        "a": "The clear fluid inside lymphatics.",
+        "sec": "15.7"
+    },
+    {
+        "q": "What structures do larger lymphatic vessels possess to direct flow?",
+        "a": "They have a system of semilunar valves similar to venous valves.",
+        "sec": "15.7"
+    },
+    {
+        "q": "Describe the structure of lymph nodes.",
+        "a": "Bean-shaped nodules with a fibrous outer capsule and an internal collection of immunologically active cells (lymphocytes, macrophages).",
+        "sec": "15.7"
+    },
+    {
+        "q": "What is the function of lymph nodes?",
+        "a": "They filter the lymph.",
+        "sec": "15.7"
+    },
+    {
+        "q": "Where do the largest lymph ducts empty into the venous circulation?",
+        "a": "Where the left and right subclavian veins join the internal jugular veins.",
+        "sec": "15.7"
+    },
+    {
+        "q": "What mechanisms drive lymph flow?",
+        "a": "Flow depends primarily on waves of contraction of smooth muscle in the walls of larger vessels, contractile fibers in endothelial cells, one-way valves, and external compression by the skeletal muscle pump.",
+        "sec": "15.7"
+    },
+    {
+        "q": "Why is returning filtered proteins via the lymphatics critical?",
+        "a": "If proteins accumulate in interstitial fluid, the osmotic pressure gradient opposing filtration decreases, causing additional fluid to move into the interstitial space.",
+        "sec": "15.7"
+    },
+    {
+        "q": "How does inflammation cause edema?",
+        "a": "Histamine makes capillary walls leakier, allowing proteins to escape, which disrupts the colloid osmotic gradient and causes local swelling.",
+        "sec": "15.7"
+    },
+    {
+        "q": "What is edema?",
+        "a": "Swelling resulting from the accumulation of fluid in the interstitial space; a sign that normal exchange between the circulatory system and lymphatics is disrupted.",
+        "sec": "15.7"
+    },
+    {
+        "q": "What are the two primary causes of edema?",
+        "a": "1. Inadequate drainage of lymph. 2. Blood capillary filtration greatly exceeds capillary absorption.",
+        "sec": "15.7"
+    },
+    {
+        "q": "What causes inadequate drainage of lymph?",
+        "a": "Obstruction of the lymphatic system (e.g., from parasites, cancer, fibrotic tissue from radiation, or surgical removal of nodes).",
+        "sec": "15.7"
+    },
+    {
+        "q": "What is elephantiasis?",
+        "a": "A chronic condition with gross enlargement of the legs when parasites block lymph vessels.",
+        "sec": "15.7"
+    },
+    {
+        "q": "What does an increase in capillary hydrostatic pressure ($P_H$) usually indicate, and what is a common cause?",
+        "a": "It usually indicates elevated venous pressure (e.g., from heart failure where the right ventricle fails, causing blood to pool in the systemic circuit).",
+        "sec": "15.7"
+    },
+    {
+        "q": "What causes a decrease in plasma protein concentration and what is the effect on capillary exchange?",
+        "a": "It is caused by severe malnutrition (e.g., kwashiorkor leading to ascites) or liver failure; it decreases colloid osmotic pressure ($\\pi$).",
+        "sec": "15.7"
+    },
+    {
+        "q": "How does an increase in interstitial proteins affect capillary exchange?",
+        "a": "Leakage of proteins out of the blood decreases the colloid osmotic pressure gradient.",
+        "sec": "15.7"
+    },
+    {
+        "q": "What is the leading cause of death worldwide?",
+        "a": "Cardiovascular disease (CVD), which includes heart attacks and strokes.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What are the uncontrollable risk factors for cardiovascular disease?",
+        "a": "Sex (men have 3-4x higher risk of CHD until middle age), Age, and Family history/Heredity.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What are the controllable risk factors for cardiovascular disease?",
+        "a": "Cigarette smoking, obesity, sedentary lifestyle, and untreated hypertension.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What are the mixed (genetic + lifestyle) risk factors for cardiovascular disease?",
+        "a": "Diabetes mellitus and elevated blood lipids.",
+        "sec": "15.8"
+    },
+    {
+        "q": "How does diabetes mellitus contribute to atherosclerosis?",
+        "a": "Cells turn to fats/proteins for energy, breaking down fat into fatty acids, which leads to elevated plasma cholesterol and LDL-C.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What is atherosclerosis?",
+        "a": "It is \"hardening of the arteries\", a process where fatty deposits form inside arterial blood vessels.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What is High-density lipoprotein-cholesterol (HDL-C)?",
+        "a": "\"Healthy\" cholesterol; high levels are associated with a lower risk of heart attacks.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What is Low-density lipoprotein-cholesterol (LDL-C)?",
+        "a": "\"Lethal\" / \"bad\" cholesterol; elevated levels lead to atherosclerosis.",
+        "sec": "15.8"
+    },
+    {
+        "q": "Why is LDL-C necessary in normal physiological conditions?",
+        "a": "It is necessary for normal cell cholesterol uptake via apoB binding to LDL receptors in clathrin-coated pits.",
+        "sec": "15.8"
+    },
+    {
+        "q": "In the progression of atherosclerosis, what initially happens to excess plasma LDL-C?",
+        "a": "It is transported by endothelial cells into the extracellular space beneath the intima, where it accumulates and is oxidized.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What are foam cells in atherosclerosis?",
+        "a": "Macrophages that have ingested cholesterol and other lipids.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What causes the formation of a fatty streak (early-stage lesion) in atherosclerosis?",
+        "a": "Cytokines released by macrophages promote smooth muscle cell division.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What accumulates beneath the endothelium as atherosclerosis progresses past the fatty streak stage?",
+        "a": "A lipid core accumulates.",
+        "sec": "15.8"
+    },
+    {
+        "q": "How are stable fibrous plaques formed in atherosclerosis?",
+        "a": "Fibrous scar tissue forms to wall off the lipid core.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What role do smooth muscle cells play in the later stages of atherosclerosis?",
+        "a": "They divide and contribute to the thickening of the intima.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What deposits occur within an advanced atherosclerotic plaque?",
+        "a": "Calcifications.",
+        "sec": "15.8"
+    },
+    {
+        "q": "How are stable plaques converted into vulnerable plaques in atherosclerosis?",
+        "a": "Macrophages release enzymes that dissolve collagen, creating thin fibrous caps prone to rupture.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What events follow the rupture of an atherosclerotic plaque?",
+        "a": "It exposes collagen, activates platelets, and initiates a blood clot (thrombus).",
+        "sec": "15.8"
+    },
+    {
+        "q": "What is a myocardial infarction?",
+        "a": "A heart attack caused by a clot blocking blood flow to the heart muscle.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What happens to oxygen-starved cells during a myocardial infarction?",
+        "a": "They rely on anaerobic metabolism (producing lactate). Falling ATP prevents pumping out $Ca^{2+}$, closing gap junctions, and electrically isolating damaged cells, potentially leading to arrhythmia or death.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What are the metrics for diagnosing hypertension?",
+        "a": "Systolic pressure > 140 mm Hg or diastolic pressure > 90 mm Hg.",
+        "sec": "15.8"
+    },
+    {
+        "q": "How does cardiovascular disease risk scale with increasing blood pressure?",
+        "a": "Risk doubles for each 20/10 mm Hg increase over a baseline of 115/75.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What is essential (primary) hypertension?",
+        "a": "It accounts for >90% of cases and has no clear-cut cause other than heredity.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What physiological factor is usually associated with the elevated blood pressure in essential hypertension?",
+        "a": "Increased peripheral resistance (possibly due to lack of NO), while cardiac output is usually normal.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What is secondary hypertension?",
+        "a": "It accounts for 5-10% of cases and is pathology-driven (e.g., an endocrine disorder causing fluid retention).",
+        "sec": "15.8"
+    },
+    {
+        "q": "How does hypertension represent a failure of homeostasis regarding baroreceptors?",
+        "a": "Carotid and aortic baroreceptors adapt to higher pressure and down-regulate their activity, so the CVCC interprets high BP as \"normal\" and no reflex reduction occurs.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What are two direct physiological effects of hypertension on the cardiovascular system?",
+        "a": "It damages the endothelial lining (promoting atherosclerosis). It increases afterload on the heart.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What is myocardial hypertrophy in the context of hypertension?",
+        "a": "The left ventricle cardiac muscle increases in size and strength to overcome high resistance.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What is congestive heart failure?",
+        "a": "Over time, the heart muscle fails to meet its workload.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What happens in congestive heart failure if the left ventricle fails but the right heart maintains output?",
+        "a": "Fluid collects in the lungs (pulmonary edema), decreasing oxygen exchange and further weakening the heart in a fatal positive feedback loop.",
+        "sec": "15.8"
+    },
+    {
+        "q": "How do calcium channel blockers treat hypertension?",
+        "a": "They decrease $Ca^{2+}$ entry into vascular smooth muscle (causing vasodilation) and cardiac muscle (decreasing contraction force/rate).",
+        "sec": "15.8"
+    },
+    {
+        "q": "How do diuretics treat hypertension?",
+        "a": "They decrease blood volume by increasing renal fluid excretion.",
+        "sec": "15.8"
+    },
+    {
+        "q": "How do beta-blocking drugs ($\\beta$-blockers) treat hypertension?",
+        "a": "They target $\\beta_1$-receptors to decrease catecholamine stimulation of cardiac output.",
+        "sec": "15.8"
+    },
+    {
+        "q": "How do ACE inhibitors and ARBs treat hypertension?",
+        "a": "They decrease the activity of angiotensin, a powerful vasoconstrictor.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What is a known side effect of ACE inhibitors?",
+        "a": "A dry hacking cough.",
+        "sec": "15.8"
+    },
+    {
+        "q": "What is Kurt English's patient profile in the running problem?",
+        "a": "Age 56, ~30 pounds overweight, sedentary lifestyle, high dietary intake.",
+        "sec": "Prob"
+    },
+    {
+        "q": "What was the diagnosis process for Kurt English's hypertension?",
+        "a": "Initial BP 164/100, 15 minutes later 158/98, and two weeks of home monitoring averaged 160/100.",
+        "sec": "Prob"
+    },
+    {
+        "q": "What was the initial treatment prescribed for Kurt English?",
+        "a": "Lifestyle changes (reduce salt, fat, exercise, lose weight) and a diuretic.",
+        "sec": "Prob"
+    },
+    {
+        "q": "What is the physiological rationale for treating hypertension with reduced salt and a diuretic?",
+        "a": "Salt causes water retention; diuretics increase renal fluid excretion. Reducing blood volume reduces blood pressure.",
+        "sec": "Prob"
+    },
+    {
+        "q": "What was added as a second treatment for Kurt English when initial steps were not fully effective?",
+        "a": "An ACE inhibitor.",
+        "sec": "Prob"
+    },
+    {
+        "q": "What is the physiological rationale for using an ACE inhibitor?",
+        "a": "It blocks the production of angiotensin II (a vasoconstrictor). Blocking vasoconstrictors causes vasodilation, reducing resistance and thus blood pressure.",
+        "sec": "Prob"
+    },
+    {
+        "q": "What side effect did Kurt English experience from the ACE inhibitor?",
+        "a": "A dry, hacking cough.",
+        "sec": "Prob"
+    },
+    {
+        "q": "What was the final medication switch made for Kurt English due to side effects?",
+        "a": "Switched from an ACE inhibitor to a calcium channel blocker.",
+        "sec": "Prob"
+    },
+    {
+        "q": "What is the physiological rationale for using a calcium channel blocker?",
+        "a": "It blocks $Ca^{2+}$ entry through channels, decreasing the force of cardiac contraction and contractility of vascular smooth muscle, which lowers blood pressure.",
+        "sec": "Prob"
+    },
+    {
+        "q": "What was the final health conclusion for Kurt English after treatment?",
+        "a": "His BP stabilized at 130/85, and total blood cholesterol dropped below 200 mg/dL.",
+        "sec": "Prob"
+    },
+    {
+        "q": "How does high blood pressure increase the risk of a hemorrhagic stroke?",
+        "a": "High BP exerts force on weakened/damaged blood vessel walls, causing them to rupture and leak blood into surrounding tissues.",
+        "sec": "Prob"
+    },
+    {
+        "q": "What is C-reactive protein (CRP) and how does it relate to cardiovascular disease?",
+        "a": "It is a molecule involved in the body's response to inflammation; elevated levels are associated with higher cardiovascular risk.",
+        "sec": "Conc"
+    },
+    {
+        "q": "What is homocysteine and how does it relate to cardiovascular disease?",
+        "a": "It is an amino acid part of a metabolic pathway requiring folate and B12; elevated levels are associated with increased CVD incidence.",
+        "sec": "Conc"
+    },
+    {
+        "q": "What is the clinical dilemma regarding emerging inflammatory markers like CRP and homocysteine?",
+        "a": "It is currently unclear if these are causative factors or just markers, and if reducing them actually decreases cardiovascular risk.",
+        "sec": "Conc"
+    }
+]
