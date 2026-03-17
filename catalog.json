@@ -5,4 +5,10 @@
     "doc": "CH14",
     "file": "decks/CH14Flashcards.json"
   }
+  {
+    "name": "Chapter 15 Flashcards",
+    "subject": "PHYS",
+    "doc": "CH15",
+    "file": "decks/CH15Flashcards.json"
+  }
 ]
