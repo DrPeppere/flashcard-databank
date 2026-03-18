@@ -1,410 +1,75 @@
 [
-  {
-    "id": "1",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Fig 15.1",
-    "q": "(Fig 15.1) Trace the complete pathway of blood through the cardiovascular system, identifying where blood is oxygenated vs. deoxygenated.",
-    "a": "Deoxygenated blood from the body returns through the venae cavae to the right atrium, passes through the tricuspid valve to the right ventricle, is ejected through the pulmonary valve into the pulmonary artery, travels to the lungs where it is oxygenated, and returns via the pulmonary veins to the left atrium. Oxygenated blood passes through the mitral valve to the left ventricle, is ejected through the aortic valve into the aorta, flows through systemic arteries, arterioles, and capillaries (where O2 is delivered to tissues), and returns via venules and veins to the right heart. The two sides of the heart function as independent pumps operating in series."
-  },
-  {
-    "id": "2",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Fig 15.1",
-    "q": "(Fig 15.1) What are the six key functional roles of the major components of the cardiovascular system, as illustrated in the functional model?",
-    "a": "(1) The heart and blood vessels form a single closed loop. (2) Elastic systemic arteries act as a pressure reservoir, maintaining blood flow during ventricular relaxation via elastic recoil. (3) Arterioles are the site of variable resistance — shown as adjustable screws — regulating blood distribution to individual tissues. (4) Exchange between blood and cells occurs at the capillaries. (5) Each side of the heart functions as an independent pump. (6) Systemic veins serve as an expandable volume reservoir, holding more than half the body's blood."
-  },
-  {
-    "id": "3",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Arteries: Describe the structure, mechanical properties, and primary function of arteries.",
-    "a": "Structure: Arteries have thick walls containing large amounts of smooth muscle, large amounts of elastic connective tissue, and large amounts of fibrous connective tissue, all surrounding an inner endothelial lining (tunica intima). Diameter: 0.1-10+ mm; mean wall thickness: 1.0 mm. Mechanical properties: Walls are both stiff (due to fibrous tissue) and springy (due to elastic tissue); they can be stretched by ventricular ejection and recoil elastically. Function: Conduct blood away from the heart; act as a pressure reservoir — during ventricular contraction arteries expand and store energy; during ventricular relaxation elastic recoil propels blood forward, maintaining continuous driving pressure."
-  },
-  {
-    "id": "4",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Arterioles: Describe the structure, mechanical properties, and primary function of arterioles.",
-    "a": "Structure: Arterioles have walls containing several layers of smooth muscle with minimal elastic and fibrous tissue, surrounding an endothelial lining. Diameter: 10-100 micrometers; mean wall thickness: 6.0 micrometers. Mechanical properties: Walls are highly contractile but not significantly elastic; smooth muscle can contract or relax in response to chemical signals, dramatically changing the vessel's radius. Function: Arterioles are the site of variable resistance — they regulate the distribution of blood flow to individual tissues. They contribute more than 60% of total resistance to flow. Arteriolar diameter is regulated by local factors, the autonomic nervous system, and hormones."
-  },
-  {
-    "id": "5",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Capillaries: Describe the structure, mechanical properties, and primary function of capillaries.",
-    "a": "Structure: Capillaries have the thinnest walls of all vessels — a single flat layer of endothelial cells supported on an acellular basal lamina (basement membrane). No smooth muscle, no elastic tissue, no fibrous tissue. Diameter: 4-10 micrometers (barely the diameter of a red blood cell, which passes in single file); mean wall thickness: 0.5 micrometers. Mechanical properties: Very thin and leaky; permeability varies by junction type. Function: Primary site of exchange between blood and interstitial fluid — O2, CO2, nutrients, and wastes move between plasma and tissues here by diffusion, transcytosis, and bulk flow."
-  },
-  {
-    "id": "6",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Venules: Describe the structure, mechanical properties, and primary function of venules.",
-    "a": "Structure: The smallest venules resemble capillaries — thin exchange epithelium with little connective tissue. Larger venules begin to develop smooth muscle in their walls. Diameter: 10-100 micrometers; mean wall thickness: 1.0 micrometer. Mechanical properties: Thin, compressible walls; low internal pressure. Function: Collect blood from capillaries and begin the convergent return of blood to the heart. Small amounts of exchange can also take place in postcapillary venules."
-  },
-  {
-    "id": "7",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Veins: Describe the structure, mechanical properties, and primary function of veins.",
-    "a": "Structure: Veins have thinner walls than arteries with less elastic tissue, and contain small amounts of smooth muscle and fibrous tissue around their endothelial lining. Many have internal one-way semilunar valves. Diameter: 0.1-100+ mm; mean wall thickness: 0.5 mm. Mechanical properties: Walls expand easily when filled with blood due to low elasticity; they are compressible by surrounding skeletal muscles. Function: Conduct blood back to the heart from venules. Primary function: volume reservoir — they hold more than half (about 60%) of circulating blood. Blood can be redistributed to the arterial side when MAP falls."
-  },
-  {
-    "id": "8",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Vascular smooth muscle: What is it, where is it found, and what is its role in blood vessels?",
-    "a": "Vascular smooth muscle is smooth muscle found in the walls of most blood vessels, arranged in circular or spiral layers. It is present in arteries (large amounts), arterioles (large amounts), venules (small amounts), and veins (small amounts) — but NOT in capillaries. Its role: by contracting or relaxing, it changes the diameter of the vessel lumen (vasoconstriction or vasodilation), thereby regulating blood flow and distribution. In most vessels, it maintains a state of partial contraction at all times, called muscle tone. Contraction depends on entry of Ca2+ from the extracellular fluid."
-  },
-  {
-    "id": "9",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Metarterioles: What are they, how do they differ from arterioles, and what are the two possible fates of blood flowing through them?",
-    "a": "Metarterioles are vessels that branch from arterioles. Unlike true arterioles, which have a continuous smooth muscle layer, metarteriole walls are only PARTIALLY surrounded by smooth muscle. Two possible fates of blood: (1) If precapillary sphincters are RELAXED: blood flows from the metarteriole into the adjoining capillary beds (exchange occurs). (2) If precapillary sphincters are ALL CONSTRICTED: blood bypasses the capillaries entirely and flows through the metarteriole directly to the venous circulation, acting as a bypass channel."
-  },
-  {
-    "id": "10",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Precapillary sphincters: What are they and what are their two functional states?",
-    "a": "Precapillary sphincters are rings of smooth muscle located at the junction between metarterioles and capillaries. They act as gatekeepers for blood entering capillary beds. (1) When RELAXED: the sphincters are open and blood flows into the capillary bed (enabling exchange with tissues). (2) When CONSTRICTED: the sphincters close off the capillaries; blood in the metarteriole bypasses the capillary bed and flows directly to the venous circulation. Local signals (e.g., low O2, high CO2) control their state of contraction."
-  },
-  {
-    "id": "11",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Pericytes: What are they, where are they found, and what are their functions?",
-    "a": "Pericytes are highly branched contractile cells that surround many capillaries, forming a meshlike outer layer between the capillary endothelium and the interstitial fluid. Location: found surrounding capillaries in most tissues; especially numerous around cerebral capillaries and retinal capillaries. Functions: (1) Regulate capillary permeability — the more pericytes present, the less leaky the capillary endothelium (e.g., blood-brain barrier, blood-retinal barrier). (2) Secrete factors that influence capillary growth. (3) Can differentiate into new endothelial or smooth muscle cells. Loss of pericytes in the retina is a hallmark of diabetic retinopathy."
-  },
-  {
-    "id": "12",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Volume reservoir: What is a volume reservoir, and which vessels serve this function?",
-    "a": "A volume reservoir is a component of the circulatory system that stores a large proportion of the total blood volume and can release it to increase arterial blood pressure when needed. The veins serve as the volume reservoir. They hold MORE THAN HALF (approximately 60%) of circulating blood volume. Their thin, compliant walls expand easily to accommodate large volumes at low pressure. When MAP falls (e.g., hemorrhage), increased sympathetic stimulation causes venoconstriction, which reduces venous holding capacity and shifts blood to the arterial side, raising MAP."
-  },
-  {
-    "id": "13",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Fig 15.2",
-    "q": "(Fig 15.2) Compare the five vessel types by diameter and mean wall thickness.",
-    "a": "Artery: Diameter 0.1-10+ mm; Wall thickness 1.0 mm. Arteriole: Diameter 10-100 micrometers; Wall thickness 6.0 micrometers. Capillary: Diameter 4-10 micrometers; Wall thickness 0.5 micrometers. Venule: Diameter 10-100 micrometers; Wall thickness 1.0 micrometers. Vein: Diameter 0.1-100+ mm; Wall thickness 0.5 mm. Key pattern: Arteries have the thickest walls relative to diameter. Capillaries have the thinnest walls overall. Veins are larger but have thinner walls than comparably sized arteries."
-  },
-  {
-    "id": "14",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Fig 15.2",
-    "q": "(Fig 15.2) Compare the wall composition (elastic tissue, smooth muscle, fibrous tissue) across the five vessel types.",
-    "a": "Artery: Large elastic tissue, large smooth muscle, large fibrous tissue. Arteriole: Minimal elastic, LARGE smooth muscle, minimal fibrous. Capillary: NO elastic, NO smooth muscle, NO fibrous — endothelium only. Venule: Minimal elastic, small smooth muscle, minimal fibrous. Vein: Small elastic, small smooth muscle, small fibrous. Key contrast: Arterioles have the most smooth muscle relative to their size, making them the primary site of variable resistance. Arteries have the most elastic tissue, making them the pressure reservoir."
-  },
-  {
-    "id": "15",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Fig 15.3",
-    "q": "(Fig 15.3) Describe the anatomy of the microcirculation and how blood flows through a capillary bed.",
-    "a": "The microcirculation consists of arterioles, capillaries, and small postcapillary venules. From an arteriole, blood can enter metarterioles (partially muscular) which branch into capillary beds guarded by precapillary sphincters. (1) When precapillary sphincters are RELAXED: blood flows through ALL capillaries in the bed, maximizing exchange with tissue. (2) When precapillary sphincters are CONSTRICTED: blood bypasses capillaries completely and flows through metarterioles (arteriovenous bypass) directly to the venule. Collateral arteries also connect arterioles. Blood exits via small venules into larger venules and veins."
-  },
-  {
-    "id": "16",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Smooth Muscle",
-    "q": "Discuss the role of smooth muscle in blood vessels: how does it maintain tone, and what signals modulate it?",
-    "a": "Vascular smooth muscle maintains a state of partial contraction at all times called MUSCLE TONE, which keeps vessels at an intermediate diameter. Tone depends on entry of Ca2+ from extracellular fluid through Ca2+ channels; Ca2+ binds calmodulin, activates myosin light chain kinase (MLCK), and drives crossbridge cycling. Tone is modulated by: (1) Neurotransmitters from autonomic neurons (e.g., norepinephrine from sympathetic neurons). (2) Hormones (e.g., Angiotensin II, epinephrine, ANP). (3) Paracrine signals from endothelial cells or surrounding tissue (e.g., nitric oxide, endothelin, histamine, CO2, adenosine). Increased tone = vasoconstriction; decreased tone = vasodilation."
-  },
-  {
-    "id": "17",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Vasoconstriction: Define it and state what causes it at the cellular level.",
-    "a": "Vasoconstriction is the narrowing of a blood vessel's lumen caused by contraction of vascular smooth muscle. At the cellular level, it is caused by an increase in cytosolic Ca2+ (from extracellular entry through Ca2+ channels). Ca2+ binds calmodulin, the complex activates MLCK, which phosphorylates myosin and increases crossbridge cycling, causing smooth muscle to shorten and the vessel to narrow. Physiological triggers include norepinephrine (via alpha-receptors), vasopressin, angiotensin II, endothelin, and serotonin."
-  },
-  {
-    "id": "18",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Vasodilation: Define it and give examples of physiological signals that cause it.",
-    "a": "Vasodilation is the widening of a blood vessel's lumen caused by relaxation of vascular smooth muscle, resulting from a decrease in cytosolic Ca2+ and reduction in crossbridge activity. Physiological signals that cause vasodilation include: nitric oxide (NO) from vascular endothelium, low O2, high CO2, high H+ and high K+ (metabolic paracrine signals), histamine (from mast cells during inflammation), adenosine (from hypoxic cardiac cells), atrial natriuretic peptide (ANP), bradykinin, epinephrine acting on beta-2-receptors, and acetylcholine (via NO release)."
-  },
-  {
-    "id": "19",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "Review: Anatomy / Keyword",
-    "q": "KEYWORD — Muscle tone: What is vascular muscle tone and why is it physiologically important?",
-    "a": "Muscle tone is the state of partial contraction maintained by vascular smooth muscle at all times, even in the absence of specific stimuli. It is sustained by tonic release of norepinephrine from sympathetic neurons (and other background signals). Physiological importance: Because vessels are already partially contracted, they can respond to signals in BOTH directions — vasodilating below baseline (by decreasing the tonic signal) or vasoconstricting above baseline (by increasing the signal). This bidirectional control allows precise, graded regulation of vessel diameter and blood flow distribution."
-  },
-  {
-    "id": "20",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Fig 15.5",
-    "q": "Explain what creates blood pressure. What happens to the arteries during ventricular CONTRACTION (systole)? (Fig 15.5a)",
-    "a": "Blood pressure is created by ventricular contraction — the force generated by the left ventricle ejecting blood into the aorta. During ventricular systole (contraction): (1) The ventricle contracts. (2) The aortic (semilunar) valve opens. (3) Blood is ejected into the aorta and large arteries. (4) The arterial walls expand outward and store the pressure energy in their stretched elastic walls. The arteries act as a pressure reservoir during this phase."
-  },
-  {
-    "id": "21",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Fig 15.5",
-    "q": "Explain what maintains blood pressure during ventricular RELAXATION (diastole). What prevents blood from flowing back into the ventricle? (Fig 15.5b)",
-    "a": "During ventricular diastole (relaxation): (1) The ventricle undergoes isovolumic relaxation. (2) The aortic semilunar valve SHUTS, preventing backflow of blood into the ventricle. (3) Elastic recoil of the stretched arterial walls propels blood forward into the rest of the circulatory system. This elastic recoil mechanism sustains driving pressure during diastole, keeping blood flowing continuously even while the heart is relaxing between beats."
-  },
-  {
-    "id": "22",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Keyword",
-    "q": "KEYWORD — Systolic pressure: Define it, give its typical value, and explain what it reflects.",
-    "a": "Systolic pressure is the HIGHER value of blood pressure, measured during ventricular systole (contraction), when the left ventricle ejects blood into the aorta. Typical value: approximately 120 mm Hg. It reflects the peak pressure generated in the large arteries by ventricular ejection. A systolic pressure consistently over 140 mm Hg at rest is considered a sign of hypertension."
-  },
-  {
-    "id": "23",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Keyword",
-    "q": "KEYWORD — Diastolic pressure: Define it, give its typical value, and explain what it reflects.",
-    "a": "Diastolic pressure is the LOWER value of blood pressure, measured during ventricular diastole (relaxation). Typical value: approximately 80 mm Hg. It reflects the residual pressure in the elastic arteries as they recoil between heartbeats, propelling blood forward. Diastolic pressure remains relatively high (compared to capillary pressure) because the elastic arterial walls store and slowly release energy. A diastolic pressure chronically over 90 mm Hg is a sign of hypertension."
-  },
-  {
-    "id": "24",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Keyword",
-    "q": "KEYWORD — Pulse: What is the pulse, what creates it, and how fast does it travel?",
-    "a": "The pulse is a rapid pressure wave (pressure increase) felt in the arteries that corresponds to each ventricular contraction. It is created when the left ventricle pushes blood into the aorta during systole, causing a rapid rise in pressure that travels down the arterial tree. The pulse (pressure wave) travels approximately 10 times FASTER than the blood itself moves. The amplitude of the pressure wave decreases over distance due to friction and disappears by the time blood reaches the capillaries."
-  },
-  {
-    "id": "25",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Keyword",
-    "q": "KEYWORD — Pulse pressure: Define it, give the formula, and calculate it for a blood pressure of 120/80.",
-    "a": "Pulse pressure is the difference between systolic and diastolic pressure; it is a measure of the strength of the pressure wave. Formula: Pulse pressure = Systolic pressure minus Diastolic pressure. For 120/80 mm Hg: Pulse pressure = 120 - 80 = 40 mm Hg."
-  },
-  {
-    "id": "26",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Keyword",
-    "q": "KEYWORD — Respiratory pump: How does breathing assist venous return to the heart?",
-    "a": "The respiratory pump uses pressure changes in the chest cavity (thorax) during breathing to assist venous return. During INHALATION, the diaphragm descends and lung volume increases, causing a drop in intrathoracic pressure. This drop in pressure creates a pressure gradient that draws blood from the peripheral veins toward the lower-pressure thorax and into the right atrium, enhancing venous return to the heart. One-way venous valves prevent backflow during exhalation."
-  },
-  {
-    "id": "27",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Keyword",
-    "q": "KEYWORD — Skeletal muscle pump: How does skeletal muscle contraction assist venous return?",
-    "a": "The skeletal muscle pump uses contractions of surrounding skeletal muscles (especially calf and leg muscles) to squeeze the thin-walled veins and force blood toward the heart. When calf muscles contract, they compress veins and push blood forward past one-way venous valves, which prevent backflow. This is especially important for returning blood from the lower extremities against gravity. The skeletal muscle pump also plays a significant role in driving lymph flow through the lymphatic system."
-  },
-  {
-    "id": "28",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Fig 15.6",
-    "q": "(Fig 15.6) How does blood pressure change as blood flows through the systemic circulation, and why?",
-    "a": "Blood pressure is HIGHEST in the arteries (systolic ~120 mm Hg, diastolic ~80 mm Hg) and decreases continuously as blood flows through the systemic circulation. The greatest pressure drop occurs across the arterioles (the site of highest resistance, contributing more than 60% of total resistance). Pressure continues to fall through capillaries, venules, and veins. By the time blood reaches the right atrium, pressure is essentially 0 mm Hg. The decrease occurs because energy is lost as heat due to friction between blood and vessel walls and between blood cells. The pulsatile pressure wave (seen in arteries) disappears by the capillaries; venous blood flows steadily."
-  },
-  {
-    "id": "29",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Table 15.1",
-    "q": "(Table 15.1) Explain the relationship between blood flow, pressure gradients, and resistance. State the governing equation and its key rules.",
-    "a": "The governing equation is: Flow (F) is proportional to the Pressure Gradient (delta-P) divided by Resistance (R) — written as F proportional to delta-P / R. Key rules: (1) Blood flows only when a pressure gradient (delta-P) exists. (2) Blood flows from HIGHER to LOWER pressure. (3) Blood flow is OPPOSED by resistance (R) of the system. (4) Three factors affect resistance: (a) radius of blood vessels (most important — R proportional to 1/r^4), (b) length of blood vessels, (c) viscosity of the blood. (5) Blood flow is usually expressed in liters or milliliters per minute. (6) Velocity depends primarily on total cross-sectional area of the vessel(s), not individual diameter."
-  },
-  {
-    "id": "30",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Keyword (MAP) / Fig 15.7",
-    "q": "KEYWORD — Mean arterial pressure (MAP): Define it, give the formula, explain why it is used instead of systolic or diastolic pressure, and calculate it for 120/80 mm Hg.",
-    "a": "MAP (Mean Arterial Pressure) is the time-averaged driving pressure for blood flow through the systemic circulation. It is used because arterial pressure is pulsatile, making a single representative value more useful. Formula: MAP = Diastolic pressure + 1/3 (Systolic pressure - Diastolic pressure). For 120/80: MAP = 80 + 1/3(120 - 80) = 80 + 13.3 = approximately 93 mm Hg. MAP is CLOSER to diastolic pressure than to systolic because diastole lasts approximately twice as long as systole. MAP is directly proportional to cardiac output times peripheral resistance: MAP proportional to CO x R."
-  },
-  {
-    "id": "31",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Keyword (MAP) / Fig 15.7",
-    "q": "Describe how blood pressure is estimated using sphygmomanometry (step-by-step procedure). Where on the body is it performed? (Fig 15.7)",
-    "a": "Sphygmomanometry uses a sphygmomanometer (inflatable cuff + pressure gauge) and a stethoscope to estimate arterial blood pressure at the brachial artery of the upper arm. Steps: (1) Inflate cuff above systolic pressure (e.g., above 120 mm Hg) — arterial blood flow stops; NO sounds heard. (2) Slowly RELEASE cuff pressure. (3) When cuff pressure falls BELOW systolic pressure: blood begins to flow again in spurts through the still-compressed artery. The FIRST Korotkoff sound is heard — this IS the systolic pressure reading. (4) Continue releasing pressure — Korotkoff sounds continue as long as flow is turbulent. (5) When cuff pressure drops BELOW diastolic pressure: artery is no longer compressed; flow becomes laminar and smooth; sounds DISAPPEAR — this is the diastolic pressure reading. Written as: systolic/diastolic (e.g., 120/80)."
-  },
-  {
-    "id": "32",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Keyword",
-    "q": "KEYWORD — Korotkoff sounds: What are they, what causes them, and what do their first appearance and disappearance indicate?",
-    "a": "Korotkoff sounds are thumping noises heard through a stethoscope during sphygmomanometry. Cause: Turbulent blood flow through the partially compressed artery as cuff pressure falls between systolic and diastolic values. First appearance: The first Korotkoff sound marks the SYSTOLIC pressure (cuff pressure just fell below peak arterial pressure; blood begins to flow through the compressed segment in spurts). Disappearance: When sounds cease, this marks the DIASTOLIC pressure (cuff pressure is now below the lowest arterial pressure; artery is no longer compressed and flow returns to smooth, silent, laminar flow)."
-  },
-  {
-    "id": "33",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Fig 15.8a",
-    "q": "(Fig 15.8a) Explain the contributions of cardiac output (CO) and peripheral resistance (R) to blood pressure. What happens to MAP if CO increases? If R increases?",
-    "a": "MAP is proportional to CO times R: MAP proportional to CO x R. This follows the principle of mass balance: arterial blood volume (and therefore pressure) is determined by blood flowing IN (cardiac output from the left ventricle) versus blood flowing OUT (controlled by peripheral resistance of arterioles). If CO INCREASES (R unchanged): more blood flows into the arteries than flows out, arterial volume increases, MAP RISES. If R INCREASES (CO unchanged): less blood flows out of the arteries, blood accumulates, MAP RISES. If CO DECREASES: arterial volume falls, MAP DECREASES. Most hypertension is caused by increased peripheral resistance without changes in cardiac output."
-  },
-  {
-    "id": "34",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.2 / Fig 15.8b",
-    "q": "(Fig 15.8b) What are the four major determinants of mean arterial blood pressure, and what sub-factors determine each?",
-    "a": "(1) Blood volume: determined by fluid intake and fluid loss (regulated passively or at the kidneys). (2) Effectiveness of the heart as a pump (cardiac output): determined by heart rate and stroke volume. (3) Resistance of the system to blood flow: determined primarily by the diameter of the arterioles. (4) Relative distribution of blood between arterial and venous blood vessels: determined by the diameter of the veins. All four factors ultimately feed into MAP = CO x R."
-  },
-  {
-    "id": "35",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.3 / Three Mechanisms",
-    "q": "List the three mechanisms that control arteriolar resistance.",
-    "a": "(1) LOCAL CONTROL: Matches tissue blood flow to the metabolic needs of that individual tissue. Operates via paracrine signals (e.g., O2 levels, CO2, NO, adenosine). In heart and skeletal muscle, local controls often take precedence over CNS reflex control. (2) SYMPATHETIC REFLEXES mediated by the CNS: Maintain MAP and determine blood distribution to various tissues to meet homeostatic needs (e.g., temperature regulation). Operate via norepinephrine on alpha-receptors. (3) HORMONES (particularly those regulating renal salt/water excretion, e.g., Angiotensin II and ANP): Influence blood pressure by acting directly on arterioles and by altering autonomic reflex control."
-  },
-  {
-    "id": "36",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.3 / Keyword",
-    "q": "KEYWORD — Myogenic autoregulation: Define it, describe the cellular mechanism, and explain its role in local blood flow control.",
-    "a": "Myogenic autoregulation is the ability of vascular smooth muscle to regulate its own state of contraction in response to changes in stretch (pressure). Role: When blood pressure rises, it prevents a proportional increase in blood flow — the arteriole constricts automatically to maintain relatively constant flow. Cellular mechanism (8 steps): (1) Increased BP stretches arteriolar smooth muscle. (2) Mechanically gated cation channels open. (3) Cation entry depolarizes the cell. (4) Voltage-gated Ca2+ channels open. (5) Ca2+ enters down its electrochemical gradient. (6) Ca2+ binds calmodulin. (7) Ca2+-calmodulin activates myosin light chain kinase (MLCK). (8) MLCK drives crossbridge cycling, causing CONTRACTION (vasoconstriction), increasing resistance and reducing flow."
-  },
-  {
-    "id": "37",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.3 / Keyword / Fig 15.10",
-    "q": "KEYWORD — Active hyperemia: Define it, identify its mechanism, and trace the Fig 15.10a flow diagram.",
-    "a": "Active hyperemia is the process in which an INCREASE in blood flow accompanies an INCREASE in metabolic activity. Mechanism: As tissue metabolism increases, O2 levels fall and CO2 production rises. Both low O2 and high CO2 act as vasodilators on local arterioles. Vasodilation lowers resistance and increases blood flow, delivering additional O2 and removing waste CO2. Fig 15.10a flow: Increased tissue metabolism → increased release of metabolic vasodilators into ECF → arterioles dilate → decreased resistance → increased blood flow → increased O2 and nutrient supply as long as metabolism remains elevated."
-  },
-  {
-    "id": "38",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.3 / Keyword / Fig 15.10",
-    "q": "KEYWORD — Reactive hyperemia: Define it, explain its mechanism, and trace the Fig 15.10b flow diagram.",
-    "a": "Reactive hyperemia is an INCREASE in tissue blood flow following a PERIOD OF LOW PERFUSION (occlusion). Mechanism: If blood flow is occluded for seconds to minutes, O2 levels fall and vasodilator metabolites (CO2, H+, NO) accumulate in the interstitial fluid. When the occlusion is removed, these accumulated vasodilators immediately trigger significant vasodilation, producing a surge of blood flow above normal. As vasodilators are washed away, arteriolar radius gradually returns to normal. Fig 15.10b flow: Decreased blood flow due to occlusion → metabolic vasodilators accumulate → arterioles dilate (but occlusion blocks flow) → remove occlusion → decreased resistance → increased blood flow → as vasodilators wash away, arterioles reconstrict and flow normalizes."
-  },
-  {
-    "id": "39",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.3 / Neural & Hormonal / Table 15.2",
-    "q": "(Table 15.2) What are the five chemical mediators of VASOCONSTRICTION? For each, state its physiological role, source, and type.",
-    "a": "(1) Norepinephrine (alpha-receptors): Mediates baroreceptor reflex. Source: sympathetic neurons. Type: neurotransmitter. (2) Serotonin: Platelet aggregation and smooth muscle contraction; slows blood loss from damaged vessels. Source: neurons, digestive tract, activated platelets. Type: paracrine signal and neurotransmitter. (3) Endothelin: Local control of blood flow. Source: vascular endothelium. Type: paracrine signal. (4) Vasopressin: Increases blood pressure in hemorrhage. Source: posterior pituitary. Type: neurohormone. (5) Angiotensin II (ANG II): Increases blood pressure; also affects kidney excretion of ions and water. Source: formed from plasma precursor. Type: hormone."
-  },
-  {
-    "id": "40",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.3 / Neural & Hormonal / Table 15.2",
-    "q": "(Table 15.2) What are the major chemical mediators of VASODILATION? For each, state its physiological role, source, and type.",
-    "a": "(1) Epinephrine (beta-2-receptors): Increases blood flow to skeletal muscle, heart, liver during fight-or-flight. Source: adrenal medulla. Type: neurohormone. (2) Acetylcholine: Erection reflex (indirectly via NO production). Source: parasympathetic neurons. Type: neurotransmitter. (3) Nitric oxide (NO): Local control of blood flow; reactive hyperemia; erection reflex. Source: endothelium. Type: paracrine. (4) Bradykinin (via NO): Increases blood flow. Source: multiple tissues. Type: paracrine. (5) Adenosine: Increases flow to match metabolism (especially myocardium). Source: hypoxic cells. Type: paracrine. (6) Low O2 / high CO2 / high H+ / high K+: Active hyperemia. Source: cell metabolism. Type: paracrine. (7) Histamine: Increases blood flow during inflammation. Source: mast cells. Type: paracrine. (8) ANP (Atrial Natriuretic Peptide): Reduces blood pressure. Source: atrial myocardium. Type: hormone. (9) Vasoactive intestinal peptide (VIP): Digestive secretion, smooth muscle relaxation. Source: neurons. Type: neurotransmitter/neurohormone."
-  },
-  {
-    "id": "41",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.3 / Neural Control / Fig 15.11a",
-    "q": "(Fig 15.11a) Describe the neural (sympathetic) control of arteriolar diameter, including the neurotransmitter, receptor, and what happens when the signal increases or decreases.",
-    "a": "Most systemic arterioles are under tonic sympathetic control. Sympathetic neurons tonically (continuously) release NOREPINEPHRINE (NE) onto ALPHA-RECEPTORS on arteriolar smooth muscle, maintaining a baseline partial contraction (muscle tone). Three states: (1) MODERATE signal rate: blood vessel at intermediate (normal) diameter. (2) INCREASED signal rate (more NE onto alpha-receptors): smooth muscle constricts more strongly — VASOCONSTRICTION. (3) DECREASED signal rate (less NE onto alpha-receptors): smooth muscle relaxes from its tonic state — VASODILATION. This system allows bidirectional control of vessel diameter from a single neurotransmitter by modulating the frequency of sympathetic firing."
-  },
-  {
-    "id": "42",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.3 / Neural Control / Fig 15.11a",
-    "q": "Describe the role of epinephrine in vascular control, including its receptor types, the tissues where each receptor is found, and the vascular response produced.",
-    "a": "Epinephrine from the adrenal medulla acts on two receptor types in blood vessels: (1) ALPHA-RECEPTORS: Found on most systemic arteriolar smooth muscle. Epinephrine can bind (lower affinity than NE), causing VASOCONSTRICTION. (2) BETA-2-RECEPTORS: Found on arterioles of the HEART, LIVER, and SKELETAL MUSCLES. These are NOT innervated; they respond primarily to CIRCULATING epinephrine from the adrenal medulla. Activation causes VASODILATION — increasing blood flow to these tissues. Context: During fight-or-flight, generalized sympathetic activity plus circulating epinephrine causes: vasoconstriction (via alpha-receptors) in non-essential organs (e.g., GI tract), AND vasodilation (via beta-2-receptors) in skeletal muscle, heart, and liver — diverting blood to where it is needed."
-  },
-  {
-    "id": "43",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.3 / Hormonal Control",
-    "q": "Describe the role of HORMONES in the control of blood vessel diameter. Which two hormones are highlighted in the study guide, and how do they act?",
-    "a": "Hormones are the third mechanism controlling arteriolar resistance, particularly hormones that regulate renal salt/water excretion: (1) ANGIOTENSIN II (ANG II): A powerful vasoconstrictor. Acts directly on arterioles (via its receptors on smooth muscle), causing vasoconstriction and raising MAP. Also affects kidney excretion of ions and water. Clinically, ACE inhibitors block ANG II production to treat hypertension. (2) ATRIAL NATRIURETIC PEPTIDE (ANP): A vasodilator. Secreted by atrial myocardium when atrial wall is stretched (e.g., high blood volume). Acts on arterioles to reduce blood pressure and stimulates kidneys to excrete water/sodium, reducing blood volume."
-  },
-  {
-    "id": "44",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.3 / Fig 15.11b",
-    "q": "(Fig 15.11b) Explain the multiple factors that affect blood flow through the systemic circulation. Use the Poiseuille's Law framework.",
-    "a": "Blood flow (F) is proportional to delta-P / R. Two major determinants: (1) PRESSURE GRADIENT (delta-P) = Mean Arterial Pressure (MAP) minus right atrial pressure (approximately 0). MAP is determined by blood volume (total volume and arterial-venous distribution) and cardiac output (heart rate x stroke volume, modulated by autonomic and intrinsic control). (2) RESISTANCE (R): Poiseuille's Law — R proportional to Length x Viscosity / Radius^4. Therefore flow increases with: larger radius^4, lower viscosity, and shorter vessel length. In practice, radius is the primary variable. Arteriolar radius is determined by REFLEX CONTROL (sympathetic nervous system) and LOCAL CONTROL (myogenic, paracrine metabolic signals). Flow through an individual arteriole is proportional to 1/R of that arteriole."
-  },
-  {
-    "id": "45",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.5 / Keyword",
-    "q": "KEYWORD — Cardiovascular control center (CVCC): What is it, where is it located, and what is its primary function?",
-    "a": "The cardiovascular control center (CVCC) is a CNS network (a simplification, as the actual neural network is complex) located in the MEDULLA OBLONGATA of the brainstem. It serves as the main integrating center for cardiovascular reflex control. Primary function: Ensure adequate blood flow (perfusion) to the brain and heart by maintaining sufficient mean arterial pressure. The CVCC: (1) constantly monitors MAP, (2) receives input from baroreceptors, chemoreceptors, and higher brain centers (hypothalamus, cerebral cortex), and (3) adjusts its output to both sympathetic and parasympathetic autonomic neurons to maintain homeostasis."
-  },
-  {
-    "id": "46",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.5 / Keyword",
-    "q": "KEYWORD — Baroreceptors: What are they, where are they located, what type of receptor are they, and how do they respond to changes in blood pressure?",
-    "a": "Baroreceptors are STRETCH-SENSITIVE MECHANORECEPTORS that are TONICALLY ACTIVE (continuously firing at normal blood pressure). Location: walls of the CAROTID ARTERIES (carotid sinus — monitor pressure of blood flowing to the brain) and the AORTA (aortic arch — monitor pressure of blood flowing to the body). Response: When blood pressure RISES, the arterial walls stretch more, increasing the firing rate of action potentials sent to the CVCC. When blood pressure FALLS, less stretch occurs, firing rate DECREASES. The CVCC integrates this changing frequency and initiates appropriate reflex responses."
-  },
-  {
-    "id": "47",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.5 / Fig 15.14",
-    "q": "(Fig 15.14a) Describe the CNS control of the heart and blood vessels. Which divisions of the autonomic nervous system target which cardiac structures, and what is the pattern of innervation for blood vessels?",
-    "a": "Central element: The medullary cardiovascular control center (CVCC). Heart targets: (1) SA node receives BOTH sympathetic and parasympathetic innervation (antagonistic control of heart rate). (2) Ventricles receive primarily SYMPATHETIC innervation (control of force of contraction). Blood vessel targets: (3) Arterioles and veins receive SYMPATHETIC innervation ONLY (tonic control — arterioles are maintained at intermediate diameter by tonic NE release; increasing or decreasing sympathetic firing causes vasoconstriction or vasodilation). Input to CVCC: Change in blood pressure is detected by carotid and aortic baroreceptors, transmitted via sensory neurons to the CVCC."
-  },
-  {
-    "id": "48",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.5 / Fig 15.14",
-    "q": "(Fig 15.14b) Describe ALL steps of the baroreceptor reflex in response to INCREASED blood pressure, naming every neurotransmitter, receptor, target tissue, and feedback type.",
-    "a": "STIMULUS: Increased mean arterial pressure (MAP). SENSOR: Baroreceptors in carotid arteries and aorta — increased stretch increases their firing rate. AFFERENT PATHWAY: Sensory neurons carry increased action potential frequency to the CVCC. INTEGRATING CENTER: Cardiovascular control center (CVCC) in the medulla oblongata. OUTPUT SIGNALS: (A) DECREASED sympathetic output — less norepinephrine (NE) released. (B) INCREASED parasympathetic output — more acetylcholine (ACh) released onto muscarinic receptors. TARGETS AND CELLULAR/TISSUE RESPONSES: (1) Arteriolar smooth muscle via alpha-receptor: less NE → smooth muscle relaxes → VASODILATION → decreased peripheral resistance. (2) Ventricular myocardium via beta-1-receptor: less NE → decreased force of contraction → decreased stroke volume → decreased cardiac output. (3) SA node via beta-1-receptor: less NE + more ACh on muscarinic receptor → DECREASED heart rate → decreased cardiac output. SYSTEMIC RESPONSE: Decreased peripheral resistance PLUS decreased cardiac output → DECREASED MAP. FEEDBACK: Negative feedback — decreased MAP reduces stretch on baroreceptors, reducing their firing rate, returning the system toward the original set point."
-  },
-  {
-    "id": "49",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.5 / Fig 15.14",
-    "q": "Describe the baroreceptor reflex in response to a DECREASE in blood pressure (e.g., orthostatic hypotension), naming neurotransmitters and receptors.",
-    "a": "STIMULUS: Decreased MAP (e.g., upon standing — blood pools in legs, decreasing venous return and cardiac output). SENSOR: Baroreceptors in carotid arteries and aorta — decreased stretch decreases their firing rate. AFFERENT: Sensory neurons (reduced firing). INTEGRATING CENTER: CVCC in medulla oblongata. OUTPUT: (A) INCREASED sympathetic output — more NE released. (B) DECREASED parasympathetic output — less ACh. TARGETS: (1) Arterioles (alpha-receptor): more NE → VASOCONSTRICTION → increased peripheral resistance. (2) Ventricles (beta-1-receptor): more NE → increased force of contraction → increased stroke volume. (3) SA node (beta-1-receptor): more NE + less ACh → INCREASED heart rate → increased cardiac output. SYSTEMIC RESPONSE: Increased peripheral resistance PLUS increased cardiac output → INCREASED MAP, restored within TWO HEARTBEATS. FEEDBACK: Negative feedback loop closes as MAP rises back to normal."
-  },
-  {
-    "id": "50",
-    "subj": "PHYS",
-    "doc": "CH15SG",
-    "sec": "15.5 / Fig 15.15",
-    "q": "(Fig 15.15) How does the CVCC integrate a LOCAL change in arteriolar resistance (e.g., arteriole A constricts) with a systemic response to maintain MAP? Trace the full sequence.",
-    "a": "Scenario: Arteriole A constricts due to local control mechanisms. Step 1: Arteriole A constricts → resistance of A (R_A) increases → Total Peripheral Resistance (TPR) increases. Step 2: MAP is proportional to CO x TPR → increased TPR with unchanged CO → MAP RISES above set point. Step 3: Elevated MAP stretches baroreceptors in carotid arteries and aorta → their firing rate increases. Step 4: CVCC receives increased afferent signal → initiates baroreceptor reflex. Step 5: CVCC DECREASES cardiac output (reduces sympathetic drive to heart; increases parasympathetic drive): decreased heart rate and stroke volume. Step 6: New MAP = increased TPR x decreased CO = MAP RESTORED to normal. Key insight: In this example, the CVCC altered CARDIAC OUTPUT but did NOT further change peripheral resistance — the response is targeted and does not simply reverse the local constriction."
-  },
-  {
-    "id": "END",
-    "subj": "END",
-    "doc": "END",
-    "sec": "END",
-    "q": "END",
-    "a": "END"
-  }
+  { "q": "Understand the pathways of blood within the body, and their relationship with the anatomy of the heart and oxygenation/deoxygenation.", "a": "The cardiovascular system is a closed loop. Blood leaves the left heart via the aorta/arteries (oxygenated), travels to arterioles and capillaries (site of exchange), and returns via venules and veins (deoxygenated) to the right heart, then to the lungs for oxygenation, and back to the left heart.", "sec": "15.1 Blood Vessels" },
+  { "q": "What are the five major types of blood vessels?", "a": "1. Arteries, 2. Arterioles, 3. Capillaries, 4. Venules, 5. Veins.", "sec": "15.1 Blood Vessels" },
+  { "q": "Compare and contrast the structure, mechanical properties, and functions of Arteries.", "a": "Stiff and springy walls; thick smooth muscle layer and large amounts of elastic/fibrous connective tissue. Function as a pressure reservoir, maintaining driving pressure for blood flow during ventricular relaxation via elastic recoil.", "sec": "15.1 Blood Vessels" },
+  { "q": "Compare and contrast the structure, mechanical properties, and functions of Arterioles.", "a": "Walls contain several layers of smooth muscle, minimal elastic/fibrous tissue. Function as the site of variable resistance, directing distribution of blood flow to tissues by selectively constricting and dilating.", "sec": "15.1 Blood Vessels" },
+  { "q": "Compare and contrast the structure, mechanical properties, and functions of Capillaries.", "a": "Smallest vessels; walls are a flat layer of endothelium one cell thick supported on a basal lamina, lacking smooth muscle and elastic/fibrous tissue. Function as the primary site of exchange between blood and interstitial fluid.", "sec": "15.1 Blood Vessels" },
+  { "q": "Compare and contrast the structure, mechanical properties, and functions of Venules.", "a": "Distinguished by convergent flow. Smallest have a thin exchange epithelium and little connective tissue (similar to capillaries); larger venules begin to have smooth muscle. Blood flows from capillaries into venules.", "sec": "15.1 Blood Vessels" },
+  { "q": "Compare and contrast the structure, mechanical properties, and functions of Veins.", "a": "Thinner walls than arteries with less elastic tissue, expanding easily. Contain one-way valves. Act as a volume reservoir, holding more than half of the circulatory systems blood.", "sec": "15.1 Blood Vessels" },
+  { "q": "Define Keyword: Vascular smooth muscle", "a": "The smooth muscle of blood vessels, which maintains a state of partial contraction at all times (muscle tone) and whose contraction depends on Ca2+ entry from extracellular fluid.", "sec": "15.1 Blood Vessels" },
+  { "q": "Define Keyword: Metarterioles (Metaarterioles)", "a": "Vessels branching from arterioles that are only partially surrounded by smooth muscle; they can act as bypass channels for blood to bypass capillaries and go directly to venous circulation if precapillary sphincters are closed.", "sec": "15.1 Blood Vessels" },
+  { "q": "Define Keyword: Precapillary sphincters", "a": "Muscle rings at metarteriole-capillary junctions that can open or close off capillaries to restrict or increase blood flow into capillary beds.", "sec": "15.1 Blood Vessels" },
+  { "q": "Define Keyword: Pericytes", "a": "Highly branched contractile cells that surround capillaries, forming a meshlike outer layer. They contribute to capillary permeability tightness and secrete factors influencing capillary growth.", "sec": "15.1 Blood Vessels" },
+  { "q": "Define Keyword: Volume reservoir", "a": "The function of the veins; they hold more than half the blood in the circulatory system and can distribute blood to the arterial side if blood pressure falls too low.", "sec": "15.1 Blood Vessels" },
+  { "q": "Discuss the role of smooth muscle in blood vessels.", "a": "Vascular smooth muscle maintains a state of partial contraction (muscle tone) at all times. It can contract (vasoconstriction) or relax (vasodilation) under the influence of signal molecules (neurotransmitters, hormones, paracrine signals) to regulate vessel diameter and resistance.", "sec": "15.1 Blood Vessels" },
+  { "q": "Define Keyword: Vasoconstriction", "a": "Narrowing of the diameter of the blood vessel lumen.", "sec": "15.1 Blood Vessels" },
+  { "q": "Define Keyword: Vasodilation", "a": "Widening of the diameter of the blood vessel lumen.", "sec": "15.1 Blood Vessels" },
+  { "q": "Define Keyword: Muscle tone", "a": "The state of partial contraction maintained at all times by smooth muscle in most blood vessels.", "sec": "15.1 Blood Vessels" },
+  { "q": "Explain what creates blood pressure.", "a": "Ventricular contraction is the force that creates blood flow. Pressure produced by the left ventricle is stored in the elastic walls of arteries and slowly released through elastic recoil, maintaining continuous driving pressure.", "sec": "15.2 Blood Pressure" },
+  { "q": "Explain how blood pressure changes as blood flows through the systemic circulation.", "a": "Blood pressure is highest in the arteries and decreases continuously as blood flows through the circulatory system, due to energy lost from resistance to flow and friction. It is lowest in the veins and venae cavae.", "sec": "15.2 Blood Pressure" },
+  { "q": "Define Keyword: Systolic pressure", "a": "The higher value of blood pressure during ventricular systole (contraction). The typical average high in the aorta is 120 mm Hg.", "sec": "15.2 Blood Pressure" },
+  { "q": "Define Keyword: Diastolic pressure", "a": "The lower value of blood pressure during ventricular diastole (relaxation). The typical low in the aorta is 80 mm Hg.", "sec": "15.2 Blood Pressure" },
+  { "q": "Define Keyword: Pulse (pressure wave)", "a": "The rapid pressure increase when the left ventricle pushes blood into the aorta, which can be felt in the arteries and travels about 10 times faster than the blood itself.", "sec": "15.2 Blood Pressure" },
+  { "q": "Define Keyword: Pulse pressure", "a": "A measure of the strength of the pressure wave. Formula: Systolic pressure minus diastolic pressure.", "sec": "15.2 Blood Pressure" },
+  { "q": "Define Keyword: Respiratory pump", "a": "A mechanism associated with breathing that aids the return of venous blood to the heart.", "sec": "15.2 Blood Pressure" },
+  { "q": "Define Keyword: Skeletal [muscle] pump", "a": "A mechanism where skeletal muscle contractions compress veins, forcing blood upward past one-way valves to aid venous return to the heart.", "sec": "15.2 Blood Pressure" },
+  { "q": "Explain the relationship between blood flow, pressure gradients, and the resistance of the system to flow.", "a": "Blood flow is directly proportional to the pressure gradient between any two points and inversely proportional to the resistance of the vessels to flow. (Flow is proportional to Delta P / R).", "sec": "15.2 Blood Pressure" },
+  { "q": "Describe how blood pressure is estimated using sphygmomanometry.", "a": "A sphygmomanometer cuff is inflated around the upper arm above systolic pressure to stop arterial flow. As pressure is released, the pressure at which Korotkoff sounds (thumping) are first heard is systolic pressure. The point where sounds disappear is diastolic pressure.", "sec": "15.2 Blood Pressure" },
+  { "q": "Define Keyword: Mean arterial pressure (MAP)", "a": "The driving pressure for blood flow. It is closer to diastolic pressure because diastole lasts twice as long as systole. Formula: MAP = diastolic pressure + 1/3 (systolic pressure minus diastolic pressure).", "sec": "15.2 Blood Pressure" },
+  { "q": "Define Keyword: Korotkoff sound", "a": "Thumping noises heard through a stethoscope during sphygmomanometry; caused by the turbulent pulsatile flow of blood squeezing through a compressed artery.", "sec": "15.2 Blood Pressure" },
+  { "q": "Explain the contributions of cardiac output and peripheral resistance to blood pressure.", "a": "Mean arterial pressure is a balance between blood flow into the arteries (cardiac output) and blood flow out (influenced by peripheral resistance). MAP is proportional to Cardiac Output times Resistance of arterioles.", "sec": "15.2 Blood Pressure" },
+  { "q": "Explain the multiple factors that affect blood pressure (MAP).", "a": "1. Blood volume (fluid intake/loss), 2. Effectiveness of the heart as a pump (cardiac output = heart rate x stroke volume), 3. Resistance of the system to blood flow (diameter of arterioles), 4. Relative distribution of blood between arterial and venous vessels (diameter of veins).", "sec": "15.2 Blood Pressure" },
+  { "q": "List the three mechanisms controlling arteriolar resistance.", "a": "1. Local control of arteriolar resistance (matches tissue blood flow to metabolic needs), 2. Sympathetic reflexes mediated by CNS (maintain MAP and distribution), 3. Hormones (influence BP by acting directly on arterioles and altering autonomic reflex control).", "sec": "15.3 Arterioles" },
+  { "q": "Describe the hormonal and neural control of blood vessel diameter, including significant neurotransmitters and their receptor types.", "a": "Sympathetic neurons release norepinephrine (binds alpha-receptors for vasoconstriction). Epinephrine from adrenal medulla binds alpha-receptors (vasoconstriction) and beta-2-receptors in heart/liver/skeletal muscle (vasodilation).", "sec": "15.3 Arterioles" },
+  { "q": "Define Keyword: Myogenic autoregulation", "a": "Vascular smooth muscles ability to regulate its own state of contraction. When an increase in BP stretches the muscle, mechanically gated channels open, leading to depolarization and calcium entry, causing the arteriole to automatically constrict.", "sec": "15.3 Arterioles" },
+  { "q": "Define Keyword: Active hyperemia", "a": "The process in which an increase in blood flow accompanies an increase in metabolic activity. Decreased O2 and increased CO2 dilate arterioles to bring in additional O2 and remove waste.", "sec": "15.3 Arterioles" },
+  { "q": "Define Keyword: Reactive hyperemia", "a": "An increase in tissue blood flow following a period of low perfusion (decreased blood flow due to occlusion). Accumulated vasodilators like NO and CO2 immediately trigger significant vasodilation once flow resumes.", "sec": "15.3 Arterioles" },
+  { "q": "Explain the multiple factors that affect blood flow.", "a": "Flow is proportional to the pressure gradient (MAP minus right atrial pressure) and inversely proportional to resistance. Resistance increases with vessel length and fluid viscosity, and is inversely proportional to the fourth power of the vessel radius.", "sec": "15.3 Arterioles" },
+  { "q": "Describe in detail the steps of the baroreceptor reflex (Stimulus, Sensor, Afferent, Integrating Center).", "a": "Stimulus: Increase in blood pressure. Sensor: Baroreceptors in carotid arteries and aorta increase firing rate. Afferent: Sensory neurons. Integrating center: Cardiovascular control center (CVCC) in the medulla oblongata.", "sec": "15.5 Regulation" },
+  { "q": "Describe in detail the steps of the baroreceptor reflex (Output, Target, Response).", "a": "Output: Decreased sympathetic output and increased parasympathetic output. Targets: Arteriolar smooth muscle dilates, ventricular myocardium decreases force of contraction, SA node decreases heart rate. Systemic response: Decrease in blood pressure.", "sec": "15.5 Regulation" },
+  { "q": "Define Keyword: Cardiovascular control center (CVCC)", "a": "A CNS network in the medulla oblongata that acts as the main integrating center for cardiovascular reflex control, ensuring adequate blood flow to the brain and heart by maintaining sufficient MAP.", "sec": "15.5 Regulation" },
+  { "q": "Define Keyword: Baroreceptors", "a": "Tonically active, stretch-sensitive mechanoreceptors located in the walls of the carotid arteries and aorta that monitor arterial blood pressure.", "sec": "15.5 Regulation" },
+  { "q": "Review Question 2: Match vessel types (arterioles, arteries, capillaries, veins, venules) to: 1. Store pressure generated by the heart, 2. Have walls that are both stiff and elastic.", "a": "1. Arteries, 2. Arteries.", "sec": "Review Questions" },
+  { "q": "Review Question 2: Match vessel types to: 3. Carry low-oxygen blood, 4. Have thin walls of exchange epithelium.", "a": "3. Veins and Venules (in systemic circulation), 4. Capillaries and Venules.", "sec": "Review Questions" },
+  { "q": "Review Question 2: Match vessel types to: 5. Act as a volume reservoir, 6. Their diameter can be altered by neural input.", "a": "5. Veins, 6. Arterioles and Veins.", "sec": "Review Questions" },
+  { "q": "Review Question 2: Match vessel types to: 7. Blood flow slowest through these vessels, 8. Have lowest blood pressure, 9. Are the main site of variable resistance.", "a": "7. Capillaries and Venules, 8. Veins (specifically venae cavae), 9. Arterioles.", "sec": "Review Questions" },
+  { "q": "Review Question 4: Blood flow to individual tissues is regulated by selective vasoconstriction and vasodilation of which vessels?", "a": "Arterioles.", "sec": "Review Questions" },
+  { "q": "Review Question 6: The rapid pressure increase that occurs when the left ventricle pushes blood into the aorta can be felt as a pressure wave, or [what]? What is the equation used to calculate its strength?", "a": "Pulse. The strength is Pulse Pressure. Equation: Systolic pressure minus diastolic pressure.", "sec": "Review Questions" },
+  { "q": "Review Question 9: When measuring a person's blood pressure, at what point in the procedure are you likely to hear Korotkoff sounds?", "a": "When cuff pressure is between the systolic and diastolic arterial blood pressures, causing turbulent, pulsatile blood flow through the compressed artery.", "sec": "Review Questions" },
+  { "q": "Review Question 10: List three paracrine molecules that cause vasodilation. What is the source of each one?", "a": "1. Nitric oxide (NO) from endothelium; 2. Adenosine from hypoxic cells (myocardium); 3. Histamine from mast cells; (Also: low O2, high CO2, H+, K+ from cell metabolism; Bradykinin from multiple tissues).", "sec": "Review Questions" },
+  { "q": "Review Question 10: In addition to paracrine signals, list two other ways to control smooth muscle contraction in arterioles.", "a": "1. Sympathetic reflexes mediated by the CNS (neural control); 2. Hormones (e.g., atrial natriuretic peptide, angiotensin II, epinephrine).", "sec": "Review Questions" },
+  { "q": "Review Question 11: What is hyperemia? How does active hyperemia differ from reactive hyperemia?", "a": "Hyperemia is a locally mediated increase in blood flow. Active hyperemia accompanies an increase in metabolic activity. Reactive hyperemia follows a period of decreased or occluded blood flow (low perfusion).", "sec": "Review Questions" },
+  { "q": "Review Question 12: Most systemic arterioles are innervated by the __________ branch of the nervous system. Increased sympathetic input will have what effect on arteriole diameter?", "a": "Sympathetic branch. Increased sympathetic input causes vasoconstriction (decreases arteriole diameter).", "sec": "Review Questions" },
+  { "q": "Review Question 13: Match the event Vasoconstriction of intestinal arterioles with appropriate neurotransmitter(s) and receptor(s).", "a": "Norepinephrine or Epinephrine binding to alpha-receptors.", "sec": "Review Questions" },
+  { "q": "Review Question 13: Match the event Vasodilation of coronary arterioles with appropriate neurotransmitter(s) and receptor(s).", "a": "Epinephrine binding to beta-2-receptors.", "sec": "Review Questions" },
+  { "q": "Review Question 13: Match the event Increased heart rate with appropriate neurotransmitter(s) and receptor(s).", "a": "Norepinephrine or Epinephrine binding to beta-1-receptors.", "sec": "Review Questions" },
+  { "q": "Review Question 13: Match the event Decreased heart rate with appropriate neurotransmitter(s) and receptor(s).", "a": "Acetylcholine binding to Muscarinic receptors.", "sec": "Review Questions" },
+  { "q": "Review Question 21: Calcium channel blockers prevent Ca2+ movement through Ca2+ channels. Explain two ways this action lowers blood pressure.", "a": "1. Decreases contractility (causes vasodilation) of vascular smooth muscle. 2. Decreases the depolarization rate of the SA node and decreases force of contraction in the heart.", "sec": "Review Questions" },
+  { "q": "Review Question 21: Why are neurons and other cells unaffected by Calcium channel blockers used for hypertension?", "a": "Other tissues with Ca2+ channels (e.g., neurons) are only minimally affected because their Ca2+ channels are of a different subtype than those in vascular smooth muscle and cardiac muscle.", "sec": "Review Questions" },
+  { "q": "Review Question 23: Map all the following factors that influence mean arterial pressure: blood volume, cardiac output, heart rate, stroke volume, peripheral resistance.", "a": "MAP is proportional to Cardiac Output x Peripheral Resistance. Cardiac Output is determined by Heart Rate x Stroke Volume. MAP is also influenced by Blood Volume.", "sec": "Review Questions" },
+  { "q": "Review Question 24: Define myogenic autoregulation. What mechanisms have been proposed to explain it?", "a": "It is vascular smooth muscles ability to regulate its own state of contraction. Mechanism: Stretch opens mechanically gated channels, causing cation entry, depolarization, opening of voltage-gated Ca2+ channels, Ca2+ entry, and contraction.", "sec": "Review Questions" },
+  { "q": "Review Question 27a: If resistance in vessels 1 and 2 increases because of local paracrine signals but cardiac output is unchanged, what happens to MAP? What happens to flow through vessels 1 and 2? Through vessels 3 and 4?", "a": "MAP increases (because total peripheral resistance increases). Flow through vessels 1 and 2 decreases. Flow is diverted and distributed to lower-resistance vessels, so flow through vessels 3 and 4 increases.", "sec": "Review Questions" },
+  { "q": "Review Question 28: Based on frog heart contractions with Epinephrine, ACh, and Atropine, what conclusion can you draw about the mechanism of action of atropine?", "a": "Atropine blocks the parasympathetic effects of Acetylcholine on heart rate (preventing the decrease in heart rate), but does not block sympathetic effects of Epinephrine. It is likely a muscarinic receptor antagonist.", "sec": "Review Questions" },
+  { "q": "Review Question 35: Calculate the mean arterial pressure (MAP) and pulse pressure for a person with a blood pressure of 115/73.", "a": "Pulse pressure = 115 - 73 = 42 mm Hg. MAP = 73 + 1/3 (42) = 73 + 14 = 87 mm Hg.", "sec": "Review Questions" },
+  { "q": "Concept Check 2: If you check the pulse in a person's carotid artery and left wrist at the same time, would the pressure waves occur simultaneously? Explain.", "a": "No. The pressure wave travels outward from the heart. The carotid artery is closer to the heart than the left wrist, so the pulse at the carotid artery would be felt slightly earlier.", "sec": "Concept Checks" },
+  { "q": "Concept Check 3: Who has the higher pulse pressure, someone with blood pressure of 90/60 or someone with blood pressure of 130/95?", "a": "The person with 130/95. Pulse pressure = systolic - diastolic. 90-60 = 30 mm Hg. 130-95 = 35 mm Hg.", "sec": "Concept Checks" },
+  { "q": "Concept Check 4: If heart rate increases, would the contribution of systolic pressure to mean arterial pressure decrease or increase, and would MAP decrease or increase?", "a": "Since diastole normally lasts twice as long as systole, an increased HR shortens diastole. The contribution of systolic pressure to MAP would increase, and MAP would increase.", "sec": "Concept Checks" },
+  { "q": "Concept Check 5: Peter's systolic pressure is 112 mm Hg, and his diastolic pressure is 68 mm Hg. What is his pulse pressure? His MAP?", "a": "Pulse pressure = 112 - 68 = 44 mm Hg. MAP = 68 + 1/3(44) = 68 + 14.67 = 82.67 mm Hg.", "sec": "Concept Checks" },
+  { "q": "Concept Check 6: Resistance to blood flow is determined primarily by which? (a) blood viscosity, (b) blood volume, (c) cardiac output, (d) blood vessel diameter, or (e) blood pressure gradient.", "a": "(d) blood vessel diameter (specifically, the radius of the arterioles).", "sec": "Concept Checks" },
+  { "q": "Concept Check 7: The extracellular fluid concentration of K+ increases in exercising skeletal muscles. What effect does this increase in K+ have on blood flow in the muscles?", "a": "Increased K+ is a metabolic paracrine signal (indicative of increased cellular activity) that causes vasodilation, thereby increasing blood flow to the exercising muscles.", "sec": "Concept Checks" },
+  { "q": "Concept Check 8: What happens when epinephrine combines with beta-1-receptors in the heart? With beta-2-receptors in the heart?", "a": "Beta-1 receptors on the SA node and ventricular myocardium increase heart rate and force of contraction. Beta-2 receptors on coronary arterioles cause vasodilation, increasing blood flow to heart muscle.", "sec": "Concept Checks" },
+  { "q": "Concept Check 9: Skeletal muscle arterioles have both alpha- and beta-receptors on their smooth muscle. Epinephrine can bind to both. Will these arterioles constrict or dilate in response to epinephrine? Explain.", "a": "They will dilate. Although epinephrine can bind to both, it has a higher affinity for beta-2 receptors (which cause vasodilation) than for alpha-receptors in these specific tissues.", "sec": "Concept Checks" },
+  { "q": "Concept Check 12: Map the reflex response to orthostatic hypotension.", "a": "Stimulus: Drop in BP upon standing. Sensor: Baroreceptors decrease firing rate. Afferent: Sensory neurons. Integrating Center: CVCC. Output: Increased sympathetic, decreased parasympathetic. Target/Response: Arterioles/Veins constrict, SA node increases HR, Ventricles increase force. Systemic: BP increases to normal.", "sec": "Concept Checks" },
+  { "q": "Concept Check 13: Map a reflex map showing the cardiovascular response to a fight-or-flight situation.", "a": "Stimulus: Fear. Integrating Center: CVCC & hypothalamus. Output: Increased sympathetic & adrenal epinephrine. Responses: SA node increases HR, myocardium increases force, systemic arterioles constrict (alpha), skeletal/heart arterioles dilate (beta-2). Cardiac output increases.", "sec": "Concept Checks" },
+  { "q": "END", "a": "END", "sec": "END" }
 ]
