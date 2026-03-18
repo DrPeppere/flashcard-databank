@@ -28,5 +28,11 @@
     "subject": "PHYS",
     "doc": "CH18",
     "file": "decks/CH18Flashcards.json"
+  },
+  {
+    "name": "Exam3(14-18) Flashcards",
+    "subject": "PHYS",
+    "doc": "Exam3",
+    "file": "decks/Exam3(14-18).json"
   }
 ]
