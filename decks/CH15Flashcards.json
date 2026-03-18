@@ -1,48 +1,232 @@
 [
-{ q: "Describe the pathways of blood within the body, including its relationship with heart anatomy and oxygenation/deoxygenation.", a: "Oxygenated blood leaves the Left Heart, enters the Aorta/Systemic Arteries, travels to Arterioles and Capillaries (exchange occurs, becoming deoxygenated). It travels through Venules to Systemic Veins (Venae Cavae), entering the Right Heart. It pumps via the Pulmonary Artery to the Lungs (oxygenation), returning via the Pulmonary Vein to the Left Heart.", sec: "Anatomy of Blood Vessels" },
-{ q: "What are the five major types of blood vessels?", a: "1. Arteries 2. Arterioles 3. Capillaries 4. Venules 5. Veins", sec: "Anatomy of Blood Vessels" },
-{ q: "Compare and contrast the structure, mechanical properties, and functions of Arteries.", a: "Structure/Properties: Thick smooth muscle, large amounts of elastic and fibrous connective tissue. Stiff and springy walls. Function: Act as a pressure reservoir that maintains a continuous driving pressure for blood flow during ventricular relaxation through elastic recoil.", sec: "Anatomy of Blood Vessels" },
-{ q: "Compare and contrast the structure, mechanical properties, and functions of Arterioles.", a: "Structure/Properties: Walls contain several layers of smooth muscle but minimal elastic or fibrous tissue. Function: Act as the site of variable resistance; they direct the distribution of blood flow to individual tissues by selectively constricting and dilating.", sec: "Anatomy of Blood Vessels" },
-{ q: "Compare and contrast the structure, mechanical properties, and functions of Capillaries.", a: "Structure/Properties: Thinnest walls, lacking smooth muscle and elastic/fibrous tissue. Composed of a single layer of flattened endothelium supported on a basal lamina. Function: Primary site of exchange of materials between plasma, interstitial fluid, and cells.", sec: "Anatomy of Blood Vessels" },
-{ q: "Compare and contrast the structure, mechanical properties, and functions of Venules.", a: "Structure/Properties: Smallest vessels downstream from capillaries; thin exchange epithelium, minimal connective tissue. Larger venules begin to have smooth muscle. Function: Distinguish themselves by a convergent pattern of flow, carrying blood from capillaries to veins.", sec: "Anatomy of Blood Vessels" },
-{ q: "Compare and contrast the structure, mechanical properties, and functions of Veins.", a: "Structure/Properties: Thinner walls than arteries, with less elastic tissue. They expand easily when filling with blood. Function: Act as the volume reservoir of the circulatory system, holding more than half of the circulating blood, which can be sent to the arterial side if needed.", sec: "Anatomy of Blood Vessels" },
-{ q: "What is the specific Location and Function of vascular smooth muscle?", a: "Location: Found in layers (circular or spiral) surrounding the endothelium in most blood vessels (especially arteries and arterioles). Function: Maintains muscle tone (partial contraction) and regulates blood vessel diameter via vasoconstriction and vasodilation.", sec: "Anatomy of Blood Vessels" },
-{ q: "What is the specific Location and Function of metarterioles?", a: "Location: Vessels branching off arterioles into capillary beds. Function: Wall is only partially surrounded by smooth muscle; acts as a bypass channel directing blood straight into the venous circulation if precapillary sphincters are constricted.", sec: "Anatomy of Blood Vessels" },
-{ q: "What is the specific Location and Function of precapillary sphincters?", a: "Location: Muscle rings located at the junction where metarterioles flow into true capillaries. Function: Can open or close off capillaries to locally regulate blood flow into capillary beds.", sec: "Anatomy of Blood Vessels" },
-{ q: "What is the specific Location and Function of pericytes?", a: "Location: Closely associated with the outer layer of capillaries, forming a meshlike layer between endothelium and interstitial fluid. Function: Contractile cells that contribute to capillary 'tightness' (decrease leakiness) and secrete factors influencing capillary growth.", sec: "Anatomy of Blood Vessels" },
-{ q: "Discuss the role of smooth muscle in blood vessels.", a: "Vascular smooth muscle maintains a state of partial contraction called muscle tone. By contracting (vasoconstriction), it narrows the vessel lumen, increasing resistance. By relaxing (vasodilation), it widens the lumen, decreasing resistance and altering blood flow.", sec: "Anatomy of Blood Vessels" },
-{ q: "Define vasoconstriction.", a: "The narrowing of the diameter of the blood vessel lumen, caused by the contraction of vascular smooth muscle.", sec: "Anatomy of Blood Vessels" },
-{ q: "Define vasodilation.", a: "The widening of the diameter of the blood vessel lumen, caused by the relaxation of vascular smooth muscle.", sec: "Anatomy of Blood Vessels" },
-{ q: "Define muscle tone as it relates to blood vessels.", a: "A state of partial contraction maintained at all times by the vascular smooth muscle cells in most blood vessels.", sec: "Anatomy of Blood Vessels" },
-{ q: "Define volume reservoir.", a: "A functional term for systemic veins. Because veins have thin, easily expandable walls, they hold more than half of the blood in the circulatory system, which can be redistributed to the arterial side if blood pressure falls.", sec: "Anatomy of Blood Vessels" },
-{ q: "Explain what creates blood pressure.", a: "Blood pressure is created by the force of ventricular contraction. Ejected blood expands the elastic walls of the aorta and arteries, which store the pressure and release it through elastic recoil, propelling blood forward.", sec: "15.2 Blood Pressure" },
-{ q: "Explain how blood pressure changes as blood flows through the systemic circulation.", a: "Blood pressure is highest in the arteries and decreases continuously as it flows through arterioles, capillaries, venules, and veins. This decrease occurs because energy is lost as friction (resistance to flow) from the vessel walls and between blood cells.", sec: "15.2 Blood Pressure" },
-{ q: "Define systolic pressure.", a: "The highest pressure in the arteries, occurring during ventricular systole (contraction). The average high in the aorta is 120 mm Hg.", sec: "15.2 Blood Pressure" },
-{ q: "Define diastolic pressure.", a: "The lowest pressure in the large arteries, occurring during ventricular diastole (relaxation). The pressure falls to a typical low of 80 mm Hg.", sec: "15.2 Blood Pressure" },
-{ q: "Define pulse (pressure wave).", a: "The rapid pressure increase that occurs when the left ventricle pushes blood into the aorta, which travels through the arteries about 10 times faster than the blood itself.", sec: "15.2 Blood Pressure" },
-{ q: "Define pulse pressure.", a: "A measure of the strength of the pressure wave. It is calculated by the formula: Systolic pressure minus diastolic pressure.", sec: "15.2 Blood Pressure" },
-{ q: "Define respiratory pump.", a: "A mechanism that aids venous return. Changes in pressure in the thoracic cavity during breathing assist in drawing venous blood upward against gravity toward the heart.", sec: "15.2 Blood Pressure" },
-{ q: "Define skeletal muscle pump.", a: "A mechanism that aids venous return. When skeletal muscles contract, they compress the veins, forcing blood upward past one-way valves toward the heart.", sec: "15.2 Blood Pressure" },
-{ q: "Explain the relationship between blood flow, pressure gradients, and the resistance of the system to flow.", a: "Blood flow obeys fluid rules: Flow is directly proportional to the pressure gradient (delta P) between two points, and inversely proportional to the resistance (R) of the vessels. Formula: Flow is proportional to delta P / R.", sec: "15.2 Blood Pressure" },
-{ q: "Describe the Process of estimating blood pressure using sphygmomanometry.", a: "1. Inflate a cuff around the upper arm above systolic pressure (>120 mm Hg) to stop arterial flow. \n2. Gradually release cuff pressure. \n3. When cuff pressure falls below systolic, blood squeezes through, creating Korotkoff sounds (turbulent flow) = Systolic pressure. \n4. When sounds disappear (flow smooths out) = Diastolic pressure.", sec: "15.2 Blood Pressure" },
-{ q: "Define mean arterial pressure (MAP).", a: "A single value representing the driving pressure for blood flow. It is closer to diastolic pressure because diastole lasts twice as long as systole. Formula: MAP = diastolic pressure + 1/3 (pulse pressure).", sec: "15.2 Blood Pressure" },
-{ q: "Define Korotkoff sound.", a: "A thumping noise heard through a stethoscope during sphygmomanometry, caused by the pulsatile, turbulent flow of blood squeezing through a still-compressed artery.", sec: "15.2 Blood Pressure" },
-{ q: "Explain the contributions of cardiac output and peripheral resistance to blood pressure.", a: "Mean arterial pressure is a balance between flow into the arteries (Cardiac Output) and flow out of the arteries, which is determined by the resistance of the arterioles (Peripheral Resistance). Formula: MAP is proportional to Cardiac Output x Peripheral Resistance.", sec: "15.2 Blood Pressure" },
-{ q: "Explain the multiple factors that affect blood pressure (Mean Arterial Blood Pressure).", a: "1. Blood volume (determined by fluid intake/loss). \n2. Effectiveness of heart pump/Cardiac Output (determined by heart rate & stroke volume). \n3. Resistance to blood flow (determined by arteriole diameter). \n4. Distribution of blood between arterial and venous vessels (determined by vein diameter).", sec: "15.2 Blood Pressure" },
-{ q: "List the three mechanisms controlling arteriolar resistance.", a: "1. Local control (matches tissue flow to metabolic needs).\n2. Sympathetic reflexes mediated by CNS (maintains MAP and homeostatic distribution).\n3. Hormonal control (influences blood pressure directly and by altering autonomic reflex control).", sec: "15.3 Resistance in Arterioles" },
-{ q: "Describe the Hormonal and Neural control of blood vessel diameter regarding Norepinephrine (Receptor and Action).", a: "Type: Neurotransmitter (Neural Control). \nSource: Sympathetic neurons. \nReceptor: Alpha-receptors on vascular smooth muscle. \nAction: Causes vasoconstriction (maintains tonic control).", sec: "15.3 Resistance in Arterioles" },
-{ q: "Describe the Hormonal and Neural control of blood vessel diameter regarding Epinephrine (Receptor and Action).", a: "Type: Neurohormone (Hormonal Control). \nSource: Adrenal medulla. \nReceptor: Beta-2-receptors (on heart, liver, skeletal muscle arterioles). \nAction: Causes vasodilation to enhance blood flow during fight-or-flight.", sec: "15.3 Resistance in Arterioles" },
-{ q: "Describe the Hormonal and Neural control of blood vessel diameter regarding Acetylcholine (Receptor and Action).", a: "Type: Neurotransmitter (Neural Control). \nSource: Parasympathetic neurons. \nReceptor: Muscarinic receptors. \nAction: Causes vasodilation (indirectly through nitric oxide production) primarily in the erection reflex.", sec: "15.3 Resistance in Arterioles" },
-{ q: "Describe the Hormonal control of blood vessel diameter regarding Angiotensin II.", a: "Type: Hormone. \nSource: Plasma hormone cascade. \nAction: A powerful vasoconstrictor that increases blood pressure and alters kidney excretion of ions and water.", sec: "15.3 Resistance in Arterioles" },
-{ q: "Describe the Process of myogenic autoregulation.", a: "1. Increased BP stretches vascular smooth muscle cells. \n2. Mechanically gated channels open. \n3. Cation entry depolarizes the cell. \n4. Voltage-gated Ca2+ channels open, Ca2+ binds calmodulin. \n5. Activates MLCK causing crossbridge activity. \n6. Arterioles constrict, increasing resistance and decreasing flow.", sec: "15.3 Resistance in Arterioles" },
-{ q: "Define Active hyperemia (Process).", a: "A locally mediated increase in blood flow that accompanies an increase in metabolic activity. As metabolism rises, O2 drops and CO2 rises, which act as paracrine signals to dilate arterioles, decreasing resistance and increasing flow to bring O2 and wash away wastes.", sec: "15.3 Resistance in Arterioles" },
-{ q: "Define Reactive hyperemia (Process).", a: "An increase in tissue blood flow following a period of low perfusion (occlusion). Occlusion causes hypoxia, triggering NO and vasodilator accumulation. When flow resumes, the accumulated vasodilators immediately trigger significant vasodilation.", sec: "15.3 Resistance in Arterioles" },
-{ q: "Explain the multiple factors that affect peripheral blood flow.", a: "Flow is directly proportional to the Pressure Gradient (MAP minus right atrial pressure) and inversely proportional to Resistance. Resistance increases with length and viscosity, but decreases exponentially as the radius increases (Flow is proportional to radius to the 4th power). Radius is determined by reflex and local control.", sec: "15.3 Resistance in Arterioles" },
-{ q: "Define the Cardiovascular control center (CVCC) (Location and Function).", a: "Location: An integrating center network in the medulla oblongata. \nFunction: Coordinates reflex control of blood pressure and tissue blood distribution. Its primary function is to ensure adequate blood flow to the brain and heart by maintaining sufficient mean arterial pressure.", sec: "15.5 Regulation of CV Function" },
-{ q: "Define Baroreceptors (Location and Function).", a: "Location: Stretch-sensitive mechanoreceptors in the walls of the carotid arteries and the aorta. \nFunction: Tonically monitor arterial blood pressure. Firing rate increases when blood pressure stretches the membrane, and decreases when pressure falls.", sec: "15.5 Regulation of CV Function" },
-{ q: "Describe the Steps of the Baroreceptor Reflex Mechanism in response to INCREASED blood pressure.", a: "1. Stimulus: Increased BP. \n2. Sensor: Carotid/Aortic baroreceptors increase firing rate. \n3. Afferent: Sensory neurons fire to CVCC. \n4. Integrator: CVCC decreases sympathetic & increases parasympathetic output. \n5. Target: Vasodilation and decreased cardiac output. \n6. Response: BP decreases (negative feedback).", sec: "15.5 Regulation of CV Function" },
-{ q: "Describe the target and tissue response of the Baroreceptor reflex when Sympathetic output DECREASES.", a: "Target 1: Arteriolar smooth muscle (alpha-receptors) relaxes, causing Vasodilation and decreased peripheral resistance. \nTarget 2: Ventricular myocardium (beta-1 receptors) decreases force of contraction, leading to decreased cardiac output.", sec: "15.5 Regulation of CV Function" },
-{ q: "Describe the target and tissue response of the Baroreceptor reflex when Parasympathetic output INCREASES.", a: "Target: The SA node (muscarinic receptors) is stimulated by more Acetylcholine. \nTissue Response: Slows the heart rate, leading to a decreased cardiac output.", sec: "15.5 Regulation of CV Function" },
-{ q: "Describe the Steps of the Baroreceptor Reflex Mechanism in response to DECREASED blood pressure (Orthostatic Hypotension).", a: "1. Standing pools blood in legs, decreasing venous return/BP. \n2. Baroreceptors decrease firing rate. \n3. CVCC integrates signal. \n4. CVCC increases sympathetic output and decreases parasympathetic output. \n5. Cardiac output and peripheral resistance increase. \n6. Mean arterial pressure is restored.", sec: "15.5 Regulation of CV Function" },
-{ q: "END", a: "END", sec: "END" }
+  {
+    "q": "Describe the pathways of blood within the body, including its relationship with heart anatomy and oxygenation/deoxygenation.",
+    "a": "Oxygenated blood leaves the Left Heart, enters the Aorta/Systemic Arteries, travels to Arterioles and Capillaries (exchange occurs, becoming deoxygenated). It travels through Venules to Systemic Veins (Venae Cavae), entering the Right Heart. It pumps via the Pulmonary Artery to the Lungs (oxygenation), returning via the Pulmonary Vein to the Left Heart.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "What are the five major types of blood vessels?",
+    "a": "1. Arteries 2. Arterioles 3. Capillaries 4. Venules 5. Veins",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "Compare and contrast the structure, mechanical properties, and functions of Arteries.",
+    "a": "Structure/Properties: Thick smooth muscle, large amounts of elastic and fibrous connective tissue. Stiff and springy walls. Function: Act as a pressure reservoir that maintains a continuous driving pressure for blood flow during ventricular relaxation through elastic recoil.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "Compare and contrast the structure, mechanical properties, and functions of Arterioles.",
+    "a": "Structure/Properties: Walls contain several layers of smooth muscle but minimal elastic or fibrous tissue. Function: Act as the site of variable resistance; they direct the distribution of blood flow to individual tissues by selectively constricting and dilating.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "Compare and contrast the structure, mechanical properties, and functions of Capillaries.",
+    "a": "Structure/Properties: Thinnest walls, lacking smooth muscle and elastic/fibrous tissue. Composed of a single layer of flattened endothelium supported on a basal lamina. Function: Primary site of exchange of materials between plasma, interstitial fluid, and cells.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "Compare and contrast the structure, mechanical properties, and functions of Venules.",
+    "a": "Structure/Properties: Smallest vessels downstream from capillaries; thin exchange epithelium, minimal connective tissue. Larger venules begin to have smooth muscle. Function: Distinguish themselves by a convergent pattern of flow, carrying blood from capillaries to veins.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "Compare and contrast the structure, mechanical properties, and functions of Veins.",
+    "a": "Structure/Properties: Thinner walls than arteries, with less elastic tissue. They expand easily when filling with blood. Function: Act as the volume reservoir of the circulatory system, holding more than half of the circulating blood, which can be sent to the arterial side if needed.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "What is the specific Location and Function of vascular smooth muscle?",
+    "a": "Location: Found in layers (circular or spiral) surrounding the endothelium in most blood vessels (especially arteries and arterioles). Function: Maintains muscle tone (partial contraction) and regulates blood vessel diameter via vasoconstriction and vasodilation.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "What is the specific Location and Function of metarterioles?",
+    "a": "Location: Vessels branching off arterioles into capillary beds. Function: Wall is only partially surrounded by smooth muscle; acts as a bypass channel directing blood straight into the venous circulation if precapillary sphincters are constricted.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "What is the specific Location and Function of precapillary sphincters?",
+    "a": "Location: Muscle rings located at the junction where metarterioles flow into true capillaries. Function: Can open or close off capillaries to locally regulate blood flow into capillary beds.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "What is the specific Location and Function of pericytes?",
+    "a": "Location: Closely associated with the outer layer of capillaries, forming a meshlike layer between endothelium and interstitial fluid. Function: Contractile cells that contribute to capillary 'tightness' (decrease leakiness) and secrete factors influencing capillary growth.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "Discuss the role of smooth muscle in blood vessels.",
+    "a": "Vascular smooth muscle maintains a state of partial contraction called muscle tone. By contracting (vasoconstriction), it narrows the vessel lumen, increasing resistance. By relaxing (vasodilation), it widens the lumen, decreasing resistance and altering blood flow.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "Define vasoconstriction.",
+    "a": "The narrowing of the diameter of the blood vessel lumen, caused by the contraction of vascular smooth muscle.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "Define vasodilation.",
+    "a": "The widening of the diameter of the blood vessel lumen, caused by the relaxation of vascular smooth muscle.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "Define muscle tone as it relates to blood vessels.",
+    "a": "A state of partial contraction maintained at all times by the vascular smooth muscle cells in most blood vessels.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "Define volume reservoir.",
+    "a": "A functional term for systemic veins. Because veins have thin, easily expandable walls, they hold more than half of the blood in the circulatory system, which can be redistributed to the arterial side if blood pressure falls.",
+    "sec": "Anatomy of Blood Vessels"
+  },
+  {
+    "q": "Explain what creates blood pressure.",
+    "a": "Blood pressure is created by the force of ventricular contraction. Ejected blood expands the elastic walls of the aorta and arteries, which store the pressure and release it through elastic recoil, propelling blood forward.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Explain how blood pressure changes as blood flows through the systemic circulation.",
+    "a": "Blood pressure is highest in the arteries and decreases continuously as it flows through arterioles, capillaries, venules, and veins. This decrease occurs because energy is lost as friction (resistance to flow) from the vessel walls and between blood cells.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Define systolic pressure.",
+    "a": "The highest pressure in the arteries, occurring during ventricular systole (contraction). The average high in the aorta is 120 mm Hg.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Define diastolic pressure.",
+    "a": "The lowest pressure in the large arteries, occurring during ventricular diastole (relaxation). The pressure falls to a typical low of 80 mm Hg.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Define pulse (pressure wave).",
+    "a": "The rapid pressure increase that occurs when the left ventricle pushes blood into the aorta, which travels through the arteries about 10 times faster than the blood itself.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Define pulse pressure.",
+    "a": "A measure of the strength of the pressure wave. It is calculated by the formula: Systolic pressure minus diastolic pressure.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Define respiratory pump.",
+    "a": "A mechanism that aids venous return. Changes in pressure in the thoracic cavity during breathing assist in drawing venous blood upward against gravity toward the heart.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Define skeletal muscle pump.",
+    "a": "A mechanism that aids venous return. When skeletal muscles contract, they compress the veins, forcing blood upward past one-way valves toward the heart.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Explain the relationship between blood flow, pressure gradients, and the resistance of the system to flow.",
+    "a": "Blood flow obeys fluid rules: Flow is directly proportional to the pressure gradient (delta P) between two points, and inversely proportional to the resistance (R) of the vessels. Formula: Flow is proportional to delta P / R.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Describe the Process of estimating blood pressure using sphygmomanometry.",
+    "a": "1. Inflate a cuff around the upper arm above systolic pressure (>120 mm Hg) to stop arterial flow. \n2. Gradually release cuff pressure. \n3. When cuff pressure falls below systolic, blood squeezes through, creating Korotkoff sounds (turbulent flow) = Systolic pressure. \n4. When sounds disappear (flow smooths out) = Diastolic pressure.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Define mean arterial pressure (MAP).",
+    "a": "A single value representing the driving pressure for blood flow. It is closer to diastolic pressure because diastole lasts twice as long as systole. Formula: MAP = diastolic pressure + 1/3 (pulse pressure).",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Define Korotkoff sound.",
+    "a": "A thumping noise heard through a stethoscope during sphygmomanometry, caused by the pulsatile, turbulent flow of blood squeezing through a still-compressed artery.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Explain the contributions of cardiac output and peripheral resistance to blood pressure.",
+    "a": "Mean arterial pressure is a balance between flow into the arteries (Cardiac Output) and flow out of the arteries, which is determined by the resistance of the arterioles (Peripheral Resistance). Formula: MAP is proportional to Cardiac Output x Peripheral Resistance.",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "Explain the multiple factors that affect blood pressure (Mean Arterial Blood Pressure).",
+    "a": "1. Blood volume (determined by fluid intake/loss). \n2. Effectiveness of heart pump/Cardiac Output (determined by heart rate & stroke volume). \n3. Resistance to blood flow (determined by arteriole diameter). \n4. Distribution of blood between arterial and venous vessels (determined by vein diameter).",
+    "sec": "15.2 Blood Pressure"
+  },
+  {
+    "q": "List the three mechanisms controlling arteriolar resistance.",
+    "a": "1. Local control (matches tissue flow to metabolic needs).\n2. Sympathetic reflexes mediated by CNS (maintains MAP and homeostatic distribution).\n3. Hormonal control (influences blood pressure directly and by altering autonomic reflex control).",
+    "sec": "15.3 Resistance in Arterioles"
+  },
+  {
+    "q": "Describe the Hormonal and Neural control of blood vessel diameter regarding Norepinephrine (Receptor and Action).",
+    "a": "Type: Neurotransmitter (Neural Control). \nSource: Sympathetic neurons. \nReceptor: Alpha-receptors on vascular smooth muscle. \nAction: Causes vasoconstriction (maintains tonic control).",
+    "sec": "15.3 Resistance in Arterioles"
+  },
+  {
+    "q": "Describe the Hormonal and Neural control of blood vessel diameter regarding Epinephrine (Receptor and Action).",
+    "a": "Type: Neurohormone (Hormonal Control). \nSource: Adrenal medulla. \nReceptor: Beta-2-receptors (on heart, liver, skeletal muscle arterioles). \nAction: Causes vasodilation to enhance blood flow during fight-or-flight.",
+    "sec": "15.3 Resistance in Arterioles"
+  },
+  {
+    "q": "Describe the Hormonal and Neural control of blood vessel diameter regarding Acetylcholine (Receptor and Action).",
+    "a": "Type: Neurotransmitter (Neural Control). \nSource: Parasympathetic neurons. \nReceptor: Muscarinic receptors. \nAction: Causes vasodilation (indirectly through nitric oxide production) primarily in the erection reflex.",
+    "sec": "15.3 Resistance in Arterioles"
+  },
+  {
+    "q": "Describe the Hormonal control of blood vessel diameter regarding Angiotensin II.",
+    "a": "Type: Hormone. \nSource: Plasma hormone cascade. \nAction: A powerful vasoconstrictor that increases blood pressure and alters kidney excretion of ions and water.",
+    "sec": "15.3 Resistance in Arterioles"
+  },
+  {
+    "q": "Describe the Process of myogenic autoregulation.",
+    "a": "1. Increased BP stretches vascular smooth muscle cells. \n2. Mechanically gated channels open. \n3. Cation entry depolarizes the cell. \n4. Voltage-gated Ca2+ channels open, Ca2+ binds calmodulin. \n5. Activates MLCK causing crossbridge activity. \n6. Arterioles constrict, increasing resistance and decreasing flow.",
+    "sec": "15.3 Resistance in Arterioles"
+  },
+  {
+    "q": "Define Active hyperemia (Process).",
+    "a": "A locally mediated increase in blood flow that accompanies an increase in metabolic activity. As metabolism rises, O2 drops and CO2 rises, which act as paracrine signals to dilate arterioles, decreasing resistance and increasing flow to bring O2 and wash away wastes.",
+    "sec": "15.3 Resistance in Arterioles"
+  },
+  {
+    "q": "Define Reactive hyperemia (Process).",
+    "a": "An increase in tissue blood flow following a period of low perfusion (occlusion). Occlusion causes hypoxia, triggering NO and vasodilator accumulation. When flow resumes, the accumulated vasodilators immediately trigger significant vasodilation.",
+    "sec": "15.3 Resistance in Arterioles"
+  },
+  {
+    "q": "Explain the multiple factors that affect peripheral blood flow.",
+    "a": "Flow is directly proportional to the Pressure Gradient (MAP minus right atrial pressure) and inversely proportional to Resistance. Resistance increases with length and viscosity, but decreases exponentially as the radius increases (Flow is proportional to radius to the 4th power). Radius is determined by reflex and local control.",
+    "sec": "15.3 Resistance in Arterioles"
+  },
+  {
+    "q": "Define the Cardiovascular control center (CVCC) (Location and Function).",
+    "a": "Location: An integrating center network in the medulla oblongata. \nFunction: Coordinates reflex control of blood pressure and tissue blood distribution. Its primary function is to ensure adequate blood flow to the brain and heart by maintaining sufficient mean arterial pressure.",
+    "sec": "15.5 Regulation of CV Function"
+  },
+  {
+    "q": "Define Baroreceptors (Location and Function).",
+    "a": "Location: Stretch-sensitive mechanoreceptors in the walls of the carotid arteries and the aorta. \nFunction: Tonically monitor arterial blood pressure. Firing rate increases when blood pressure stretches the membrane, and decreases when pressure falls.",
+    "sec": "15.5 Regulation of CV Function"
+  },
+  {
+    "q": "Describe the Steps of the Baroreceptor Reflex Mechanism in response to INCREASED blood pressure.",
+    "a": "1. Stimulus: Increased BP. \n2. Sensor: Carotid/Aortic baroreceptors increase firing rate. \n3. Afferent: Sensory neurons fire to CVCC. \n4. Integrator: CVCC decreases sympathetic & increases parasympathetic output. \n5. Target: Vasodilation and decreased cardiac output. \n6. Response: BP decreases (negative feedback).",
+    "sec": "15.5 Regulation of CV Function"
+  },
+  {
+    "q": "Describe the target and tissue response of the Baroreceptor reflex when Sympathetic output DECREASES.",
+    "a": "Target 1: Arteriolar smooth muscle (alpha-receptors) relaxes, causing Vasodilation and decreased peripheral resistance. \nTarget 2: Ventricular myocardium (beta-1 receptors) decreases force of contraction, leading to decreased cardiac output.",
+    "sec": "15.5 Regulation of CV Function"
+  },
+  {
+    "q": "Describe the target and tissue response of the Baroreceptor reflex when Parasympathetic output INCREASES.",
+    "a": "Target: The SA node (muscarinic receptors) is stimulated by more Acetylcholine. \nTissue Response: Slows the heart rate, leading to a decreased cardiac output.",
+    "sec": "15.5 Regulation of CV Function"
+  },
+  {
+    "q": "Describe the Steps of the Baroreceptor Reflex Mechanism in response to DECREASED blood pressure (Orthostatic Hypotension).",
+    "a": "1. Standing pools blood in legs, decreasing venous return/BP. \n2. Baroreceptors decrease firing rate. \n3. CVCC integrates signal. \n4. CVCC increases sympathetic output and decreases parasympathetic output. \n5. Cardiac output and peripheral resistance increase. \n6. Mean arterial pressure is restored.",
+    "sec": "15.5 Regulation of CV Function"
+  },
+  {
+    "q": "END",
+    "a": "END",
+    "sec": "END"
+  }
 ]
