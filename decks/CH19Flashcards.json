@@ -1,5 +1,4 @@
 [
-    // ANATOMY REVIEW (Duplicates merged)
     { q: "Diagram the anatomy of the urinary system and explain the function of each structure.", a: "Composed of two kidneys, two ureters, a urinary bladder, and a urethra. Uses mass balance to maintain homeostasis and excrete wastes.", sec: "Anatomy" },
     { q: "Define: Urinary system", a: "Composed of the kidneys and accessory structures (ureters, bladder, urethra).", sec: "Anatomy" },
     { q: "Define: Nephrons", a: "The functional unit of the kidney; each kidney contains approximately 1 million nephrons.", sec: "Anatomy" },
@@ -26,8 +25,6 @@
     { q: "Define: Efferent arteriole", a: "The arteriole that carries blood away from the glomerulus into the peritubular capillaries. (Vasoconstriction increases GFR).", sec: "Anatomy" },
     { q: "Define: Peritubular capillaries", a: "The second set of capillaries in the renal portal system; surround the tubule; site of reabsorption.", sec: "Anatomy" },
     { q: "Define: Vasa recta", a: "Long peritubular capillaries of juxtamedullary nephrons that dip into the medulla.", sec: "Anatomy" },
-
-    // 19.1 FUNCTIONS 
     { q: "Describe the 1st function of the kidneys: Regulation of ECF volume and blood pressure", a: "The kidneys work with the cardiovascular system to ensure blood pressure and tissue perfusion remain within an acceptable range.", sec: "19.1" },
     { q: "Describe the 2nd function of the kidneys: Regulation of osmolarity", a: "Integrates with behavioral drives, such as thirst, to maintain blood osmolarity at a value close to 290 mOsM.", sec: "19.1" },
     { q: "Describe the 3rd function of the kidneys: Maintenance of ion balance", a: "Keeps concentrations of key ions like sodium, potassium, and calcium within a normal range by balancing dietary intake with urinary loss.", sec: "19.1" },
@@ -46,8 +43,6 @@
     { q: "Define: Uric acid", a: "A nitrogenous metabolic waste product of purine metabolism; forms crystals in joints (gout) and kidney stones when elevated.", sec: "19.1" },
     { q: "Define: Urobilinogen", a: "A metabolite of hemoglobin that gives urine its characteristic yellow color.", sec: "19.1" },
     { q: "Define: Erythropoietin", a: "The cytokine or hormone synthesized by kidney cells that regulates red blood cell synthesis.", sec: "19.1" },
-
-    // 19.2 ANATOMY OF URINARY SYSTEM
     { q: "Trace the anatomical path of a drop of water from Bowman's capsule to the urine leaving the body.", a: "Bowman's capsule to proximal tubule, to descending limb, to ascending limb, to distal tubule, to collecting duct, to renal pelvis, to ureter, to bladder, to urethra.", sec: "19.2" },
     { q: "Define: Bowman's capsule", a: "The hollow, ball-like structure at the beginning of the nephron that surrounds the glomerulus; site of filtration into the tubule.", sec: "19.2" },
     { q: "Define: Renal corpuscle", a: "The combination of the glomerulus and Bowman's capsule; the site of filtration.", sec: "19.2" },
@@ -59,8 +54,6 @@
     { q: "Define: Distal nephron", a: "The collective term for the distal tubule and its collecting duct.", sec: "19.2" },
     { q: "Diagram the anatomical relationship between the vascular and tubular elements of the nephron.", a: "The tubule is wrapped by peritubular capillaries. The ascending limb passes exactly between the afferent and efferent arterioles of its own glomerulus.", sec: "19.2" },
     { q: "Explain the critical function of the renal portal system.", a: "It filters fluid out of the blood at the first capillary bed (glomerulus) and reabsorbs fluid back into the blood at the second capillary bed (peritubular capillaries).", sec: "19.2" },
-
-    // 19.3 OVERVIEW
     { q: "Describe the three processes of the nephron.", a: "1. Filtration (movement from blood to lumen)\n2. Reabsorption (movement from lumen to blood)\n3. Secretion (movement from blood to lumen)", sec: "19.3" },
     { q: "Define: Filtration", a: "The movement of fluid from blood into the lumen of the nephron at the renal corpuscle.", sec: "19.3" },
     { q: "Define: Filtrate", a: "The fluid that passes from the glomerular capillaries into the lumen of the nephron; destined for excretion unless reabsorbed.", sec: "19.3" },
@@ -73,8 +66,6 @@
     { q: "Define: Renal handling", a: "The collective tubular transport mechanisms (filtration, reabsorption, secretion) for a substance.", sec: "19.3" },
     { q: "Define: Isosmotic reabsorption", a: "Reabsorption of solutes and water in equal proportions so that filtrate osmolarity does not change. This is the primary function of the proximal tubule.", sec: "19.3" },
     { q: "What is the mathematical equation for excretion?", a: "Amount excreted = amount filtered - amount reabsorbed + amount secreted", sec: "19.3" },
-
-    // 19.4 FILTRATION
     { q: "Explain the purpose of filtration and which molecules are included/excluded.", a: "Purpose: First step in urine formation & rapid clearance of foreign substances.\nIncluded: Water and dissolved solutes.\nExcluded: Blood cells and almost all plasma proteins.", sec: "19.4" },
     { q: "Understand how much of the plasma is filtered and how much is excreted.", a: "20% of plasma flowing through the glomerulus is filtered into the nephron. Less than 1% of that filtered fluid is eventually excreted as urine.", sec: "19.4" },
     { q: "Define: Filtration fraction", a: "The percentage of renal plasma flow that filters into the tubule; normally ~20%.", sec: "19.4" },
@@ -109,8 +100,6 @@
     { q: "Define: Renin", a: "An enzyme released by granular cells; regulates the production of hormones involved in sodium balance and blood pressure homeostasis.", sec: "19.4" },
     { q: "Explain how GFR can be influenced by hormones.", a: "Hormones like Angiotensin II (vasoconstrictor) and prostaglandins (vasodilators) change arteriole resistance or act on podocytes/mesangial cells to alter the filtration coefficient.", sec: "19.4" },
     { q: "Explain how GFR can be influenced by autonomic neurons.", a: "Sympathetic neurons innervate alpha-receptors on arterioles. In sharp BP drops (dehydration/hemorrhage), severe vasoconstriction decreases GFR to conserve fluid.", sec: "19.4" },
-
-    // 19.5 REABSORPTION
     { q: "Distinguish between transcellular transport and paracellular pathways.", a: "Transcellular (transepithelial) crosses the apical and basolateral membranes of the cell. Paracellular passes through the cell-cell junction between adjacent cells.", sec: "19.5" },
     { q: "Define: Transepithelial transport (transcellular transport)", a: "Movement of substances across both the apical and basolateral membranes of the tubule epithelial cell to reach the interstitial fluid.", sec: "19.5" },
     { q: "Define: Paracellular pathway", a: "Movement of substances through the cell-cell junction between two adjacent cells.", sec: "19.5" },
@@ -137,11 +126,7 @@
     { q: "Define: Renal threshold", a: "The plasma concentration at which a substance first appears in the urine (the concentration at which saturation occurs).", sec: "19.5" },
     { q: "Define: Glucosuria / Glycosuria", a: "Excretion of glucose in the urine; usually indicates elevated blood glucose concentration exceeding the renal threshold.", sec: "19.5" },
     { q: "Discuss how reabsorbed fluid returns to the peritubular capillaries.", a: "Hydrostatic pressure in peritubular capillaries is low (10 mm Hg), while colloid osmotic pressure is high (30 mm Hg). Net pressure strongly favors reabsorption.", sec: "19.5" },
-
-    // 19.6 SECRETION
     { q: "Define secretion and its importance in modulating excretion.", a: "Secretion is the active transfer of molecules from ECF into the tubule lumen. It enhances excretion, allowing rapid clearance of K+, H+, and xenobiotics.", sec: "19.6" },
-    
-    // 19.7 EXCRETION
     { q: "Define excretion and its relationship with filtration, reabsorption, and secretion.", a: "Excretion is the removal of a substance from the body as urine. Relationship: Excretion = Filtration - Reabsorption + Secretion.", sec: "19.7" },
     { q: "Explain the relationship between excretion of a solute and its renal clearance.", a: "Clearance is the volume of plasma totally cleared of a solute per minute. Calculation: Clearance of X = Excretion rate of X / Plasma concentration of X.", sec: "19.7" },
     { q: "Understand the normal renal handling of glucose.", a: "100% Reabsorbed in the proximal tubule; 0% excreted in healthy individuals.", sec: "19.7" },
