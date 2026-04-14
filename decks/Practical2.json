@@ -1,5 +1,4 @@
-{
-   [
+[
     {
       "q": "How do you measure and quantify the two-point threshold across different skin regions?",
       "a": "Use a two-point caliper. Vary the distance between two points on skin. The smallest distance at which the subject feels two distinct points (not one merged point) is the two-point threshold for that region.",
@@ -380,5 +379,4 @@
       "a": "Fibrosis (restrictive): stiff, scarred lungs cannot fully expand. All volumes (TV, IRV, ERV, VC, TLC) are reduced. Emphysema (obstructive): alveolar wall destruction causes air trapping. RV and TLC increase, VC and expiratory flow rates decrease.",
       "sec": "Lab 14"
     }
-  ]
-}
+]
