@@ -1,537 +1,384 @@
 {
-  "name": "Lab Practical 2 Flashcards",
-  "cards": [
+   [
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "How do you measure and quantify the two-point threshold across different skin regions?",
-      "a": "Use a two-point caliper. Vary the distance between two points on skin. The smallest distance at which the subject feels two distinct points (not one merged point) is the two-point threshold for that region."
+      "a": "Use a two-point caliper. Vary the distance between two points on skin. The smallest distance at which the subject feels two distinct points (not one merged point) is the two-point threshold for that region.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Why do some body parts require higher touch sensitivity than others? Compare fingertips vs. the back of the neck.",
-      "a": "Fingertips are used for fine tactile manipulation; they require dense receptive fields for precise discrimination. The back of the neck is not used for fine tasks, so receptor density is lower and the two-point threshold is larger."
+      "a": "Fingertips are used for fine tactile manipulation; they require dense receptive fields for precise discrimination. The back of the neck is not used for fine tasks, so receptor density is lower and the two-point threshold is larger.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Sample data: Index fingertip has a two-point threshold of 2 mm. What does this indicate about receptor density and sensitivity?",
-      "a": "2 mm threshold = very high receptor density and very small receptive fields. The index fingertip has the greatest sensitivity in the sample, allowing discrimination of stimuli only 2 mm apart."
+      "a": "2 mm threshold = very high receptor density and very small receptive fields. The index fingertip has the greatest sensitivity in the sample, allowing discrimination of stimuli only 2 mm apart.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Sample data: Hand palm has a two-point threshold of 6 mm. What does this indicate?",
-      "a": "6 mm threshold = moderately high receptor density. The palm is more sensitive than the dorsal hand or medial arm, but less sensitive than the fingertip. Reflects its moderate role in tactile discrimination."
+      "a": "6 mm threshold = moderately high receptor density. The palm is more sensitive than the dorsal hand or medial arm, but less sensitive than the fingertip. Reflects its moderate role in tactile discrimination.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Sample data: Hand dorsal (back of hand) has a two-point threshold of 15 mm. What does this indicate?",
-      "a": "15 mm threshold = moderate receptor density with larger receptive fields. The dorsal hand is considerably less sensitive than the palm, reflecting its limited role in fine tactile tasks."
+      "a": "15 mm threshold = moderate receptor density with larger receptive fields. The dorsal hand is considerably less sensitive than the palm, reflecting its limited role in fine tactile tasks.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Sample data: Medial arm has a two-point threshold of 40 mm. What does this indicate?",
-      "a": "40 mm threshold = low receptor density with large receptive fields. The medial arm has the lowest sensitivity in the sample. It is not used for fine tactile discrimination, so few receptors are needed."
+      "a": "40 mm threshold = low receptor density with large receptive fields. The medial arm has the lowest sensitivity in the sample. It is not used for fine tactile discrimination, so few receptors are needed.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Sample data: Back of neck has a two-point threshold of 25 mm. What does this indicate?",
-      "a": "25 mm threshold = below-average receptor density. Less sensitive than the fingertips and palm, but more sensitive than the medial arm. Reflects its limited role in fine tactile tasks."
+      "a": "25 mm threshold = below-average receptor density. Less sensitive than the fingertips and palm, but more sensitive than the medial arm. Reflects its limited role in fine tactile tasks.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "How does variation in two-point threshold distances reflect differences in touch sensitivity and receptor distribution?",
-      "a": "Smaller threshold = denser receptors + smaller receptive fields = higher sensitivity. Larger threshold = sparser receptors + larger receptive fields = lower sensitivity. Body regions used for fine tasks (fingertips) have the smallest thresholds."
+      "a": "Smaller threshold = denser receptors + smaller receptive fields = higher sensitivity. Larger threshold = sparser receptors + larger receptive fields = lower sensitivity. Body regions used for fine tasks (fingertips) have the smallest thresholds.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Why is the reflex hammer test performed and what does it tell you?",
-      "a": "Tests deep tendon reflexes (e.g., patellar reflex). Assesses the integrity of the sensory afferent nerve, spinal cord interneurons, and motor efferent nerve. An intact reflex confirms a functional neuromuscular arc at that spinal level."
+      "a": "Tests deep tendon reflexes (e.g., patellar reflex). Assesses the integrity of the sensory afferent nerve, spinal cord interneurons, and motor efferent nerve. An intact reflex confirms a functional neuromuscular arc at that spinal level.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "What is referred pain and why does it happen? Include the anatomical and physiological reasons.",
-      "a": "Referred pain: pain perceived at a location different from its actual source. Occurs because sensory neurons from different body regions converge on the same spinal cord neurons (convergence-projection theory). The brain misidentifies the origin of the pain signal."
+      "a": "Referred pain: pain perceived at a location different from its actual source. Occurs because sensory neurons from different body regions converge on the same spinal cord neurons (convergence-projection theory). The brain misidentifies the origin of the pain signal.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "How does the body maintain internal temperature stability (thermoregulation)?",
-      "a": "Thermoreceptors detect temperature changes and signal the hypothalamus. Negative feedback activates effectors: sweating and vasodilation for cooling; shivering and vasoconstriction for heating. These return body temperature to the set point."
+      "a": "Thermoreceptors detect temperature changes and signal the hypothalamus. Negative feedback activates effectors: sweating and vasodilation for cooling; shivering and vasoconstriction for heating. These return body temperature to the set point.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "How do you analyze and explain recovery to homeostasis after thermal stress?",
-      "a": "After thermal stress, effectors (sweat glands, cutaneous blood vessels, skeletal muscles) activate to return temperature to the set point. Recovery data shows the time course of return to baseline. Faster recovery indicates a more effective homeostatic response."
+      "a": "After thermal stress, effectors (sweat glands, cutaneous blood vessels, skeletal muscles) activate to return temperature to the set point. Recovery data shows the time course of return to baseline. Faster recovery indicates a more effective homeostatic response.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "How do you interpret Snellen chart visual acuity scores such as 20/20 and 20/30?",
-      "a": "Numerator = test distance (20 ft). Denominator = distance at which a normal eye reads the same line. 20/20 = normal acuity. 20/30 = the patient sees at 20 ft what a normal eye sees at 30 ft, indicating mildly reduced acuity."
+      "a": "Numerator = test distance (20 ft). Denominator = distance at which a normal eye reads the same line. 20/20 = normal acuity. 20/30 = the patient sees at 20 ft what a normal eye sees at 30 ft, indicating mildly reduced acuity.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "What structural and functional characteristics of the eye relate to visual acuity?",
-      "a": "Acuity depends on: cone photoreceptor density in the fovea centralis, lens and corneal clarity, and precise focusing of light on the retina. The fovea has the highest cone density and therefore the highest visual acuity."
+      "a": "Acuity depends on: cone photoreceptor density in the fovea centralis, lens and corneal clarity, and precise focusing of light on the retina. The fovea has the highest cone density and therefore the highest visual acuity.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "How do differences in visual acuity reflect eye health and anatomical variation?",
-      "a": "Reduced acuity may indicate lens clouding (cataract), refractive errors (myopia or hyperopia), or corneal irregularities (astigmatism). High acuity reflects intact optical structures and a dense foveal cone distribution."
+      "a": "Reduced acuity may indicate lens clouding (cataract), refractive errors (myopia or hyperopia), or corneal irregularities (astigmatism). High acuity reflects intact optical structures and a dense foveal cone distribution.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Define astigmatism.",
-      "a": "Astigmatism: a refractive error caused by irregular curvature of the cornea or lens. Different meridians have different focal lengths, causing light to focus at multiple points rather than one, resulting in blurred or distorted vision."
+      "a": "Astigmatism: a refractive error caused by irregular curvature of the cornea or lens. Different meridians have different focal lengths, causing light to focus at multiple points rather than one, resulting in blurred or distorted vision.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "What is the impact of astigmatism on visual clarity and how is it detected using an astigmatism chart?",
-      "a": "Astigmatism causes certain orientations of lines to appear blurrier than others. Detected with a clock-face or sunburst astigmatism chart: lines at one meridian appear darker or clearer than lines at other meridians."
+      "a": "Astigmatism causes certain orientations of lines to appear blurrier than others. Detected with a clock-face or sunburst astigmatism chart: lines at one meridian appear darker or clearer than lines at other meridians.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "What is the physiological and anatomical basis for blurred lines in astigmatism?",
-      "a": "Irregular corneal or lens curvature causes different meridians to refract light with different power. Light therefore focuses at multiple points along the visual axis rather than one. Lines oriented perpendicular to the steeper meridian appear most blurred."
+      "a": "Irregular corneal or lens curvature causes different meridians to refract light with different power. Light therefore focuses at multiple points along the visual axis rather than one. Lines oriented perpendicular to the steeper meridian appear most blurred.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "How do you interpret color blindness results using the Ishihara plates?",
-      "a": "Ishihara plates embed numbers or patterns within colored dot arrays. Inability to identify a number indicates a color vision deficiency. Different plates target specific deficiency types (e.g., red-green, blue-yellow protanopia vs. deuteranopia)."
+      "a": "Ishihara plates embed numbers or patterns within colored dot arrays. Inability to identify a number indicates a color vision deficiency. Different plates target specific deficiency types (e.g., red-green, blue-yellow protanopia vs. deuteranopia).",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "What is the function of cone cells and why do cone deficiencies cause difficulty with color discrimination?",
-      "a": "Cones are retinal photoreceptors for color vision: S-cones (short wavelength, blue), M-cones (medium, green), L-cones (long, red). Deficiency in one cone type reduces the ability to distinguish colors in that wavelength range, causing color blindness."
+      "a": "Cones are retinal photoreceptors for color vision: S-cones (short wavelength, blue), M-cones (medium, green), L-cones (long, red). Deficiency in one cone type reduces the ability to distinguish colors in that wavelength range, causing color blindness.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Why does the blind spot exist and why do we not notice it in daily life?",
-      "a": "The blind spot is the optic disc, where the optic nerve exits the retina. No photoreceptors are present there. We do not notice it because the brain fills in the gap using surrounding visual context, and the opposite eye covers the blind spot area."
+      "a": "The blind spot is the optic disc, where the optic nerve exits the retina. No photoreceptors are present there. We do not notice it because the brain fills in the gap using surrounding visual context, and the opposite eye covers the blind spot area.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "How do you interpret auditory sensitivity data across frequencies and between ears using an audiometer? How do you identify the frequency range of best hearing?",
-      "a": "Lower dB threshold = better hearing sensitivity. The frequency with the lowest dB threshold is the range of best hearing. Compare across frequencies to create an audiogram profile. Compare ears to detect asymmetry or unilateral deficits."
+      "a": "Lower dB threshold = better hearing sensitivity. The frequency with the lowest dB threshold is the range of best hearing. Compare across frequencies to create an audiogram profile. Compare ears to detect asymmetry or unilateral deficits.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Sample audiometry: 250 Hz, Right = 14 dB, Left = 16 dB. What does this indicate?",
-      "a": "Near-normal low-frequency hearing in both ears. A 2 dB interaural difference is clinically insignificant. No meaningful low-frequency hearing deficit is indicated in this sample."
+      "a": "Near-normal low-frequency hearing in both ears. A 2 dB interaural difference is clinically insignificant. No meaningful low-frequency hearing deficit is indicated in this sample.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Sample audiometry: 1000 Hz, Right = 7 dB, Left = 9 dB. What does this indicate?",
-      "a": "Best hearing sensitivity in the dataset. Both ears perform well at 1000 Hz. Normal mid-frequency hearing. The 2 dB interaural difference is within normal limits."
+      "a": "Best hearing sensitivity in the dataset. Both ears perform well at 1000 Hz. Normal mid-frequency hearing. The 2 dB interaural difference is within normal limits.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Sample audiometry: 4000 Hz, Right = 12 dB, Left = 15 dB. What does this indicate?",
-      "a": "Slightly elevated thresholds compared to 1000 Hz, suggesting mild reduction in high-frequency sensitivity beginning at 4000 Hz. Left ear is 3 dB worse than right, a small but notable asymmetry."
+      "a": "Slightly elevated thresholds compared to 1000 Hz, suggesting mild reduction in high-frequency sensitivity beginning at 4000 Hz. Left ear is 3 dB worse than right, a small but notable asymmetry.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 6",
       "q": "Sample audiometry: 8000 Hz, Right = 30 dB, Left = 32 dB. What does this indicate?",
-      "a": "Significantly elevated thresholds at 8000 Hz (30-32 dB) indicate a high-frequency hearing deficit in both ears. Pattern is consistent with early noise-induced or age-related sensorineural hearing loss."
+      "a": "Significantly elevated thresholds at 8000 Hz (30-32 dB) indicate a high-frequency hearing deficit in both ears. Pattern is consistent with early noise-induced or age-related sensorineural hearing loss.",
+      "sec": "Lab 6"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 9",
       "q": "What is the role of the sympathetic nervous system in modifying heart rate?",
-      "a": "Sympathetic NS releases norepinephrine, which binds beta-1 adrenergic receptors on the SA node. This increases heart rate (positive chronotropy), increases contractility (positive inotropy), and raises cardiac output."
+      "a": "Sympathetic NS releases norepinephrine, which binds beta-1 adrenergic receptors on the SA node. This increases heart rate (positive chronotropy), increases contractility (positive inotropy), and raises cardiac output.",
+      "sec": "Lab 9"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 9",
       "q": "What is the role of the parasympathetic nervous system in modifying heart rate?",
-      "a": "The parasympathetic NS (via the vagus nerve, CN X) releases acetylcholine, which binds M2 muscarinic receptors on the SA node. This hyperpolarizes the SA node, slowing spontaneous depolarization and decreasing heart rate (negative chronotropy)."
+      "a": "The parasympathetic NS (via the vagus nerve, CN X) releases acetylcholine, which binds M2 muscarinic receptors on the SA node. This hyperpolarizes the SA node, slowing spontaneous depolarization and decreasing heart rate (negative chronotropy).",
+      "sec": "Lab 9"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 9",
       "q": "Sample cold water immersion data: Resting=72 bpm, Max in ice=88 bpm, Rebound after=68 bpm. Interpret each phase.",
-      "a": "72 to 88 bpm: sympathetic activation in response to cold stress increases HR. 88 to 68 bpm: parasympathetic rebound after stimulus removed; HR falls below resting baseline, reflecting autonomic overshoot during cardiovascular recovery."
+      "a": "72 to 88 bpm: sympathetic activation in response to cold stress increases HR. 88 to 68 bpm: parasympathetic rebound after stimulus removed; HR falls below resting baseline, reflecting autonomic overshoot during cardiovascular recovery.",
+      "sec": "Lab 9"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 9",
       "q": "Explain baroreceptor-mediated feedback and its impact on cardiovascular homeostasis. Include cardiac output, heart rate, and stroke volume.",
-      "a": "Baroreceptors in the carotid sinus and aortic arch detect BP changes and signal the medulla. The medulla adjusts autonomic output to normalize BP: modifying HR, stroke volume, and vascular resistance to maintain cardiac output and homeostasis."
+      "a": "Baroreceptors in the carotid sinus and aortic arch detect BP changes and signal the medulla. The medulla adjusts autonomic output to normalize BP: modifying HR, stroke volume, and vascular resistance to maintain cardiac output and homeostasis.",
+      "sec": "Lab 9"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 9",
       "q": "How does the baroreceptor reflex specifically alter cardiac output, heart rate, and stroke volume in response to a blood pressure drop?",
-      "a": "BP drop: baroreceptor firing decreases, reducing inhibition of the medulla. Sympathetic dominance increases HR and stroke volume, and vasoconstriction raises resistance. Together these restore cardiac output and blood pressure toward normal."
+      "a": "BP drop: baroreceptor firing decreases, reducing inhibition of the medulla. Sympathetic dominance increases HR and stroke volume, and vasoconstriction raises resistance. Together these restore cardiac output and blood pressure toward normal.",
+      "sec": "Lab 9"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 9",
       "q": "Sample baroreceptor data: Event 1 (Squatting), 31 to 41 sec, duration = 10 sec. What is occurring physiologically?",
-      "a": "Squatting compresses lower-extremity veins, increasing venous return and raising central blood pressure. Baroreceptors detect the rise, triggering parasympathetic activation (vagal response) to decrease HR. The baroreceptor response takes 10 sec to manifest."
+      "a": "Squatting compresses lower-extremity veins, increasing venous return and raising central blood pressure. Baroreceptors detect the rise, triggering parasympathetic activation (vagal response) to decrease HR. The baroreceptor response takes 10 sec to manifest.",
+      "sec": "Lab 9"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 9",
       "q": "Sample baroreceptor data: Recovery 1, 41 to 57 sec, duration = 16 sec. What is occurring?",
-      "a": "After the squatting event, parasympathetic and sympathetic tone re-equilibrate over 16 sec. HR returns toward the baseline of 70 bpm as blood pressure normalizes and baroreceptor-mediated inhibition is released."
+      "a": "After the squatting event, parasympathetic and sympathetic tone re-equilibrate over 16 sec. HR returns toward the baseline of 70 bpm as blood pressure normalizes and baroreceptor-mediated inhibition is released.",
+      "sec": "Lab 9"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 9",
       "q": "Sample baroreceptor data: Event 2 (Standing), 57 to 62 sec, duration = 5 sec. What is occurring?",
-      "a": "Standing causes rapid blood pressure drop as blood pools inferiorly due to gravity (reduced venous return). Baroreceptors detect the decrease and trigger fast sympathetic activation, increasing HR from baseline to maximum (82 bpm) within 5 sec."
+      "a": "Standing causes rapid blood pressure drop as blood pools inferiorly due to gravity (reduced venous return). Baroreceptors detect the decrease and trigger fast sympathetic activation, increasing HR from baseline to maximum (82 bpm) within 5 sec.",
+      "sec": "Lab 9"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 9",
       "q": "Sample baroreceptor data: Recovery 2, 62 to 95 sec, duration = 33 sec. What is occurring?",
-      "a": "Longer recovery (33 sec) after standing reflects sustained cardiovascular adjustment. Sympathetic and parasympathetic systems alternate to gradually re-establish blood pressure and HR homeostasis after the postural change."
+      "a": "Longer recovery (33 sec) after standing reflects sustained cardiovascular adjustment. Sympathetic and parasympathetic systems alternate to gradually re-establish blood pressure and HR homeostasis after the postural change.",
+      "sec": "Lab 9"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 9",
       "q": "Sample baroreceptor data: Baseline=70 bpm, Minimum=63 bpm, Maximum=82 bpm. What does each value represent?",
-      "a": "Baseline (70 bpm): resting autonomic equilibrium. Minimum (63 bpm): parasympathetic dominance during squatting (increased venous return suppresses HR via baroreceptors). Maximum (82 bpm): sympathetic activation during standing (BP drop triggers HR increase)."
+      "a": "Baseline (70 bpm): resting autonomic equilibrium. Minimum (63 bpm): parasympathetic dominance during squatting (increased venous return suppresses HR via baroreceptors). Maximum (82 bpm): sympathetic activation during standing (BP drop triggers HR increase).",
+      "sec": "Lab 9"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 10",
       "q": "What variables affect arterial blood flow according to the principles of cardiovascular dynamics (Poiseuille's Law)?",
-      "a": "Blood flow is determined by: (1) pressure gradient (delta P), (2) vessel radius (r), (3) blood viscosity, and (4) vessel length. Flow = (delta-P x pi x r^4) / (8 x viscosity x length). Radius has the greatest effect due to the 4th-power relationship."
+      "a": "Blood flow is determined by: (1) pressure gradient (delta P), (2) vessel radius (r), (3) blood viscosity, and (4) vessel length. Flow = (delta-P x pi x r^4) / (8 x viscosity x length). Radius has the greatest effect due to the 4th-power relationship.",
+      "sec": "Lab 10"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 10",
       "q": "Define vasoconstriction and describe its effect on blood flow.",
-      "a": "Vasoconstriction: narrowing of a blood vessel lumen via vascular smooth muscle contraction. Decreases vessel radius, which dramatically reduces blood flow (radius to the 4th power) and greatly increases vascular resistance."
+      "a": "Vasoconstriction: narrowing of a blood vessel lumen via vascular smooth muscle contraction. Decreases vessel radius, which dramatically reduces blood flow (radius to the 4th power) and greatly increases vascular resistance.",
+      "sec": "Lab 10"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 10",
       "q": "Define vasodilation and describe its effect on blood flow.",
-      "a": "Vasodilation: widening of a blood vessel lumen via vascular smooth muscle relaxation. Increases vessel radius, which greatly increases blood flow and decreases vascular resistance, leading to reduced blood pressure in that vessel bed."
+      "a": "Vasodilation: widening of a blood vessel lumen via vascular smooth muscle relaxation. Increases vessel radius, which greatly increases blood flow and decreases vascular resistance, leading to reduced blood pressure in that vessel bed.",
+      "sec": "Lab 10"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 10",
       "q": "How does a change in pressure, radius, viscosity, or vessel length each affect overall blood flow?",
-      "a": "Pressure increase: flow increases. Radius increase: flow increases dramatically (r^4 effect). Viscosity increase: flow decreases. Length increase: flow decreases. Of all variables, radius has the most powerful effect on blood flow."
+      "a": "Pressure increase: flow increases. Radius increase: flow increases dramatically (r^4 effect). Viscosity increase: flow decreases. Length increase: flow decreases. Of all variables, radius has the most powerful effect on blood flow.",
+      "sec": "Lab 10"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "How do you analyze a graphical EMG recording of muscle electrical activity during voluntary contraction and relaxation?",
-      "a": "EMG records summed electrical activity of active motor units in millivolts. Higher amplitude = more motor units firing simultaneously. Amplitude increases during contraction and decreases toward near-zero during relaxation."
+      "a": "EMG records summed electrical activity of active motor units in millivolts. Higher amplitude = more motor units firing simultaneously. Amplitude increases during contraction and decreases toward near-zero during relaxation.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "Why does skeletal muscle produce electrical impulses detectable by EMG?",
-      "a": "Motor neurons release acetylcholine at the neuromuscular junction, generating action potentials on each muscle fiber membrane. These propagate along the fiber and initiate contraction. EMG records the sum of these electrical events from all active motor units."
+      "a": "Motor neurons release acetylcholine at the neuromuscular junction, generating action potentials on each muscle fiber membrane. These propagate along the fiber and initiate contraction. EMG records the sum of these electrical events from all active motor units.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "Sample EMG data: Fingers resting (0 to 5 sec), mean = 0.12 mV. What does this indicate?",
-      "a": "Near-zero EMG (0.12 mV) indicates minimal motor unit activity. Muscle fibers are not generating significant action potentials. Only low-level background neural activity is present in the resting hand."
+      "a": "Near-zero EMG (0.12 mV) indicates minimal motor unit activity. Muscle fibers are not generating significant action potentials. Only low-level background neural activity is present in the resting hand.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "Sample EMG data: Hand cocked back (5 to 10 sec), mean = 0.64 mV, change = +0.52 mV. What does this indicate?",
-      "a": "Significant increase to 0.64 mV indicates extensor muscle recruitment. Motor units are activated to generate isometric force and maintain the wrist in the extended (cocked-back) position against gravity."
+      "a": "Significant increase to 0.64 mV indicates extensor muscle recruitment. Motor units are activated to generate isometric force and maintain the wrist in the extended (cocked-back) position against gravity.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "Sample EMG data: Fingers resting (10 to 15 sec), mean = 0.13 mV, change = -0.51 mV. What does this indicate?",
-      "a": "Return to near-baseline (0.13 mV) indicates muscle relaxation. Motor unit firing has ceased as the hand returns to the resting position. Consistent with cessation of voluntary motor commands."
+      "a": "Return to near-baseline (0.13 mV) indicates muscle relaxation. Motor unit firing has ceased as the hand returns to the resting position. Consistent with cessation of voluntary motor commands.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "Sample EMG data: Hand cocked back (15 to 20 sec), mean = 0.72 mV, change = +0.59 mV. What does this indicate?",
-      "a": "Slightly higher than the first cocked-back interval (0.64 mV). May reflect slightly greater motor unit recruitment or effort in the second trial. Confirms the consistent pattern of extensor muscle activation during wrist extension."
+      "a": "Slightly higher than the first cocked-back interval (0.64 mV). May reflect slightly greater motor unit recruitment or effort in the second trial. Confirms the consistent pattern of extensor muscle activation during wrist extension.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "Define grip strength. What is happening within skeletal muscle during a grip contraction?",
-      "a": "Grip strength: the maximum compressive force produced by hand and forearm flexor muscles. During grip: motor neurons fire, recruiting motor units; the sliding filament mechanism (actin-myosin cross-bridge cycling) generates force. More recruitment = greater grip strength."
+      "a": "Grip strength: the maximum compressive force produced by hand and forearm flexor muscles. During grip: motor neurons fire, recruiting motor units; the sliding filament mechanism (actin-myosin cross-bridge cycling) generates force. More recruitment = greater grip strength.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "What factors influence differences in grip strength between the dominant and non-dominant hand?",
-      "a": "The dominant hand is typically stronger due to greater muscle mass from repeated use, enhanced motor unit recruitment efficiency, and more extensive neural pathways. Other factors include fatigue history, injury, and individual anatomy."
+      "a": "The dominant hand is typically stronger due to greater muscle mass from repeated use, enhanced motor unit recruitment efficiency, and more extensive neural pathways. Other factors include fatigue history, injury, and individual anatomy.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "Sample grip data: Right hand max=480N, mean=410N; Left hand max=370N, mean=320N. Interpret this data.",
-      "a": "The right (dominant) hand is approximately 23% stronger in max force and 28% stronger in mean force. The difference reflects dominant-hand advantages in muscle development and neural recruitment. Mean force lower than max in both hands reflects fatigue across the trial."
+      "a": "The right (dominant) hand is approximately 23% stronger in max force and 28% stronger in mean force. The difference reflects dominant-hand advantages in muscle development and neural recruitment. Mean force lower than max in both hands reflects fatigue across the trial.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "Why does mean grip strength decrease while EMG delta mV increases during sustained maximal grip effort?",
-      "a": "As muscle fibers fatigue metabolically (ATP depletion, lactic acid accumulation, ion imbalance), the CNS recruits additional motor units to compensate, increasing EMG amplitude. Despite this greater neural drive, metabolically exhausted fibers cannot generate full force, so overall force declines."
+      "a": "As muscle fibers fatigue metabolically (ATP depletion, lactic acid accumulation, ion imbalance), the CNS recruits additional motor units to compensate, increasing EMG amplitude. Despite this greater neural drive, metabolically exhausted fibers cannot generate full force, so overall force declines.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "Sample fatigue data: 0-20s: 405N, delta 0.58mV; 60-80s: 320N, delta 0.62mV; 80-100s: 260N, delta 0.70mV. Interpret.",
-      "a": "Progressive force decline (405 to 320 to 260N) with rising EMG delta (0.58 to 0.62 to 0.70mV) confirms the fatigue pattern. Greater motor unit recruitment cannot prevent force loss because individual fibers become metabolically exhausted over time."
+      "a": "Progressive force decline (405 to 320 to 260N) with rising EMG delta (0.58 to 0.62 to 0.70mV) confirms the fatigue pattern. Greater motor unit recruitment cannot prevent force loss because individual fibers become metabolically exhausted over time.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "What is the effect of conscious effort to overcome fatigue? Compare to the earlier fatigue dataset.",
-      "a": "Conscious effort may temporarily increase motor unit recruitment and slow the rate of force decline. Compared to passive fatigue data, a volitional push can produce a brief stabilization of force output, but cannot override metabolic fatigue in fully exhausted fibers."
+      "a": "Conscious effort may temporarily increase motor unit recruitment and slow the rate of force decline. Compared to passive fatigue data, a volitional push can produce a brief stabilization of force output, but cannot override metabolic fatigue in fully exhausted fibers.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 12",
       "q": "Define muscle recruitment and relate it to the all-or-none contraction principle and neuromuscular control.",
-      "a": "Muscle recruitment: the process of activating increasing numbers of motor units to produce greater force. Individual muscle fibers follow the all-or-none law (fire maximally or not at all). Graded force is achieved by varying the number of recruited motor units and their firing frequency."
+      "a": "Muscle recruitment: the process of activating increasing numbers of motor units to produce greater force. Individual muscle fibers follow the all-or-none law (fire maximally or not at all). Graded force is achieved by varying the number of recruited motor units and their firing frequency.",
+      "sec": "Lab 12"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "How do you measure arterial blood pressure (systolic/diastolic) using a sphygmomanometer and stethoscope?",
-      "a": "Inflate cuff above systolic pressure to fully occlude the brachial artery. Slowly deflate while auscultating with a stethoscope. First Korotkoff sound heard = systolic BP. Last Korotkoff sound = diastolic BP. Record as systolic/diastolic in mmHg."
+      "a": "Inflate cuff above systolic pressure to fully occlude the brachial artery. Slowly deflate while auscultating with a stethoscope. First Korotkoff sound heard = systolic BP. Last Korotkoff sound = diastolic BP. Record as systolic/diastolic in mmHg.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "How do you calculate average blood pressure from repeated measurements?",
-      "a": "Sum all systolic readings and divide by the number of trials for average systolic; repeat for diastolic. Example: (118+120)/2 = 119 systolic; (76+78)/2 = 77 diastolic. Average BP = 119/77 mmHg."
+      "a": "Sum all systolic readings and divide by the number of trials for average systolic; repeat for diastolic. Example: (118+120)/2 = 119 systolic; (76+78)/2 = 77 diastolic. Average BP = 119/77 mmHg.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "What is the physiological meaning of systole?",
-      "a": "Systole: the phase of the cardiac cycle during which the ventricles contract and eject blood into the aorta (left) and pulmonary trunk (right). Creates peak arterial pressure. Represented by the upper number in a blood pressure reading."
+      "a": "Systole: the phase of the cardiac cycle during which the ventricles contract and eject blood into the aorta (left) and pulmonary trunk (right). Creates peak arterial pressure. Represented by the upper number in a blood pressure reading.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "What is the physiological meaning of diastole?",
-      "a": "Diastole: the phase during which the ventricles relax and fill with blood from the atria. Arterial pressure is at its lowest. Represented by the lower number in a blood pressure reading. Coronary artery perfusion primarily occurs during diastole."
+      "a": "Diastole: the phase during which the ventricles relax and fill with blood from the atria. Arterial pressure is at its lowest. Represented by the lower number in a blood pressure reading. Coronary artery perfusion primarily occurs during diastole.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "What is the physiological significance of the first Korotkoff sound during sphygmomanometer measurement?",
-      "a": "The first Korotkoff sound marks systolic blood pressure. It occurs when cuff pressure drops just below systolic, allowing blood to pulse through the partially occluded brachial artery, creating turbulent flow and the first audible tapping sound."
+      "a": "The first Korotkoff sound marks systolic blood pressure. It occurs when cuff pressure drops just below systolic, allowing blood to pulse through the partially occluded brachial artery, creating turbulent flow and the first audible tapping sound.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "What is the physiological significance of the last Korotkoff sound during sphygmomanometer measurement?",
-      "a": "The last Korotkoff sound marks diastolic blood pressure. When cuff pressure falls below diastolic, the artery is no longer partially occluded at any point in the cycle, arterial flow becomes laminar, and the tapping sounds disappear."
+      "a": "The last Korotkoff sound marks diastolic blood pressure. When cuff pressure falls below diastolic, the artery is no longer partially occluded at any point in the cycle, arterial flow becomes laminar, and the tapping sounds disappear.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "What are the two primary heart sounds (lub and dub) and what cardiac valve events produce each?",
-      "a": "S1 (lub): produced by closure of the AV valves (mitral and tricuspid) at the start of ventricular systole. S2 (dub): produced by closure of the semilunar valves (aortic and pulmonary) at the start of ventricular diastole."
+      "a": "S1 (lub): produced by closure of the AV valves (mitral and tricuspid) at the start of ventricular systole. S2 (dub): produced by closure of the semilunar valves (aortic and pulmonary) at the start of ventricular diastole.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "How do you determine heart rate using a stethoscope?",
-      "a": "Auscultate and count each lub-dub cycle (S1-S2 = one cardiac cycle). Count cycles over 60 seconds to obtain HR in bpm. Alternatively, count cycles in 15 seconds and multiply by 4."
+      "a": "Auscultate and count each lub-dub cycle (S1-S2 = one cardiac cycle). Count cycles over 60 seconds to obtain HR in bpm. Alternatively, count cycles in 15 seconds and multiply by 4.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "Sample HR comparison: Subject 1: Radial=72, Carotid=74, Stethoscope=70 bpm. Interpret the differences.",
-      "a": "Small differences (2-4 bpm) are within normal variation. Stethoscope directly measures cardiac events. Carotid is close to the heart (similar to stethoscope reading). Radial pulse arrives last due to pressure wave travel time to the distal wrist."
+      "a": "Small differences (2-4 bpm) are within normal variation. Stethoscope directly measures cardiac events. Carotid is close to the heart (similar to stethoscope reading). Radial pulse arrives last due to pressure wave travel time to the distal wrist.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "What is a pulse and what is the physiological mechanism behind it?",
-      "a": "A pulse is the rhythmic expansion of an arterial wall caused by the pressure wave generated by each ventricular contraction. Felt as a palpable beat at superficial arteries. Pulse rate equals heart rate in a healthy individual."
+      "a": "A pulse is the rhythmic expansion of an arterial wall caused by the pressure wave generated by each ventricular contraction. Felt as a palpable beat at superficial arteries. Pulse rate equals heart rate in a healthy individual.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "Why are the radial artery and carotid artery the most common pulse point locations?",
-      "a": "Radial artery: superficial, easily palpated at the anterior wrist over the distal radius. Carotid artery: large vessel, superficial at the anterior neck, close to the heart, useful in emergencies. Both provide reliable and accessible indicators of cardiac function."
+      "a": "Radial artery: superficial, easily palpated at the anterior wrist over the distal radius. Carotid artery: large vessel, superficial at the anterior neck, close to the heart, useful in emergencies. Both provide reliable and accessible indicators of cardiac function.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "Compare radial pulse to carotid pulse in terms of strength and regularity. Explain any differences.",
-      "a": "Carotid pulse is typically stronger because the carotid is a larger vessel closer to the heart with less energy dissipation. The radial pulse is weaker due to its distal location. Both should be regular in healthy individuals. Irregularity may suggest arrhythmia."
+      "a": "Carotid pulse is typically stronger because the carotid is a larger vessel closer to the heart with less energy dissipation. The radial pulse is weaker due to its distal location. Both should be regular in healthy individuals. Irregularity may suggest arrhythmia.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 13",
       "q": "How does pulse rate relate to underlying heart function and blood flow?",
-      "a": "Pulse rate directly reflects heart rate and the occurrence of ventricular contractions. An irregular pulse may indicate arrhythmia. A weak or absent pulse suggests low stroke volume, arterial occlusion, or cardiovascular compromise. A strong, regular pulse indicates healthy cardiac output."
+      "a": "Pulse rate directly reflects heart rate and the occurrence of ventricular contractions. An irregular pulse may indicate arrhythmia. A weak or absent pulse suggests low stroke volume, arterial occlusion, or cardiovascular compromise. A strong, regular pulse indicates healthy cardiac output.",
+      "sec": "Lab 13"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 14",
       "q": "Define Tidal Volume (TV).",
-      "a": "Tidal Volume (TV): the volume of air inhaled or exhaled during a single normal, resting breath. Approximately 0.5 L in adults. Does not include reserve volumes and represents quiet, effortless breathing."
+      "a": "Tidal Volume (TV): the volume of air inhaled or exhaled during a single normal, resting breath. Approximately 0.5 L in adults. Does not include reserve volumes and represents quiet, effortless breathing.",
+      "sec": "Lab 14"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 14",
       "q": "Define Inspiratory Reserve Volume (IRV).",
-      "a": "Inspiratory Reserve Volume (IRV): the maximum additional volume of air that can be inhaled beyond a normal tidal inspiration. Approximately 2.7 L (individual sample) or 3.0 L (male class average). Accessed during deep or forced breathing."
+      "a": "Inspiratory Reserve Volume (IRV): the maximum additional volume of air that can be inhaled beyond a normal tidal inspiration. Approximately 2.7 L (individual sample) or 3.0 L (male class average). Accessed during deep or forced breathing.",
+      "sec": "Lab 14"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 14",
       "q": "Define Expiratory Reserve Volume (ERV).",
-      "a": "Expiratory Reserve Volume (ERV): the maximum additional volume of air that can be forcefully exhaled beyond a normal tidal expiration. Approximately 1.1 L (individual sample) or 1.2 L (male class average). Requires active contraction of expiratory muscles."
+      "a": "Expiratory Reserve Volume (ERV): the maximum additional volume of air that can be forcefully exhaled beyond a normal tidal expiration. Approximately 1.1 L (individual sample) or 1.2 L (male class average). Requires active contraction of expiratory muscles.",
+      "sec": "Lab 14"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 14",
       "q": "Define Vital Capacity (VC).",
-      "a": "Vital Capacity (VC): the maximum volume of air that can be exhaled after a maximum inhalation. VC = TV + IRV + ERV. Approximately 4.3 L (individual sample). Directly measurable by spirometer. Reflects total usable lung volume."
+      "a": "Vital Capacity (VC): the maximum volume of air that can be exhaled after a maximum inhalation. VC = TV + IRV + ERV. Approximately 4.3 L (individual sample). Directly measurable by spirometer. Reflects total usable lung volume.",
+      "sec": "Lab 14"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 14",
       "q": "Define Residual Volume (RV).",
-      "a": "Residual Volume (RV): the volume of air remaining in the lungs after a maximum forceful exhalation. Approximately 1.5 L. Cannot be measured directly by spirometer (must be calculated or measured by gas dilution/body plethysmography). Prevents alveolar collapse."
+      "a": "Residual Volume (RV): the volume of air remaining in the lungs after a maximum forceful exhalation. Approximately 1.5 L. Cannot be measured directly by spirometer (must be calculated or measured by gas dilution/body plethysmography). Prevents alveolar collapse.",
+      "sec": "Lab 14"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 14",
       "q": "Define Total Lung Capacity (TLC).",
-      "a": "Total Lung Capacity (TLC): the total volume of air in the lungs at maximum inhalation. TLC = VC + RV. Approximately 5.8 L (individual sample) or 6.3 L (male class average). Represents the absolute maximum air the lungs can hold."
+      "a": "Total Lung Capacity (TLC): the total volume of air in the lungs at maximum inhalation. TLC = VC + RV. Approximately 5.8 L (individual sample) or 6.3 L (male class average). Represents the absolute maximum air the lungs can hold.",
+      "sec": "Lab 14"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 14",
       "q": "How do you measure each lung volume using a spirometer?",
-      "a": "TV: measured during normal resting breathing. IRV: maximum additional inhale from end of normal tidal inhalation. ERV: maximum additional exhale from end of normal tidal exhalation. VC: maximum exhale after maximum inhale. RV: TLC minus VC (calculated; not directly measured by spirometer)."
+      "a": "TV: measured during normal resting breathing. IRV: maximum additional inhale from end of normal tidal inhalation. ERV: maximum additional exhale from end of normal tidal exhalation. VC: maximum exhale after maximum inhale. RV: TLC minus VC (calculated; not directly measured by spirometer).",
+      "sec": "Lab 14"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 14",
       "q": "How do you calculate Vital Capacity and Total Lung Capacity from experimental values?",
-      "a": "VC = TV + IRV + ERV. Example: 0.5 + 2.7 + 1.1 = 4.3 L. TLC = VC + RV. Example: 4.3 + 1.5 = 5.8 L. RV cannot be directly measured by spirometer and must be estimated or calculated using gas dilution techniques."
+      "a": "VC = TV + IRV + ERV. Example: 0.5 + 2.7 + 1.1 = 4.3 L. TLC = VC + RV. Example: 4.3 + 1.5 = 5.8 L. RV cannot be directly measured by spirometer and must be estimated or calculated using gas dilution techniques.",
+      "sec": "Lab 14"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 14",
       "q": "How do lung volumes and capacities compare between males and females? Use sample data to support your answer.",
-      "a": "Males have larger TV, IRV, ERV, VC, and TLC due to larger body size and lung dimensions. RV is similar between sexes. Sample: male VC avg = 4.8 L vs female avg = 3.4 L; male TLC = 6.3 L vs female TLC = 4.9 L."
+      "a": "Males have larger TV, IRV, ERV, VC, and TLC due to larger body size and lung dimensions. RV is similar between sexes. Sample: male VC avg = 4.8 L vs female avg = 3.4 L; male TLC = 6.3 L vs female TLC = 4.9 L.",
+      "sec": "Lab 14"
     },
     {
-      "subj": "PHYS",
-      "doc": "PRAC2SG",
-      "sec": "Lab 14",
       "q": "How do lung volume values correlate with clinical conditions such as pulmonary fibrosis and emphysema?",
-      "a": "Fibrosis (restrictive): stiff, scarred lungs cannot fully expand. All volumes (TV, IRV, ERV, VC, TLC) are reduced. Emphysema (obstructive): alveolar wall destruction causes air trapping. RV and TLC increase, VC and expiratory flow rates decrease."
+      "a": "Fibrosis (restrictive): stiff, scarred lungs cannot fully expand. All volumes (TV, IRV, ERV, VC, TLC) are reduced. Emphysema (obstructive): alveolar wall destruction causes air trapping. RV and TLC increase, VC and expiratory flow rates decrease.",
+      "sec": "Lab 14"
     }
   ]
 }
