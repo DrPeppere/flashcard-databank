@@ -1,707 +1,702 @@
 [
   {
-    "question": "Diagram the anatomy of the urinary system and explain the function of each structure.",
-    "answer": "Composed of two kidneys, two ureters, a urinary bladder, and a urethra. Uses mass balance to maintain homeostasis and excrete wastes.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Diagram the anatomy of the urinary system and explain the function of each structure.",
+    "a": "Composed of two kidneys, two ureters, a urinary bladder, and a urethra. Uses mass balance to maintain homeostasis and excrete wastes."
   },
   {
-    "question": "Define: Urinary system",
-    "answer": "Composed of the kidneys and accessory structures (ureters, bladder, urethra).",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Urinary system",
+    "a": "Composed of the kidneys and accessory structures (ureters, bladder, urethra)."
   },
   {
-    "question": "Define: Nephrons",
-    "answer": "The functional unit of the kidney; each kidney contains approximately 1 million nephrons.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Nephrons",
+    "a": "The functional unit of the kidney; each kidney contains approximately 1 million nephrons."
   },
   {
-    "question": "Define: Kidneys",
-    "answer": "Paired organs located retroperitoneally. Site of urine formation; regulates fluid volume, blood pressure, osmolarity, and ion balance.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Kidneys",
+    "a": "Paired organs located retroperitoneally. Site of urine formation; regulates fluid volume, blood pressure, osmolarity, and ion balance."
   },
   {
-    "question": "Define: Ureter",
-    "answer": "Smooth muscle tube through which urine passes from the renal pelvis to the urinary bladder.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Ureter",
+    "a": "Smooth muscle tube through which urine passes from the renal pelvis to the urinary bladder."
   },
   {
-    "question": "Define: Urinary bladder",
-    "answer": "Hollow organ with well-developed smooth muscle walls; stores urine; can hold approximately 500 mL.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Urinary bladder",
+    "a": "Hollow organ with well-developed smooth muscle walls; stores urine; can hold approximately 500 mL."
   },
   {
-    "question": "Define: Urethra",
-    "answer": "Single tube through which urine passes from the bladder to the external environment.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Urethra",
+    "a": "Single tube through which urine passes from the bladder to the external environment."
   },
   {
-    "question": "Define: Micturition",
-    "answer": "The process of urination or voiding; the reflex emptying of the bladder.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Micturition",
+    "a": "The process of urination or voiding; the reflex emptying of the bladder."
   },
   {
-    "question": "Define: Peritoneum",
-    "answer": "The membranous lining of the abdomen. The kidneys are sandwiched behind it.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Peritoneum",
+    "a": "The membranous lining of the abdomen. The kidneys are sandwiched behind it."
   },
   {
-    "question": "Define: Retroperitoneal",
-    "answer": "Located behind the peritoneal cavity; the anatomical location of the kidneys.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Retroperitoneal",
+    "a": "Located behind the peritoneal cavity; the anatomical location of the kidneys."
   },
   {
-    "question": "Define: Renal arteries",
-    "answer": "Blood vessels that branch off the abdominal aorta and supply blood to the kidneys.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Renal arteries",
+    "a": "Blood vessels that branch off the abdominal aorta and supply blood to the kidneys."
   },
   {
-    "question": "Define: Renal veins",
-    "answer": "Blood vessels that carry blood from the kidneys to the inferior vena cava.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Renal veins",
+    "a": "Blood vessels that carry blood from the kidneys to the inferior vena cava."
   },
   {
-    "question": "Diagram the anatomy of the kidneys and explain the function of each structure.",
-    "answer": "Divided into outer cortex and inner medulla. Urine leaves nephrons, flows into renal pelvis, then passes through ureter to bladder.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Diagram the anatomy of the kidneys and explain the function of each structure.",
+    "a": "Divided into outer cortex and inner medulla. Urine leaves nephrons, flows into renal pelvis, then passes through ureter to bladder."
   },
   {
-    "question": "Define: Cortex (renal)",
-    "answer": "The outer layer of the kidney; contains all Bowman's capsules, proximal tubules, and distal tubules.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Cortex (renal)",
+    "a": "The outer layer of the kidney; contains all Bowman's capsules, proximal tubules, and distal tubules."
   },
   {
-    "question": "Define: Medulla (renal)",
-    "answer": "The inner layer of the kidney; contains loops of Henle and collecting ducts.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Medulla (renal)",
+    "a": "The inner layer of the kidney; contains loops of Henle and collecting ducts."
   },
   {
-    "question": "Define: Renal pelvis",
-    "answer": "The structure into which collecting ducts drain; urine passes from here into the ureter.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Renal pelvis",
+    "a": "The structure into which collecting ducts drain; urine passes from here into the ureter."
   },
   {
-    "question": "Define: Juxtamedullary nephron",
-    "answer": "Approximately 20% of nephrons; dip down into the medulla; have vasa recta.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Juxtamedullary nephron",
+    "a": "Approximately 20% of nephrons; dip down into the medulla; have vasa recta."
   },
   {
-    "question": "Define: Cortical nephron",
-    "answer": "Approximately 80% of nephrons; almost completely contained within the cortex.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Cortical nephron",
+    "a": "Approximately 80% of nephrons; almost completely contained within the cortex."
   },
   {
-    "question": "Define: Collecting duct",
-    "answer": "The tubular segment that receives filtrate from up to eight distal tubules; passes through medulla to drain into renal pelvis.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Collecting duct",
+    "a": "The tubular segment that receives filtrate from up to eight distal tubules; passes through medulla to drain into renal pelvis."
   },
   {
-    "question": "Trace a drop of blood from the renal artery to the renal vein.",
-    "answer": "Renal artery to afferent arteriole, to glomerulus, to efferent arteriole, to peritubular capillaries (and vasa recta), to renal vein.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Trace a drop of blood from the renal artery to the renal vein.",
+    "a": "Renal artery to afferent arteriole, to glomerulus, to efferent arteriole, to peritubular capillaries (and vasa recta), to renal vein."
   },
   {
-    "question": "Define: Portal system",
-    "answer": "Consists of two capillary beds in series. The kidney has one: from the glomerulus to the peritubular capillaries.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Portal system",
+    "a": "Consists of two capillary beds in series. The kidney has one: from the glomerulus to the peritubular capillaries."
   },
   {
-    "question": "Define: Afferent arteriole",
-    "answer": "The arteriole that carries blood into the glomerular capillary bed. (Vasoconstriction here decreases GFR).",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Afferent arteriole",
+    "a": "The arteriole that carries blood into the glomerular capillary bed. (Vasoconstriction here decreases GFR)."
   },
   {
-    "question": "Define: Glomerulus",
-    "answer": "The ball-like network of glomerular capillaries surrounded by Bowman's capsule; site of filtration.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Glomerulus",
+    "a": "The ball-like network of glomerular capillaries surrounded by Bowman's capsule; site of filtration."
   },
   {
-    "question": "Define: Efferent arteriole",
-    "answer": "The arteriole that carries blood away from the glomerulus into the peritubular capillaries. (Vasoconstriction increases GFR).",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Efferent arteriole",
+    "a": "The arteriole that carries blood away from the glomerulus into the peritubular capillaries. (Vasoconstriction increases GFR)."
   },
   {
-    "question": "Define: Peritubular capillaries",
-    "answer": "The second set of capillaries in the renal portal system; surround the tubule; site of reabsorption.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Peritubular capillaries",
+    "a": "The second set of capillaries in the renal portal system; surround the tubule; site of reabsorption."
   },
   {
-    "question": "Define: Vasa recta",
-    "answer": "Long peritubular capillaries of juxtamedullary nephrons that dip into the medulla.",
-    "sec": "Anatomy"
+    "sec": "Anatomy",
+    "q": "Define: Vasa recta",
+    "a": "Long peritubular capillaries of juxtamedullary nephrons that dip into the medulla."
   },
   {
-    "question": "Describe the 1st function of the kidneys: Regulation of ECF volume and blood pressure",
-    "answer": "The kidneys work with the cardiovascular system to ensure blood pressure and tissue perfusion remain within an acceptable range.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Describe the 1st function of the kidneys: Regulation of ECF volume and blood pressure",
+    "a": "The kidneys work with the cardiovascular system to ensure blood pressure and tissue perfusion remain within an acceptable range."
   },
   {
-    "question": "Describe the 2nd function of the kidneys: Regulation of osmolarity",
-    "answer": "Integrates with behavioral drives, such as thirst, to maintain blood osmolarity at a value close to 290 mOsM.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Describe the 2nd function of the kidneys: Regulation of osmolarity",
+    "a": "Integrates with behavioral drives, such as thirst, to maintain blood osmolarity at a value close to 290 mOsM."
   },
   {
-    "question": "Describe the 3rd function of the kidneys: Maintenance of ion balance",
-    "answer": "Keeps concentrations of key ions like sodium, potassium, and calcium within a normal range by balancing dietary intake with urinary loss.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Describe the 3rd function of the kidneys: Maintenance of ion balance",
+    "a": "Keeps concentrations of key ions like sodium, potassium, and calcium within a normal range by balancing dietary intake with urinary loss."
   },
   {
-    "question": "Describe the 4th function of the kidneys: Homeostatic regulation of pH",
-    "answer": "Removes H+ and conserves HCO3- if extracellular fluid is too acidic; removes HCO3- and conserves H+ if it is too alkaline.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Describe the 4th function of the kidneys: Homeostatic regulation of pH",
+    "a": "Removes H+ and conserves HCO3- if extracellular fluid is too acidic; removes HCO3- and conserves H+ if it is too alkaline."
   },
   {
-    "question": "Describe the 5th function of the kidneys: Excretion of wastes",
-    "answer": "Removes metabolic waste products (like creatinine, urea, uric acid) and foreign substances (xenobiotics).",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Describe the 5th function of the kidneys: Excretion of wastes",
+    "a": "Removes metabolic waste products (like creatinine, urea, uric acid) and foreign substances (xenobiotics)."
   },
   {
-    "question": "Describe the 6th function of the kidneys: Production of hormones",
-    "answer": "Synthesizes erythropoietin, releases renin, and helps convert vitamin D3 into a hormone that regulates calcium balance.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Describe the 6th function of the kidneys: Production of hormones",
+    "a": "Synthesizes erythropoietin, releases renin, and helps convert vitamin D3 into a hormone that regulates calcium balance."
   },
   {
-    "question": "Define: Urine",
-    "answer": "The fluid waste produced by the kidneys; the modified filtrate remaining at the end of the nephron.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: Urine",
+    "a": "The fluid waste produced by the kidneys; the modified filtrate remaining at the end of the nephron."
   },
   {
-    "question": "Define: Salt and water balance (Electrolyte balance)",
-    "answer": "Homeostatic regulation of the water and ion content of the blood; considered the most important function of the kidney.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: Salt and water balance (Electrolyte balance)",
+    "a": "Homeostatic regulation of the water and ion content of the blood; considered the most important function of the kidney."
   },
   {
-    "question": "Define: Mass balance",
-    "answer": "The principle the kidneys obey to maintain normal blood concentrations of ions and water by balancing intake with urinary excretion.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: Mass balance",
+    "a": "The principle the kidneys obey to maintain normal blood concentrations of ions and water by balancing intake with urinary excretion."
   },
   {
-    "question": "Define: Osmolarity",
-    "answer": "A measure of solute concentration. The kidneys maintain blood osmolarity at a value close to 290 mOsM.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: Osmolarity",
+    "a": "A measure of solute concentration. The kidneys maintain blood osmolarity at a value close to 290 mOsM."
   },
   {
-    "question": "Define: Ion balance",
-    "answer": "The regulation of key ions. Sodium is the major ion involved in the regulation of extracellular fluid volume and osmolarity.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: Ion balance",
+    "a": "The regulation of key ions. Sodium is the major ion involved in the regulation of extracellular fluid volume and osmolarity."
   },
   {
-    "question": "Define: pH",
-    "answer": "A measure of acidity. The kidneys do not correct pH disturbances as rapidly as the lungs do, but play a significant role in homeostasis.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: pH",
+    "a": "A measure of acidity. The kidneys do not correct pH disturbances as rapidly as the lungs do, but play a significant role in homeostasis."
   },
   {
-    "question": "Define: Metabolic wastes",
-    "answer": "Endogenous waste products removed by the kidneys, including creatinine, urea, and uric acid.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: Metabolic wastes",
+    "a": "Endogenous waste products removed by the kidneys, including creatinine, urea, and uric acid."
   },
   {
-    "question": "Define: Creatinine",
-    "answer": "A metabolic waste product from muscle metabolism (breakdown of phosphocreatine) that is excreted by the kidneys.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: Creatinine",
+    "a": "A metabolic waste product from muscle metabolism (breakdown of phosphocreatine) that is excreted by the kidneys."
   },
   {
-    "question": "Define: Urea",
-    "answer": "A nitrogenous metabolic waste product excreted by the kidneys.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: Urea",
+    "a": "A nitrogenous metabolic waste product excreted by the kidneys."
   },
   {
-    "question": "Define: Uric acid",
-    "answer": "A nitrogenous metabolic waste product of purine metabolism; forms crystals in joints (gout) and kidney stones when elevated.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: Uric acid",
+    "a": "A nitrogenous metabolic waste product of purine metabolism; forms crystals in joints (gout) and kidney stones when elevated."
   },
   {
-    "question": "Define: Urobilinogen",
-    "answer": "A metabolite of hemoglobin that gives urine its characteristic yellow color.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: Urobilinogen",
+    "a": "A metabolite of hemoglobin that gives urine its characteristic yellow color."
   },
   {
-    "question": "Define: Erythropoietin",
-    "answer": "The cytokine or hormone synthesized by kidney cells that regulates red blood cell synthesis.",
-    "sec": "19.1"
+    "sec": "19.1",
+    "q": "Define: Erythropoietin",
+    "a": "The cytokine or hormone synthesized by kidney cells that regulates red blood cell synthesis."
   },
   {
-    "question": "Trace the anatomical path of a drop of water from Bowman's capsule to the urine leaving the body.",
-    "answer": "Bowman's capsule to proximal tubule, to descending limb, to ascending limb, to distal tubule, to collecting duct, to renal pelvis, to ureter, to bladder, to urethra.",
-    "sec": "19.2"
+    "sec": "19.2",
+    "q": "Trace the anatomical path of a drop of water from Bowman's capsule to the urine leaving the body.",
+    "a": "Bowman's capsule to proximal tubule, to descending limb, to ascending limb, to distal tubule, to collecting duct, to renal pelvis, to ureter, to bladder, to urethra."
   },
   {
-    "question": "Define: Bowman's capsule",
-    "answer": "The hollow, ball-like structure at the beginning of the nephron that surrounds the glomerulus; site of filtration into the tubule.",
-    "sec": "19.2"
+    "sec": "19.2",
+    "q": "Define: Bowman's capsule",
+    "a": "The hollow, ball-like structure at the beginning of the nephron that surrounds the glomerulus; site of filtration into the tubule."
   },
   {
-    "question": "Define: Renal corpuscle",
-    "answer": "The combination of the glomerulus and Bowman's capsule; the site of filtration.",
-    "sec": "19.2"
+    "sec": "19.2",
+    "q": "Define: Renal corpuscle",
+    "a": "The combination of the glomerulus and Bowman's capsule; the site of filtration."
   },
   {
-    "question": "Define: Proximal tubule",
-    "answer": "The first tubular segment after Bowman's capsule; site of isosmotic reabsorption of organic nutrients, ions, and water.",
-    "sec": "19.2"
+    "sec": "19.2",
+    "q": "Define: Proximal tubule",
+    "a": "The first tubular segment after Bowman's capsule; site of isosmotic reabsorption of organic nutrients, ions, and water."
   },
   {
-    "question": "Define: Loop of Henle",
-    "answer": "Hairpin-shaped segment of the nephron that dips down toward the medulla and back up; primary site for creating dilute urine.",
-    "sec": "19.2"
+    "sec": "19.2",
+    "q": "Define: Loop of Henle",
+    "a": "Hairpin-shaped segment of the nephron that dips down toward the medulla and back up; primary site for creating dilute urine."
   },
   {
-    "question": "Define: Descending limb",
-    "answer": "The first section of the loop of Henle where fluid travels downward into the medulla.",
-    "sec": "19.2"
+    "sec": "19.2",
+    "q": "Define: Descending limb",
+    "a": "The first section of the loop of Henle where fluid travels downward into the medulla."
   },
   {
-    "question": "Define: Ascending limb",
-    "answer": "The second section of the loop of Henle where fluid travels upward. It passes between the afferent and efferent arterioles.",
-    "sec": "19.2"
+    "sec": "19.2",
+    "q": "Define: Ascending limb",
+    "a": "The second section of the loop of Henle where fluid travels upward. It passes between the afferent and efferent arterioles."
   },
   {
-    "question": "Define: Distal tubule",
-    "answer": "The tubular segment after the loop of Henle where regulated reabsorption of ions and water takes place.",
-    "sec": "19.2"
+    "sec": "19.2",
+    "q": "Define: Distal tubule",
+    "a": "The tubular segment after the loop of Henle where regulated reabsorption of ions and water takes place."
   },
   {
-    "question": "Define: Distal nephron",
-    "answer": "The collective term for the distal tubule and its collecting duct.",
-    "sec": "19.2"
+    "sec": "19.2",
+    "q": "Define: Distal nephron",
+    "a": "The collective term for the distal tubule and its collecting duct."
   },
   {
-    "question": "Diagram the anatomical relationship between the vascular and tubular elements of the nephron.",
-    "answer": "The tubule is wrapped by peritubular capillaries. The ascending limb passes exactly between the afferent and efferent arterioles of its own glomerulus.",
-    "sec": "19.2"
+    "sec": "19.2",
+    "q": "Diagram the anatomical relationship between the vascular and tubular elements of the nephron.",
+    "a": "The tubule is wrapped by peritubular capillaries. The ascending limb passes exactly between the afferent and efferent arterioles of its own glomerulus."
   },
   {
-    "question": "Explain the critical function of the renal portal system.",
-    "answer": "It filters fluid out of the blood at the first capillary bed (glomerulus) and reabsorbs fluid back into the blood at the second capillary bed (peritubular capillaries).",
-    "sec": "19.2"
+    "sec": "19.2",
+    "q": "Explain the critical function of the renal portal system.",
+    "a": "It filters fluid out of the blood at the first capillary bed (glomerulus) and reabsorbs fluid back into the blood at the second capillary bed (peritubular capillaries)."
   },
   {
-    "question": "Describe the three processes of the nephron.",
-    "answer": "1. Filtration (movement from blood to lumen)\n2. Reabsorption (movement from lumen to blood)\n3. Secretion (movement from blood to lumen)",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "Describe the three processes of the nephron.",
+    "a": "1. Filtration (movement from blood to lumen)\n2. Reabsorption (movement from lumen to blood)\n3. Secretion (movement from blood to lumen)"
   },
   {
-    "question": "Define: Filtration",
-    "answer": "The movement of fluid from blood into the lumen of the nephron at the renal corpuscle.",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "Define: Filtration",
+    "a": "The movement of fluid from blood into the lumen of the nephron at the renal corpuscle."
   },
   {
-    "question": "Define: Filtrate",
-    "answer": "The fluid that passes from the glomerular capillaries into the lumen of the nephron; destined for excretion unless reabsorbed.",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "Define: Filtrate",
+    "a": "The fluid that passes from the glomerular capillaries into the lumen of the nephron; destined for excretion unless reabsorbed."
   },
   {
-    "question": "Define: Reabsorption",
-    "answer": "The process of moving substances in the filtrate from the lumen of the tubule back into the blood flowing through peritubular capillaries.",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "Define: Reabsorption",
+    "a": "The process of moving substances in the filtrate from the lumen of the tubule back into the blood flowing through peritubular capillaries."
   },
   {
-    "question": "Define: Secretion (renal)",
-    "answer": "The selective removal of molecules from the blood and addition of them to the filtrate in the tubule lumen.",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "Define: Secretion (renal)",
+    "a": "The selective removal of molecules from the blood and addition of them to the filtrate in the tubule lumen."
   },
   {
-    "question": "Diagram the volume and osmolarity changes of filtrate entering Bowman's capsule.",
-    "answer": "Volume: 180 L/day (100%).\nOsmolarity: ~300 mOsM.",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "Diagram the volume and osmolarity changes of filtrate entering Bowman's capsule.",
+    "a": "Volume: 180 L/day (100%).\nOsmolarity: ~300 mOsM."
   },
   {
-    "question": "Diagram the volume and osmolarity changes of filtrate at the start of the Loop of Henle.",
-    "answer": "Volume: 54 L/day (30%).\nOsmolarity: 300 mOsM.",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "Diagram the volume and osmolarity changes of filtrate at the start of the Loop of Henle.",
+    "a": "Volume: 54 L/day (30%).\nOsmolarity: 300 mOsM."
   },
   {
-    "question": "Diagram the volume and osmolarity changes of filtrate at the end of the Loop of Henle.",
-    "answer": "Volume: 18 L/day (~10%).\nOsmolarity: 100 mOsM (hyposmotic).",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "Diagram the volume and osmolarity changes of filtrate at the end of the Loop of Henle.",
+    "a": "Volume: 18 L/day (~10%).\nOsmolarity: 100 mOsM (hyposmotic)."
   },
   {
-    "question": "Diagram the volume and osmolarity changes of filtrate at the end of the Collecting duct (urine).",
-    "answer": "Volume: 1.5 L/day (~1%).\nOsmolarity: 50 to 1200 mOsM.",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "Diagram the volume and osmolarity changes of filtrate at the end of the Collecting duct (urine).",
+    "a": "Volume: 1.5 L/day (~1%).\nOsmolarity: 50 to 1200 mOsM."
   },
   {
-    "question": "Define: Renal handling",
-    "answer": "The collective tubular transport mechanisms (filtration, reabsorption, secretion) for a substance.",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "Define: Renal handling",
+    "a": "The collective tubular transport mechanisms (filtration, reabsorption, secretion) for a substance."
   },
   {
-    "question": "Define: Isosmotic reabsorption",
-    "answer": "Reabsorption of solutes and water in equal proportions so that filtrate osmolarity does not change. This is the primary function of the proximal tubule.",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "Define: Isosmotic reabsorption",
+    "a": "Reabsorption of solutes and water in equal proportions so that filtrate osmolarity does not change. This is the primary function of the proximal tubule."
   },
   {
-    "question": "What is the mathematical equation for excretion?",
-    "answer": "Amount excreted = amount filtered - amount reabsorbed + amount secreted",
-    "sec": "19.3"
+    "sec": "19.3",
+    "q": "What is the mathematical equation for excretion?",
+    "a": "Amount excreted = amount filtered - amount reabsorbed + amount secreted"
   },
   {
-    "question": "Explain the purpose of filtration and which molecules are included/excluded.",
-    "answer": "Purpose: First step in urine formation & rapid clearance of foreign substances.\nIncluded: Water and dissolved solutes.\nExcluded: Blood cells and almost all plasma proteins.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Explain the purpose of filtration and which molecules are included/excluded.",
+    "a": "Purpose: First step in urine formation & rapid clearance of foreign substances.\nIncluded: Water and dissolved solutes.\nExcluded: Blood cells and almost all plasma proteins."
   },
   {
-    "question": "Understand how much of the plasma is filtered and how much is excreted.",
-    "answer": "20% of plasma flowing through the glomerulus is filtered into the nephron. Less than 1% of that filtered fluid is eventually excreted as urine.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Understand how much of the plasma is filtered and how much is excreted.",
+    "a": "20% of plasma flowing through the glomerulus is filtered into the nephron. Less than 1% of that filtered fluid is eventually excreted as urine."
   },
   {
-    "question": "Define: Filtration fraction",
-    "answer": "The percentage of renal plasma flow that filters into the tubule; normally ~20%.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Filtration fraction",
+    "a": "The percentage of renal plasma flow that filters into the tubule; normally ~20%."
   },
   {
-    "question": "Describe the three filtration barriers between the blood and the lumen of the nephron.",
-    "answer": "1. Capillary Endothelium (fenestrated to repel proteins)\n2. Basement Membrane (acellular matrix sieve)\n3. Epithelium of Bowman's Capsule (podocytes with filtration slits).",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Describe the three filtration barriers between the blood and the lumen of the nephron.",
+    "a": "1. Capillary Endothelium (fenestrated to repel proteins)\n2. Basement Membrane (acellular matrix sieve)\n3. Epithelium of Bowman's Capsule (podocytes with filtration slits)."
   },
   {
-    "question": "Define: Filtration barriers",
-    "answer": "The three layers solutes must pass through to enter Bowman's capsule: capillary endothelium, basement membrane, and podocyte epithelium.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Filtration barriers",
+    "a": "The three layers solutes must pass through to enter Bowman's capsule: capillary endothelium, basement membrane, and podocyte epithelium."
   },
   {
-    "question": "Define: Fenestrated capillaries",
-    "answer": "Capillaries with large pores (fenestra); the type found in the glomerulus, allowing most plasma components to filter.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Fenestrated capillaries",
+    "a": "Capillaries with large pores (fenestra); the type found in the glomerulus, allowing most plasma components to filter."
   },
   {
-    "question": "Define: Basement membrane",
-    "answer": "The acellular layer of extracellular matrix that separates the glomerular capillary endothelium from the epithelium of Bowman's capsule; acts as a filtration barrier.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Basement membrane",
+    "a": "The acellular layer of extracellular matrix that separates the glomerular capillary endothelium from the epithelium of Bowman's capsule; acts as a filtration barrier."
   },
   {
-    "question": "Define: Podocytes",
-    "answer": "Specialized epithelial cells of Bowman's capsule; surround glomerular capillaries; have foot processes and filtration slits; third filtration barrier.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Podocytes",
+    "a": "Specialized epithelial cells of Bowman's capsule; surround glomerular capillaries; have foot processes and filtration slits; third filtration barrier."
   },
   {
-    "question": "Define: Foot processes",
-    "answer": "Long cytoplasmic extensions of podocytes that wrap around glomerular capillaries and interlace with each other; leave filtration slits.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Foot processes",
+    "a": "Long cytoplasmic extensions of podocytes that wrap around glomerular capillaries and interlace with each other; leave filtration slits."
   },
   {
-    "question": "Define: Filtration slits",
-    "answer": "Narrow spaces between adjacent foot processes of podocytes; closed by the slit diaphragm.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Filtration slits",
+    "a": "Narrow spaces between adjacent foot processes of podocytes; closed by the slit diaphragm."
   },
   {
-    "question": "Define: Slit diaphragm",
-    "answer": "The thin membrane that closes the filtration slits between podocyte foot processes; contains nephrin and podocin; forms a two-layer sieve.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Slit diaphragm",
+    "a": "The thin membrane that closes the filtration slits between podocyte foot processes; contains nephrin and podocin; forms a two-layer sieve."
   },
   {
-    "question": "Define: Mesangial cells",
-    "answer": "Cells between and around the glomerular capillaries; create a support structure, alter surface area of filtration slits, and secrete cytokines.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Mesangial cells",
+    "a": "Cells between and around the glomerular capillaries; create a support structure, alter surface area of filtration slits, and secrete cytokines."
   },
   {
-    "question": "Describe the pressures that promote and oppose glomerular filtration.",
-    "answer": "Promotes: Capillary blood pressure (hydrostatic, 55 mm Hg).\nOpposes: Capillary colloid osmotic pressure (30 mm Hg) and Capsule fluid pressure (15 mm Hg).",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Describe the pressures that promote and oppose glomerular filtration.",
+    "a": "Promotes: Capillary blood pressure (hydrostatic, 55 mm Hg).\nOpposes: Capillary colloid osmotic pressure (30 mm Hg) and Capsule fluid pressure (15 mm Hg)."
   },
   {
-    "question": "Define: Capillary blood pressure",
-    "answer": "The hydrostatic pressure of blood flowing through glomerular capillaries; averages 55 mm Hg; favors filtration.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Capillary blood pressure",
+    "a": "The hydrostatic pressure of blood flowing through glomerular capillaries; averages 55 mm Hg; favors filtration."
   },
   {
-    "question": "Define: Capillary colloid osmotic pressure",
-    "answer": "Osmotic pressure gradient inside glomerular capillaries due to plasma proteins; averages 30 mm Hg; opposes filtration.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Capillary colloid osmotic pressure",
+    "a": "Osmotic pressure gradient inside glomerular capillaries due to plasma proteins; averages 30 mm Hg; opposes filtration."
   },
   {
-    "question": "Define: Capsule fluid pressure",
-    "answer": "Hydrostatic fluid pressure inside Bowman's capsule; averages 15 mm Hg; opposes filtration.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Capsule fluid pressure",
+    "a": "Hydrostatic fluid pressure inside Bowman's capsule; averages 15 mm Hg; opposes filtration."
   },
   {
-    "question": "Define: Glomerular filtration rate (GFR)",
-    "answer": "The volume of fluid that filters into Bowman's capsule per unit time.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Glomerular filtration rate (GFR)",
+    "a": "The volume of fluid that filters into Bowman's capsule per unit time."
   },
   {
-    "question": "Define: Renal blood flow",
-    "answer": "The volume of blood delivered to the kidneys per unit time. Decreases when arteriole resistance increases.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Renal blood flow",
+    "a": "The volume of blood delivered to the kidneys per unit time. Decreases when arteriole resistance increases."
   },
   {
-    "question": "Define: Filtration coefficient",
-    "answer": "A measure of the ease of glomerular filtration; determined by the surface area of glomerular capillaries and the permeability of the filtration slits.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Filtration coefficient",
+    "a": "A measure of the ease of glomerular filtration; determined by the surface area of glomerular capillaries and the permeability of the filtration slits."
   },
   {
-    "question": "What are the average values for GFR, and what do they mean?",
-    "answer": "Average GFR is 125 mL/min, or 180 L/day. This means the kidneys filter the entire plasma volume 60 times a day, rapidly clearing unwanted molecules.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "What are the average values for GFR, and what do they mean?",
+    "a": "Average GFR is 125 mL/min, or 180 L/day. This means the kidneys filter the entire plasma volume 60 times a day, rapidly clearing unwanted molecules."
   },
   {
-    "question": "Discuss the stability of GFR across a range of blood pressures and its importance.",
-    "answer": "Autoregulation keeps GFR remarkably constant when mean arterial BP is between 80-180 mm Hg. This protects filtration barriers from high BP damage while maintaining excretion.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Discuss the stability of GFR across a range of blood pressures and its importance.",
+    "a": "Autoregulation keeps GFR remarkably constant when mean arterial BP is between 80-180 mm Hg. This protects filtration barriers from high BP damage while maintaining excretion."
   },
   {
-    "question": "What factors can affect GFR?",
-    "answer": "1. Net filtration pressure (driven by renal blood flow and BP).\n2. Filtration coefficient (slit surface area and permeability).",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "What factors can affect GFR?",
+    "a": "1. Net filtration pressure (driven by renal blood flow and BP).\n2. Filtration coefficient (slit surface area and permeability)."
   },
   {
-    "question": "Explain how GFR can be influenced by local control mechanisms.",
-    "answer": "GFR is locally regulated by the myogenic response of vascular smooth muscle to pressure changes, and by tubuloglomerular feedback from the macula densa.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Explain how GFR can be influenced by local control mechanisms.",
+    "a": "GFR is locally regulated by the myogenic response of vascular smooth muscle to pressure changes, and by tubuloglomerular feedback from the macula densa."
   },
   {
-    "question": "Define: Myogenic response",
-    "answer": "The intrinsic ability of vascular smooth muscle to respond to pressure changes; contributes to GFR autoregulation.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Myogenic response",
+    "a": "The intrinsic ability of vascular smooth muscle to respond to pressure changes; contributes to GFR autoregulation."
   },
   {
-    "question": "Define: Tubuloglomerular feedback",
-    "answer": "A paracrine signaling mechanism where changes in fluid flow through the loop of Henle influence GFR via the afferent arteriole.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Tubuloglomerular feedback",
+    "a": "A paracrine signaling mechanism where changes in fluid flow through the loop of Henle influence GFR via the afferent arteriole."
   },
   {
-    "question": "Diagram the myogenic response to high blood pressure in the afferent arterioles.",
-    "answer": "High BP -> Smooth muscle stretches -> Stretch-sensitive ion channels open -> Depolarization -> Vasoconstriction -> Increased resistance -> Decreased GFR.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Diagram the myogenic response to high blood pressure in the afferent arterioles.",
+    "a": "High BP -> Smooth muscle stretches -> Stretch-sensitive ion channels open -> Depolarization -> Vasoconstriction -> Increased resistance -> Decreased GFR."
   },
   {
-    "question": "Diagram the myogenic response to low blood pressure in the afferent arterioles.",
-    "answer": "Low BP -> Tonic level of arteriolar contraction disappears -> Arteriole maximally dilates. (If BP drops below 80 mm Hg, GFR decreases to conserve volume).",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Diagram the myogenic response to low blood pressure in the afferent arterioles.",
+    "a": "Low BP -> Tonic level of arteriolar contraction disappears -> Arteriole maximally dilates. (If BP drops below 80 mm Hg, GFR decreases to conserve volume)."
   },
   {
-    "question": "Describe the paracrine signaling in the juxtaglomerular apparatus that controls GFR.",
-    "answer": "Increased GFR -> Increased tubule flow -> Macula densa senses high NaCl -> Paracrine signal sent -> Afferent arteriole constricts -> GFR decreases.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Describe the paracrine signaling in the juxtaglomerular apparatus that controls GFR.",
+    "a": "Increased GFR -> Increased tubule flow -> Macula densa senses high NaCl -> Paracrine signal sent -> Afferent arteriole constricts -> GFR decreases."
   },
   {
-    "question": "Define: Juxtaglomerular apparatus",
-    "answer": "The region where the final portion of the ascending limb passes between the afferent and efferent arterioles; composed of macula densa and granular cells.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Juxtaglomerular apparatus",
+    "a": "The region where the final portion of the ascending limb passes between the afferent and efferent arterioles; composed of macula densa and granular cells."
   },
   {
-    "question": "Define: Macula densa",
-    "answer": "Modified portion of tubule epithelium; a plaque of cells that senses distal tubule flow and releases paracrine signals that affect arteriole diameter.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Macula densa",
+    "a": "Modified portion of tubule epithelium; a plaque of cells that senses distal tubule flow and releases paracrine signals that affect arteriole diameter."
   },
   {
-    "question": "Define: Granular cells (JG cells)",
-    "answer": "Specialized smooth muscle cells in the wall of the afferent arteriole; secrete renin and paracrine signal molecules.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Granular cells (JG cells)",
+    "a": "Specialized smooth muscle cells in the wall of the afferent arteriole; secrete renin and paracrine signal molecules."
   },
   {
-    "question": "Define: Renin",
-    "answer": "An enzyme released by granular cells; regulates the production of hormones involved in sodium balance and blood pressure homeostasis.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Define: Renin",
+    "a": "An enzyme released by granular cells; regulates the production of hormones involved in sodium balance and blood pressure homeostasis."
   },
   {
-    "question": "Explain how GFR can be influenced by hormones.",
-    "answer": "Hormones like Angiotensin II (vasoconstrictor) and prostaglandins (vasodilators) change arteriole resistance or act on podocytes/mesangial cells to alter the filtration coefficient.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Explain how GFR can be influenced by hormones.",
+    "a": "Hormones like Angiotensin II (vasoconstrictor) and prostaglandins (vasodilators) change arteriole resistance or act on podocytes/mesangial cells to alter the filtration coefficient."
   },
   {
-    "question": "Explain how GFR can be influenced by autonomic neurons.",
-    "answer": "Sympathetic neurons innervate alpha-receptors on arterioles. In sharp BP drops (dehydration/hemorrhage), severe vasoconstriction decreases GFR to conserve fluid.",
-    "sec": "19.4"
+    "sec": "19.4",
+    "q": "Explain how GFR can be influenced by autonomic neurons.",
+    "a": "Sympathetic neurons innervate alpha-receptors on arterioles. In sharp BP drops (dehydration/hemorrhage), severe vasoconstriction decreases GFR to conserve fluid."
   },
   {
-    "question": "Distinguish between transcellular transport and paracellular pathways.",
-    "answer": "Transcellular (transepithelial) crosses the apical and basolateral membranes of the cell. Paracellular passes through the cell-cell junction between adjacent cells.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Distinguish between transcellular transport and paracellular pathways.",
+    "a": "Transcellular (transepithelial) crosses the apical and basolateral membranes of the cell. Paracellular passes through the cell-cell junction between adjacent cells."
   },
   {
-    "question": "Define: Transepithelial transport (transcellular transport)",
-    "answer": "Movement of substances across both the apical and basolateral membranes of the tubule epithelial cell to reach the interstitial fluid.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Transepithelial transport (transcellular transport)",
+    "a": "Movement of substances across both the apical and basolateral membranes of the tubule epithelial cell to reach the interstitial fluid."
   },
   {
-    "question": "Define: Paracellular pathway",
-    "answer": "Movement of substances through the cell-cell junction between two adjacent cells.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Paracellular pathway",
+    "a": "Movement of substances through the cell-cell junction between two adjacent cells."
   },
   {
-    "question": "Define: Concentration gradients",
-    "answer": "A difference in solute concentration between regions; determines the direction of passive transport (like urea diffusion).",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Concentration gradients",
+    "a": "A difference in solute concentration between regions; determines the direction of passive transport (like urea diffusion)."
   },
   {
-    "question": "Define: Electrochemical gradients",
-    "answer": "The combined concentration and electrical gradients that drive the movement of ions (like Na+ or anions) across a membrane.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Electrochemical gradients",
+    "a": "The combined concentration and electrical gradients that drive the movement of ions (like Na+ or anions) across a membrane."
   },
   {
-    "question": "Define: Leak channels",
-    "answer": "Ion channels that prevent accumulation; e.g., a basolateral K+ leak channel allows K+ brought in by the Na+-K+-ATPase to exit the cell.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Leak channels",
+    "a": "Ion channels that prevent accumulation; e.g., a basolateral K+ leak channel allows K+ brought in by the Na+-K+-ATPase to exit the cell."
   },
   {
-    "question": "Define: Facilitated diffusion",
-    "answer": "Passive transport across a cell membrane using a carrier protein, such as the basolateral GLUT transporter for glucose.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Facilitated diffusion",
+    "a": "Passive transport across a cell membrane using a carrier protein, such as the basolateral GLUT transporter for glucose."
   },
   {
-    "question": "Define: Primary active transport",
-    "answer": "Transport that uses ATP directly to move molecules against their gradient, such as the Na+-K+-ATPase.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Primary active transport",
+    "a": "Transport that uses ATP directly to move molecules against their gradient, such as the Na+-K+-ATPase."
   },
   {
-    "question": "Define: Secondary active transport",
-    "answer": "Transport that uses the energy stored in a concentration gradient (like Na+) to move another substance (like glucose) against its gradient.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Secondary active transport",
+    "a": "Transport that uses the energy stored in a concentration gradient (like Na+) to move another substance (like glucose) against its gradient."
   },
   {
-    "question": "Describe and give an example of ACTIVE reabsorption in the proximal tubule.",
-    "answer": "Uses energy to move solutes against gradients. Example: Na+ is actively pumped out basolaterally by Na+-K+-ATPase. Glucose is actively reabsorbed apically via SGLT.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Describe and give an example of ACTIVE reabsorption in the proximal tubule.",
+    "a": "Uses energy to move solutes against gradients. Example: Na+ is actively pumped out basolaterally by Na+-K+-ATPase. Glucose is actively reabsorbed apically via SGLT."
   },
   {
-    "question": "Describe and give an example of PASSIVE reabsorption in the proximal tubule.",
-    "answer": "Solutes/water move down electrochemical/osmotic gradients. Example: Urea diffuses through the paracellular pathway. Water follows solutes by osmosis.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Describe and give an example of PASSIVE reabsorption in the proximal tubule.",
+    "a": "Solutes/water move down electrochemical/osmotic gradients. Example: Urea diffuses through the paracellular pathway. Water follows solutes by osmosis."
   },
   {
-    "question": "Define: Na+-H+ exchanger (NHE)",
-    "answer": "Apical membrane antiporter in proximal tubule; plays a major role in Na+ reabsorption by exchanging luminal Na+ for intracellular H+.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Na+-H+ exchanger (NHE)",
+    "a": "Apical membrane antiporter in proximal tubule; plays a major role in Na+ reabsorption by exchanging luminal Na+ for intracellular H+."
   },
   {
-    "question": "Define: Na+-K+-ATPase (sodium-potassium pump)",
-    "answer": "Basolateral membrane pump that actively transports Na+ out of tubule cells in exchange for K+; primary driving force for most renal reabsorption.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Na+-K+-ATPase (sodium-potassium pump)",
+    "a": "Basolateral membrane pump that actively transports Na+ out of tubule cells in exchange for K+; primary driving force for most renal reabsorption."
   },
   {
-    "question": "Define: SGLT cotransporter",
-    "answer": "Na+-glucose cotransporter: Apical membrane protein; brings glucose into cell against its gradient by using the energy of Na+ moving down its gradient.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: SGLT cotransporter",
+    "a": "Na+-glucose cotransporter: Apical membrane protein; brings glucose into cell against its gradient by using the energy of Na+ moving down its gradient."
   },
   {
-    "question": "Define: GLUT transporter",
-    "answer": "Facilitated diffusion transporter on the basolateral side; allows glucose to passively diffuse out of the tubule cell into the interstitial fluid.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: GLUT transporter",
+    "a": "Facilitated diffusion transporter on the basolateral side; allows glucose to passively diffuse out of the tubule cell into the interstitial fluid."
   },
   {
-    "question": "Define: Osmosis",
-    "answer": "Passive movement of water following solute reabsorption. As solutes are reabsorbed, luminal fluid dilutes and ECF concentrates, driving water out of the tubule.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Osmosis",
+    "a": "Passive movement of water following solute reabsorption. As solutes are reabsorbed, luminal fluid dilutes and ECF concentrates, driving water out of the tubule."
   },
   {
-    "question": "Define: Passive reabsorption",
-    "answer": "Movement of solutes down their electrochemical or concentration gradients without the direct use of ATP (e.g., urea, water).",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Passive reabsorption",
+    "a": "Movement of solutes down their electrochemical or concentration gradients without the direct use of ATP (e.g., urea, water)."
   },
   {
-    "question": "Define: Endocytosis",
-    "answer": "Receptor-mediated endocytosis at the apical membrane is used to reabsorb small filtered plasma proteins, which are then digested in lysosomes.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Endocytosis",
+    "a": "Receptor-mediated endocytosis at the apical membrane is used to reabsorb small filtered plasma proteins, which are then digested in lysosomes."
   },
   {
-    "question": "Diagram the filtration and reabsorption of Na+ within the proximal tubule.",
-    "answer": "1. Apical: Na+ enters cell passively via symporters (SGLT) or antiporters (NHE).\n2. Basolateral: Na+ actively pumped out to ECF by Na+-K+-ATPase against its gradient.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Diagram the filtration and reabsorption of Na+ within the proximal tubule.",
+    "a": "1. Apical: Na+ enters cell passively via symporters (SGLT) or antiporters (NHE).\n2. Basolateral: Na+ actively pumped out to ECF by Na+-K+-ATPase against its gradient."
   },
   {
-    "question": "Diagram the filtration and reabsorption of Glucose within the proximal tubule.",
-    "answer": "1. Apical: Glucose enters cell against gradient via SGLT (secondary active transport with Na+).\n2. Basolateral: Glucose diffuses out to ECF via GLUT transporter (facilitated diffusion).",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Diagram the filtration and reabsorption of Glucose within the proximal tubule.",
+    "a": "1. Apical: Glucose enters cell against gradient via SGLT (secondary active transport with Na+).\n2. Basolateral: Glucose diffuses out to ECF via GLUT transporter (facilitated diffusion)."
   },
   {
-    "question": "Describe the graphs for filtration, reabsorption, and excretion of a substance reabsorbed by protein-mediated transport (like glucose).",
-    "answer": "Filtration: Linear, non-saturating.\nReabsorption: Linear until transport maximum (Tm), then plateaus.\nExcretion: Zero until renal threshold, then increases linearly.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Describe the graphs for filtration, reabsorption, and excretion of a substance reabsorbed by protein-mediated transport (like glucose).",
+    "a": "Filtration: Linear, non-saturating.\nReabsorption: Linear until transport maximum (Tm), then plateaus.\nExcretion: Zero until renal threshold, then increases linearly."
   },
   {
-    "question": "Define: Saturation",
-    "answer": "The maximum rate of transport that occurs when all available carriers are occupied by substrate.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Saturation",
+    "a": "The maximum rate of transport that occurs when all available carriers are occupied by substrate."
   },
   {
-    "question": "Define: Transport maximum (Tm)",
-    "answer": "The transport rate at saturation. (e.g., The Tm for glucose is 375 mg/min).",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Transport maximum (Tm)",
+    "a": "The transport rate at saturation. (e.g., The Tm for glucose is 375 mg/min)."
   },
   {
-    "question": "Define: Renal threshold",
-    "answer": "The plasma concentration at which a substance first appears in the urine (the concentration at which saturation occurs).",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Renal threshold",
+    "a": "The plasma concentration at which a substance first appears in the urine (the concentration at which saturation occurs)."
   },
   {
-    "question": "Define: Glucosuria / Glycosuria",
-    "answer": "Excretion of glucose in the urine; usually indicates elevated blood glucose concentration exceeding the renal threshold.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Define: Glucosuria / Glycosuria",
+    "a": "Excretion of glucose in the urine; usually indicates elevated blood glucose concentration exceeding the renal threshold."
   },
   {
-    "question": "Discuss how reabsorbed fluid returns to the peritubular capillaries.",
-    "answer": "Hydrostatic pressure in peritubular capillaries is low (10 mm Hg), while colloid osmotic pressure is high (30 mm Hg). Net pressure strongly favors reabsorption.",
-    "sec": "19.5"
+    "sec": "19.5",
+    "q": "Discuss how reabsorbed fluid returns to the peritubular capillaries.",
+    "a": "Hydrostatic pressure in peritubular capillaries is low (10 mm Hg), while colloid osmotic pressure is high (30 mm Hg). Net pressure strongly favors reabsorption."
   },
   {
-    "question": "Define secretion and its importance in modulating excretion.",
-    "answer": "Secretion is the active transfer of molecules from ECF into the tubule lumen. It enhances excretion, allowing rapid clearance of K+, H+, and xenobiotics.",
-    "sec": "19.6"
+    "sec": "19.6",
+    "q": "Define secretion and its importance in modulating excretion.",
+    "a": "Secretion is the active transfer of molecules from ECF into the tubule lumen. It enhances excretion, allowing rapid clearance of K+, H+, and xenobiotics."
   },
   {
-    "question": "Define excretion and its relationship with filtration, reabsorption, and secretion.",
-    "answer": "Excretion is the removal of a substance from the body as urine. Relationship: Excretion = Filtration - Reabsorption + Secretion.",
-    "sec": "19.7"
+    "sec": "19.7",
+    "q": "Define excretion and its relationship with filtration, reabsorption, and secretion.",
+    "a": "Excretion is the removal of a substance from the body as urine. Relationship: Excretion = Filtration - Reabsorption + Secretion."
   },
   {
-    "question": "Explain the relationship between excretion of a solute and its renal clearance.",
-    "answer": "Clearance is the volume of plasma totally cleared of a solute per minute. Calculation: Clearance of X = Excretion rate of X / Plasma concentration of X.",
-    "sec": "19.7"
+    "sec": "19.7",
+    "q": "Explain the relationship between excretion of a solute and its renal clearance.",
+    "a": "Clearance is the volume of plasma totally cleared of a solute per minute. Calculation: Clearance of X = Excretion rate of X / Plasma concentration of X."
   },
   {
-    "question": "Understand the normal renal handling of glucose.",
-    "answer": "100% Reabsorbed in the proximal tubule; 0% excreted in healthy individuals.",
-    "sec": "19.7"
+    "sec": "19.7",
+    "q": "Understand the normal renal handling of glucose.",
+    "a": "100% Reabsorbed in the proximal tubule; 0% excreted in healthy individuals."
   },
   {
-    "question": "Understand the normal renal handling of Na+.",
-    "answer": "Reabsorbed in proximal tubule, ascending limb, and distal nephron (regulated). Approx. 1% excreted.",
-    "sec": "19.7"
+    "sec": "19.7",
+    "q": "Understand the normal renal handling of Na+.",
+    "a": "Reabsorbed in proximal tubule, ascending limb, and distal nephron (regulated). Approx. 1% excreted."
   },
   {
-    "question": "Understand the normal renal handling of K+.",
-    "answer": "Reabsorbed in proximal tubule/ascending limb. Distal nephron has regulated absorption or secretion depending on intake. Net secretion possible with high intake.",
-    "sec": "19.7"
+    "sec": "19.7",
+    "q": "Understand the normal renal handling of K+.",
+    "a": "Reabsorbed in proximal tubule/ascending limb. Distal nephron has regulated absorption or secretion depending on intake. Net secretion possible with high intake."
   },
   {
-    "question": "Understand the normal renal handling of Cl-.",
-    "answer": "Reabsorbed in proximal tubule, ascending limb, and distal tubule. Approx. 1% excreted.",
-    "sec": "19.7"
+    "sec": "19.7",
+    "q": "Understand the normal renal handling of Cl-.",
+    "a": "Reabsorbed in proximal tubule, ascending limb, and distal tubule. Approx. 1% excreted."
   },
   {
-    "question": "Understand the normal renal handling of Ca2+.",
-    "answer": "Reabsorbed in proximal tubule, ascending limb, and distal nephron (regulated). Approx. 1% excreted.",
-    "sec": "19.7"
+    "sec": "19.7",
+    "q": "Understand the normal renal handling of Ca2+.",
+    "a": "Reabsorbed in proximal tubule, ascending limb, and distal nephron (regulated). Approx. 1% excreted."
   },
   {
-    "question": "Understand the normal renal handling of urea.",
-    "answer": "Reabsorbed in proximal tubule, secreted in ascending limb, reabsorbed in collecting duct. Net 30–50% excreted.",
-    "sec": "19.7"
+    "sec": "19.7",
+    "q": "Understand the normal renal handling of urea.",
+    "a": "Reabsorbed in proximal tubule, secreted in ascending limb, reabsorbed in collecting duct. Net 30–50% excreted."
   },
   {
-    "question": "Explain how clearance can be used as an indirect indicator of renal handling (Comparison Rules).",
-    "answer": "Compare clearance of X to GFR (Inulin):\nClearance < GFR = Net reabsorption.\nClearance > GFR = Net secretion.\nClearance = GFR = Neither reabsorbed nor secreted.",
-    "sec": "19.7"
+    "sec": "19.7",
+    "q": "Explain how clearance can be used as an indirect indicator of renal handling (Comparison Rules).",
+    "a": "Compare clearance of X to GFR (Inulin):\nClearance < GFR = Net reabsorption.\nClearance > GFR = Net secretion.\nClearance = GFR = Neither reabsorbed nor secreted."
   },
   {
-    "question": "Define: Clearance",
-    "answer": "The volume of plasma passing through the kidneys that has been totally cleared of a solute in a given period of time; units are mL plasma cleared/min.",
-    "sec": "19.7"
+    "sec": "19.7",
+    "q": "Define: Clearance",
+    "a": "The volume of plasma passing through the kidneys that has been totally cleared of a solute in a given period of time; units are mL plasma cleared/min."
   },
   {
-    "question": "Define: Inulin",
-    "answer": "A polysaccharide used to measure GFR because it is freely filtered, and neither reabsorbed nor secreted; its clearance equals GFR.",
-    "sec": "19.7"
+    "sec": "19.7",
+    "q": "Define: Inulin",
+    "a": "A polysaccharide used to measure GFR because it is freely filtered, and neither reabsorbed nor secreted; its clearance equals GFR."
   },
   {
-    "question": "Define: PAH",
-    "answer": "Para-aminohippurate; an organic anion completely cleared from plasma in one pass through the kidney via secretion. PAH clearance equals Renal Plasma Flow.",
-    "sec": "19.7"
-  },
-  {
-    "question": "END",
-    "answer": "END",
-    "sec": "END"
+    "sec": "19.7",
+    "q": "Define: PAH",
+    "a": "Para-aminohippurate; an organic anion completely cleared from plasma in one pass through the kidney via secretion. PAH clearance equals Renal Plasma Flow."
   }
 ]
