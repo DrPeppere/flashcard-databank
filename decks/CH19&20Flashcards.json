@@ -1,0 +1,437 @@
+[
+  {
+    "sec": "Anatomy",
+    "q": "Diagram the anatomy of the urinary system and explain the function of each structure.",
+    "a": "Composed of two kidneys (urine formation, homeostasis), two ureters (smooth muscle tubes transporting urine to bladder), a urinary bladder (hollow smooth-muscle organ storing ~500 mL), and a urethra (single tube expelling urine externally). Uses mass balance to maintain homeostasis and excrete wastes."
+  },
+  {
+    "sec": "Anatomy",
+    "q": "Define: Nephrons and Kidneys",
+    "a": "Nephrons: The functional unit of the kidney; each kidney contains ~1 million nephrons. Kidneys: Paired organs located retroperitoneally (behind the peritoneum); site of urine formation; regulate fluid volume, blood pressure, osmolarity, and ion balance."
+  },
+  {
+    "sec": "Anatomy",
+    "q": "Define: Micturition and Urobilinogen",
+    "a": "Micturition: The process of urination; the reflex emptying of the bladder. Urobilinogen: A metabolite of hemoglobin that gives urine its characteristic yellow color."
+  },
+  {
+    "sec": "Anatomy",
+    "q": "Define: Renal arteries and Renal veins",
+    "a": "Renal arteries: Branch off the abdominal aorta; supply oxygenated blood to the kidneys. Renal veins: Carry filtered blood from the kidneys to the inferior vena cava."
+  },
+  {
+    "sec": "Anatomy",
+    "q": "Diagram the internal anatomy of the kidney.",
+    "a": "Divided into outer cortex (contains all Bowman's capsules, proximal tubules, and distal tubules) and inner medulla (contains loops of Henle and collecting ducts). Urine drains from nephrons → renal pelvis → ureter → bladder."
+  },
+  {
+    "sec": "Anatomy",
+    "q": "Compare cortical and juxtamedullary nephrons.",
+    "a": "Cortical: ~80% of nephrons; almost completely within the cortex. Juxtamedullary: ~20% of nephrons; dip deep into the medulla and have long vasa recta, which are essential for creating the medullary osmotic gradient used to concentrate urine."
+  },
+  {
+    "sec": "Anatomy",
+    "q": "Define: Collecting duct and Renal pelvis",
+    "a": "Collecting duct: Receives filtrate from up to eight distal tubules; passes through the medulla to drain into the renal pelvis; primary site of hormonal water reabsorption. Renal pelvis: Cavity where collecting ducts drain; urine passes from here into the ureter."
+  },
+  {
+    "sec": "Anatomy",
+    "q": "Trace a drop of blood from the renal artery to the renal vein.",
+    "a": "Renal artery → afferent arteriole → glomerulus → efferent arteriole → peritubular capillaries (and vasa recta for juxtamedullary nephrons) → renal vein."
+  },
+  {
+    "sec": "Anatomy",
+    "q": "Define: Afferent arteriole and Efferent arteriole",
+    "a": "Afferent arteriole: Carries blood into the glomerular capillary bed; vasoconstriction here decreases GFR. Efferent arteriole: Carries blood out of the glomerulus into the peritubular capillaries; vasoconstriction here increases GFR."
+  },
+  {
+    "sec": "Anatomy",
+    "q": "Define: Portal system, Peritubular capillaries, and Vasa recta",
+    "a": "Portal system: Two capillary beds in series — glomerulus filters fluid out, peritubular capillaries reabsorb it back. Peritubular capillaries: Surround the tubule; the site of reabsorption into the blood. Vasa recta: Long, thin peritubular capillaries of juxtamedullary nephrons that dip into the medulla."
+  },
+  {
+    "sec": "19.1",
+    "q": "List and describe the regulatory functions of the kidneys (Functions 1–4).",
+    "a": "1) ECF volume/BP: Works with CV system to maintain adequate blood pressure and tissue perfusion. 2) Osmolarity: Integrates with thirst to maintain blood osmolarity at ~290 mOsM. 3) Ion balance: Keeps Na+, K+, and Ca2+ within normal ranges by balancing intake with urinary loss. 4) pH homeostasis: Removes H+ and conserves HCO3- if too acidic; reverses if too alkaline."
+  },
+  {
+    "sec": "19.1",
+    "q": "List and describe the non-regulatory functions of the kidneys (Functions 5–6).",
+    "a": "5) Excretion of wastes: Removes metabolic wastes (creatinine, urea, uric acid) and foreign substances (xenobiotics) from the blood. 6) Hormone production: Synthesizes erythropoietin (RBC production), releases renin (BP regulation), and converts vitamin D3 into a hormone regulating calcium balance."
+  },
+  {
+    "sec": "19.1",
+    "q": "Define: Mass balance, Osmolarity, and Ion balance",
+    "a": "Mass balance: The principle by which the kidneys maintain normal blood concentrations by balancing intake with urinary excretion. Osmolarity: A measure of solute concentration; maintained at ~290 mOsM. Ion balance: Sodium is the major ion regulating ECF volume and osmolarity."
+  },
+  {
+    "sec": "19.1",
+    "q": "Define: Urine and Salt & water balance (Electrolyte balance)",
+    "a": "Urine: The modified filtrate remaining at the end of the nephron; the kidney's fluid waste product. Salt & water balance: Homeostatic regulation of water and ion content of the blood; considered the most important kidney function."
+  },
+  {
+    "sec": "19.1",
+    "q": "Define the metabolic waste products excreted by the kidneys.",
+    "a": "Creatinine: Waste product of muscle metabolism (phosphocreatine breakdown). Urea: Nitrogenous waste from protein metabolism. Uric acid: From purine metabolism; elevated levels cause gout (joint crystals) and kidney stones. Urobilinogen: Hemoglobin metabolite giving urine its yellow color."
+  },
+  {
+    "sec": "19.1",
+    "q": "Define: Erythropoietin",
+    "a": "A hormone synthesized by kidney cells in response to hypoxia; regulates red blood cell synthesis in the bone marrow."
+  },
+  {
+    "sec": "19.2",
+    "q": "Trace the anatomical path of a drop of water from Bowman's capsule to leaving the body.",
+    "a": "Bowman's capsule → proximal tubule → descending limb → ascending limb → distal tubule → collecting duct → renal pelvis → ureter → bladder → urethra."
+  },
+  {
+    "sec": "19.2",
+    "q": "Define: Bowman's capsule and Renal corpuscle",
+    "a": "Bowman's capsule: Hollow, ball-like structure surrounding the glomerulus; the site of filtration into the tubule lumen. Renal corpuscle: The combination of the glomerulus and Bowman's capsule; the filtration unit."
+  },
+  {
+    "sec": "19.2",
+    "q": "Define: Proximal tubule",
+    "a": "The first tubular segment after Bowman's capsule; the site of isosmotic reabsorption of organic nutrients, ions, and water (~70% of filtrate is reabsorbed here)."
+  },
+  {
+    "sec": "19.2",
+    "q": "Define: Loop of Henle and its Descending and Ascending limbs",
+    "a": "Loop of Henle: Hairpin-shaped segment dipping toward the medulla; primary site for creating the osmotic gradient used to concentrate urine. Descending limb: Water exits by osmosis, concentrating the filtrate. Ascending limb: Impermeable to water; actively pumps ions out, diluting the filtrate to ~100 mOsM."
+  },
+  {
+    "sec": "19.2",
+    "q": "Define: Distal tubule and Distal nephron",
+    "a": "Distal tubule: Tubular segment after the loop of Henle; site of regulated reabsorption. Distal nephron: Collective term for the distal tubule and its collecting duct — the primary site of hormonal regulation by vasopressin and aldosterone."
+  },
+  {
+    "sec": "19.2",
+    "q": "Explain the anatomical relationships between the tubular and vascular elements of the nephron.",
+    "a": "The tubule is wrapped by peritubular capillaries. The ascending limb passes exactly between the afferent and efferent arterioles of its own glomerulus, forming the juxtaglomerular apparatus. The portal system filters at the glomerulus and reabsorbs at the peritubular capillaries."
+  },
+  {
+    "sec": "19.3",
+    "q": "Describe the three processes of the nephron.",
+    "a": "1) Filtration: Movement of fluid from blood into the lumen at the renal corpuscle. 2) Reabsorption: Movement of substances from the lumen back into the blood at peritubular capillaries. 3) Secretion: Active transfer of molecules from the blood into the tubule lumen."
+  },
+  {
+    "sec": "19.3",
+    "q": "What is the mathematical equation for excretion?",
+    "a": "Amount excreted = Amount filtered − Amount reabsorbed + Amount secreted."
+  },
+  {
+    "sec": "19.3",
+    "q": "Map the volume and osmolarity changes of filtrate through the nephron.",
+    "a": "Bowman's capsule: 180 L/day, 300 mOsM. Start of Loop of Henle: 54 L/day (30%), 300 mOsM. End of Loop of Henle: 18 L/day (~10%), 100 mOsM (hyposmotic). Collecting duct (urine): 1.5 L/day (~1%), 50–1200 mOsM (depending on vasopressin)."
+  },
+  {
+    "sec": "19.3",
+    "q": "Define: Filtrate and Isosmotic reabsorption",
+    "a": "Filtrate: Fluid passing from the glomerular capillaries into the nephron lumen; destined for excretion unless reabsorbed. Isosmotic reabsorption: Reabsorption of solutes and water in equal proportions so that filtrate osmolarity does not change — the primary function of the proximal tubule."
+  },
+  {
+    "sec": "19.4",
+    "q": "Explain the purpose of filtration and which molecules are included/excluded.",
+    "a": "Purpose: First step in urine formation; allows rapid clearance of foreign substances. Included: Water and dissolved solutes. Excluded: Blood cells and almost all plasma proteins. ~20% of plasma is filtered; less than 1% of that is ultimately excreted as urine."
+  },
+  {
+    "sec": "19.4",
+    "q": "Describe the three filtration barriers between blood and the nephron lumen.",
+    "a": "1) Capillary Endothelium: Fenestrated (large pores) — allows most plasma components through but blocks blood cells. 2) Basement Membrane: Acellular ECM sieve between endothelium and podocytes. 3) Podocyte Epithelium: Specialized cells with foot processes and filtration slits closed by a slit diaphragm (containing nephrin and podocin)."
+  },
+  {
+    "sec": "19.4",
+    "q": "Define: Filtration fraction, Mesangial cells, and Filtration coefficient",
+    "a": "Filtration fraction: ~20% of renal plasma flow that filters into the tubule. Mesangial cells: Between and around glomerular capillaries; provide structural support, alter filtration surface area, and secrete cytokines. Filtration coefficient: Ease of filtration, determined by capillary surface area and slit permeability."
+  },
+  {
+    "sec": "19.4",
+    "q": "Describe the pressures that promote and oppose glomerular filtration.",
+    "a": "Promotes: Capillary hydrostatic blood pressure (55 mm Hg). Opposes: Capillary colloid osmotic pressure (30 mm Hg, due to plasma proteins) and Capsule fluid pressure (15 mm Hg). Net filtration pressure = 55 − 30 − 15 = 10 mm Hg."
+  },
+  {
+    "sec": "19.4",
+    "q": "Define: GFR and its average values.",
+    "a": "Glomerular filtration rate (GFR): Volume of fluid filtering into Bowman's capsule per unit time. Average: 125 mL/min or 180 L/day — meaning the entire plasma volume is filtered ~60 times per day for rapid clearance of waste."
+  },
+  {
+    "sec": "19.4",
+    "q": "Discuss GFR autoregulation and the factors that can affect GFR.",
+    "a": "GFR is kept remarkably constant when mean arterial BP is 80–180 mm Hg via autoregulation, protecting filtration barriers from high-pressure damage. GFR is determined by: (1) Net filtration pressure (driven by renal blood flow/BP) and (2) Filtration coefficient (surface area and permeability of slits)."
+  },
+  {
+    "sec": "19.4",
+    "q": "Explain how GFR is locally controlled by the myogenic response.",
+    "a": "High BP: Smooth muscle stretches → stretch-sensitive ion channels open → depolarization → vasoconstriction → increased resistance → GFR decreases back to normal. Low BP: Tonic contraction disappears → arteriole maximally dilates. Below 80 mm Hg, GFR falls to conserve volume."
+  },
+  {
+    "sec": "19.4",
+    "q": "Describe tubuloglomerular feedback and the juxtaglomerular apparatus.",
+    "a": "Increased GFR → increased tubule flow → macula densa cells (JGA) sense high NaCl → paracrine signal sent to afferent arteriole → vasoconstriction → GFR decreases. JGA is composed of macula densa (flow sensors in tubule wall) and granular cells (secrete renin and paracrine signals) in the arteriole wall."
+  },
+  {
+    "sec": "19.4",
+    "q": "Explain how hormones and autonomic neurons influence GFR.",
+    "a": "Hormones: ANG II (vasoconstrictor — reduces GFR) and prostaglandins (vasodilators — increase GFR) alter arteriole resistance or act on podocytes/mesangial cells to change the filtration coefficient. Autonomic: Sympathetic neurons constrict afferent arterioles during severe BP drops (dehydration/hemorrhage) to drastically reduce GFR and conserve fluid."
+  },
+  {
+    "sec": "19.5",
+    "q": "Distinguish between transcellular and paracellular pathways.",
+    "a": "Transcellular (transepithelial): Substance crosses both the apical and basolateral membranes of the tubule cell. Paracellular: Substance passes through the junction between two adjacent cells. Most regulated transport is transcellular."
+  },
+  {
+    "sec": "19.5",
+    "q": "Define and compare the three types of membrane transport used in reabsorption.",
+    "a": "Primary active transport: Uses ATP directly against gradient (e.g., Na+-K+-ATPase). Secondary active transport: Uses energy stored in an ion gradient (e.g., SGLT uses Na+ gradient to co-transport glucose against its gradient). Facilitated diffusion: Passive carrier-mediated transport (e.g., GLUT for glucose on the basolateral side)."
+  },
+  {
+    "sec": "19.5",
+    "q": "Describe active and passive reabsorption in the proximal tubule with examples.",
+    "a": "Active: Na+ is actively pumped out basolaterally by Na+-K+-ATPase; glucose is actively reabsorbed apically via SGLT. Passive: Urea diffuses through the paracellular pathway down its concentration gradient; water follows solutes by osmosis. Active transport creates the gradients that drive passive transport."
+  },
+  {
+    "sec": "19.5",
+    "q": "Define: Na+-K+-ATPase and Na+-H+ exchanger (NHE)",
+    "a": "Na+-K+-ATPase: Basolateral pump that actively transports Na+ out of tubule cells in exchange for K+; the primary driving force for nearly all renal reabsorption. NHE: Apical antiporter in the proximal tubule that exchanges luminal Na+ for intracellular H+; also stimulated by ANG II during volume depletion to increase Na+ reabsorption."
+  },
+  {
+    "sec": "19.5",
+    "q": "Diagram the reabsorption of Na+ in the proximal tubule.",
+    "a": "Apical: Na+ enters the cell passively via symporters (SGLT) or antiporters (NHE), driven by the low intracellular Na+ concentration. Basolateral: Na+ is actively pumped out to the ECF by Na+-K+-ATPase against its concentration gradient, maintaining the low intracellular Na+ that drives apical entry."
+  },
+  {
+    "sec": "19.5",
+    "q": "Define: SGLT and GLUT transporters, and diagram glucose reabsorption.",
+    "a": "SGLT (Na+-glucose cotransporter): Apical; uses Na+ gradient (secondary active transport) to bring glucose into the cell against its own gradient. GLUT: Basolateral facilitated diffusion carrier; glucose exits the cell passively into the interstitium. Result: 100% of glucose is normally reabsorbed in the proximal tubule."
+  },
+  {
+    "sec": "19.5",
+    "q": "Define: Leak channels, Endocytosis, and Passive reabsorption",
+    "a": "Leak channels: Basolateral K+ channels preventing intracellular K+ accumulation — K+ brought in by Na+-K+-ATPase exits through them. Endocytosis: Receptor-mediated apical uptake of small filtered plasma proteins; digested in lysosomes. Passive reabsorption: Movement of solutes/water down electrochemical or osmotic gradients without ATP (e.g., urea, water)."
+  },
+  {
+    "sec": "19.5",
+    "q": "Describe the graphs for filtration, reabsorption, and excretion of a carrier-transported substance (e.g., glucose).",
+    "a": "Filtration: Linear, non-saturating (proportional to plasma concentration). Reabsorption: Linear until transport maximum (Tm), then plateaus when all carriers are saturated. Excretion: Zero until the renal threshold is reached, then increases linearly. Above threshold = glucosuria."
+  },
+  {
+    "sec": "19.5",
+    "q": "Define: Saturation, Transport maximum (Tm), and Renal threshold",
+    "a": "Saturation: All available carrier proteins are occupied; maximum transport rate is reached. Tm: Transport rate at saturation (e.g., glucose Tm ≈ 375 mg/min). Renal threshold: The plasma concentration at which a substance first appears in the urine (the point at which Tm is exceeded)."
+  },
+  {
+    "sec": "19.5",
+    "q": "Define: Glucosuria and explain how reabsorbed fluid returns to the peritubular capillaries.",
+    "a": "Glucosuria: Glucose in the urine; indicates blood glucose has exceeded the renal threshold (Tm saturated); common in uncontrolled diabetes mellitus. Return to capillaries: Peritubular capillary hydrostatic pressure is low (~10 mm Hg) while colloid osmotic pressure is high (~30 mm Hg), so net pressure strongly favors reabsorption."
+  },
+  {
+    "sec": "19.6",
+    "q": "Define secretion and its importance in modulating excretion.",
+    "a": "Secretion is the active transfer of molecules from the ECF into the tubule lumen. It enhances excretion, allowing rapid clearance of K+, H+, and xenobiotics (drugs/toxins) that may not have been filtered at sufficient levels."
+  },
+  {
+    "sec": "19.7",
+    "q": "Explain renal clearance and how it can be used as an indicator of renal handling.",
+    "a": "Clearance: Volume of plasma totally cleared of a solute per minute. Formula: Clearance of X = Excretion rate of X / Plasma [X]. Compared to GFR (= inulin clearance = 125 mL/min): Clearance < GFR → net reabsorption. Clearance > GFR → net secretion. Clearance = GFR → neither reabsorbed nor secreted."
+  },
+  {
+    "sec": "19.7",
+    "q": "Define: Inulin and PAH and explain their use in measuring renal function.",
+    "a": "Inulin: A polysaccharide freely filtered and neither reabsorbed nor secreted; its clearance equals GFR (125 mL/min), making it the gold standard for GFR measurement. PAH (Para-aminohippurate): Completely cleared from plasma in one pass by secretion; its clearance equals renal plasma flow."
+  },
+  {
+    "sec": "19.7",
+    "q": "Summarize normal renal handling of key solutes.",
+    "a": "Glucose: 100% reabsorbed, 0% excreted. Na+ and Cl-: ~99% reabsorbed, ~1% excreted (regulated). K+: Primarily reabsorbed; distal nephron can secrete or absorb depending on intake and aldosterone. Ca2+: ~99% reabsorbed, ~1% excreted. Urea: Partially reabsorbed then secreted then reabsorbed; net 30–50% excreted."
+  },
+  {
+    "sec": "20.1",
+    "q": "Describe the four parameters of fluid and electrolytes that are homeostatically controlled and the consequences if they are not.",
+    "a": "1) Fluid volume: Na+ and water determine ECF volume and blood pressure. 2) Osmolarity: Changes cause cell swelling (low ECF osmolarity → water into cells) or shrinking (high ECF osmolarity → water out), both impairing function. 3) Individual ion concentrations: K+ disturbances disrupt resting membrane potential of excitable cells → cardiac arrhythmias or muscle failure. 4) pH: H+ and HCO3- balance determines vital body pH; derangements disrupt protein function."
+  },
+  {
+    "sec": "20.1",
+    "q": "List the systems involved in fluid/electrolyte homeostasis and compare their response speeds.",
+    "a": "Respiratory and cardiovascular systems: Rapid (primarily under neural control). Kidneys: Slower but more precise regulation (endocrine and neuroendocrine control). Behavioral responses (thirst/salt appetite): Contribute to long-term volume and osmolarity restoration."
+  },
+  {
+    "sec": "20.1",
+    "q": "Map an overview of how cardiovascular, renal, and behavioral systems maintain blood volume and blood pressure.",
+    "a": "Low BP/volume → atrial stretch receptors and baroreceptors activate → CV system increases cardiac output and vasoconstriction; kidneys conserve salt/water (via vasopressin and aldosterone); thirst behavior increases water intake → ECF volume and BP are collectively restored."
+  },
+  {
+    "sec": "20.2",
+    "q": "Describe the ways the body takes in and loses water.",
+    "a": "Gains: Food, drink, and metabolic water (aerobic respiration). Losses: Urine (primary regulated route), feces, and insensible water loss (skin evaporation + humidified exhaled air, ~900 mL/day — not consciously perceived and not regulated)."
+  },
+  {
+    "sec": "20.2",
+    "q": "Define: Insensible water loss and Intravenous injection (IV)",
+    "a": "Insensible water loss: ~900 mL/day lost through skin evaporation and exhaled air; cannot be consciously perceived or directly regulated. IV: Direct addition of fluid to plasma to rapidly replace volume when a patient cannot eat or drink."
+  },
+  {
+    "sec": "20.2",
+    "q": "Describe how the kidneys conserve water and modulate in response to changes in volume.",
+    "a": "Kidneys can excrete excess fluid (diuresis) but cannot replace lost volume — they can only conserve it. They control urine concentration by varying water and Na+ reabsorption in the distal nephron using hormonal control (vasopressin inserts AQP2 water pores)."
+  },
+  {
+    "sec": "20.2",
+    "q": "Define: Diuresis and Diuretics",
+    "a": "Diuresis: Production of copious amounts of dilute urine; the mechanism for removing excess water. Diuretics: Drugs that promote urine excretion, used clinically to reduce fluid overload (e.g., in hypertension, heart failure, and edema)."
+  },
+  {
+    "sec": "20.2",
+    "q": "Map the osmolarity changes along each nephron segment and describe the cellular mechanisms.",
+    "a": "Proximal tubule: Isosmotic reabsorption (remains 300 mOsM). Descending loop: Water exits by osmosis → filtrate concentrates (up to 1200 mOsM at tip). Ascending loop: Impermeable to water; active ion pumping dilutes filtrate → 100 mOsM. Distal nephron: Hormonal water reabsorption (vasopressin) determines final urine osmolarity (50–1200 mOsM)."
+  },
+  {
+    "sec": "20.2",
+    "q": "Define: Medullary interstitial osmolarity",
+    "a": "The high osmotic concentration in the renal medulla (up to 1200 mOsM), created by the countercurrent multiplier (ion pumping by the ascending limb). This gradient is essential for drawing water out of the collecting duct when vasopressin is present."
+  },
+  {
+    "sec": "20.2",
+    "q": "Map the reflex pathway through which vasopressin controls water reabsorption in the kidney.",
+    "a": "Stimuli (high osmolarity, low BP/volume) → posterior pituitary releases vasopressin → binds V2 receptors on principal cells → activates cAMP → protein phosphorylation → AQP2-containing vesicles undergo exocytosis to the apical membrane → water flows into cell via AQP2 pores → absorbed into blood by osmosis."
+  },
+  {
+    "sec": "20.2",
+    "q": "Define: Vasopressin (ADH) and Aquaporins (AQP2)",
+    "a": "Vasopressin (ADH/antidiuretic hormone): Nine-amino-acid peptide from the posterior pituitary; prevents diuresis by directing insertion of AQP2 water pores in the collecting duct; also called ADH because its action prevents diuresis. Aquaporins: Family of membrane water channel proteins; AQP2 is the specific vasopressin-regulated isoform in the kidney collecting duct."
+  },
+  {
+    "sec": "20.2",
+    "q": "Define: Membrane recycling",
+    "a": "The process by which AQP2 water pores are alternately inserted into the apical membrane via exocytosis (when vasopressin is high) and removed via endocytosis (when vasopressin drops), allowing rapid and reversible control of the collecting duct's water permeability."
+  },
+  {
+    "sec": "20.2",
+    "q": "List the three stimuli that control vasopressin secretion and how they are sensed.",
+    "a": "1) Increased plasma osmolarity (most potent): Hypothalamic osmoreceptors shrink and fire when osmolarity rises above ~280 mOsM. 2) Decreased blood volume: Sensed by stretch-sensitive receptors in the atria. 3) Decreased blood pressure: Sensed by baroreceptors. All three increase vasopressin secretion to promote water retention."
+  },
+  {
+    "sec": "20.3",
+    "q": "Map the homeostatic responses to salt ingestion.",
+    "a": "Salt intake → plasma osmolarity increases → stimulates thirst and vasopressin release → water retention and water intake increase ECF volume and BP → cardiovascular reflexes lower BP; kidneys excrete extra salt and water (natriuresis) via reduced aldosterone and ANP release → balance is restored."
+  },
+  {
+    "sec": "20.3",
+    "q": "Define: Aldosterone and Principal cells (P cells)",
+    "a": "Aldosterone: Steroid hormone synthesized in the adrenal cortex; regulates Na+ reabsorption and K+ secretion in the distal tubules and collecting ducts. Principal cells (P cells): The main cell type in the distal nephron epithelium; primary target for aldosterone."
+  },
+  {
+    "sec": "20.3",
+    "q": "Diagram the cellular mechanism of aldosterone action in principal cells.",
+    "a": "Aldosterone enters P cell → binds cytoplasmic receptor. Early phase: Increases open time of apical Na+/K+ channels and speeds Na+-K+-ATPase. Slow phase: Triggers transcription/translation of new Na+ channels and pumps, amplifying Na+ reabsorption and K+ secretion over hours."
+  },
+  {
+    "sec": "20.3",
+    "q": "List the stimuli and inhibitors for aldosterone secretion.",
+    "a": "Stimuli: Increased ECF K+ concentration (hyperkalemia) and decreased blood pressure (via RAS/ANG II). Inhibitors: Severe increase in ECF osmolarity (dehydration — prevents further water loss) and natriuretic peptides (ANP/BNP, released by the heart in response to high blood volume)."
+  },
+  {
+    "sec": "20.3",
+    "q": "Map the RAS pathway, including all responses initiated by ANG II and aldosterone.",
+    "a": "Low BP → JGA granular cells secrete renin → renin converts angiotensinogen to ANG I → ACE (in lungs/vessels) converts ANG I to ANG II. ANG II effects: vasoconstriction, stimulates vasopressin and thirst, increases sympathetic output, stimulates proximal tubule Na+ reabsorption (via NHE), and triggers aldosterone release → distal Na+ reabsorption. Net result: increased BP and ECF volume."
+  },
+  {
+    "sec": "20.3",
+    "q": "Define the key components of the RAS pathway.",
+    "a": "Renin: Enzyme from JGA granular cells; converts plasma angiotensinogen → ANG I. ANG I: Inactive precursor peptide. ACE (Angiotensin-Converting Enzyme): Endothelial enzyme (especially in lungs) converting ANG I → ANG II. ANG II: Potent peptide hormone; master regulator of the volume/BP response via vasoconstriction, aldosterone, vasopressin, and thirst."
+  },
+  {
+    "sec": "20.4",
+    "q": "Explain why K+ regulation is critical and describe the consequences of imbalance.",
+    "a": "Changes in ECF K+ alter the resting membrane potential of all excitable cells. Hyperkalemia: Initially depolarizes cells (hyperexcitable), then prevents repolarization → life-threatening cardiac arrhythmias. Hypokalemia: Hyperpolarizes cells → action potentials difficult to fire → severe muscle weakness and respiratory failure."
+  },
+  {
+    "sec": "20.7",
+    "q": "Define pH and explain why H+ balance is critical in the body.",
+    "a": "pH is a logarithmic measure of H+ concentration (scale 0–14; a 1-unit change = 10-fold change in [H+]). Normal body pH = 7.40. H+ disrupts protein 3D structure by altering hydrogen bonds → enzymes/channels malfunction and nervous system fails. Acidosis causes CNS depression; alkalosis causes hyperexcitability and tetanic contractions."
+  },
+  {
+    "sec": "20.7",
+    "q": "Define: Acid and Base (and Acidic vs. Alkaline); and Acidosis vs. Alkalosis",
+    "a": "Acid: Contributes H+ to body fluids; pH < 7.0. Base (alkaline): Accepts H+; pH > 7.0. Acidosis: pH too low → CNS depression, confusion, coma, respiratory failure. Alkalosis: pH too high → neuronal hyperexcitability, sensory changes, muscle tetany that can paralyze respiratory muscles."
+  },
+  {
+    "sec": "20.7",
+    "q": "Describe the sources of H+ in the body and the mechanisms used to remove it.",
+    "a": "Sources: Diet (fatty/amino acids), metabolism (lactic acid, ketoacids), and aerobic respiration CO2 → H+ (biggest source). Removal: 1) Buffers (instant, moderate pH). 2) Ventilation (rapid; exhales CO2, reducing H+). 3) Renal excretion of H+ (slow but can fully correct severe disturbances)."
+  },
+  {
+    "sec": "20.7",
+    "q": "Define: Buffer and list the buffers found in the body.",
+    "a": "Buffer: A molecule that moderates but does not fully prevent pH changes by combining with or releasing H+. Intracellular buffers: Cellular proteins, phosphate ions (HPO4²⁻), and hemoglobin (buffers H+ from CO2 in RBCs via chloride shift). Primary extracellular buffer: Plasma bicarbonate (HCO3-)."
+  },
+  {
+    "sec": "20.7",
+    "q": "Define: Carbonic anhydrase, Denaturation, and Chloride shift",
+    "a": "Carbonic anhydrase: Enzyme catalyzing CO2 + H2O ↔ H+ + HCO3-; highly expressed in RBCs, proximal tubule cells, and intercalated cells. Denaturation: Disruption of protein 3D structure caused by excessive H+ altering hydrogen bonds. Chloride shift: HCO3- leaves RBCs to buffer plasma; Cl- enters to maintain electroneutrality."
+  },
+  {
+    "sec": "20.7",
+    "q": "Define: Lactic acidosis and Ketoacidosis",
+    "a": "Lactic acidosis: Metabolic acidosis caused by severe anaerobic conditions (e.g., circulatory collapse) producing lactate faster than it can be cleared. Ketoacidosis: Metabolic acidosis from accumulation of ketoacids — strong acids produced by abnormal fat/amino acid metabolism; seen in diabetes mellitus and severe low-carbohydrate diets."
+  },
+  {
+    "sec": "20.7",
+    "q": "Explain the law of mass action as it relates to the bicarbonate buffer system.",
+    "a": "CO2 + H2O ↔ H+ + HCO3-. Any change in CO2, H+, or HCO3- shifts the reaction until a new equilibrium is reached. Added H+ shifts left (consuming HCO3-). Exhaling CO2 shifts left (reducing H+). This coupling allows the lungs (via CO2) and kidneys (via HCO3-) to collaborate in regulating pH."
+  },
+  {
+    "sec": "20.7",
+    "q": "Describe the clinical application of the Henderson-Hasselbach equation.",
+    "a": "pH = 6.1 + log([HCO3-] / (0.03 × PCO2)). Clinicians use this to predict plasma pH from measured PCO2 and plasma HCO3-, allowing identification of the type of acid-base disturbance and the degree of compensation present."
+  },
+  {
+    "sec": "20.7",
+    "q": "Diagram the reflex pathways involved in respiratory compensation of pH changes.",
+    "a": "High plasma H+ → stimulates peripheral carotid/aortic chemoreceptors (directly sense H+ and PCO2). High PCO2 → stimulates central medullary chemoreceptors (H+ cannot cross the blood-brain barrier, so PCO2 crosses instead). Both signals → medullary respiratory centers → increase ventilation → blow off CO2 → pH rises."
+  },
+  {
+    "sec": "20.7",
+    "q": "Define: Central and Peripheral Chemoreceptors, Hypoventilation, and Hyperventilation",
+    "a": "Peripheral (carotid/aortic): Directly respond to plasma H+ and PCO2. Central (medulla): Respond only to PCO2 (H+ cannot cross the blood-brain barrier). Hypoventilation: CO2 retention → increased H+ → respiratory acidosis. Hyperventilation: CO2 blown off → decreased H+ → respiratory alkalosis, or serves as compensation for metabolic acidosis."
+  },
+  {
+    "sec": "20.7",
+    "q": "Describe the two ways the kidneys modulate pH.",
+    "a": "1) Directly: Excrete or reabsorb H+. 2) Indirectly: Change the rate of HCO3- reabsorption or excretion, altering the body's total buffering capacity. Renal compensation is slow (24–48 hrs) but can fully correct severe disturbances, unlike buffers or ventilation alone."
+  },
+  {
+    "sec": "20.7",
+    "q": "Diagram and describe the pathway of renal compensation for acidosis.",
+    "a": "Tubule cells secrete H+ into lumen via H+-ATPase and H+-K+-ATPase → H+ is trapped by ammonia (NH3 → NH4+) and phosphate (HPO4²⁻ → H2PO4-) buffers for excretion. Simultaneously, carbonic anhydrase converts CO2 + H2O → H+ + HCO3- in the cell → new HCO3- is reabsorbed into blood via Na+-HCO3- symporter → plasma pH rises."
+  },
+  {
+    "sec": "20.7",
+    "q": "Diagram bicarbonate reabsorption in the proximal tubule.",
+    "a": "Apical NHE secretes H+ into lumen → H+ combines with filtered HCO3- → H2CO3 → CO2 (diffuses into cell) → carbonic anhydrase converts CO2 + H2O → H+ + HCO3- inside cell → basolateral Na+-HCO3- symporter exports HCO3- and Na+ into blood. Net effect: HCO3- is reclaimed without being excreted."
+  },
+  {
+    "sec": "20.7",
+    "q": "Define the key transporters involved in renal acid-base handling.",
+    "a": "Na+-HCO3- symporter: Basolateral; exports HCO3- and Na+ from tubule cell to blood (HCO3- reabsorption). H+-ATPase (proton pump): Uses ATP to secrete H+ into lumen against its gradient. H+-K+-ATPase: Secretes H+ into urine in exchange for K+ (links acidosis to hyperkalemia). Na+-NH4+ antiporter: Moves NH4+ into lumen in exchange for Na+."
+  },
+  {
+    "sec": "20.7",
+    "q": "Diagram and describe the role of intercalated cells in the distal nephron.",
+    "a": "Intercalated cells (I cells): Rich in carbonic anhydrase; fine-tune acid-base balance. Type A (during acidosis): Secrete H+ into lumen (via H+-ATPase) and reabsorb HCO3- into blood. Type B (during alkalosis): Reversed polarity — secrete HCO3- into lumen and reabsorb H+ into blood."
+  },
+  {
+    "sec": "20.7",
+    "q": "Compare the three mechanisms by which the body copes with pH changes.",
+    "a": "1) Buffers: Instant action; moderate but do not fully correct pH — cannot remove H+ from the body. 2) Ventilation: Rapid reflex (minutes); handles ~75% of disturbances by adjusting PCO2. 3) Kidneys: Slow (24–48 hrs); can fully correct severe disturbances by directly managing H+ secretion and HCO3- reabsorption/excretion."
+  },
+  {
+    "sec": "20.7",
+    "q": "Map the causes and compensations for all four acid-base disorders.",
+    "a": "Respiratory Acidosis: Hypoventilation/CO2 retention → only renal compensation (secrete H+, reabsorb HCO3-). Metabolic Acidosis: Excess acid input (lactic/keto) or HCO3- loss (diarrhea) → rapid respiratory (hyperventilate) + slow renal compensation. Respiratory Alkalosis: Hyperventilation/CO2 blown off → only renal compensation (excrete HCO3-, reabsorb H+). Metabolic Alkalosis: H+ loss (vomiting) or base excess → respiratory (hypoventilate) + renal compensation."
+  },
+  {
+    "sec": "20.7",
+    "q": "Define the four acid-base disorders.",
+    "a": "Respiratory acidosis: Elevated PCO2, decreased pH; caused by hypoventilation/COPD (most common clinical cause). Metabolic acidosis: Decreased pH and HCO3-; caused by lactic acidosis, ketoacidosis, or diarrhea. Respiratory alkalosis: Elevated pH, decreased PCO2; caused by hyperventilation (e.g., anxiety, excessive mechanical ventilation). Metabolic alkalosis: Elevated pH and HCO3-; caused by vomiting (loss of HCl) or excess antacid ingestion."
+  }
+]
