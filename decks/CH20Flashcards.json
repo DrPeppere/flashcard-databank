@@ -1,0 +1,447 @@
+[
+  {
+    "question": "Describe the four parameters of fluid and electrolytes that are homeostatically controlled.",
+    "answer": "Fluid volume, osmolarity, concentrations of individual ions, and pH.",
+    "sec": "20.1"
+  },
+  {
+    "question": "Explain why each of the four fluid parameters must be homeostatically controlled and the consequences if they are not.",
+    "answer": "Water/Na+ affect ECF volume and BP. Osmolarity changes affect cell volume (shrinking/swelling impairs function). K+ disturbances disrupt excitable cell membrane potentials (cardiac/muscle). H+ and HCO3- balance determines vital body pH.",
+    "sec": "20.1"
+  },
+  {
+    "question": "Describe how extracellular fluid (ECF) osmolarity affects cell volume.",
+    "answer": "Water crosses cell membranes freely. Decreased ECF osmolarity causes water to move into cells, causing swelling. Increased ECF osmolarity causes water to move out, causing shrinking.",
+    "sec": "20.1"
+  },
+  {
+    "question": "List the systems of the body that play a role in fluid and electrolyte homeostasis.",
+    "answer": "Respiratory system, cardiovascular system, renal system, and behavioral responses (thirst/salt appetite).",
+    "sec": "20.1"
+  },
+  {
+    "question": "Explain the different speeds of initial homeostatic response in these systems and the reasons behind them.",
+    "answer": "Lungs and cardiovascular system provide rapid adjustments because they are primarily under neural control. Kidneys provide a slower response because they are under endocrine and neuroendocrine control.",
+    "sec": "20.1"
+  },
+  {
+    "question": "Map an overview of the cardiovascular and renal systems and behaviors that maintain blood volume and blood pressure homeostasis.",
+    "answer": "Low BP/volume triggers atrial and baroreceptors. CV system increases cardiac output & vasoconstriction. Kidneys conserve salt/water. Thirst behavior increases water intake. Combined, these raise ECF/ICF volume and BP.",
+    "sec": "20.1"
+  },
+  {
+    "question": "Describe the ways our body takes in water and loses water.",
+    "answer": "Gains: Food, drink, and metabolism (aerobic respiration). Losses: Urine (primary regulated route), feces, and insensible water loss (skin evaporation and exhaled humidified air).",
+    "sec": "20.2"
+  },
+  {
+    "question": "Define Keyword: intravenous injection (IV)",
+    "answer": "A medical procedure where fluid is added directly to the plasma to rapidly replace fluids when a person is unable to eat/drink.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Define Keyword: insensible water loss",
+    "answer": "Water loss that occurs across the skin surface and through exhalation of humidified air, which we are not normally aware of (about 900 mL/day).",
+    "sec": "20.2"
+  },
+  {
+    "question": "Describe how our kidneys conserve water and the ways they modulate in response to changes in water volume.",
+    "answer": "Kidneys excrete excess fluid (diuresis) but cannot replace lost volume, only conserve it. They control concentration by varying water and Na+ reabsorption in the distal nephron using water pores under hormonal control.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Define Keyword: diuresis",
+    "answer": "The removal of excess water in urine; producing copious amounts of dilute urine.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Define Keyword: diuretics",
+    "answer": "Drugs that promote the excretion of urine.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Map the steps of osmolarity changes in each structure of the nephron and describe the cellular mechanisms.",
+    "answer": "Proximal tubule: Isosmotic reabsorption (300 mOsM). Descending loop: Water leaves by osmosis, concentrating filtrate. Ascending loop: Impermeable to water, active ion transport dilutes filtrate (100 mOsM). Distal nephron: Variable hormonal water reabsorption determines final urine osmolarity.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Define Keyword: medullary interstitial osmolarity",
+    "answer": "The high osmotic concentration in the cells and interstitial fluid of the renal medulla (up to 1200 mOsM), essential for the concentration of urine as fluid moves through the collecting duct.",
+    "sec": "20.2"
+  },
+  {
+    "question": "List the structures of the nephron and collecting ducts that are under hormonal control, and the results.",
+    "answer": "The distal tubule and collecting duct (distal nephron). Hormones (vasopressin/aldosterone) regulate water and solute permeability here, determining final urine concentration and volume.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Map in detail the reflex pathway through which vasopressin controls water reabsorption in the kidney.",
+    "answer": "Stimuli (high osmolarity, low BP/volume) trigger vasopressin release from posterior pituitary. It binds V2 receptors in distal nephron, activating cAMP to insert AQP2 water pores, resulting in water reabsorption via osmosis.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Define Keyword: vasopressin",
+    "answer": "A nine-amino-acid peptide hormone from the posterior pituitary that directs the insertion of water pores in the collecting duct epithelium, causing the body to retain water.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Define Keyword: ADH",
+    "answer": "Antidiuretic hormone; an alternate name for vasopressin, so named because its action prevents diuresis and causes water retention.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Diagram the cellular mechanism of the action of vasopressin on principal cells.",
+    "answer": "Vasopressin binds basolateral V2 receptor -> activates G-protein/cAMP system -> protein phosphorylation -> AQP2 storage vesicles move to and fuse with apical membrane (exocytosis) -> water enters cell and is absorbed into blood.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Define Keyword: aquaporins",
+    "answer": "A family of membrane channel proteins that act as water pores. AQP2 is the specific isoform regulated by vasopressin in the kidney collecting duct.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Define Keyword: membrane recycling",
+    "answer": "The process in which parts of the cell membrane are alternately added by exocytosis and withdrawn by endocytosis; used by the collecting duct to insert and remove AQP2 water pores.",
+    "sec": "20.2"
+  },
+  {
+    "question": "List the three stimuli that control vasopressin secretion.",
+    "answer": "1) Increased plasma osmolarity (most potent), 2) Decreased blood volume, 3) Decreased blood pressure.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Describe how blood volume and osmolarity activate osmoreceptors.",
+    "answer": "Hypothalamic osmoreceptors shrink and fire when plasma osmolarity rises above 280 mOsM. Decreased blood volume is sensed by stretch-sensitive receptors in the atria.",
+    "sec": "20.2"
+  },
+  {
+    "question": "Map the homeostatic responses to salt ingestion.",
+    "answer": "Salt increases osmolarity, stimulating thirst and vasopressin secretion. Vasopressin causes renal water conservation; thirst causes water intake. This increases ECF volume and BP, triggering cardiovascular reflexes to lower BP and kidneys to excrete extra salt and water.",
+    "sec": "20.3"
+  },
+  {
+    "question": "Diagram the cellular mechanism of aldosterone action in principal cells.",
+    "answer": "Aldosterone enters P cell -> binds cytoplasmic receptor. Early phase: Increases open time of apical Na+/K+ channels & speeds Na+-K+-ATPase. Slow phase: Triggers transcription/translation of new channels and pumps, increasing Na+ reabsorption and K+ secretion.",
+    "sec": "20.3"
+  },
+  {
+    "question": "Define Keyword: aldosterone",
+    "answer": "A steroid hormone synthesized in the adrenal cortex that regulates the reabsorption of Na+ and secretion of K+ in the distal tubules and collecting ducts.",
+    "sec": "20.3"
+  },
+  {
+    "question": "Define Keyword: principal cells",
+    "answer": "Also called P cells; the main cell type found in the distal nephron epithelium and the primary target cells for aldosterone.",
+    "sec": "20.3"
+  },
+  {
+    "question": "List the stimuli and inhibitors for aldosterone secretion.",
+    "answer": "Stimuli: Increased ECF K+ concentration (hyperkalemia) and decreased blood pressure (via RAS/ANG II). Inhibitors: Severe increase in ECF osmolarity (dehydration) and natriuretic peptides.",
+    "sec": "20.3"
+  },
+  {
+    "question": "Map the RAS pathway, including all the responses initiated by ANG II and aldosterone.",
+    "answer": "Low BP -> granular cells secrete renin -> converts angiotensinogen to ANG I -> ACE converts ANG I to ANG II. ANG II increases vasopressin, thirst, sympathetic output, vasoconstriction, proximal tubule Na+ reabsorption, and aldosterone release (distal Na+ reabsorption).",
+    "sec": "20.3"
+  },
+  {
+    "question": "Define Keyword: angiotensin II (ANG II)",
+    "answer": "A potent peptide hormone in the RAS pathway that raises blood pressure through vasoconstriction, stimulating thirst and vasopressin, increasing sympathetic output, and triggering aldosterone release.",
+    "sec": "20.3"
+  },
+  {
+    "question": "Define Keyword: renin-angiotensin system (RAS)",
+    "answer": "A complex, multistep endocrine reflex pathway initiated by renin secretion that maintains blood pressure by producing ANG II and aldosterone.",
+    "sec": "20.3"
+  },
+  {
+    "question": "Define Keyword: renin",
+    "answer": "An enzyme secreted by juxtaglomerular granular cells in the afferent arterioles in response to low blood pressure; it converts inactive plasma angiotensinogen into angiotensin I.",
+    "sec": "20.3"
+  },
+  {
+    "question": "Define Keyword: angiotensin I (ANG I)",
+    "answer": "The inactive precursor peptide formed when renin acts on plasma angiotensinogen; it circulates in the blood until converted to ANG II by ACE.",
+    "sec": "20.3"
+  },
+  {
+    "question": "Define Keyword: angiotensin-converting enzyme (ACE)",
+    "answer": "An enzyme located on the endothelium of blood vessels (especially in the lungs) that converts inactive angiotensin I into active angiotensin II.",
+    "sec": "20.3"
+  },
+  {
+    "question": "Define Keyword: Na+-H+ exchanger (NHE)",
+    "answer": "An apical indirect active transporter in the proximal tubule, stimulated by ANG II, that brings Na+ into the cell in exchange for moving H+ into the lumen.",
+    "sec": "20.3"
+  },
+  {
+    "question": "Explain why the regulation of body K+ is essential in maintaining a state of well-being.",
+    "answer": "Changes in ECF K+ affect the resting membrane potential of excitable cells. Imbalance can cause dangerous muscle weakness, respiratory failure, and life-threatening cardiac arrhythmias.",
+    "sec": "20.4"
+  },
+  {
+    "question": "Define Keyword: hyperkalemia",
+    "answer": "An increase in ECF K+ concentration. It initially depolarizes excitable cells making them hyper-excitable, but later prevents repolarization, making them less excitable (causing cardiac arrhythmias).",
+    "sec": "20.4"
+  },
+  {
+    "question": "Define Keyword: hypokalemia",
+    "answer": "A decrease in ECF K+ concentration. It hyperpolarizes cells, making it difficult to fire action potentials, leading to severe muscle weakness.",
+    "sec": "20.4"
+  },
+  {
+    "question": "Define pH, how it is measured, and the role of H+.",
+    "answer": "pH is a logarithmic measure of H+ concentration (0-14 scale). Normal body pH is 7.40. H+ concentration determines acidity/alkalinity and must be regulated because H+ interacts with hydrogen bonds, altering protein 3D shape and function.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: acid",
+    "answer": "A substance that contributes H+ to body fluids. Normal body pH is primarily challenged by acid input from diet and metabolic processes.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: base",
+    "answer": "An alkaline substance (pH > 7.0) with a lower H+ concentration. The body's diet and metabolism have few significant sources of bases.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: alkaline",
+    "answer": "A basic solution with a pH above 7.0 and an H+ concentration lower than 1 x 10^-7 M.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: acidic",
+    "answer": "A solution with a pH below 7.0 and an H+ concentration greater than 1 x 10^-7 M.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: logarithmic",
+    "answer": "The mathematical scale used for pH, in which a change of 1 pH unit represents a 10-fold change in H+ concentration.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: buffer",
+    "answer": "A molecule that moderates but does not prevent changes in pH by combining with or releasing H+.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: HCO3-",
+    "answer": "Bicarbonate ion. Created from metabolic CO2, it acts as the most important extracellular buffer system in the plasma.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Describe why pH balance is critical in the body and how it is measured clinically.",
+    "answer": "Changes in H+ alter protein 3D structure, disrupting enzyme/channel activity and nervous system function. It is measured clinically by drawing a blood sample and analyzing the plasma pH.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: acidosis",
+    "answer": "A condition where pH is too low. Neurons become less excitable, causing CNS depression, confusion, coma, and potentially respiratory failure and death.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: alkalosis",
+    "answer": "A condition where pH is too high. Neurons become hyperexcitable, causing sensory changes, muscle twitches, and sustained contractions (tetanus) that paralyze respiratory muscles.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: denaturation",
+    "answer": "The disruption of a protein's three-dimensional structure and function caused by changes in H+ concentration interacting with the molecule's hydrogen bonds.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: plasma",
+    "answer": "The fluid portion of the blood. Its pH (normal range 7.38-7.42) is used clinically as an indicator of extracellular fluid and whole body pH.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Describe the sources of H+ in our bodies and the mechanisms used to remove H+ from our bodies.",
+    "answer": "Sources: Diet (fatty/amino acids), metabolism (lactic/ketoacids), and CO2 from aerobic respiration (biggest source). Removal: Buffers, ventilation (exhaling CO2), and renal excretion of H+.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: lactic acidosis",
+    "answer": "A state of metabolic acidosis caused by severe anaerobic conditions (like circulatory collapse) producing so much lactate that homeostatic mechanisms cannot keep pace.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: ketoacids",
+    "answer": "Strong acids created by the abnormal metabolism of fats and amino acids, typically seen in diabetes mellitus or low-carbohydrate diets.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: ketoacidosis",
+    "answer": "A state of metabolic acidosis resulting from excessive breakdown of fats or certain amino acids, creating an accumulation of ketoacids.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: carbonic anhydrase",
+    "answer": "An enzyme that rapidly catalyzes the conversion of CO2 and H2O into H+ and HCO3-. Present in high amounts in red blood cells, proximal tubule cells, and intercalated cells.",
+    "sec": "20.7"
+  },
+  {
+    "question": "List examples of buffers found in our bodies.",
+    "answer": "Intracellular buffers include cellular proteins, phosphate ions (HPO4 2-), and hemoglobin. The primary extracellular buffer is plasma bicarbonate (HCO3-).",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: phosphate ions",
+    "answer": "Molecules (HPO4 2-) that act as intracellular buffers and trap large amounts of secreted H+ in the kidney tubule lumen (as H2PO4-), allowing more acid excretion.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: hemoglobin",
+    "answer": "An intracellular protein in red blood cells that buffers the H+ produced by the reaction of CO2 with H2O during aerobic respiration.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: chloride shift",
+    "answer": "An exchange process in red blood cells where bicarbonate leaves the cell to act as a plasma buffer, while a matching plasma Cl- enters the cell.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: bicarbonate",
+    "answer": "The primary extracellular buffer (HCO3-) in the plasma. It mitigates pH changes by binding added H+ to form carbonic acid, which converts to CO2 and H2O.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Explain how the law of mass action relates to the buffer system in our bodies.",
+    "answer": "Any change in the amount of CO2, H+, or HCO3- shifts the reaction (CO2 + H2O <-> H+ + HCO3-) until a new equilibrium is reached. Added H+ shifts the equation left, using up HCO3-.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Describe the clinical application of the Henderson-Hasselbach equation.",
+    "answer": "Clinicians use the equation (pH = 6.1 + log [HCO3-] / (0.03 x PCO2)) to predict a patient's plasma pH if their PCO2 and plasma bicarbonate concentration are known.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Diagram and describe the reflex pathways and cellular mechanisms involved in respiratory compensation of pH changes.",
+    "answer": "High plasma H+ stimulates peripheral carotid chemoreceptors; high PCO2 stimulates central medullary chemoreceptors. Both trigger the medullary respiratory control centers to increase ventilation, blowing off excess CO2 and raising pH.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: hypoventilation",
+    "answer": "Decreased alveolar ventilation that causes CO2 retention. This shifts the buffer equation to the right, creating more H+ and resulting in respiratory acidosis.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: hyperventilation",
+    "answer": "Increased alveolar ventilation that blows off excess CO2. This shifts the buffer equation to the left, decreasing H+ concentration (acts as a compensation for acidosis or causes respiratory alkalosis).",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: chemoreceptors (central and peripheral)",
+    "answer": "Sensors for ventilation. Peripheral (carotid/aortic) directly respond to plasma H+ and PCO2. Central (medulla oblongata) respond to changes in PCO2, because H+ cannot cross the blood-brain barrier.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Describe the two ways by which the kidneys can modulate pH.",
+    "answer": "1) Directly, by excreting or reabsorbing H+. 2) Indirectly, by changing the rate at which HCO3- buffer is reabsorbed or excreted.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Diagram and describe the pathway of renal compensation for acidosis.",
+    "answer": "The kidney secretes H+ into the tubule lumen, trapping it with ammonia/phosphate buffers for excretion in urine. Simultaneously, it makes new HCO3- from CO2 and H2O, reabsorbing it into the blood to raise pH.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: ammonia",
+    "answer": "An intracellular buffer (NH3) in the kidney produced from glutamine metabolism. It buffers secreted H+ in the lumen to form ammonium ion (NH4+), facilitating acid excretion.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Diagram and describe the roles of membrane transporters in bicarbonate reabsorption within the proximal tubule.",
+    "answer": "Apical NHE secretes H+, which combines with filtered HCO3- -> forms CO2 -> enters cell -> converts back to H+ & HCO3-. The basolateral Na+-HCO3- symporter then moves HCO3- and Na+ into the blood.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: Na+-HCO3- symporter",
+    "answer": "A basolateral indirect active transporter that moves Na+ and HCO3- out of the epithelial cell and into the interstitial fluid, enabling bicarbonate reabsorption.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: H+-ATPase",
+    "answer": "Also known as the proton pump, it uses energy from ATP to acidify urine, pushing H+ against its concentration gradient into the lumen of the distal nephron.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: H+-K+-ATPase",
+    "answer": "A transporter that puts H+ into the urine in exchange for reabsorbed K+. This contributes to the potassium imbalance (hyperkalemia) that often accompanies acidosis.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: Na+-NH4+ antiporter",
+    "answer": "An apical transporter that moves ammonium ion (NH4+) from the tubule cell into the lumen in exchange for Na+.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Diagram and describe the role of the distal nephron in acid excretion.",
+    "answer": "Intercalated cells fine-tune acid-base balance. During acidosis, Type A cells secrete H+ (via H+-ATPase) and reabsorb HCO3-. During alkalosis, Type B cells reverse this, secreting HCO3- and reabsorbing H+.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: intercalated cells (I cells)",
+    "answer": "Specialized distal nephron cells characterized by high concentrations of carbonic anhydrase; they are primarily responsible for fine regulation of acid-base balance.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: type A intercalated cells",
+    "answer": "Cells in the collecting duct that function during acidosis. They secrete H+ into the tubule lumen and reabsorb HCO3- and K+ into the blood.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: type B intercalated cells",
+    "answer": "Cells in the collecting duct that function during alkalosis. They have a reversed polarity, secreting HCO3- and K+ into the lumen while reabsorbing H+ into the blood.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Compare and contrast the three mechanisms by which the body copes with minute-to-minute changes in pH.",
+    "answer": "1) Buffers act instantly to moderate pH. 2) Ventilation rapidly reflexively handles ~75% of disturbances via CO2 changes. 3) Kidneys are slow (24-48 hrs) but effectively correct severe disturbances via direct H+ and HCO3- handling.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Map the causes and compensations for Respiratory Acidosis.",
+    "answer": "Cause: Alveolar hypoventilation (CO2 retention). Compensation: Renal mechanisms only (secrete H+, reabsorb HCO3-).",
+    "sec": "20.7"
+  },
+  {
+    "question": "Map the causes and compensations for Metabolic Acidosis.",
+    "answer": "Cause: Excess acid input (e.g., lactic acid) or HCO3- loss (e.g., diarrhea). Compensation: Rapid respiratory (hyperventilation) and slow renal (secrete H+, reabsorb HCO3-).",
+    "sec": "20.7"
+  },
+  {
+    "question": "Map the causes and compensations for Respiratory Alkalosis.",
+    "answer": "Cause: Alveolar hyperventilation blowing off excessive CO2. Compensation: Renal mechanisms only (secrete HCO3-, reabsorb H+).",
+    "sec": "20.7"
+  },
+  {
+    "question": "Map the causes and compensations for Metabolic Alkalosis.",
+    "answer": "Cause: Acid loss (e.g., vomiting) or excessive base ingestion (antacids). Compensation: Respiratory (hypoventilation) and renal (secrete HCO3-, reabsorb H+).",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: respiratory acidosis",
+    "answer": "Elevated PCO2 and decreased pH caused by alveolar hypoventilation (CO2 retention). The only available physiological compensation is renal.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: chronic obstructive pulmonary disease (COPD)",
+    "answer": "A condition, including emphysema, involving inadequate alveolar ventilation and loss of exchange area; it is the most common clinical cause of respiratory acidosis.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: metabolic acidosis",
+    "answer": "Decreased pH and HCO3- caused by metabolic input of H+ exceeding H+ excretion (e.g., lactic acidosis, ketoacidosis) or excessive loss of HCO3- (e.g., diarrhea).",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: respiratory alkalosis",
+    "answer": "Elevated pH and decreased PCO2 caused by hyperventilation (e.g., excessive artificial ventilation or hysterical anxiety) without matching metabolic CO2 production.",
+    "sec": "20.7"
+  },
+  {
+    "question": "Define Keyword: metabolic alkalosis",
+    "answer": "Elevated pH and HCO3- caused by excessive loss of H+ (e.g., vomiting acidic stomach contents) or ingestion of bicarbonate-containing antacids.",
+    "sec": "20.7"
+  }
+]
