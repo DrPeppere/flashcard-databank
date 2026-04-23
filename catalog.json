@@ -1,30 +1,23 @@
 [
   {
-    "name": "Practical2",
+    "name": "Chapter 23 Flashcards(AlisonSG)",
     "subject": "PHYS",
-    "doc": "PRAC2",
-    "file": "decks/Practical2.json",
-    "folder": "Practical2"
+    "doc": "CH23",
+    "file": "decks/CH23Flashcards.json",
+    "folder": "Exam 5"
   },
   {
-    "name": "Chapter 19&20 Flashcards",
+    "name": "Chapter 22 Flashcards(AlisonSG)",
     "subject": "PHYS",
-    "doc": "CH19&20",
-    "file": "decks/CH19&20Flashcards.json",
-    "folder": "Exam 4"
+    "doc": "CH22",
+    "file": "decks/CH22Flashcards.json",
+    "folder": "Exam 5"
   },
   {
-    "name": "Chapter 20 Flashcards",
+    "name": "Chapter 21 Flashcards(AlisonSG)",
     "subject": "PHYS",
-    "doc": "CH20",
-    "file": "decks/CH20Flashcards.json",
-    "folder": "Exam 4"
-  },
-  {
-    "name": "Chapter 19 Flashcards",
-    "subject": "PHYS",
-    "doc": "CH19",
-    "file": "decks/CH19Flashcards.json",
-    "folder": "Exam 4"
+    "doc": "CH21",
+    "file": "decks/CH21Flashcards.json",
+    "folder": "Exam 5"
   }
 ]
