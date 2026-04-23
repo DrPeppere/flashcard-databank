@@ -1,106 +1,472 @@
 [
-  { "q": "Define metabolism.", "a": "The sum of all chemical reactions in the body that extract energy from nutrients, use energy for work, and store excess energy so that it can be used later.", "sec": "22.2 Energy Balance" },
-  { "q": "Describe the components of energy input in our bodies.", "a": "Energy intake consists of the energy in the nutrients we eat, digest, and absorb.", "sec": "22.2 Energy Balance" },
-  { "q": "Describe the components of energy output in our bodies.", "a": "Energy output is a combination of the biological work performed and the energy returned to the environment as heat.", "sec": "22.2 Energy Balance" },
-  { "q": "Define energy intake.", "a": "The energy content of the nutrients we eat, digest, and absorb.", "sec": "22.2 Energy Balance" },
-  { "q": "Define energy output.", "a": "The combination of work performed by the body and energy returned to the environment as heat.", "sec": "22.2 Energy Balance" },
-  { "q": "Define transport work.", "a": "Work that moves molecules from one side of a membrane to the other, bringing materials into and out of the body and transferring them between compartments.", "sec": "22.2 Energy Balance" },
-  { "q": "Define mechanical work.", "a": "Work that uses intracellular fibers and filaments to create movement, including external work (skeletal muscle contraction) and internal work (vesicle movement, heart pumping).", "sec": "22.2 Energy Balance" },
-  { "q": "Define chemical work.", "a": "Work used for growth, maintenance, and storage of information and energy in the body.", "sec": "22.2 Energy Balance" },
-  { "q": "Define short-term energy storage.", "a": "Energy storage trapped in high-energy phosphate compounds such as ATP.", "sec": "22.2 Energy Balance" },
-  { "q": "Define long-term energy storage.", "a": "Energy storage trapped in the chemical bonds of glycogen and fat.", "sec": "22.2 Energy Balance" },
-  { "q": "Describe Fig 22.2 (Energy balance in the body).", "a": "Illustrates the mass balance equation: Total body energy equals energy stored plus energy intake minus energy output. Energy output is roughly 50% heat and 50% work.", "sec": "22.2 Energy Balance" },
-  { "q": "Distinguish between anabolic and catabolic pathways.", "a": "Anabolic pathways synthesize large molecules from smaller ones. Catabolic pathways break large molecules into smaller ones.", "sec": "22.3 Metabolism" },
-  { "q": "Give an example of an anabolic pathway.", "a": "Glycogenesis, which is the synthesis of glycogen from glucose.", "sec": "22.3 Metabolism" },
-  { "q": "Give an example of a catabolic pathway.", "a": "Glycolysis, which breaks down a 6-carbon glucose molecule into two 3-carbon pyruvate molecules.", "sec": "22.3 Metabolism" },
-  { "q": "Distinguish between the fed (absorptive) state and the fasted (postabsorptive) state.", "a": "The fed state is an anabolic period following a meal when nutrients are absorbed, used, and stored. The fasted state is a catabolic period when the body taps into stored reserves.", "sec": "22.3 Metabolism" },
-  { "q": "Describe the possible fates of ingested nutrients.", "a": "Nutrients can be used immediately for energy (ATP), used for synthesis of basic cellular components, or put into storage as glycogen and fat.", "sec": "22.3 Metabolism" },
-  { "q": "Indicate the most common fate for carbohydrates.", "a": "Absorbed mostly as glucose, it is primarily used immediately for energy (via glycolysis and citric acid cycle) or stored as glycogen.", "sec": "22.3 Metabolism" },
-  { "q": "Indicate the most common fate for proteins.", "a": "Most amino acids go directly to the tissues to be used for protein synthesis.", "sec": "22.3 Metabolism" },
-  { "q": "Indicate the most common fate for lipids.", "a": "They are primarily stored as triglycerides in adipose tissue and the liver.", "sec": "22.3 Metabolism" },
-  { "q": "Define glycogenesis.", "a": "The synthesis of glycogen from glucose.", "sec": "22.3 Metabolism" },
-  { "q": "Define lipogenesis.", "a": "The conversion of excess glucose or amino acids into fat (triglycerides) for storage.", "sec": "22.3 Metabolism" },
-  { "q": "Define glycogenolysis.", "a": "The process where the body converts glycogen back to glucose or glucose 6-phosphate.", "sec": "22.3 Metabolism" },
-  { "q": "Define gluconeogenesis.", "a": "The synthesis of new glucose from a noncarbohydrate precursor, such as amino acids or glycerol.", "sec": "22.3 Metabolism" },
-  { "q": "Describe Fig 22.3 (Nutrient pools and metabolism).", "a": "A schematic showing how dietary fats, carbs, and proteins enter the free fatty acid, glucose, and amino acid pools, and undergo interconversions to prioritize the brain's glucose supply.", "sec": "22.3 Metabolism" },
-  { "q": "Explain where in the body glycogenesis occurs.", "a": "Occurs in all cells of the body, but the liver and skeletal muscles contain especially high concentrations.", "sec": "22.3 Metabolism" },
-  { "q": "Explain where in the body lipogenesis occurs.", "a": "Primarily takes place in adipose tissue and the liver.", "sec": "22.3 Metabolism" },
-  { "q": "Explain where in the body glycogenolysis occurs.", "a": "Occurs primarily in the liver (to release glucose into the blood) and in skeletal muscles (for internal energy use).", "sec": "22.3 Metabolism" },
-  { "q": "Explain where in the body gluconeogenesis occurs.", "a": "Takes place primarily in the liver, and to a lesser extent in the kidneys.", "sec": "22.3 Metabolism" },
-  { "q": "Explain the regulatory significance of push-pull control.", "a": "It uses different enzymes to catalyze forward and reverse reactions, allowing the body to strictly control the net direction of a metabolic pathway via hormone modulation.", "sec": "22.3 Metabolism" },
-  { "q": "Explain how push-pull control applies to glucose and glycogen.", "a": "During the fed state, insulin stimulates enzymes for glycogenesis and inhibits glycogenolysis. In the fasted state, glucagon stimulates enzymes for glycogenolysis and inhibits glycogenesis.", "sec": "22.3 Metabolism" },
-  { "q": "Describe Fig 22.4 (Push-pull control).", "a": "Shows how without enzymatic regulation, pathways simply cycle. Insulin enhances the forward reaction (glycogen synthesis) while glucagon enhances the reverse reaction (glucose synthesis).", "sec": "22.3 Metabolism" },
-  { "q": "Describe the fed-state of metabolism.", "a": "An anabolic state following nutrient ingestion where absorbed nutrients are used for energy, synthesis, and storage.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "What signals the beginning of the fed-state?", "a": "The absorption of nutrients following a meal and the dominance of the hormone insulin.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Describe Figure 22.5b (Fates of nutrients).", "a": "A table summarizing that in the fed state, carbohydrates form glycogen/fat, proteins go to synthesis, and fats go to storage. In the fasted state, glycogen/proteins/fats break down.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Explain the fates of carbohydrates in the fed-state.", "a": "Used immediately for ATP production, used for lipoprotein synthesis in the liver, stored as glycogen in liver/muscle, or converted to fat in adipose tissue.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Explain the fates of proteins in the fed-state.", "a": "Most go to tissues for structural/functional protein synthesis. The liver uses them to synthesize lipoproteins and plasma proteins. Excess is converted to fat.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Explain the fates of lipids in the fed-state.", "a": "Stored primarily as triglycerides in liver and adipose tissue. Cholesterol is used for steroid synthesis or membranes. Fatty acids are used for lipoprotein/eicosanoid synthesis.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Define apoproteins.", "a": "Lipid-binding proteins found in chylomicrons and lipoprotein complexes that make cholesterol more soluble and act as ligands for membrane receptors.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Define lipoprotein lipase.", "a": "An enzyme bound to the capillary endothelium of muscles and adipose tissue that converts circulating triglycerides into free fatty acids and glycerol.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Define very-low-density lipoprotein (VLDL).", "a": "A heavy plasma lipoprotein complex secreted by the liver containing high amounts of triglycerides alongside phospholipids, cholesterol, and apoproteins.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Define low-density lipoprotein cholesterol (LDL-C).", "a": "The most common lipoprotein in blood, known as 'lethal cholesterol' because elevated concentrations are associated with the development of atherosclerosis.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Define high-density lipoprotein (HDL).", "a": "The second most common lipoprotein in blood, known as 'healthy cholesterol', involved in transporting cholesterol out of the plasma and back to the liver.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Define apoB.", "a": "An apoprotein found in LDL-C complexes that binds to receptors to bring LDL-C into most cells of the body.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Define apoA.", "a": "An apoprotein found in HDL-C that facilitates cholesterol uptake by the liver and other tissues.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Define hypercholesterolemia.", "a": "A condition of elevated plasma cholesterol levels, sometimes linked to defective forms of apoB which accelerates atherosclerosis.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Define high-density lipoprotein-cholesterol (HDL-C).", "a": "The specific measurement of cholesterol contained within HDL complexes in the blood, predicting a lower risk of coronary heart disease.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Describe Fig 22.6 (Fat synthesis).", "a": "Diagrams how chylomicrons transport dietary fats to adipose cells, how liver processes remnants into LDL/HDL, and how glucose can be synthesized into triglycerides.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Explain the relationship between different forms of cholesterol and cardiovascular disease.", "a": "Elevated levels of LDL-C increase the risk of atherosclerosis and coronary heart disease, while higher levels of HDL-C are considered protective.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Describe Figure 22.7 (LDL-C and CHD risk).", "a": "A graph showing an exponential rise in the relative risk for coronary heart disease as LDL-cholesterol concentrations increase in the blood.", "sec": "22.4 Fed-State Metabolism" },
-  { "q": "Describe the fasted state of metabolism.", "a": "A catabolic state where the body taps into its stored reserves to maintain blood glucose homeostasis for the brain.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "What signals the beginning of the fasted state?", "a": "The fall in plasma concentrations of glucose once all nutrients from a recent meal have been digested, absorbed, and distributed.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Explain the fates of carbohydrates in the fasted state.", "a": "Liver glycogen is broken down into glucose. Muscle glycogen is broken down into glucose 6-phosphate (which converts to pyruvate/lactate to be sent to the liver).", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Describe Fig 22.8 (Fasted-state metabolism).", "a": "Shows liver converting glycogen to glucose, adipose releasing fatty acids, muscles breaking down proteins, and the brain exclusively utilizing glucose and ketones.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Describe Fig 22.9 (Glycogenolysis).", "a": "Illustrates how 90% of glycogen is converted directly to glucose 6-phosphate (costing no ATP) while 10% becomes plain glucose which must be phosphorylated.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Explain the fates of proteins in the fasted state.", "a": "Muscle proteins are broken down by proteases into amino acids, which are sent to the liver for deamination and used in gluconeogenesis or for ATP production.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Define proteases.", "a": "Enzymes (endopeptidases) that perform the first step in protein catabolism by digesting proteins into smaller polypeptides.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Define deamination.", "a": "The removal of the amino group from an amino acid, creating an ammonia molecule and an organic acid.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Define urea.", "a": "The main nitrogenous waste of the body, safely created in the liver from toxic ammonia, and excreted by the kidneys.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Describe Fig 22.10 (Amino acid catabolism).", "a": "Shows deamination removing an amino group to form ammonia and an organic acid, and the subsequent conversion of toxic ammonia into urea.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Describe Fig 22.11 (Gluconeogenesis).", "a": "Illustrates the pathway where the liver uses glycerol, amino acids, pyruvate, and lactate to synthesize new glucose 6-phosphate and glucose.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Discuss the relationship between amino acid catabolism and urea.", "a": "Amino acid catabolism requires deamination, producing highly toxic ammonia. The liver immediately converts this ammonia into urea to safely remove it from the body.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Explain the fates of lipids in the fasted state.", "a": "Triglycerides are broken down into glycerol (used for gluconeogenesis) and fatty acids (used for ATP production via beta-oxidation).", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Define lipolysis.", "a": "The process of lipases breaking down triglycerides into glycerol and fatty acids.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Define beta-oxidation.", "a": "The process in the mitochondrial matrix where long fatty acid carbon chains are slowly disassembled by chopping off 2-carbon units at a time to form acetyl CoA.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Define ketone bodies.", "a": "Acids produced by the liver from excess acetyl CoA during periods of high fatty acid breakdown. They serve as an alternative energy source for the brain.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Define ketosis.", "a": "A physiological state created when significant amounts of ketone bodies enter the blood, often causing a fruity breath odor.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Define ketoacidosis.", "a": "A dangerous metabolic acidosis caused by the accumulation of strong metabolic acidic ketone bodies, severely disrupting the body's pH balance.", "sec": "22.5 Fasted State Metabolism" },
-  { "q": "Explain the roles of insulin and glucagon in the control of metabolism.", "a": "They are antagonistic pancreatic hormones. Insulin dominates in the fed state to promote anabolism. Glucagon dominates in the fasted state to prevent hypoglycemia.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define hypoglycemia.", "a": "Abnormally low plasma glucose concentrations.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define hyperglycemia.", "a": "Abnormally elevated plasma glucose concentrations.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe the ratio of insulin and glucagon in the fed state.", "a": "Insulin levels are high and glucagon is low, causing metabolism to shift to net anabolism (storage and synthesis).", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe the ratio of insulin and glucagon in the fasted state.", "a": "Insulin levels fall and glucagon levels rise, causing metabolism to shift toward net catabolism (glucose synthesis and breakdown of stores).", "sec": "22.6 Homeostatic Control" },
-  { "q": "Explain the importance of the insulin-to-glucagon relationship.", "a": "It is the ratio of these two hormones, rather than the absolute amount of either, that dictates the overall direction of the body's metabolism.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe Fig 22.14 (Insulin and glucagon).", "a": "Shows the balance scale: Fed state is insulin dominated (glucose oxidation/synthesis). Fasted state is glucagon dominated (glycogenolysis/gluconeogenesis/ketogenesis).", "sec": "22.6 Homeostatic Control" },
-  { "q": "Explain the different stimuli that influence insulin secretion.", "a": "Increased plasma glucose (>100 mg/dL), increased plasma amino acids, feedforward GI hormones (GLP-1, GIP), and parasympathetic neural activity.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Explain the stimulus that inhibits insulin secretion.", "a": "Sympathetic nervous system activity (reinforced by catecholamines like epinephrine/norepinephrine) inhibits insulin secretion during stress.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define GLP-1.", "a": "Glucagon-like peptide-1, an incretin hormone produced by the intestine that triggers anticipatory insulin release.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define GIP.", "a": "Gastric inhibitory peptide, an incretin hormone that travels to pancreatic beta cells and stimulates insulin secretion before glucose is even absorbed.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define incretin hormones.", "a": "Hormones like GLP-1 and GIP produced by the small intestine in response to nutrient ingestion that prompt feedforward insulin secretion.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define insulin-receptor substrates (IRS).", "a": "Intracellular proteins phosphorylated by the activated insulin receptor that act through signal cascades to influence transport and cellular metabolism.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define alpha cells of pancreas.", "a": "Endocrine cells in the islets of Langerhans that make up about 20% of the islet and secrete the hormone glucagon.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define beta cells of pancreas.", "a": "Endocrine cells that make up nearly three-quarters of the islets of Langerhans and secrete insulin and the peptide amylin.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe Fig 22.15 (Insulin in the fed state).", "a": "A reflex map outlining how a meal increases GI distension/carbs/amino acids, triggering stretch receptors, incretins, and direct beta cell stimulation to release insulin.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Explain the ways that insulin lowers plasma glucose levels.", "a": "Increases glucose transport into cells, enhances utilization/storage of glucose, enhances utilization of amino acids, and promotes fat synthesis.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe insulin's activity in the fasted state.", "a": "Insulin levels are low, causing GLUT4 transporters to be withdrawn from muscle and adipose membranes, preventing them from taking up glucose.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Explain the difference in GLUT transporters between liver cells and other cells.", "a": "Adipose and muscle cells use insulin-dependent GLUT4. Liver cells use GLUT2 transporters, which are always present in the membrane regardless of insulin.", "sec": "22.6 Homeostatic Control" },
-  { "q": "How does the liver's GLUT transporters relate to its function?", "a": "Because GLUT2 is always in the membrane, it allows the liver to release newly synthesized glucose down its concentration gradient into the blood during the fasted state.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe Fig 22.17 (Glucose transport in fed and fasted states).", "a": "Shows GLUT4 insertion via insulin in muscle/adipose. In the liver, GLUT2 constantly allows glucose diffusion; insulin just activates hexokinase to keep intracellular glucose low.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Explain the different ways that glucagon raises plasma glucose levels.", "a": "It targets the liver to stimulate glycogenolysis (breakdown of glycogen) and gluconeogenesis (synthesis of new glucose from noncarbohydrates).", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe glucagon's activity in the fed state.", "a": "When plasma glucose is above 100 mg/dL and insulin is being secreted, glucagon secretion is inhibited and remains at a low, constant level.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe Fig 22.18 (Endocrine response to hypoglycemia).", "a": "A reflex map showing low plasma glucose stimulating alpha cells to secrete glucagon, which targets the liver to produce glucose and ketones for the brain.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Compare type 1 and type 2 diabetes mellitus.", "a": "Type 1 is caused by autoimmune destruction of beta cells (insulin deficiency). Type 2 is characterized by insulin resistance (target cells fail to respond to insulin).", "sec": "22.6 Homeostatic Control" },
-  { "q": "How do you diagnose diabetes?", "a": "By testing blood glucose. A fasting plasma glucose > 125 mg/dL or a 2-hour oral glucose tolerance test showing > 199 mg/dL indicates diabetes.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define osmotic diuresis.", "a": "The loss of water in the urine due to unreabsorbed solutes, specifically seen when high plasma glucose exceeds the renal threshold.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define diabetic ketoacidosis.", "a": "A dangerous state of metabolic acidosis in type 1 diabetics caused by the liver overproducing acidic ketone bodies from fat breakdown.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define insulin resistance.", "a": "A condition common in type 2 diabetes where target cells fail to respond normally to insulin, resulting in elevated plasma glucose.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Define amylin.", "a": "A peptide hormone co-secreted with insulin by beta cells that helps regulate glucose homeostasis by slowing digestion and promoting satiety.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe Fig 22.19 (Diagnosing diabetes).", "a": "Shows graphs of oral glucose tolerance tests, defining normal, pre-diabetes, and diabetes parameters for fasting and 2-hour post-drink blood glucose levels.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe the relationship between diabetes and ketoacidosis.", "a": "In untreated type 1 diabetes, lack of insulin triggers mass lipolysis. The liver converts these excess fatty acids into ketone bodies, leading to fatal ketoacidosis.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Map the body's responses to elevated plasma glucose in the absence of insulin.", "a": "Decreased uptake causes hyperglycemia -> glucosuria -> osmotic diuresis -> polyuria -> dehydration -> decreased blood pressure/circulatory failure.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe Fig 22.20 (Acute pathophysiology of type 1 diabetes).", "a": "A complex map showing how the lack of insulin leads to protein breakdown, fat breakdown (ketosis), and hyperglycemia (osmotic diuresis/coma/death).", "sec": "22.6 Homeostatic Control" },
-  { "q": "Explain how treatments for diabetes are related to the pathophysiology of the disease.", "a": "Treatments aim to lower glucose: Type 1 requires insulin injections. Type 2 uses weight loss (lowers resistance) and drugs that stimulate beta cells or inhibit glucose absorption.", "sec": "22.6 Homeostatic Control" },
-  { "q": "Describe Table 22.4 (Drugs for treating diabetes).", "a": "Lists mechanisms like Sulfonylureas (close KATP channels to secrete insulin), Biguanides (decrease hepatic gluconeogenesis), and SGLT2 inhibitors (increase glucose excretion in urine).", "sec": "22.6 Homeostatic Control" },
-  { "q": "END", "a": "END", "sec": "END" }
+  {
+    "q": "Define metabolism.",
+    "a": "Metabolism is the sum of all chemical reactions in the body that extract energy from nutrients, use energy for work, and store excess energy.",
+    "sec": "22.2 Energy Balance"
+  },
+  {
+    "q": "Describe the components of energy input in our bodies.",
+    "a": "Energy input for humans consists of energy contained in the nutrients we eat, digest, and absorb.",
+    "sec": "22.2 Energy Balance"
+  },
+  {
+    "q": "Describe the components of energy output in our bodies.",
+    "a": "Energy output is a combination of work performed (transport, mechanical, chemical) and energy returned to the environment as unregulated waste heat.",
+    "sec": "22.2 Energy Balance"
+  },
+  {
+    "q": "Keyword: energy intake",
+    "a": "The energy put into the body, which consists of the energy contained in the nutrients we eat, digest, and absorb.",
+    "sec": "22.2 Energy Balance"
+  },
+  {
+    "q": "Keyword: energy output",
+    "a": "The energy used by the body, which is a combination of biological work performed and energy returned to the environment as heat.",
+    "sec": "22.2 Energy Balance"
+  },
+  {
+    "q": "Keyword: transport work",
+    "a": "Work that moves molecules from one side of a membrane to the other, bringing materials into and out of the body and transferring them between compartments.",
+    "sec": "22.2 Energy Balance"
+  },
+  {
+    "q": "Keyword: mechanical work",
+    "a": "Work that uses intracellular fibers and filaments to create movement, including external skeletal muscle contraction and internal movement of cytoplasmic vesicles or heart pumping.",
+    "sec": "22.2 Energy Balance"
+  },
+  {
+    "q": "Keyword: chemical work",
+    "a": "Work used for growth, maintenance, and storage of information and energy; subdivided into synthesis and storage.",
+    "sec": "22.2 Energy Balance"
+  },
+  {
+    "q": "Keyword: short-term energy storage",
+    "a": "Storage of energy in high-energy phosphate compounds such as ATP and phosphocreatine.",
+    "sec": "22.2 Energy Balance"
+  },
+  {
+    "q": "Keyword: long-term energy storage",
+    "a": "Storage of energy in the chemical bonds of glycogen and fat (triglycerides).",
+    "sec": "22.2 Energy Balance"
+  },
+  {
+    "q": "Distinguish between anabolic and catabolic pathways.",
+    "a": "Anabolic pathways synthesize large molecules from smaller ones. Catabolic pathways break large molecules into smaller ones.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Give an example of an anabolic pathway.",
+    "a": "Glycogenesis (the synthesis of glycogen from glucose) or lipogenesis (the synthesis of fat).",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Give an example of a catabolic pathway.",
+    "a": "Glycolysis (the breakdown of a 6-carbon glucose into two 3-carbon pyruvate molecules) or glycogenolysis.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Distinguish between the fed (absorptive) state and the fasted (postabsorptive) state.",
+    "a": "The fed state is an anabolic period following a meal when nutrients are absorbed, used, and stored. The fasted state is a catabolic period when the body taps into stored reserves as nutrient pools decrease.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Describe the possible fates of ingested nutrients.",
+    "a": "1. Immediate metabolism for Energy (ATP). 2. Synthesis of basic components for cell growth and maintenance. 3. Storage as glycogen or fat for times of fasting.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Indicate which is the most common fate for the carbohydrate class of biomolecules.",
+    "a": "Most glucose absorbed goes immediately into glycolysis and the citric acid cycle to make ATP.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Indicate which is the most common fate for the protein class of biomolecules.",
+    "a": "Most amino acids go to the tissues for protein synthesis.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Indicate which is the most common fate for the lipid class of biomolecules.",
+    "a": "Most fats are assembled into chylomicrons and ultimately stored as triglycerides primarily in the liver and adipose tissue.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Keyword: glycogenesis",
+    "a": "The synthesis of glycogen from glucose.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Keyword: lipogenesis",
+    "a": "The synthesis of fat (triglycerides) from excess glucose or excess amino acids.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Keyword: glycogenolysis",
+    "a": "The breakdown of glycogen to glucose or glucose 6-phosphate.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Keyword: gluconeogenesis",
+    "a": "The synthesis of glucose from a noncarbohydrate precursor, such as amino acids or glycerol.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Explain where in the body glycogenesis occurs.",
+    "a": "Glycogen synthesis occurs in all cells of the body, but the liver and skeletal muscles contain especially high concentrations.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Explain where in the body lipogenesis occurs.",
+    "a": "Lipogenesis primarily occurs in the liver and in adipose tissue.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Explain where in the body glycogenolysis occurs.",
+    "a": "Glycogenolysis occurs primarily in the liver (to produce free glucose for the blood) and in skeletal muscle.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Explain where in the body gluconeogenesis occurs.",
+    "a": "Gluconeogenesis pathways occur primarily in the liver and the kidneys.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Create a map that summarizes the balance of nutrient pools and nutrient storage for carbohydrates, proteins, and lipids.",
+    "a": "Fats to FFA pool for lipogenesis (fat stores) or lipolysis. Carbs to Glucose pool for brain metabolism or glycogenesis (glycogen stores). Proteins to Amino Acid pool for protein synthesis or gluconeogenesis.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Explain the regulatory significance of push-pull control.",
+    "a": "Push-pull control uses different enzymes to catalyze forward and reverse reactions, allowing the body (via hormones) to strictly regulate the direction of a metabolic pathway without net cycling.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Explain how push-pull control applies to glucose and glycogen.",
+    "a": "In the fed state, insulin stimulates enzymes promoting glycogenesis and inhibits those for glycogenolysis. In the fasted state, glucagon stimulates enzymes of glycogenolysis and inhibits glycogenesis.",
+    "sec": "22.3 Metabolism"
+  },
+  {
+    "q": "Describe the fed-state of metabolism.",
+    "a": "The fed state is an anabolic state where absorbed nutrients from a recent meal are actively being used for energy, synthesis, and storage.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "What signals the beginning of the fed-state of metabolism?",
+    "a": "The absorption of products of digestion, characterized by elevated plasma glucose concentrations and the dominant secretion of insulin.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Explain the fates of carbohydrates in the fed-state.",
+    "a": "Used immediately for energy via aerobic pathways, used for lipoprotein synthesis in the liver, stored as glycogen in liver/muscle, and excess converted to fat in adipose tissue.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Explain the fates of proteins in the fed-state.",
+    "a": "Most go to tissues for structural/functional protein synthesis. The liver uses them to synthesize lipoproteins and plasma proteins. Excess amino acids are converted to fat.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Note that excess amino acids can also be converted to ketone bodies.",
+    "a": "When amino acids are used for energy, deamination creates organic acids (like acetyl CoA). If acyl units from acetyl CoA exceed the citric acid cycle capacity, they become ketone bodies.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Explain the fates of lipids in the fed-state.",
+    "a": "Cholesterol is used for steroid/membrane synthesis. Fatty acids are used for lipoprotein/eicosanoid synthesis. Most are stored as triglycerides primarily in the liver and adipose tissue.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Keyword: apoproteins",
+    "a": "Lipid-binding proteins (apolipoproteins) that combine with cholesterol, triglycerides, and phospholipids to form lipoprotein complexes like chylomicrons.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Keyword: lipoprotein lipase",
+    "a": "An enzyme bound to the capillary endothelium of muscles and adipose tissue that converts chylomicron triglycerides into free fatty acids and glycerol.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Keyword: very-low-density lipoprotein (VLDL)",
+    "a": "A heavy plasma lipoprotein complex secreted by the liver that contains a high ratio of triglycerides to protein and cholesterol.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Keyword: low-density lipoprotein cholesterol (LDL-C)",
+    "a": "Known as lethal cholesterol; it contains apoprotein B and is responsible for bringing cholesterol into most cells of the body. Elevated levels are associated with atherosclerosis.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Keyword: high-density lipoprotein (HDL)",
+    "a": "The lipoprotein complex involved in cholesterol transport out of the plasma and into the liver. Often termed healthy cholesterol.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Keyword: apoB",
+    "a": "Apoprotein B; the specific protein in LDL-C complexes that binds to cellular receptors to bring LDL-C into most cells.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Keyword: apoA",
+    "a": "Apoprotein A; the specific protein in HDL-C that facilitates cholesterol uptake by the liver and other tissues.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Keyword: hypercholesterolemia",
+    "a": "A condition of elevated plasma cholesterol levels, sometimes linked to inherited defective forms of apoB.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Keyword: high-density lipoprotein-cholesterol (HDL-C)",
+    "a": "The second most common lipoprotein in blood, involved in transporting cholesterol out of plasma. Low levels correlate with higher heart disease risk.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Create a summary diagram for the anabolic metabolism of carbohydrates, proteins, and lipids in the fed state.",
+    "a": "Carbohydrates to glucose for ATP or glycogen/fat storage. Proteins to amino acids for protein synthesis or fat storage. Lipids to chylomicrons and FFA for ATP or triglyceride storage.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Explain the relationship between different forms of cholesterol and cardiovascular disease.",
+    "a": "Elevated levels of LDL-C (lethal cholesterol) and low levels of HDL-C (healthy cholesterol) are major risk factors for the development of atherosclerosis and coronary heart disease.",
+    "sec": "22.4 Fed-State Metabolism"
+  },
+  {
+    "q": "Describe the fasted state of metabolism.",
+    "a": "A catabolic state where the body breaks down stored glycogen, proteins, and fats into intermediates that can be used to make either glucose or ATP to maintain plasma glucose homeostasis.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "What signals the beginning of the fasted state of metabolism?",
+    "a": "A fall in plasma glucose concentrations once all nutrients from a meal have been digested, absorbed, and distributed.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Explain the fates of carbohydrates in the fasted state.",
+    "a": "Glycogen polymers are broken down (glycogenolysis) to glucose in the liver/kidney, or to glucose 6-phosphate for use in glycolysis in skeletal muscle.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Explain the fates of proteins in the fasted state.",
+    "a": "Proteins are broken down into amino acids, which are then deaminated in the liver to produce ATP or used as precursors for gluconeogenesis.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Keyword: proteases",
+    "a": "Enzymes (endopeptidases) that catalyze the first step in protein catabolism by digesting a protein into smaller polypeptides.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Keyword: deamination",
+    "a": "The removal of the amino group from an amino acid, creating an ammonia molecule and an organic acid.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Keyword: urea",
+    "a": "The main nitrogenous waste of the body (CH4N2O), synthesized by the liver from toxic ammonia, and excreted by the kidneys.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Discuss the relationship between amino acid catabolism and urea.",
+    "a": "Amino acid catabolism requires deamination, which generates toxic ammonia. Liver cells rapidly convert this ammonia into urea to safely clear the nitrogenous waste via the kidneys.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Explain the fates of lipids in the fasted state.",
+    "a": "Triglycerides are broken down into fatty acids and glycerol (lipolysis). Fatty acids undergo beta-oxidation for ATP, and excess acetyl CoA in the liver forms ketone bodies.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Keyword: lipolysis",
+    "a": "The breakdown of triglycerides into glycerol and free fatty acids by lipases.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Keyword: beta-oxidation",
+    "a": "The process in the mitochondrial matrix where 2-carbon acyl units are sequentially chopped off the end of long fatty acid chains to form acetyl CoA.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Keyword: ketone bodies",
+    "a": "Metabolites formed in the liver during the fasted state when fatty acid beta-oxidation produces acetyl CoA faster than the citric acid cycle can metabolize it.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Keyword: ketosis",
+    "a": "A state characterized by the presence of ketone bodies in the blood, which become a significant source of energy for the brain when glucose is low.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Keyword: ketoacidosis",
+    "a": "A dangerous metabolic acidosis resulting from the accumulation of strong metabolic acids (ketone bodies) such as acetoacetic acid and beta-hydroxybutyric acid.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Create a summary diagram for the catabolic metabolism of carbohydrates, proteins, and lipids in the fasted state.",
+    "a": "Liver glycogen to glucose. Adipose lipids to free fatty acids/glycerol. Muscle glycogen to pyruvate/lactate. Muscle protein to amino acids. All fuel pathways maintain ATP or glucose.",
+    "sec": "22.5 Fasted State Metabolism"
+  },
+  {
+    "q": "Explain the roles of insulin in the control of metabolism.",
+    "a": "Secreted by beta cells, insulin promotes anabolic pathways in the fed state, driving glucose transport, glycolysis, glycogenesis, and lipogenesis to lower plasma glucose.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Explain the roles of glucagon in the control of metabolism.",
+    "a": "Secreted by alpha cells, glucagon promotes catabolic pathways in the fasted state, stimulating glycogenolysis and gluconeogenesis to prevent hypoglycemia.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: hypoglycemia",
+    "a": "Abnormally low plasma glucose concentrations.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: hyperglycemia",
+    "a": "Abnormally elevated plasma glucose concentrations.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Describe the ratio of insulin and glucagon in the fed state.",
+    "a": "In the fed state, insulin secretion increases and glucagon secretion is inhibited, resulting in a high insulin-to-glucagon ratio where insulin dominates.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Describe the ratio of insulin and glucagon in the fasted state.",
+    "a": "In the fasted state, insulin secretion drops and glucagon secretion slowly increases, resulting in a low insulin-to-glucagon ratio where glucagon dominates.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Describe the importance of the relationship between insulin and glucagon.",
+    "a": "The ratio of these two antagonistic hormones—not an absolute amount—determines whether the body's metabolism moves in an anabolic or catabolic direction.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Explain the different stimuli that influence insulin secretion (including inhibition).",
+    "a": "Stimulated by: increased plasma glucose, increased amino acids, GI hormones (GLP-1, GIP), and parasympathetic activity. Inhibited by: sympathetic activity and catecholamines.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Create a reflex map for insulin, including mechanisms of action where necessary.",
+    "a": "Meal -> Increased plasma glucose/amino acids and GI peptides -> Beta cells secrete insulin -> Target tissues increase glucose uptake/metabolism -> Plasma glucose decreases.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: GLP-1",
+    "a": "Glucagon-like peptide-1; an incretin hormone produced by the intestine in response to food that triggers feedforward, anticipatory insulin secretion.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: GIP",
+    "a": "Gastric inhibitory peptide; an incretin hormone produced by the gut that stimulates the anticipatory release of insulin.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: incretin hormones",
+    "a": "Hormones produced by the GI tract (like GLP-1 and GIP) that travel to pancreatic beta cells to stimulate insulin secretion in anticipation of glucose absorption.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: insulin-receptor substrates (IRS)",
+    "a": "Proteins phosphorylated by the activated tyrosine kinase insulin receptor, initiating complex intracellular cascades that influence glucose transport and metabolism.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: alpha cells of pancreas",
+    "a": "Endocrine cells in the islets of Langerhans that make up about 20% of the islet cells and secrete glucagon.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: beta cells of pancreas",
+    "a": "Endocrine cells in the islets of Langerhans that make up nearly three-quarters of the islet cells and produce insulin and amylin.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Explain the different ways that insulin lowers plasma glucose levels.",
+    "a": "1. Increases glucose transport into insulin-sensitive cells. 2. Enhances cellular utilization and storage of glucose. 3. Enhances utilization of amino acids. 4. Promotes fat synthesis.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Describe insulin's activity in the fasted state.",
+    "a": "Insulin levels are low, meaning GLUT4 transporters are stored in vesicles away from the membrane, and catabolic enzymes are no longer inhibited.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Describe insulin's activity in the fed state.",
+    "a": "Insulin binds to receptors, causing GLUT4 exocytosis in muscle/adipose, activating hexokinase in the liver, and stimulating anabolic enzymes for glycogenesis and lipogenesis.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Explain the difference in GLUT transporters between the liver cells and other cells of the body.",
+    "a": "Liver hepatocytes contain GLUT2 transporters that are always present in the cell membrane. Adipose and resting skeletal muscle rely on GLUT4 transporters inserted only when insulin is present.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Explain how the difference in GLUT transporters relates to the function of the liver.",
+    "a": "Because GLUT2 is continuously present, the liver can freely transport newly synthesized glucose out into the blood during the fasted state when insulin is low, ensuring blood glucose homeostasis.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Explain the different ways that glucagon raises plasma glucose levels.",
+    "a": "Glucagon targets the liver, stimulating glycogenolysis (breaking down glycogen to glucose) and gluconeogenesis (synthesizing glucose from amino acids).",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Describe glucagon's activity in the fasted state.",
+    "a": "Glucagon is the dominant hormone, responding to low plasma glucose by acting on the liver to increase glucose output and prevent hypoglycemia.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Describe glucagon's activity in the fed state.",
+    "a": "Glucagon secretion is inhibited by rising plasma glucose concentrations and insulin secretion, remaining at a low but relatively constant level.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Compare type 1 and type 2 diabetes mellitus.",
+    "a": "Type 1 is characterized by severe insulin deficiency due to autoimmune beta cell destruction. Type 2 is characterized by insulin resistance and delayed target cell responsiveness, often with normal/elevated insulin.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "How do you diagnose diabetes?",
+    "a": "By testing blood glucose: a fasting plasma glucose > 125 mg/dL, or an abnormally slow response resulting in > 199 mg/dL after a 2-hour oral glucose tolerance test.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: osmotic diuresis",
+    "a": "The loss of water in the urine caused by unreabsorbed solutes, such as excess glucose passing through the renal collecting ducts in diabetes.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: diabetic ketoacidosis",
+    "a": "A state of metabolic acidosis seen primarily in type 1 diabetes, resulting from the liver producing excessive acidic ketone bodies during unchecked fat catabolism.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: insulin resistance",
+    "a": "A hallmark condition of type 2 diabetes where target cells fail to respond normally to insulin action, delaying glucose uptake.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Keyword: amylin",
+    "a": "A peptide hormone co-secreted with insulin by beta cells that regulates glucose homeostasis by slowing digestion, suppressing glucagon, and promoting satiety.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Describe the relationship between diabetes and ketoacidosis.",
+    "a": "In insulin-deficient diabetes, cells cannot uptake glucose, so the body breaks down fat. The liver beta-oxidizes fatty acids faster than the citric acid cycle can handle, producing excess acidic ketone bodies.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Create a map for type 1 diabetes to show the body's responses to elevated plasma glucose in the absence of insulin.",
+    "a": "No insulin -> glucose uptake blocked -> fat/protein breakdown. Liver uses these to make ketones & glucose -> hyperglycemia -> osmotic diuresis -> dehydration. Ketones cause ketoacidosis.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "Explain how treatments for diabetes are related to the pathophysiology of the disease.",
+    "a": "Treatments target specific defects to correct hyperglycemia: sulfonylureas stimulate insulin secretion, SGLT2 inhibitors excrete glucose in urine, and biguanides decrease hepatic glucose output.",
+    "sec": "22.6 Homeostatic Control"
+  },
+  {
+    "q": "END",
+    "a": "END",
+    "sec": "END"
+  }
 ]
