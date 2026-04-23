@@ -1,102 +1,147 @@
 [
   {
     "q": "Understand which neurohormones are produced by the posterior pituitary and how they are made and released.",
-    "a": "The posterior pituitary stores and releases neurohormones that are synthesized in the hypothalamus and transported down axons to the posterior pituitary.",
+    "a": "The posterior pituitary is embryologically distinct tissue that secretes neurohormones made in the hypothalamus.",
     "sec": "Ch 7 Review"
   },
   {
     "q": "Understand which neurohormones are produced by the anterior pituitary and how they are made and released.",
-    "a": "The anterior pituitary secretes trophic hormones (like ACTH, TSH, GH) that are controlled by hypothalamic releasing/inhibiting hormones transported via the hypothalamic-hypophyseal portal system.",
+    "a": "The anterior pituitary (adenohypophyseal) secretes trophic hormones. They are controlled by hypothalamic neurohormones transported via the hypothalamic-hypophyseal portal system.",
     "sec": "Ch 7 Review"
   },
   {
-    "q": "Define: releasing hormones",
-    "a": "Hypothalamic neurohormones that control and stimulate the release of anterior pituitary hormones, such as CRH, TRH, and GHRH.",
+    "q": "Keyword: releasing hormones",
+    "a": "Hypothalamic neurohormones that stimulate the release of trophic hormones from the anterior pituitary (e.g., CRH, GHRH, TRH).",
     "sec": "Ch 7 Review"
   },
   {
-    "q": "Define: inhibiting hormones",
-    "a": "Hypothalamic neurohormones that suppress the release of anterior pituitary hormones, such as somatostatin.",
+    "q": "Keyword: inhibiting hormones",
+    "a": "Hypothalamic neurohormones that suppress the release of trophic hormones from the anterior pituitary (e.g., somatostatin).",
     "sec": "Ch 7 Review"
   },
   {
-    "q": "Define: trophic hormones",
-    "a": "Hormones that control the secretion of other hormones.",
+    "q": "Keyword: trophic hormones",
+    "a": "Hormones from the hypothalamus and anterior pituitary that control the secretion of other hormones, often causing hypertrophy of the target gland.",
     "sec": "Ch 7 Review"
   },
   {
-    "q": "Diagnose primary and secondary endocrine pathologies.",
-    "a": "Primary pathology arises in the last endocrine gland in a complex reflex pathway. Secondary pathology arises in one of the anterior pituitary trophic hormones.",
+    "q": "Diagnose primary endocrine pathologies by applying knowledge of feedback loops and hormone hypersecretion, hyposecretion, and abnormal tissue responsiveness.",
+    "a": "Primary pathologies arise in the last endocrine gland in a complex reflex pathway (e.g., adrenal cortex or thyroid). If it hypersecretes, the target hormone is high and trophic hormones are low due to strong negative feedback.",
+    "sec": "Ch 7 Review"
+  },
+  {
+    "q": "Diagnose secondary endocrine pathologies by applying knowledge of feedback loops and hormone hypersecretion, hyposecretion, and abnormal tissue responsiveness.",
+    "a": "Secondary pathologies originate in the anterior pituitary. If it hypersecretes, both the pituitary trophic hormone and the target gland hormone are abnormally elevated because the pituitary tumor ignores negative feedback.",
     "sec": "Ch 7 Review"
   },
   {
     "q": "Explain how the principle of negative feedback is used to diagnose endocrine pathologies.",
-    "a": "If a target gland oversecretes (primary), negative feedback shuts off trophic hormones. If the pituitary oversecretes (secondary), both the trophic hormone and the target gland hormone levels are abnormally high.",
+    "a": "By measuring levels of trophic and target hormones. If target hormone is high but trophic hormone is low, the negative feedback is working but ignored by target gland (primary). If both are high, the pituitary is ignoring feedback (secondary).",
     "sec": "Ch 7 Review"
   },
   {
-    "q": "Explain the endocrine feedback system and the role of negative feedback loops.",
-    "a": "The negative feedback signal for simple endocrine pathways is the systemic response to the hormone. For complex pathways, the hormone itself may be the feedback signal to prevent oversecretion.",
+    "q": "Explain the endocrine feedback system.",
+    "a": "The feedback signal for simple endocrine pathways is the systemic response to the hormone. In complex pathways using the hypothalamic-pituitary system, the feedback signal may be the hormone itself.",
     "sec": "23.1"
   },
   {
-    "q": "Describe the roles of hormone receptors, their locations, and their role in cellular responses.",
-    "a": "Hormone receptors may be on the cell surface or inside the cell (cytoplasm or nucleus). They bind hormones to alter existing proteins or make new proteins, determining the target cell response.",
+    "q": "Explain the role of negative feedback loops.",
+    "a": "Negative feedback shuts off the pathway once the systemic response or hormone level is adequate. In pathological states, endocrine cells may fail to respond appropriately to these signals.",
     "sec": "23.1"
   },
   {
-    "q": "Describe how target cell responses are modulated in endocrine systems, including the roles of up- and down-regulation of receptors.",
-    "a": "The magnitude of response depends on the amount of active hormone and receptor number/activity. Cells can up-regulate or down-regulate their receptors to alter their responsiveness to a hormone.",
+    "q": "Describe the roles of hormone receptors.",
+    "a": "Hormone receptors bind active hormone to determine the magnitude of the target cell response. Cells that do not have hormone receptors are nonresponsive.",
     "sec": "23.1"
   },
   {
-    "q": "Explain the possible causes of endocrine pathologies.",
-    "a": "1. Excess hormone secretion (hypersecretion). 2. Inadequate hormone secretion (hyposecretion). 3. Abnormal target cell response to the hormone.",
+    "q": "Describe the locations of hormone receptors.",
+    "a": "Hormone receptors may be located on the cell surface (membrane receptors) or inside the cell (cytoplasmic or nuclear receptors).",
+    "sec": "23.1"
+  },
+  {
+    "q": "Describe the role of hormone receptors in cellular responses.",
+    "a": "When activated, they typically respond by altering existing proteins or by binding to DNA to initiate transcription, translation, and make new proteins.",
+    "sec": "23.1"
+  },
+  {
+    "q": "Describe how target cell responses are modulated in endocrine systems, including the roles of up-regulation of receptors.",
+    "a": "The magnitude of response depends on available hormone and receptor numbers. Cells can up-regulate (increase) their receptor count to amplify their response to a hormone.",
+    "sec": "23.1"
+  },
+  {
+    "q": "Describe how target cell responses are modulated in endocrine systems, including the roles of down-regulation of receptors.",
+    "a": "Cells can down-regulate (decrease) their receptor count or activity to reduce their response, often preventing crossover effects or avoiding overstimulation.",
+    "sec": "23.1"
+  },
+  {
+    "q": "Explain the possible causes of endocrine pathologies (hypersecretion).",
+    "a": "Excess hormone secretion can result from autonomous hormone-secreting tumors or iatrogenic (physician-caused) therapeutic administration of a hormone.",
+    "sec": "23.1"
+  },
+  {
+    "q": "Explain the possible causes of endocrine pathologies (hyposecretion).",
+    "a": "Inadequate hormone secretion can be caused by autoimmune destruction of the gland, hereditary defects in necessary synthesis enzymes, or dietary deficiencies.",
+    "sec": "23.1"
+  },
+  {
+    "q": "Explain the possible causes of endocrine pathologies (abnormal tissue responsiveness).",
+    "a": "Failure of the target cell to respond appropriately to its hormone, often due to receptor down-regulation, receptor absence, or genetic mutations.",
     "sec": "23.1"
   },
   {
     "q": "List the types of steroid hormones secreted by the adrenal cortex.",
-    "a": "Aldosterone (mineralocorticoids), glucocorticoids (like cortisol), and sex hormones (androgens/estrogens/progesterone). All are synthesized from cholesterol.",
+    "a": "The adrenal cortex secretes aldosterone, glucocorticoids, and sex hormones.",
     "sec": "23.2"
   },
   {
-    "q": "Define: aldosterone",
-    "a": "A steroid hormone (mineralocorticoid) secreted by the outer zona glomerulosa of the adrenal cortex that affects sodium and potassium minerals.",
+    "q": "Keyword: aldosterone",
+    "a": "A mineralocorticoid secreted by the outer zona glomerulosa of the adrenal cortex, responsible for effects on the minerals sodium and potassium.",
     "sec": "23.2"
   },
   {
-    "q": "Define: glucocorticoids",
-    "a": "Steroid hormones secreted mostly by the middle zona fasciculata of the adrenal cortex, named for their ability to increase plasma glucose concentrations.",
+    "q": "Keyword: glucocorticoids",
+    "a": "Steroid hormones named for their ability to increase plasma glucose concentrations, secreted mostly by the middle zona fasciculata of the adrenal cortex.",
     "sec": "23.2"
   },
   {
-    "q": "Define: sex hormones",
-    "a": "Steroid hormones (primarily androgens) secreted mostly by the inner zona reticularis of the adrenal cortex.",
+    "q": "Keyword: sex hormones",
+    "a": "Steroids secreted mostly by the inner zona reticularis, consisting mainly of androgens (dominant in men) as well as estrogens and progesterone.",
     "sec": "23.2"
   },
   {
-    "q": "Define: cortisol",
-    "a": "The main glucocorticoid secreted by the adrenal cortex, essential for life, acts to prevent hypoglycemia and mediate long-term stress.",
+    "q": "Keyword: cortisol",
+    "a": "The main glucocorticoid secreted by the adrenal cortex. It is essential for life and often called the body's stress hormone.",
     "sec": "23.2"
   },
   {
-    "q": "Diagram the HPA pathway in detail, including the location of origin for each hormone, feedback signals, and cellular mechanisms in action.",
-    "a": "Hypothalamus secretes CRH into the portal system -> Anterior pituitary secretes ACTH -> Adrenal cortex secretes cortisol. Cortisol acts as a negative feedback signal to inhibit ACTH and CRH.",
+    "q": "Diagram the HPA pathway in detail, including the location of origin for each hormone.",
+    "a": "1. Hypothalamus secretes corticotropin-releasing hormone (CRH). 2. Anterior pituitary secretes adrenocorticotropic hormone (ACTH). 3. Adrenal cortex secretes cortisol.",
     "sec": "23.2"
   },
   {
-    "q": "Define: hypothalamic-pituitary-adrenal (HPA) pathway",
-    "a": "The control pathway for cortisol secretion, involving the sequential release of CRH from the hypothalamus, ACTH from the pituitary, and cortisol from the adrenal cortex.",
+    "q": "Diagram the HPA pathway in detail, including feedback signals.",
+    "a": "Cortisol acts as a negative feedback signal, circulating back to inhibit ACTH secretion from the anterior pituitary and CRH secretion from the hypothalamus.",
     "sec": "23.2"
   },
   {
-    "q": "Define: corticotropin-releasing hormone (CRH)",
-    "a": "A hypothalamic hormone that stimulates the release of ACTH from the anterior pituitary. Also decreases food intake and is associated with inflammation and immune responses.",
+    "q": "Diagram the HPA pathway in detail, including cellular mechanisms in action.",
+    "a": "Cortisol diffuses into nucleated target cells, binds to cytoplasmic glucocorticoid receptors, enters the nucleus, binds to DNA, and alters gene expression, transcription, and translation.",
     "sec": "23.2"
   },
   {
-    "q": "Define: adrenocorticotropic hormone (ACTH)",
-    "a": "An anterior pituitary hormone synthesized from pro-opiomelanocortin (POMC) that acts on the adrenal cortex to promote synthesis and release of cortisol.",
+    "q": "Keyword: hypothalamic-pituitary-adrenal (HPA) pathway",
+    "a": "The control pathway for cortisol secretion, initiated by CRH in the hypothalamus, which stimulates ACTH in the anterior pituitary, stimulating cortisol from the adrenal cortex.",
+    "sec": "23.2"
+  },
+  {
+    "q": "Keyword: corticotropin-releasing hormone (CRH)",
+    "a": "A hormone secreted by the hypothalamus into the portal system that stimulates ACTH release. Also associated with inflammation, immune response, decreasing food intake, and onset of labor.",
+    "sec": "23.2"
+  },
+  {
+    "q": "Keyword: adrenocorticotropic hormone (ACTH)",
+    "a": "Also known as corticotropin. Synthesized from POMC in the anterior pituitary, it stimulates the adrenal cortex to synthesize and release cortisol.",
     "sec": "23.2"
   },
   {
@@ -105,188 +150,248 @@
     "sec": "23.2"
   },
   {
-    "q": "Identify the hallmarks of hypercortisolism and explain how it relates to metabolism and brain function.",
-    "a": "Mimics diabetes (hyperglycemia), causes tissue wasting, and trunk/face fat deposits (moon face). Brain effects include initial mood elevation followed by depression, and difficulty with learning and memory.",
+    "q": "Identify the hallmarks of hypercortisolism, and explain how they relate to metabolism and brain function.",
+    "a": "Hallmarks: hyperglycemia (mimicking diabetes), tissue wasting from protein breakdown, trunk obesity, moon face, and CNS effects like initial mood elevation followed by depression, and memory difficulty.",
     "sec": "23.2"
   },
   {
-    "q": "Define: Cushing's syndrome",
-    "a": "Hypercortisolism from any cause, characterized by thin arms and legs, obesity in the trunk, and a moon face with plump red cheeks.",
+    "q": "Identify the hallmarks of hypocortisolism, and explain how they relate to metabolism and brain function.",
+    "a": "Lack of adrenal steroids impairs glucose regulation and stress response. Without cortisol feedback, excess ACTH is produced, leading to increased melanin production and an apparent skin tan.",
     "sec": "23.2"
   },
   {
-    "q": "Define: Cushing's disease",
-    "a": "A specific form of secondary hypercortisolism caused by a pituitary tumor that autonomously secretes ACTH, prompting the adrenal gland to oversecrete cortisol.",
+    "q": "Keyword: Cushing's syndrome",
+    "a": "The general term for hypercortisolism from any cause (including exogenous administration), characterized by thin arms/legs, trunk obesity, and a moon face.",
     "sec": "23.2"
   },
   {
-    "q": "Define: Addison's disease",
-    "a": "Adrenal insufficiency characterized by hyposecretion of all adrenal steroid hormones, usually following autoimmune destruction of the adrenal cortex.",
+    "q": "Keyword: Cushing's disease",
+    "a": "A specific type of secondary hypercortisolism caused by a pituitary tumor that autonomously secretes excess ACTH.",
     "sec": "23.2"
   },
   {
-    "q": "Define: congenital adrenal hyperplasia",
-    "a": "Hereditary defects in the enzymes needed for adrenal steroid production, causing precursors to be converted into excess androgens instead of cortisol or aldosterone.",
+    "q": "Keyword: Addison's disease",
+    "a": "An adrenal insufficiency causing hyposecretion of all adrenal steroid hormones, usually following autoimmune destruction of the adrenal cortex.",
+    "sec": "23.2"
+  },
+  {
+    "q": "Keyword: congenital adrenal hyperplasia",
+    "a": "Hereditary defects in the enzymes needed for adrenal steroid production, causing substrate to be converted into excess androgens instead of cortisol or aldosterone.",
     "sec": "23.2"
   },
   {
     "q": "Explain the possible causes of hypercortisolism.",
-    "a": "1. An adrenal tumor autonomously secreting cortisol (primary). 2. A pituitary tumor autonomously secreting ACTH (secondary). 3. Iatrogenic (physician-caused) from therapeutic cortisol administration.",
+    "a": "1. Adrenal tumor autonomously secreting cortisol. 2. Pituitary tumor autonomously secreting ACTH. 3. Iatrogenic hypercortisolism secondary to therapeutic cortisol administration.",
+    "sec": "23.2"
+  },
+  {
+    "q": "Explain the possible causes of hypocortisolism.",
+    "a": "Autoimmune destruction of the adrenal cortex (Addison's disease) or hereditary defects in synthesis enzymes (congenital adrenal hyperplasia).",
     "sec": "23.2"
   },
   {
     "q": "Identify between primary hypercortisolism and secondary hypercortisolism.",
-    "a": "Primary hypercortisolism originates from an adrenal gland issue (tumor) independent of ACTH. Secondary hypercortisolism is caused by an anterior pituitary tumor secreting excess ACTH.",
+    "a": "Primary hypercortisolism originates from an adrenal tumor autonomously secreting cortisol (resulting in low ACTH). Secondary hypercortisolism originates from a pituitary tumor autonomously secreting ACTH.",
     "sec": "23.2"
   },
   {
-    "q": "Explain the origins of T3 and T4 in the thyroid, as well as their relative use within target cells.",
-    "a": "Synthesized in thyroid follicles from tyrosine and iodine. T4 is the most abundant in plasma. Target cells convert T4 to T3, which is 3 to 5 times more biologically active.",
+    "q": "Explain the origins of T3 and T4 in the thyroid.",
+    "a": "Synthesized in thyroid follicles. Iodine is added to tyrosine on thyroglobulin to create MIT and DIT. One MIT and one DIT couple to form T3. Two DIT couple to form T4 (thyroxine).",
     "sec": "23.3"
   },
   {
-    "q": "Define: follicles",
-    "a": "Spherical structures in the thyroid gland whose walls are a single layer of epithelial cells, serving as the site for thyroid hormone synthesis.",
+    "q": "Explain the relative use of T3 and T4 within target cells.",
+    "a": "T4 is the main form in plasma, but T3 is 3 to 5 times more biologically active. Target cells use deiodinases to remove an iodine from T4 to make about 85 percent of the active T3 they use.",
     "sec": "23.3"
   },
   {
-    "q": "Define: colloid",
-    "a": "A sticky glycoprotein mixture filling the hollow center of a thyroid follicle, holding a 2 to 3 month supply of thyroid hormones.",
+    "q": "Keyword: follicles",
+    "a": "Spherical structures in the thyroid gland whose walls are a single layer of epithelial cells, serving as the site of thyroid hormone synthesis.",
     "sec": "23.3"
   },
   {
-    "q": "Define: iodine",
-    "a": "An element actively concentrated from the diet by follicular cells, combined with tyrosine to synthesize thyroid hormones.",
+    "q": "Keyword: colloid",
+    "a": "A sticky glycoprotein mixture filling the hollow center of a thyroid follicle, holding a 2-3 month supply of thyroid hormones.",
     "sec": "23.3"
   },
   {
-    "q": "Define: triiodothyronine (T3)",
-    "a": "The highly active thyroid hormone formed by coupling one MIT and one DIT. It is the main active hormone in target cells.",
+    "q": "Keyword: iodine",
+    "a": "An element actively concentrated into thyroid follicular cells by the sodium-iodide symporter (NIS), essential for the synthesis of thyroid hormones.",
     "sec": "23.3"
   },
   {
-    "q": "Define: tetraiodothyronine (T4)",
-    "a": "Also known as thyroxine, the main thyroid hormone secreted into the plasma, formed by coupling two DIT molecules.",
+    "q": "Keyword: triiodothyronine (T3)",
+    "a": "The highly active thyroid hormone created by the coupling of one monoiodotyrosine (MIT) and one diiodotyrosine (DIT).",
     "sec": "23.3"
   },
   {
-    "q": "Define: thyroid-binding globulin (TBG)",
-    "a": "A plasma protein that binds to lipophilic thyroid hormones to increase their limited solubility and transport them in the blood.",
+    "q": "Keyword: tetraiodothyronine (T4)",
+    "a": "Also known as thyroxine. Created by the coupling of two DIT molecules. It is the most abundant thyroid hormone in the plasma.",
     "sec": "23.3"
   },
   {
-    "q": "Define: deiodinases",
-    "a": "Enzymes in target cells that remove an iodine atom from T4 to create the more biologically active T3 hormone.",
+    "q": "Keyword: thyroid-binding globulin (TBG)",
+    "a": "A plasma protein that binds lipophilic thyroid hormones to transport them safely in the circulation.",
     "sec": "23.3"
   },
   {
-    "q": "Diagram the thyroid hormone control pathway, including feedback signals and cellular mechanisms of action.",
-    "a": "Hypothalamus secretes TRH -> Anterior Pituitary secretes TSH -> Thyroid gland secretes T3 and T4. T3 and T4 act as negative feedback signals to prevent TRH and TSH oversecretion.",
+    "q": "Keyword: deiodinases",
+    "a": "Enzymes inside target cells that remove an iodine atom from T4 to convert it into the biologically more active T3.",
     "sec": "23.3"
   },
   {
-    "q": "Define: Thyrotropin-releasing hormone (TRH)",
-    "a": "A hormone from the hypothalamus that controls the secretion of thyrotropin (TSH) from the anterior pituitary.",
+    "q": "Diagram the thyroid hormone control pathway, including feedback signals.",
+    "a": "Hypothalamus secretes TRH to anterior pituitary, which secretes TSH to thyroid gland, which secretes T3 and T4. Free T3 and T4 exert negative feedback on the anterior pituitary and hypothalamus.",
     "sec": "23.3"
   },
   {
-    "q": "Define: thyrotropin / thyroid-stimulating hormone (TSH)",
-    "a": "An anterior pituitary hormone that acts on the thyroid gland to promote hormone synthesis and cause hypertrophy of follicular cells.",
+    "q": "Diagram the thyroid hormone control pathway, including cellular mechanisms of action.",
+    "a": "T3 enters target cells, binds to nuclear receptors, and initiates transcription, translation, and synthesis of new proteins like metabolic enzymes and Na-K-ATPase.",
+    "sec": "23.3"
+  },
+  {
+    "q": "Keyword: Thyrotropin-releasing hormone (TRH)",
+    "a": "A hypothalamic hormone that controls the secretion of thyrotropin (TSH) from the anterior pituitary.",
+    "sec": "23.3"
+  },
+  {
+    "q": "Keyword: thyrotropin/thyroid-stimulating hormone (TSH)",
+    "a": "An anterior pituitary hormone that acts on the thyroid gland to promote hormone synthesis and follicular cell hypertrophy.",
     "sec": "23.3"
   },
   {
     "q": "Identify the hallmarks and side effects of hyperthyroidism.",
-    "a": "Increased oxygen consumption and metabolic heat production (heat intolerance), muscle weakness, weight loss, hyperexcitable reflexes, psychological disturbances, and rapid heartbeat.",
+    "a": "Increased oxygen consumption, metabolic heat production (heat intolerance), muscle protein catabolism (weight loss, weakness), hyperexcitable reflexes, psychological disturbances, and rapid heartbeat.",
     "sec": "23.3"
   },
   {
-    "q": "Define: goiter",
-    "a": "Enlargement of the thyroid gland due to excess TSH stimulation or thyroid-stimulating immunoglobulins (TSI).",
+    "q": "Keyword: goiter",
+    "a": "Enlargement of the thyroid gland due to excess TSH stimulation or TSH-like immune proteins (TSI), occurring in both hyperthyroid and hypothyroid states.",
     "sec": "23.3"
   },
   {
-    "q": "Define: Graves' disease",
-    "a": "The most common cause of hyperthyroidism. The body produces antibodies (TSI) that mimic TSH and cause the thyroid to hypertrophy and oversecrete hormones.",
+    "q": "Keyword: Graves' disease",
+    "a": "The most common cause of hyperthyroidism. The body produces thyroid-stimulating immunoglobulins (TSI) that mimic TSH, causing a goiter and autonomous oversecretion of T3/T4.",
     "sec": "23.3"
   },
   {
-    "q": "Define: thyroid-stimulating immunoglobulins (TSI)",
-    "a": "Antibodies produced in Graves' disease that combine with and activate TSH receptors on the thyroid gland, resulting in goiter and hypersecretion.",
+    "q": "Keyword: thyroid-stimulating immunoglobulins (TSI)",
+    "a": "Antibodies produced in Graves' disease that combine with and activate TSH receptors on the thyroid gland, bypassing normal negative feedback.",
     "sec": "23.3"
   },
   {
-    "q": "Define: exophthalmos",
-    "a": "A bug-eyed appearance commonly accompanying Graves' disease, caused by immune-mediated enlargement of muscles and tissue in the eye socket.",
+    "q": "Keyword: exophthalmos",
+    "a": "A bug-eyed appearance associated with Graves' disease caused by immune-mediated enlargement of muscles and tissue in the eye socket.",
     "sec": "23.3"
   },
   {
     "q": "Identify the hallmarks and side effects of hypothyroidism.",
-    "a": "Slowed metabolic rate (cold intolerance), decreased protein synthesis (brittle nails, thinning hair, dry skin), myxedema (puffy appearance), slowed reflexes, fatigue, and bradycardia.",
+    "a": "Slowed metabolic rate (cold intolerance), decreased protein synthesis (brittle nails, thin hair), myxedema (puffy skin), slowed reflexes, fatigue, bradycardia, and stunted growth in children (cretinism).",
     "sec": "23.3"
   },
   {
-    "q": "Distinguish between primary and secondary thyroid pathologies for both hyperthyroidism and hypothyroidism.",
-    "a": "Primary pathologies originate in the thyroid gland (e.g., lack of iodine causing hypothyroidism, or Graves' disease causing hyperthyroidism). Secondary pathologies originate from pituitary tumors altering TSH secretion.",
+    "q": "Distinguish between primary and secondary thyroid pathologies for hyperthyroidism.",
+    "a": "Primary hyperthyroidism is caused by a thyroid gland problem (like Graves' disease or a tumor), resulting in low TSH. Secondary hyperthyroidism is caused by a pituitary tumor secreting excess TSH.",
+    "sec": "23.3"
+  },
+  {
+    "q": "Distinguish between primary and secondary thyroid pathologies for hypothyroidism.",
+    "a": "Primary hypothyroidism originates in the thyroid (most commonly from lack of dietary iodine), resulting in low T3/T4 and extremely high TSH. Secondary originates in the pituitary due to decreased TSH synthesis.",
     "sec": "23.3"
   },
   {
     "q": "List the factors that influence normal growth.",
-    "a": "1. Growth hormone and other hormones (thyroid, insulin, sex hormones). 2. Adequate diet (protein, energy, vitamins, calcium). 3. Absence of chronic stress. 4. Genetics.",
+    "a": "Growth hormone and other hormones (thyroid, insulin, sex hormones), an adequate diet (protein, calcium, energy), absence of chronic stress, and genetics.",
     "sec": "23.4"
   },
   {
-    "q": "Diagram the control pathway for growth hormone release, including feedback signals and cellular mechanisms of action.",
-    "a": "Hypothalamus secretes GHRH and somatostatin -> Anterior pituitary secretes GH -> Liver secretes IGFs. GH and IGFs feed back to inhibit GHRH and promote somatostatin. IGFs also directly inhibit GH.",
+    "q": "Diagram the control pathway for growth hormone release, including feedback signals.",
+    "a": "Hypothalamus secretes GHRH and Somatostatin. Anterior pituitary secretes GH. GH feeds back to inhibit GHRH and promote Somatostatin. GH stimulates liver to secrete IGFs, which directly inhibit GH and GHRH.",
     "sec": "23.4"
   },
   {
-    "q": "Define: growth hormone (GH)",
-    "a": "An anabolic peptide hormone secreted by the anterior pituitary that promotes protein synthesis, lipolysis, and stimulates the release of IGFs.",
+    "q": "Diagram the control pathway for growth hormone release, including cellular mechanisms of action.",
+    "a": "GH acts on membrane receptors linked to kinases to phosphorylate proteins and initiate transcription. It promotes protein synthesis, lipolysis, decreased glucose uptake, and gluconeogenesis.",
     "sec": "23.4"
   },
   {
-    "q": "Define: growth hormone-releasing hormone (GHRH)",
-    "a": "A neuropeptide secreted by the hypothalamus that stimulates the release of growth hormone from the anterior pituitary.",
+    "q": "Keyword: growth hormone (GH)",
+    "a": "Also called somatotropin. An anabolic peptide hormone from the anterior pituitary essential for normal tissue and bone growth.",
     "sec": "23.4"
   },
   {
-    "q": "Define: growth hormone-inhibiting hormone / somatostatin (SS)",
-    "a": "A neuropeptide secreted by the hypothalamus that inhibits the release of growth hormone from the anterior pituitary.",
+    "q": "Keyword: growth hormone-releasing hormone (GHRH)",
+    "a": "A hypothalamic neuropeptide that stimulates the release of growth hormone from the anterior pituitary.",
     "sec": "23.4"
   },
   {
-    "q": "Define: growth hormone binding protein",
-    "a": "A plasma protein that binds nearly half of the GH in the blood, extending its half-life and protecting it from being filtered into the urine.",
+    "q": "Keyword: growth hormone-inhibiting hormone/somatostatin (SS)",
+    "a": "A hypothalamic neuropeptide that inhibits the release of growth hormone from the anterior pituitary.",
     "sec": "23.4"
   },
   {
-    "q": "Define: insulin-like growth factors (IGFs)",
-    "a": "Hormones secreted by the liver and other tissues in response to GH that act in concert with GH to stimulate bone and soft tissue growth.",
+    "q": "Keyword: growth hormone binding protein",
+    "a": "A plasma protein that binds nearly half the GH in blood, protecting it from being filtered into urine and extending its half-life.",
     "sec": "23.4"
   },
   {
-    "q": "Identify the hallmarks of hypersecretion and hyposecretion of growth hormone in children and adults.",
-    "a": "Hyposecretion in childhood causes dwarfism. Hypersecretion in childhood causes giantism. Hypersecretion in adulthood (after bone plates close) causes acromegaly.",
+    "q": "Keyword: insulin-like growth factors (IGFs)",
+    "a": "Also called somatomedins. Trophic hormones secreted from the liver and other tissues in response to GH that act in concert with GH to stimulate bone and soft tissue growth.",
     "sec": "23.4"
   },
   {
-    "q": "Define: dwarfism",
-    "a": "A condition caused by severe growth hormone deficiency or defective GH receptors in childhood, leading to abnormally slow or stunted growth.",
+    "q": "Identify the hallmarks of hypersecretion of growth hormone in children.",
+    "a": "Leads to giantism, causing extreme height because the epiphyseal plates of long bones are still active and continuing to grow.",
     "sec": "23.4"
   },
   {
-    "q": "Define: giantism",
-    "a": "A condition caused by the oversecretion of growth hormone in children before the epiphyseal plates of long bones close.",
+    "q": "Identify the hallmarks of hypersecretion of growth hormone in adults.",
+    "a": "Leads to acromegaly, characterized by lengthening of the jaw, coarsening of facial features, and growth of hands and feet (since linear bone growth has stopped).",
     "sec": "23.4"
   },
   {
-    "q": "Define: acromegaly",
-    "a": "A condition in adults caused by excessive GH secretion, characterized by lengthening of the jaw, coarsening of facial features, and growth of hands and feet.",
+    "q": "Identify the hallmarks of hyposecretion of growth hormone in children.",
+    "a": "Severe growth hormone deficiency leads to dwarfism, caused by a problem with GH synthesis or defective GH receptors.",
     "sec": "23.4"
   },
   {
-    "q": "Understand the roles of thyroid hormone, growth hormone, IGFs, and insulin in childhood growth and how this relates to metabolism.",
-    "a": "GH and IGFs directly promote protein synthesis and bone growth. Thyroid hormone is permissive for GH and essential for nervous system development. Insulin supports growth by providing glucose energy and stimulating protein synthesis.",
+    "q": "Identify the hallmarks of hyposecretion of growth hormone in adults.",
+    "a": "Adults with GH hyposecretion are candidates for hGH therapy, as lack of GH can affect soft tissue maintenance, though linear height is no longer affected.",
+    "sec": "23.4"
+  },
+  {
+    "q": "Keyword: dwarfism",
+    "a": "A condition resulting from severe growth hormone deficiency in childhood, leading to abnormally short stature.",
+    "sec": "23.4"
+  },
+  {
+    "q": "Keyword: giantism",
+    "a": "A condition resulting from oversecretion of growth hormone in children before bone growth stops, leading to extreme height.",
+    "sec": "23.4"
+  },
+  {
+    "q": "Keyword: acromegaly",
+    "a": "A condition in adults with excessive secretion of growth hormone, leading to lengthening of the jaw, coarsening of facial features, and growth of hands and feet.",
+    "sec": "23.4"
+  },
+  {
+    "q": "Understand the roles of thyroid hormone in childhood growth and how this relates to metabolism.",
+    "a": "Thyroid hormones play a permissive role and interact synergistically with GH in protein synthesis and nervous system development. Deficiency causes stunted growth (cretinism).",
+    "sec": "23.4"
+  },
+  {
+    "q": "Understand the roles of growth hormone in childhood growth and how this relates to metabolism.",
+    "a": "GH promotes protein synthesis, causes lipolysis, decreases glucose uptake by muscle, and stimulates gluconeogenesis in the liver to increase blood glucose for energy.",
+    "sec": "23.4"
+  },
+  {
+    "q": "Understand the roles of IGFs in childhood growth and how this relates to metabolism.",
+    "a": "IGFs promote protein synthesis (particularly in skeletal muscle) and act directly on bones to stimulate cartilage synthesis and increase bone growth.",
+    "sec": "23.4"
+  },
+  {
+    "q": "Understand the roles of insulin in childhood growth and how this relates to metabolism.",
+    "a": "Insulin supports tissue growth by stimulating protein synthesis and providing energy in the form of glucose. It is permissive for growth hormone.",
     "sec": "23.4"
   },
   {
