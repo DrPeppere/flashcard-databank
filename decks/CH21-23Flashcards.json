@@ -1,0 +1,647 @@
+[
+  {
+    "q": "Trace a piece of undigested food from the mouth to the anus.",
+    "a": "Mouth (Oral cavity) to Pharynx to Esophagus to Stomach to Small Intestine (Duodenum, Jejunum, Ileum) to Large Intestine (Colon) to Rectum to Anus.",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Define the following keywords: gastrointestinal tract (GI tract), gut, and chyme.",
+    "a": "GI tract: The long tube from mouth to anus. Gut: Often refers to the stomach and intestines. Chyme: The soupy mixture of food and secretions created in the stomach.",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Define the following keywords: oral cavity, salivary glands, and esophagus.",
+    "a": "Oral cavity: The mouth where mechanical digestion begins. Salivary glands: Glands that secrete saliva and enzymes. Esophagus: The muscular tube connecting the pharynx to the stomach.",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Define the following keywords: stomach, pancreas, and liver.",
+    "a": "Stomach: Muscular organ for storage and mixing. Pancreas: Organ providing digestive enzymes and bicarbonate. Liver: Organ producing bile and processing nutrients.",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Define the following keywords: small intestine, duodenum, jejunum, and ileum.",
+    "a": "Small intestine: Primary site of digestion and absorption. Duodenum: First part (c-shaped). Jejunum: Middle part. Ileum: Final part connecting to large intestine.",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Define the following keywords: large intestine, colon, feces, rectum, and anus.",
+    "a": "Large intestine: Absorbs water and stores waste. Colon: Proximal portion of large intestine. Feces: Solid waste. Rectum: Distal storage for feces. Anus: Inferior exit of GI tract.",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Describe the layers of the GI tract wall: Mucosa.",
+    "a": "The innermost layer consisting of mucosal epithelium, lamina propria (connective tissue with lymph/nerves), and muscularis mucosae (thin smooth muscle).",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Describe the layers of the GI tract wall: Submucosa.",
+    "a": "Connective tissue layer deep to the mucosa containing larger blood/lymph vessels and the submucosal plexus (nerve network).",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Describe the layers of the GI tract wall: Muscularis externa.",
+    "a": "Outer muscle layer consisting of an inner circular layer (for narrowing) and an outer longitudinal layer (for shortening).",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Describe the layers of the GI tract wall: Serosa.",
+    "a": "The outermost layer of the GI wall, which is a continuation of the peritoneal membrane (peritoneum).",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Define the following keywords: villi, gastric glands, and crypts.",
+    "a": "Villi: Finger-like projections in small intestine mucosa. Gastric glands: Deep pits in the stomach wall for secretion. Crypts: Deep pits in the intestinal wall for secretion.",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Define the following keywords: submucosal glands, mucosal epithelium, and lamina propria.",
+    "a": "Submucosal glands: Glands in the submucosa. Mucosal epithelium: Innermost cell layer (absorptive or secretory). Lamina propria: Connective tissue supporting epithelium.",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Define the following keywords: muscularis mucosae, mucosal vs serosal surface.",
+    "a": "Muscularis mucosae: Smooth muscle at mucosal base. Mucosal surface: Faces the lumen. Serosal surface: Faces the abdominal cavity.",
+    "sec": "21 Review"
+  },
+  {
+    "q": "Describe the primary function of the digestive system.",
+    "a": "To move nutrients, water, and electrolytes from the external environment into the body's internal environment.",
+    "sec": "21.2"
+  },
+  {
+    "q": "Describe and compare the process of secretion.",
+    "a": "The movement of water and ions from the ECF to the GI lumen, or the release of synthesized substances by GI epithelial cells.",
+    "sec": "21.2"
+  },
+  {
+    "q": "Describe and compare the process of digestion.",
+    "a": "The chemical and mechanical breakdown of food into smaller units that can be taken across the intestinal epithelium.",
+    "sec": "21.2"
+  },
+  {
+    "q": "Describe and compare the process of absorption.",
+    "a": "The active or passive movement of substances from the GI lumen to the ECF (extracellular fluid).",
+    "sec": "21.2"
+  },
+  {
+    "q": "Describe and compare the process of motility.",
+    "a": "Movement of material through the GI tract as a result of muscle contraction.",
+    "sec": "21.2"
+  },
+  {
+    "q": "Discuss the role of mass balance within the digestive system.",
+    "a": "Matching fluid intake (oral and secretions) with fluid output (absorption and excretion) to maintain homeostatic volume.",
+    "sec": "21.2"
+  },
+  {
+    "q": "Explain the challenge of autodigestion in the digestive system.",
+    "a": "The risk of digestive enzymes (like proteases) breaking down the body's own tissues; solved by secreting enzymes as inactive proenzymes.",
+    "sec": "21.2"
+  },
+  {
+    "q": "Explain the challenge of mass balance in the digestive system.",
+    "a": "Replacing the nearly 7-9 liters of fluid secreted daily; failure to reabsorb leads to dehydration.",
+    "sec": "21.2"
+  },
+  {
+    "q": "Explain the challenge of defense in the digestive system.",
+    "a": "The GI tract is a massive surface area open to the environment; solved by mucus, digestive acid, and GALT (Gut-Associated Lymphoid Tissue).",
+    "sec": "21.2"
+  },
+  {
+    "q": "Discuss the role of digestive enzymes within the process of digestion.",
+    "a": "Proteins that catalyze the chemical breakdown of biomolecules; often secreted into the lumen or bound to apical membranes (brush border).",
+    "sec": "21.2"
+  },
+  {
+    "q": "Discuss the role of mucus within the process of digestion.",
+    "a": "A viscous secretion (mucins) that forms a protective coating over GI epithelium and lubricates the movement of food contents.",
+    "sec": "21.2"
+  },
+  {
+    "q": "Describe and compare peristalsis.",
+    "a": "Progressive waves of contraction that move a bolus forward; circular muscles contract just behind the mass to push it.",
+    "sec": "21.2"
+  },
+  {
+    "q": "Describe and compare segmentation.",
+    "a": "Short segments of intestine contract and relax to mix contents and bring them into contact with the absorptive epithelium.",
+    "sec": "21.2"
+  },
+  {
+    "q": "Describe and compare the migrating motor complex (MMC).",
+    "a": "A series of contractions that occur between meals ('housekeeping') to sweep remnants and bacteria from the stomach to the large intestine.",
+    "sec": "21.2"
+  },
+  {
+    "q": "Describe the intestinal phase of digestion.",
+    "a": "The phase where chyme enters the small intestine and triggers secretory and motor responses via feedback and feedforward mechanisms.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Explain how the anatomy of the small intestine facilitates secretion, digestion, and absorption.",
+    "a": "Plicae, villi, and microvilli dramatically increase surface area; crypts and glands provide secretory capacity.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Understand the role of the pancreas in endocrine function.",
+    "a": "Islet cells secrete hormones (insulin and glucagon) directly into the blood to regulate metabolism.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Understand the role of the pancreas in exocrine function.",
+    "a": "Acini and ducts secrete digestive enzymes and bicarbonate into the duodenum via the pancreatic duct.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Describe the role of Digestive enzymes in the intestinal phase.",
+    "a": "Synthesized in inactive forms (zymogens) and activated in the lumen to break down proteins, fats, and carbohydrates.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Describe the role of Bile and bile salts in the intestinal phase.",
+    "a": "Bile salts (amphipathic) emulsify large fat droplets into smaller ones to increase lipase access.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Describe the role of Bicarbonate in the intestinal phase.",
+    "a": "Secreted mainly from the pancreas to neutralize the acidic chyme entering from the stomach.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Describe the role of Mucus in the intestinal phase.",
+    "a": "Secreted by goblet cells to protect the intestinal lining and lubricate contents.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Describe the role of Isotonic NaCl solution (CFTR channels) in the intestinal phase.",
+    "a": "Crypt cells secrete NaCl to provide a watery lubricant for the lumen; uses the CFTR chloride channel.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Diagram/Explain the digestion and absorption of fats.",
+    "a": "Emulsification by bile -> Lipase breakdown to monoglycerides/fatty acids -> Micelle formation -> Diffusion into cell -> Chylomicron formation -> Lacteal absorption.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Define the following keywords: amphipathic, lipases, and colipase.",
+    "a": "Amphipathic: Has both polar and non-polar parts (bile salts). Lipases: Enzymes that digest fats. Colipase: Protein that allows lipase access through bile salts.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Define the following keywords: micelles, phospholipase, and chylomicrons.",
+    "a": "Micelles: Small disks of bile salts and fat products. Phospholipase: Digests phospholipids. Chylomicrons: Large lipoprotein complexes for transport out of the cell.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Define the keyword: lacteals.",
+    "a": "Specialized lymph vessels in intestinal villi that absorb chylomicrons.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Diagram/Explain the digestion and absorption of carbohydrates.",
+    "a": "Amylase breaks down starch to disaccharides; brush border enzymes (maltase, etc.) break these to monosaccharides; absorbed via SGLT and GLUT transporters.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Define the keywords: polysaccharides (starch, cellulose, glycogen) and disaccharides (lactose, maltose).",
+    "a": "Polysaccharides: Long chains (starch/glycogen are digestible; cellulose is not). Disaccharides: Two sugars (lactose is glucose+galactose; maltose is glucose+glucose).",
+    "sec": "21.6"
+  },
+  {
+    "q": "Define the keywords: monosaccharides (glucose, fructose), amylase, and fiber.",
+    "a": "Monosaccharides: Single sugars. Amylase: Enzyme for starch. Fiber: Indigestible plant polysaccharides (cellulose).",
+    "sec": "21.6"
+  },
+  {
+    "q": "Define the keywords: lactase, SGLT transporter, GLUT2, and GLUT5.",
+    "a": "Lactase: Digests lactose. SGLT: Na+-glucose symporter (apical). GLUT2: Facilitated diffusion (basolateral). GLUT5: Fructose transporter (apical).",
+    "sec": "21.6"
+  },
+  {
+    "q": "Diagram/Explain the digestion and absorption of proteins.",
+    "a": "Endopeptidases (pepsin, trypsin) and exopeptidases (carboxypeptidase) break proteins into amino acids or small peptides; absorbed via Na+ or H+ cotransport.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Define the following keywords: endopeptidases, proteases, and pepsin.",
+    "a": "Endopeptidases: Attack internal peptide bonds. Proteases: General enzymes for proteins. Pepsin: Stomach endopeptidase.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Define the following keywords: trypsin and exopeptidase.",
+    "a": "Trypsin: Pancreatic endopeptidase. Exopeptidase: Attacks terminal peptide bonds to release single amino acids.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Explain the cellular mechanism for the absorption of water.",
+    "a": "Occurs by osmosis following the osmotic gradient created by the absorption of solutes (like Na+ and nutrients).",
+    "sec": "21.6"
+  },
+  {
+    "q": "Explain the cellular mechanism for the absorption of fat-soluble vitamins (A, D, E, K).",
+    "a": "Absorbed along with fats in micelles and then incorporated into chylomicrons.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Explain the cellular mechanism for the absorption of water-soluble vitamins (C, most B).",
+    "a": "Absorbed by mediated transport (facilitated diffusion or active transport).",
+    "sec": "21.6"
+  },
+  {
+    "q": "Explain the cellular mechanism for the absorption of Vitamin B12 and intrinsic factor.",
+    "a": "B12 must bind to Intrinsic Factor (secreted by stomach) to be absorbed in the ileum via specific receptors.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Explain the cellular mechanism for the absorption of iron and calcium.",
+    "a": "Regulated according to body needs; iron uses DMT1; calcium uses apical channels and paracellular pathways regulated by Vitamin D.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Explain the neural control of the intestinal phase of digestion.",
+    "a": "Enteric Nervous System (ENS) coordinates local reflexes (short reflexes) and communicates with the CNS (long reflexes) via the vagus nerve.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Explain the hormonal control: Secretin.",
+    "a": "Released by S cells in response to acid; stimulates pancreatic bicarbonate secretion and inhibits gastric emptying/acid.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Explain the hormonal control: Cholecystokinin (CCK).",
+    "a": "Released in response to fats/proteins; stimulates gallbladder contraction and pancreatic enzyme secretion; slows gastric emptying.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Explain the hormonal control: GIP and GLP-1.",
+    "a": "Incretin hormones released in response to carbohydrates; stimulate insulin secretion in anticipation of rising glucose.",
+    "sec": "21.6"
+  },
+  {
+    "q": "Define metabolism.",
+    "a": "The sum of all chemical reactions in the body, including energy extraction, synthesis, and waste removal.",
+    "sec": "22.2"
+  },
+  {
+    "q": "Describe the components of energy input in our bodies.",
+    "a": "Exclusively derived from the nutrients we ingest, absorb, and metabolize (Carbohydrates, Lipids, Proteins).",
+    "sec": "22.2"
+  },
+  {
+    "q": "Describe the components of energy output in our bodies.",
+    "a": "Divided into work (mechanical, chemical, transport) and heat (lost to environment).",
+    "sec": "22.2"
+  },
+  {
+    "q": "Define the keywords: transport work and mechanical work.",
+    "a": "Transport: Moving molecules across membranes. Mechanical: Muscle contraction and movement of organelles.",
+    "sec": "22.2"
+  },
+  {
+    "q": "Define the keywords: chemical work, short-term energy storage, and long-term energy storage.",
+    "a": "Chemical: Growth/synthesis. Short-term: Glycogen (liver/muscle). Long-term: Triglycerides (adipose).",
+    "sec": "22.2"
+  },
+  {
+    "q": "Distinguish between anabolic and catabolic pathways.",
+    "a": "Anabolic: Synthesis of larger molecules from smaller ones (uses energy). Catabolic: Breakdown of larger molecules into smaller ones (releases energy).",
+    "sec": "22.3"
+  },
+  {
+    "q": "Distinguish between the fed (absorptive) state and the fasted (postabsorptive) state.",
+    "a": "Fed state: Period following a meal when nutrients are being absorbed and stored. Fasted state: Period when the body taps into stored energy.",
+    "sec": "22.3"
+  },
+  {
+    "q": "Describe the possible fates of ingested carbohydrates.",
+    "a": "Immediate use for ATP (energy), synthesis of glycogen (storage), or conversion to fat (excess).",
+    "sec": "22.3"
+  },
+  {
+    "q": "Describe the possible fates of ingested proteins.",
+    "a": "Synthesis of body proteins (structural/functional) or conversion to fat/energy if in excess.",
+    "sec": "22.3"
+  },
+  {
+    "q": "Describe the possible fates of ingested lipids.",
+    "a": "Stored as triglycerides in adipose tissue, used for structural membranes/steroids, or used for energy (less common in fed state).",
+    "sec": "22.3"
+  },
+  {
+    "q": "Define the following keywords: glycogenesis and lipogenesis.",
+    "a": "Glycogenesis: Formation of glycogen from glucose. Lipogenesis: Synthesis of fat (triglycerides) from non-lipid precursors.",
+    "sec": "22.3"
+  },
+  {
+    "q": "Define the following keywords: glycogenolysis and gluconeogenesis.",
+    "a": "Glycogenolysis: Breakdown of glycogen to glucose. Gluconeogenesis: Synthesis of glucose from non-carbohydrate precursors (amino acids/glycerol).",
+    "sec": "22.3"
+  },
+  {
+    "q": "Explain the regulatory significance of push-pull control.",
+    "a": "Using different enzymes for forward and reverse directions of a reaction to allow fine-tuned control of metabolic flux.",
+    "sec": "22.3"
+  },
+  {
+    "q": "Describe the fed-state of metabolism and what signals its beginning.",
+    "a": "The state of 'building' (anabolism); signaled by high plasma glucose levels and the secretion of insulin.",
+    "sec": "22.4"
+  },
+  {
+    "q": "Identify the fate of amino acids in the fed state (excess).",
+    "a": "Excess amino acids can be converted into fatty acids or ketone bodies for storage or energy.",
+    "sec": "22.4"
+  },
+  {
+    "q": "Explain the fates of carbohydrates in the fed-state.",
+    "a": "Glucose is used for ATP production (glycolysis), stored as glycogen (glycogenesis), or converted to fat (lipogenesis) if stores are full.",
+    "sec": "22.4"
+  },
+  {
+    "q": "Explain the fates of proteins in the fed-state.",
+    "a": "Amino acids go to the liver for protein synthesis or are sent to other tissues. Excess is converted to fat or ketone bodies.",
+    "sec": "22.4"
+  },
+  {
+    "q": "Explain the fates of lipids in the fed-state.",
+    "a": "Chylomicrons are broken down by lipoprotein lipase; fatty acids are stored as triglycerides in adipose or used for energy/cholesterol.",
+    "sec": "22.4"
+  },
+  {
+    "q": "Define the keywords: apoproteins, lipoprotein lipase, and very-low-density lipoprotein (VLDL).",
+    "a": "Apoproteins: Proteins on lipoproteins. Lipoprotein lipase: Enzyme on capillary walls that digests fats in chylomicrons. VLDL: Lipoprotein that carries fats from liver to tissues.",
+    "sec": "22.4"
+  },
+  {
+    "q": "Define the keywords: low-density lipoprotein cholesterol (LDL-C) and high-density lipoprotein (HDL).",
+    "a": "LDL-C: 'Bad' cholesterol; carries cholesterol to tissues. HDL: 'Good' cholesterol; carries cholesterol back to the liver for excretion.",
+    "sec": "22.4"
+  },
+  {
+    "q": "Define the keywords: apoB, apoA, and hypercholesterolemia.",
+    "a": "apoB: Protein on LDL. apoA: Protein on HDL. Hypercholesterolemia: High levels of cholesterol in the blood.",
+    "sec": "22.4"
+  },
+  {
+    "q": "Explain the relationship between different forms of cholesterol and cardiovascular disease.",
+    "a": "High LDL-C is a risk factor as it contributes to plaque; high HDL-C is protective as it helps remove cholesterol from the system.",
+    "sec": "22.4"
+  },
+  {
+    "q": "Describe the fasted state of metabolism and what signals its beginning.",
+    "a": "A catabolic state where plasma glucose drops, insulin levels fall, and glucagon rises to tap into energy stores.",
+    "sec": "22.5"
+  },
+  {
+    "q": "Explain the fates of carbohydrates in the fasted state.",
+    "a": "Liver glycogen is broken down (glycogenolysis) to glucose; glucose is also made from non-carbs (gluconeogenesis).",
+    "sec": "22.5"
+  },
+  {
+    "q": "Explain the fates of proteins in the fasted state.",
+    "a": "Body proteins are broken down into amino acids (proteolysis). Amino acids are used for gluconeogenesis.",
+    "sec": "22.5"
+  },
+  {
+    "q": "Discuss the relationship between amino acid catabolism and urea.",
+    "a": "Deamination of amino acids produces ammonia, which is toxic; the liver converts ammonia into urea for excretion by the kidneys.",
+    "sec": "22.5"
+  },
+  {
+    "q": "Define the keywords: proteases, deamination, and urea.",
+    "a": "Proteases: Enzymes that break down proteins. Deamination: Removal of an amino group. Urea: Nitrogenous waste product of protein breakdown.",
+    "sec": "22.5"
+  },
+  {
+    "q": "Explain the fates of lipids in the fasted state.",
+    "a": "Triglycerides are broken down into glycerol and fatty acids (lipolysis). Fatty acids undergo beta-oxidation to produce ATP or ketone bodies.",
+    "sec": "22.5"
+  },
+  {
+    "q": "Define the keywords: lipolysis, beta-oxidation, and ketone bodies.",
+    "a": "Lipolysis: Fat breakdown. Beta-oxidation: Process converting fatty acids to Acetyl CoA. Ketone bodies: Energy molecules produced by the liver from fatty acids.",
+    "sec": "22.5"
+  },
+  {
+    "q": "Define the keywords: ketosis and ketoacidosis.",
+    "a": "Ketosis: High levels of ketones in the blood. Ketoacidosis: A dangerous drop in blood pH due to extreme ketone production (common in Type 1 Diabetes).",
+    "sec": "22.5"
+  },
+  {
+    "q": "Explain the role of insulin in the control of metabolism.",
+    "a": "Dominant hormone of the fed state; lowers plasma glucose by increasing uptake and promoting storage (anabolism).",
+    "sec": "22.6"
+  },
+  {
+    "q": "Explain the role of glucagon in the control of metabolism.",
+    "a": "Dominant hormone of the fasted state; raises plasma glucose by stimulating glycogenolysis and gluconeogenesis (catabolism).",
+    "sec": "22.6"
+  },
+  {
+    "q": "Describe the ratio of insulin and glucagon in both the fed and fasted states.",
+    "a": "Fed: High insulin/low glucagon ratio. Fasted: Low insulin/high glucagon ratio. The balance determines the metabolic direction.",
+    "sec": "22.6"
+  },
+  {
+    "q": "Define the keywords: hypoglycemia and hyperglycemia.",
+    "a": "Hypoglycemia: Low blood sugar. Hyperglycemia: High blood sugar.",
+    "sec": "22.6"
+  },
+  {
+    "q": "Explain the different stimuli that influence insulin secretion.",
+    "a": "Increased plasma glucose, increased plasma amino acids, GI hormones (GLP-1, GIP), and Parasympathetic activity. (Sympathetic inhibits).",
+    "sec": "22.6"
+  },
+  {
+    "q": "Define the keywords: GLP-1, GIP, and incretin hormones.",
+    "a": "GLP-1/GIP: Incretins; hormones secreted by the gut that stimulate insulin before glucose even rises in the blood.",
+    "sec": "22.6"
+  },
+  {
+    "q": "Define the keywords: insulin-receptor substrates (IRS), alpha cells, and beta cells.",
+    "a": "IRS: Signal proteins inside cells. Alpha cells: Produce glucagon. Beta cells: Produce insulin.",
+    "sec": "22.6"
+  },
+  {
+    "q": "Explain the different ways that insulin lowers plasma glucose levels.",
+    "a": "Increases transport into cells, enhances glucose utilization/storage, and inhibits the breakdown of glycogen/fat/proteins.",
+    "sec": "22.6"
+  },
+  {
+    "q": "Explain the difference in GLUT transporters between the liver cells and other cells.",
+    "a": "Adipose/Muscle use GLUT4 (insulin-dependent). Liver uses GLUT2 (always present), but insulin changes the direction of flow by managing internal concentrations.",
+    "sec": "22.6"
+  },
+  {
+    "q": "Explain the different ways that glucagon raises plasma glucose levels.",
+    "a": "Stimulates liver glycogenolysis and gluconeogenesis; also promotes lipolysis to provide alternative energy.",
+    "sec": "22.6"
+  },
+  {
+    "q": "Compare type 1 and type 2 diabetes mellitus.",
+    "a": "Type 1: Insulin deficiency (beta cell destruction). Type 2: Insulin resistance (cells don't respond). Both result in hyperglycemia.",
+    "sec": "22.6"
+  },
+  {
+    "q": "Define the keywords: osmotic diuresis, diabetic ketoacidosis (DKA), and insulin resistance.",
+    "a": "Osmotic diuresis: Glucose in urine pulling water with it. DKA: Metabolic acidosis from ketones. Resistance: Reduced response to insulin.",
+    "sec": "22.6"
+  },
+  {
+    "q": "Describe the relationship between diabetes and ketoacidosis.",
+    "a": "In the absence of insulin (Type 1), the body 'starves' and breaks down fat rapidly, creating excess ketones that lower blood pH.",
+    "sec": "22.6"
+  },
+  {
+    "q": "Understand which neurohormones are produced by the posterior pituitary.",
+    "a": "Oxytocin (labor/milk) and Vasopressin/ADH (water balance). Made in hypothalamus, stored/released from posterior pituitary.",
+    "sec": "23 Review"
+  },
+  {
+    "q": "Understand which neurohormones are produced by the anterior pituitary.",
+    "a": "Prolactin, GH, TSH, ACTH, LH, and FSH. Controlled by hypothalamic releasing/inhibiting hormones.",
+    "sec": "23 Review"
+  },
+  {
+    "q": "Define the keywords: releasing hormones, inhibiting hormones, and trophic hormones.",
+    "a": "Releasing: Start secretion. Inhibiting: Stop secretion. Trophic: Hormones that control the secretion of other hormones.",
+    "sec": "23 Review"
+  },
+  {
+    "q": "Diagnose primary endocrine pathologies.",
+    "a": "The problem is in the last endocrine gland in the pathway (e.g., the adrenal cortex itself).",
+    "sec": "23 Review"
+  },
+  {
+    "q": "Diagnose secondary endocrine pathologies.",
+    "a": "The problem is in a trophic tissue (e.g., the anterior pituitary or hypothalamus) that controls the final gland.",
+    "sec": "23 Review"
+  },
+  {
+    "q": "Explain the possible causes of endocrine pathologies: Hypersecretion.",
+    "a": "Excess hormone; often caused by tumors (adenomas) or medical treatments (iatrogenic).",
+    "sec": "23.1"
+  },
+  {
+    "q": "Explain the possible causes of endocrine pathologies: Hyposecretion.",
+    "a": "Deficient hormone; often caused by gland atrophy or dietary deficiencies (e.g., iodine).",
+    "sec": "23.1"
+  },
+  {
+    "q": "Explain the possible causes of endocrine pathologies: Abnormal tissue responsiveness.",
+    "a": "Hormone levels are normal, but receptors are missing, non-functional, or down-regulated (e.g., Type 2 Diabetes).",
+    "sec": "23.1"
+  },
+  {
+    "q": "Explain the roles of hormone receptors and their role in cellular responses.",
+    "a": "Receptors bind specific hormones to trigger signal transduction. Locations: Surface (peptides) or Intracellular (steroids).",
+    "sec": "23.1"
+  },
+  {
+    "q": "Describe the roles of up- and down-regulation of receptors.",
+    "a": "Down-regulation: Decrease in receptors due to chronic high hormone levels. Up-regulation: Increase in receptors to become more sensitive.",
+    "sec": "23.1"
+  },
+  {
+    "q": "List the types of steroid hormones secreted by the adrenal cortex.",
+    "a": "Aldosterone (mineralocorticoids), Cortisol (glucocorticoids), and Sex hormones (androgens).",
+    "sec": "23.2"
+  },
+  {
+    "q": "Diagram the HPA pathway in detail.",
+    "a": "Hypothalamus (CRH) -> Anterior Pituitary (ACTH) -> Adrenal Cortex (Cortisol). Cortisol provides negative feedback to both.",
+    "sec": "23.2"
+  },
+  {
+    "q": "Describe the effects of cortisol in the body, especially on metabolism.",
+    "a": "Protective against hypoglycemia; promotes gluconeogenesis, protein breakdown, and lipolysis. It is also immunosuppressive.",
+    "sec": "23.2"
+  },
+  {
+    "q": "Identify the hallmarks of hypercortisolism (Cushing's).",
+    "a": "Hyperglycemia, muscle wasting, 'moon face', and abdominal fat deposits with thin limbs.",
+    "sec": "23.2"
+  },
+  {
+    "q": "Identify the hallmarks of hypocortisolism (Addison's).",
+    "a": "Hypoglycemia, fatigue, and hyperpigmentation (due to high ACTH levels).",
+    "sec": "23.2"
+  },
+  {
+    "q": "Identify the difference between primary and secondary hypercortisolism.",
+    "a": "Primary: Adrenal tumor (High Cortisol, Low ACTH). Secondary: Pituitary tumor/Cushing's Disease (High Cortisol, High ACTH).",
+    "sec": "23.2"
+  },
+  {
+    "q": "Explain the origins of T3 and T4 in the thyroid.",
+    "a": "Produced in thyroid follicles using iodine and tyrosine. T4 is more abundant; T3 is more biologically active.",
+    "sec": "23.3"
+  },
+  {
+    "q": "Define the following keywords: follicles, colloid, and iodine.",
+    "a": "Follicles: Spherical structures in thyroid. Colloid: Sticky fluid in follicles containing thyroglobulin. Iodine: Essential element for thyroid hormone.",
+    "sec": "23.3"
+  },
+  {
+    "q": "Define the keywords: TBG and deiodinases.",
+    "a": "TBG: Transport protein in blood. Deiodinases: Enzymes in target cells that convert T4 to the active T3.",
+    "sec": "23.3"
+  },
+  {
+    "q": "Diagram the thyroid hormone control pathway.",
+    "a": "Hypothalamus (TRH) -> Anterior Pituitary (TSH) -> Thyroid (T3/T4). T3/T4 provide negative feedback.",
+    "sec": "23.3"
+  },
+  {
+    "q": "Identify the hallmarks and side effects of hyperthyroidism.",
+    "a": "Increased metabolic rate, heat intolerance, weight loss, and rapid heart rate. Example: Graves' disease.",
+    "sec": "23.3"
+  },
+  {
+    "q": "Identify the hallmarks and side effects of hypothyroidism.",
+    "a": "Slow metabolic rate, cold intolerance, weight gain, and slow heart rate/reflexes.",
+    "sec": "23.3"
+  },
+  {
+    "q": "Identify the keywords: goiter, Graves' disease, TSI, and exophthalmos.",
+    "a": "Goiter: Enlarged thyroid. Graves': Hyperthyroidism caused by TSI. TSI: Antibodies that mimic TSH. Exophthalmos: Bulging eyes.",
+    "sec": "23.3"
+  },
+  {
+    "q": "Distinguish between primary and secondary thyroid pathologies.",
+    "a": "Primary: Problem in thyroid gland. Secondary: Problem in pituitary (TSH) or hypothalamus (TRH).",
+    "sec": "23.3"
+  },
+  {
+    "q": "List the factors that influence normal growth.",
+    "a": "Growth hormone, thyroid hormones, insulin, adequate diet, and absence of chronic stress.",
+    "sec": "23.4"
+  },
+  {
+    "q": "Diagram the control pathway for growth hormone release.",
+    "a": "Hypothalamus (GHRH/SS) -> Anterior Pituitary (GH) -> Liver (IGFs). IGFs and GH provide feedback.",
+    "sec": "23.4"
+  },
+  {
+    "q": "Define the keywords: GHRH, SS, and IGFs.",
+    "a": "GHRH: Stimulates GH. SS (Somatostatin): Inhibits GH. IGFs: Insulin-like growth factors; mediate many of GH's growth effects.",
+    "sec": "23.4"
+  },
+  {
+    "q": "Identify the hallmarks of hypersecretion of GH in children.",
+    "a": "Giantism: Excessive height and growth due to stimulation of epiphyseal plates before they close.",
+    "sec": "23.4"
+  },
+  {
+    "q": "Identify the hallmarks of hypersecretion of GH in adults.",
+    "a": "Acromegaly: Coarsening of facial features and growth of hands/feet (plates are already closed).",
+    "sec": "23.4"
+  },
+  {
+    "q": "Identify the hallmarks of hyposecretion of GH in children.",
+    "a": "Dwarfism: Failure to reach normal height; often due to GH deficiency or receptor defects.",
+    "sec": "23.4"
+  }
+]
