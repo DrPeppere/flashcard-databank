@@ -19,5 +19,12 @@
     "doc": "CH21",
     "file": "decks/CH21Flashcards.json",
     "folder": "Exam 5"
+  },
+  {
+    "name": "Chapter 21-23",
+    "subject": "PHYS",
+    "doc": "CH21-23",
+    "file": "decks/CH21-23Flashcards.json",
+    "folder": "Exam 5"
   }
 ]
