@@ -1,0 +1,657 @@
+[
+{
+"q": "The two main aspects of the immune system are: Specificity",
+"a": "The ability to recognize self from non-self as well as distinguish pathogens and tumor cells from normal cells.",
+"sec": "Ch 24 1(a)"
+},
+{
+"q": "The two main aspects of the immune system are: Memory",
+"a": "The maintenance of specificity in a line of cells that remain in lymphoid tissue until the antigen that elicited their production reappears.",
+"sec": "Ch 24 1(a)"
+},
+{
+"q": "Know the definition of the following: Immunogen",
+"a": "A substance or antigen that can elicit an immune response.",
+"sec": "Ch 24 1(a)"
+},
+{
+"q": "Know the definition of the following: Antigen",
+"a": "A molecule or particle that is recognized by the immune system and can bind to specific antibodies or T-cell receptors.",
+"sec": "Ch 24 1(a)"
+},
+{
+"q": "Know the definition of the following: Antibody",
+"a": "A protein (immunoglobulin) produced by plasma cells in response to an antigen, which specifically binds to that antigen to neutralize or mark it for destruction.",
+"sec": "Ch 24 1(a)"
+},
+{
+"q": "Know the definition of the following: Interferon",
+"a": "Cytokines produced by virally infected cells that help protect neighboring uninfected cells from viral replication.",
+"sec": "Ch 24 1(a)"
+},
+{
+"q": "The Immune Response: Physical and chemical barriers (be able to list)",
+"a": "Physical: Skin, mucous membranes, ciliated epithelium. Chemical: Lysozyme in tears/saliva, stomach acid, and enzymes.",
+"sec": "Ch 24 1(b)"
+},
+{
+"q": "The actual immune response: Innate immunity",
+"a": "Present from birth, nonspecific. Membrane receptors have a broad specificity to mediate responses common to pathogens. Does not require prior exposure.",
+"sec": "Ch 24 1(b)"
+},
+{
+"q": "The actual immune response: Acquired (adaptive) immunity",
+"a": "Specific, requires prior exposure. Divided into cell-mediated and humoral immunity. Highly specific membrane receptors distinguish pathogens. Reacts rapidly with repeated exposure.",
+"sec": "Ch 24 1(b)"
+},
+{
+"q": "Architecture of the lymphatic system and lymph nodes",
+"a": "Consists of lymphatic vessels, lymph nodes, spleen, thymus, and tonsils. Lymph nodes act as filters where lymphocytes encounter antigens in the lymph.",
+"sec": "Ch 24 1(c)"
+},
+{
+"q": "Cells of the immune system",
+"a": "Leukocytes including neutrophils, eosinophils, basophils, monocytes (macrophages), lymphocytes (T cells, B cells, NK cells), and dendritic cells.",
+"sec": "Ch 24 1(d)"
+},
+{
+"q": "Phagocytosis: Mononuclear phagocytes and granulocytic cells",
+"a": "Neutrophils, basophils, and eosinophils ingest solid material, including pathogens small enough to fit inside the cell.",
+"sec": "Ch 24 1(e)"
+},
+{
+"q": "Phagocytosis: Direct phagocytosis",
+"a": "Some pathogens can be phagocytized directly by the phagocytes using pattern recognition receptors that bind directly to pathogen-associated molecular patterns.",
+"sec": "Ch 24 1(e)"
+},
+{
+"q": "Phagocytosis: Opsonization",
+"a": "Capsulated bacteria have to be coated with antibody or complement factors in order to undergo phagocytosis.",
+"sec": "Ch 24 1(e)"
+},
+{
+"q": "Phagocytosis: Phagosome and Lysosome",
+"a": "Once ingested, the particle is in a phagosome, which fuses with a pre-existing lysosome, dumping hydrolytic enzymes to digest the particle.",
+"sec": "Ch 24 1(e)"
+},
+{
+"q": "Process of phagocyte migration: Margination",
+"a": "The process where the phagocyte sticks to the wall of the blood vessel prior to exiting.",
+"sec": "Ch 24 1(e)"
+},
+{
+"q": "Process of phagocyte migration: Diapedesis",
+"a": "The process where phagocytes squeeze in between vascular endothelial cells to exit the bloodstream.",
+"sec": "Ch 24 1(e)"
+},
+{
+"q": "Process of phagocyte migration: Chemotaxis",
+"a": "Directional migration to the site of infection, facilitated by inflammatory cytokines, complement proteins, and pathogen-associated molecules.",
+"sec": "Ch 24 1(e)"
+},
+{
+"q": "NK cells",
+"a": "Natural Killer cells kill infected and tumor cells without prior sensitization.",
+"sec": "Ch 24 1(e)"
+},
+{
+"q": "Complement System: Activation",
+"a": "A system of precursor proteins activated in cascade-fashion in response to tissue chemicals or pathogen-directed antibodies.",
+"sec": "Ch 24 1(e)"
+},
+{
+"q": "Complement System: Membrane attack complex",
+"a": "Inserted into the pathogen's membrane upon complement activation, resulting in cell swelling and lysis.",
+"sec": "Ch 24 1(e)"
+},
+{
+"q": "Complement System: Bio-active peptides",
+"a": "Activation results in peptides with roles in the immune system, such as opsonization (C3b) and chemotaxis (C5a).",
+"sec": "Ch 24 1(e)"
+},
+{
+"q": "Differences between active and passive immunity",
+"a": "Active immunity: The body produces its own antibodies and memory cells. Passive immunity: Pre-made antibodies are transferred from another source.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Which one would a flu shot be an example of?",
+"a": "Active immunity. The body is exposed to a harmless form of the antigen to stimulate its own antibody and memory cell production.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Process of clonal selection: Primary response",
+"a": "Slower response to immunogen. Antibodies of the M class predominate. B-cells proliferate into plasma cells and memory cells.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Process of clonal selection: Secondary response",
+"a": "Memory cells undergo clonal expansion. More rapid than primary response. Antibodies of the G class predominate.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Classes of antibodies: IgG",
+"a": "Most abundant in serum, responsible for the secondary immune response.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Classes of antibodies: IgA",
+"a": "Found primarily in mucosal areas and secretions such as saliva, tears, and breast milk.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Classes of antibodies: IgM",
+"a": "The first antibody produced in the primary immune response.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Classes of antibodies: IgE",
+"a": "Binds to mast cells and basophils, mediates allergic responses.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Classes of antibodies: IgD",
+"a": "Functions primarily as an antigen receptor on the surface of naive B cells.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Structure of an antibody: Which part binds antigen?",
+"a": "The variable regions at the tips of the Y-shaped arms bind to the specific antigen.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Structure of an antibody: Which part binds to receptors on phagocytes?",
+"a": "The constant region (the stem of the Y) binds to receptors on phagocytes and activates complement.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Functions of antibodies",
+"a": "Neutralization of pathogens/toxins, opsonization, agglutination, and activation of the complement system.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Differences and roles of T and B cells",
+"a": "T cells mediate cellular immunity against intracellular pathogens. B cells mediate humoral immunity against extracellular pathogens via antibodies.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Role of the thymus in the maturation of T lymphocytes",
+"a": "The site where immature T cells develop, differentiate, and undergo positive and negative selection for self-tolerance.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "T cells vs B cell lineages (intracellular vs extracellular)",
+"a": "T cells defend against intracellular pathogens. Plasma cells (from B-cell lineage) secrete antibodies effective against extracellular antigens.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "T cells insert cell receptors into their membranes",
+"a": "T cell receptors are placed on the surface to recognize and bind to specific foreign antigens presented by MHC molecules.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "MHC Antigens: Class I",
+"a": "Found on all nucleated human cells. Recognized by cytotoxic T cells.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "MHC Antigens: Class II",
+"a": "Found on macrophages, B-cells, and dendritic cells. Recognized by T-helper cells.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Process for the activation of T cells",
+"a": "Requires binding of the T-cell receptor to the antigen-MHC complex, plus a co-stimulatory signal from the antigen-presenting cell.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Role of Cytotoxic T cells",
+"a": "Destroy infected host cells and tumor cells directly.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Role of Helper T cells",
+"a": "Secrete cytokines to stimulate B cells to make antibodies and to activate cytotoxic T cells and macrophages.",
+"sec": "Ch 24 1(f)"
+},
+{
+"q": "Aspects of the immune response against extracellular bacteria",
+"a": "Involves the inflammatory response, complement activation, phagocytosis, and B cell activation for antibody production.",
+"sec": "Ch 24 1(g)"
+},
+{
+"q": "Aspects of the immune response against viruses",
+"a": "Involves interferon production, NK cell activation, antibody neutralization, and cytotoxic T cell destruction of infected cells.",
+"sec": "Ch 24 1(g)"
+},
+{
+"q": "Allergic responses: Sensitivity or hypersensitivity",
+"a": "An immune response to a nonpathogenic antigen.",
+"sec": "Ch 24 1(h)"
+},
+{
+"q": "Immediate hypersensitivity",
+"a": "A rapid allergic reaction mediated by antibodies.",
+"sec": "Ch 24 1(h)"
+},
+{
+"q": "Delayed hypersensitivity",
+"a": "An allergic reaction that takes days to develop and is mediated by helper T cells.",
+"sec": "Ch 24 1(h)"
+},
+{
+"q": "What is the anaphylactic response?",
+"a": "A severe, systemic, life-threatening immediate hypersensitivity reaction.",
+"sec": "Ch 24 1(h)"
+},
+{
+"q": "Allergic response mediated by IgE: First exposure",
+"a": "Elicited on first exposure to the allergen, after which the titer of IgE builds up over time.",
+"sec": "Ch 24 1(h)"
+},
+{
+"q": "Allergic response mediated by IgE: Second exposure",
+"a": "The complex of IgE and the antigen bind to the surface of mast cells (tissue basophils).",
+"sec": "Ch 24 1(h)"
+},
+{
+"q": "Mast cell degranulation",
+"a": "Following IgE binding, mast cells degranulate, producing the mediator chemicals of the allergic response.",
+"sec": "Ch 24 1(h)"
+},
+{
+"q": "Role of MHC in antigen presentation",
+"a": "MHC proteins act as display molecules on cell surfaces, presenting peptide fragments to T cells for recognition.",
+"sec": "Ch 24 1(i)"
+},
+{
+"q": "Role of MHC in recognition of self vs. non-self",
+"a": "MHC proteins identify cells as self; variations trigger rejection of non-self tissue. Designated as HLA in humans.",
+"sec": "Ch 24 1(i)"
+},
+{
+"q": "Blood group and type antigens",
+"a": "Makes up A, B, AB, or O groups based on red blood cell surface antigens, and Rh positive or negative.",
+"sec": "Ch 24 1(i)"
+},
+{
+"q": "Universal donor",
+"a": "Type O-negative, as its red blood cells lack A, B, and Rh antigens, preventing an immune response in the recipient.",
+"sec": "Ch 24 1(i)"
+},
+{
+"q": "Universal recipient",
+"a": "Type AB-positive, as the plasma lacks antibodies against A, B, or Rh antigens.",
+"sec": "Ch 24 1(i)"
+},
+{
+"q": "Seriousness of a transfusion reaction",
+"a": "Infusing the wrong blood group causes recipient antibodies to agglutinate and lyse the donor RBCs.",
+"sec": "Ch 24 1(i)"
+},
+{
+"q": "Concept of self-tolerance",
+"a": "The immune system's failure to respond to an individual's own antigens.",
+"sec": "Ch 24 1(j)"
+},
+{
+"q": "What happens when self-tolerance fails?",
+"a": "The body develops autoimmune diseases.",
+"sec": "Ch 24 1(j)"
+},
+{
+"q": "Common autoimmune diseases",
+"a": "Examples include Type 1 Diabetes Mellitus, Multiple Sclerosis, Rheumatoid Arthritis, Systemic Lupus Erythematosus.",
+"sec": "Ch 24 1(j)"
+},
+{
+"q": "Definition of immune surveillance",
+"a": "The ongoing monitoring process by which the immune system actively identifies and destroys abnormal cells, such as tumor cells.",
+"sec": "Ch 24 1(j)"
+},
+{
+"q": "Neuroendocrine-Immune Interactions: Neuroimmodulation",
+"a": "Refers to brain-immune system interactions.",
+"sec": "Ch 24 1(k)"
+},
+{
+"q": "Neuroendocrine-Immune Interactions: Systems involved",
+"a": "Involves an interaction between the Brain, Endocrine, and Immune systems.",
+"sec": "Ch 24 1(k)"
+},
+{
+"q": "Neuroendocrine-Immune Interactions: Effectors",
+"a": "Cytokines, neuropeptides, and hormones are the effectors of this interaction.",
+"sec": "Ch 24 1(k)"
+},
+{
+"q": "Stress: Fight or flight",
+"a": "A fast reaction to stress mediated by the sympathetic nervous system.",
+"sec": "Ch 24 1(k)"
+},
+{
+"q": "Stress: Cortisol",
+"a": "Levels of cortisol spike during stress, exerting an immunosuppressive effect on the immune system.",
+"sec": "Ch 24 1(k)"
+},
+{
+"q": "Relationship between stress and illness",
+"a": "Your immune system is less capable of fighting disease under stress due to immunosuppressive cortisol spikes.",
+"sec": "Ch 24 1(k)"
+},
+{
+"q": "Muscle metabolism: Aerobic sources of ATP",
+"a": "Requires oxygen. Produces a high yield of ATP primarily through oxidative phosphorylation.",
+"sec": "Ch 25 2(a)"
+},
+{
+"q": "Muscle metabolism: Anaerobic sources of ATP",
+"a": "Does not require oxygen. Produces ATP rapidly but in low yields via glycolysis, resulting in lactic acid.",
+"sec": "Ch 25 2(a)"
+},
+{
+"q": "Role of lactate and fatty acids in gluconeogenesis and oxidative phosphorylation",
+"a": "Lactate is converted to glucose in the liver. Fatty acids are broken down to fuel oxidative phosphorylation.",
+"sec": "Ch 25 2(a)"
+},
+{
+"q": "Role of liver and muscle glycogen",
+"a": "Muscle glycogen provides localized glucose for exercise. Liver glycogen is broken down to maintain adequate blood glucose levels.",
+"sec": "Ch 25 2(a)"
+},
+{
+"q": "Hormonal regulation during exercise: Cortisol",
+"a": "Promotes gluconeogenesis, lipolysis, and protein breakdown to provide metabolic substrates.",
+"sec": "Ch 25 2(b)"
+},
+{
+"q": "Hormonal regulation during exercise: Catecholamines",
+"a": "Epinephrine and norepinephrine stimulate glycogenolysis and lipolysis, increasing fuel availability.",
+"sec": "Ch 25 2(b)"
+},
+{
+"q": "Hormonal regulation during exercise: Growth hormone",
+"a": "Promotes lipolysis and gluconeogenesis, preserving blood glucose for the brain.",
+"sec": "Ch 25 2(b)"
+},
+{
+"q": "Hormonal regulation during exercise: Glucagon",
+"a": "Stimulates hepatic glycogenolysis and gluconeogenesis to raise blood glucose levels.",
+"sec": "Ch 25 2(b)"
+},
+{
+"q": "Why is insulin secretion SUPPRESSED during exercise?",
+"a": "To prevent active muscles from rapidly depleting blood glucose and to allow hepatic glucose release.",
+"sec": "Ch 25 2(b)"
+},
+{
+"q": "How can muscle cells utilize glucose effectively with insulin suppression?",
+"a": "Muscle contractions independently stimulate the translocation of GLUT4 transporters to the cell membrane, allowing glucose uptake.",
+"sec": "Ch 25 2(b)"
+},
+{
+"q": "Ventilation feed-forward response",
+"a": "Ventilation rate increases right at the inception of exercise before changes in O2/CO2 partial pressures, anticipating metabolic demand.",
+"sec": "Ch 25 2(c)"
+},
+{
+"q": "Cardiac output during heavy exercise",
+"a": "Rises sharply and shifts the distribution of blood toward muscle primarily.",
+"sec": "Ch 25 2(d)"
+},
+{
+"q": "Peripheral resistance during strenuous exercise",
+"a": "Peripheral resistance falls (vasodilation) to accomplish the blood flow shift to the muscles.",
+"sec": "Ch 25 2(d)"
+},
+{
+"q": "Peripheral blood pressure during exercise",
+"a": "Goes UP slightly because the resulting increase in cardiac output overcomes the vasodilation-induced fall in resistance.",
+"sec": "Ch 25 2(d)"
+},
+{
+"q": "Temperature change during exercise",
+"a": "Increased heat is a consequence of increased metabolism.",
+"sec": "Ch 25 2(e)"
+},
+{
+"q": "Evaporative cooling issues",
+"a": "Induces dehydration and lowered blood volume.",
+"sec": "Ch 25 2(e)"
+},
+{
+"q": "Redirecting blood flow to the skin issues",
+"a": "Induces further vasodilation, leaving less blood to muscles. The body redirects effort away from heat control to keep brain blood flow optimal, causing overheating.",
+"sec": "Ch 25 2(e)"
+},
+{
+"q": "Exercise benefits: Type 2 diabetes",
+"a": "Lowers the risk of type 2 diabetes mellitus due to improved glucose uptake.",
+"sec": "Ch 25 2(f)"
+},
+{
+"q": "Exercise benefits: Immune function",
+"a": "Improves immune function, as long as exercise is not overly strenuous.",
+"sec": "Ch 25 2(f)"
+},
+{
+"q": "Sexual development: Bipotential stage",
+"a": "Embryo has the potential to develop either male or female organs.",
+"sec": "Ch 26 3(a)"
+},
+{
+"q": "Bipotential stage structures",
+"a": "Mullerian Duct, Wolffian Ducts, and Bipotential gonads.",
+"sec": "Ch 26 3(a)"
+},
+{
+"q": "Sexual development with testosterone: SRY gene",
+"a": "Directs male development; the gonadal cortex regresses and the gonadal medulla forms the testis.",
+"sec": "Ch 26 3(a)"
+},
+{
+"q": "Sexual development with testosterone: Wolffian Duct",
+"a": "Forms the epididymis, vas deferens, and seminal vesicle.",
+"sec": "Ch 26 3(a)"
+},
+{
+"q": "Sexual development with testosterone: Leydig cells",
+"a": "Located in the testes, secrete testosterone.",
+"sec": "Ch 26 3(a)"
+},
+{
+"q": "Sexual development with testosterone: Sertoli cells",
+"a": "Located in the testes, secrete AMH which induces the regression of the Mullerian Duct.",
+"sec": "Ch 26 3(a)"
+},
+{
+"q": "Sexual development without testosterone: Gonads",
+"a": "Gonadal cortex forms the ovary, while the gonadal medulla regresses.",
+"sec": "Ch 26 3(a)"
+},
+{
+"q": "Sexual development without testosterone: Ducts",
+"a": "Wolffian Duct regresses. Mullerian duct becomes the fallopian tube, uterus, cervix, and upper vagina.",
+"sec": "Ch 26 3(a)"
+},
+{
+"q": "Synthesis pathways: Cholesterol",
+"a": "Plays a central role in the production of progesterone, testosterone, estradiol, and DHT.",
+"sec": "Ch 26 3(b)"
+},
+{
+"q": "Synthesis pathways: Aromatase enzyme",
+"a": "Converts testosterone into estradiol; plays a key role in female sex hormone development.",
+"sec": "Ch 26 3(b)"
+},
+{
+"q": "Gametogenesis: Meiosis stages",
+"a": "Primary gametocytes undergo meiosis I. Secondary gametocytes undergo meiosis II.",
+"sec": "Ch 26 3(c)"
+},
+{
+"q": "Gametogenesis: Diploid and haploid stages",
+"a": "Spermatogonia/Oogonia and Primary gametocytes are diploid. Secondary gametocytes and mature gametes are haploid.",
+"sec": "Ch 26 3(c)"
+},
+{
+"q": "Gametogenesis: DNA content",
+"a": "Primary gametocytes have double their normal content of DNA before dividing, though they are still considered diploid.",
+"sec": "Ch 26 3(c)"
+},
+{
+"q": "Gametogenesis timing",
+"a": "Males: Continuous from puberty. Females: Mitosis in utero, meiosis pauses until puberty, then pauses again until fertilization.",
+"sec": "Ch 26 3(c)"
+},
+{
+"q": "Gonadotropin axis: GnRH",
+"a": "Secreted from the hypothalamus to stimulate the anterior pituitary.",
+"sec": "Ch 26 3(d)"
+},
+{
+"q": "Gonadotropin axis: LH and FSH",
+"a": "Secreted into the blood by the anterior pituitary in both sexes.",
+"sec": "Ch 26 3(d)"
+},
+{
+"q": "Gonadotropin axis: LH stimulation and feedback",
+"a": "Stimulates endocrine cells of the gonads to secrete hormones that feedback inhibit the pituitary and hypothalamus.",
+"sec": "Ch 26 3(d)"
+},
+{
+"q": "Gonadotropin axis: FSH function",
+"a": "Stimulates gamete production.",
+"sec": "Ch 26 3(d)"
+},
+{
+"q": "Male Reproduction: Semen glands",
+"a": "Seminal vesicles, prostate gland, and bulbourethral glands contribute to the formation of semen.",
+"sec": "Ch 26 3(e)"
+},
+{
+"q": "Spermatogenesis location",
+"a": "Occurs within the seminiferous tubules of the testis.",
+"sec": "Ch 26 3(e)"
+},
+{
+"q": "Spermatogenesis: Sertoli cell function",
+"a": "Support sperm production.",
+"sec": "Ch 26 3(e)"
+},
+{
+"q": "Spermatogenesis: Leydig cell function",
+"a": "Secrete testosterone in the interstitial space.",
+"sec": "Ch 26 3(e)"
+},
+{
+"q": "Male hormonal axis: Sertoli cell secretions",
+"a": "Secrete Androgen-binding protein (ABP) to keep testosterone localized, and inhibin to feedback-inhibit FSH production.",
+"sec": "Ch 26 3(e)"
+},
+{
+"q": "Female Reproduction: Granulosa cells",
+"a": "Surround the developing oocyte, secrete estrogen and inhibin, and nourish the oocyte.",
+"sec": "Ch 26 3(f)"
+},
+{
+"q": "Female Reproduction: Thecal cells",
+"a": "Outer layer of the follicle, produce androgens which are converted to estrogen by granulosa cells.",
+"sec": "Ch 26 3(f)"
+},
+{
+"q": "Ovarian cycle: Follicular phase",
+"a": "Days 1-14. Follicles grow and mature, driven by FSH, secreting increasing levels of estrogen.",
+"sec": "Ch 26 3(f)"
+},
+{
+"q": "Ovarian cycle: Ovulation",
+"a": "Triggered around day 14 by a massive LH surge.",
+"sec": "Ch 26 3(f)"
+},
+{
+"q": "Ovarian cycle: Luteal phase",
+"a": "Post-ovulation. The ruptured follicle becomes the corpus luteum, secreting progesterone.",
+"sec": "Ch 26 3(f)"
+},
+{
+"q": "Function of the corpus luteum",
+"a": "Maintains the uterine wall when there is a pregnancy, during the time before the placenta takes over.",
+"sec": "Ch 26 3(f)"
+},
+{
+"q": "Human sexual response: Erectile tissue physiology",
+"a": "Vasodilation fills erectile tissue with blood. The parasympathetic division of the autonomic nervous system predominates.",
+"sec": "Ch 26 3(g)"
+},
+{
+"q": "Contraception types",
+"a": "Ranges from abstinence to hormonal (pills, IUDs), barrier methods (condoms), and behavioral methods.",
+"sec": "Ch 26 3(g)"
+},
+{
+"q": "Fertilization: Capacitation",
+"a": "The final maturation step of sperm occurring in the female reproductive tract, allowing them to swim rapidly and fertilize an egg.",
+"sec": "Ch 26 3(h)"
+},
+{
+"q": "Where fertilization normally occurs",
+"a": "In the distal portion (ampulla) of the Fallopian tube.",
+"sec": "Ch 26 3(h)"
+},
+{
+"q": "Fertilization: Acrosomal reaction",
+"a": "Enzymes in the sperm head break down the oocyte's zona pellucida, allowing the spermatocyte to penetrate.",
+"sec": "Ch 26 3(h)"
+},
+{
+"q": "Fertilization: Cortical reaction",
+"a": "Chemical changes in the oocyte membrane block other sperm from entering, preventing polyspermy.",
+"sec": "Ch 26 3(h)"
+},
+{
+"q": "Completion of meiosis in the oocyte",
+"a": "The secondary oocyte is paused at metaphase II and only completes the process of meiosis AT fertilization.",
+"sec": "Ch 26 3(h)"
+},
+{
+"q": "Gestation: Detection of HCG",
+"a": "Elevated levels of Human Chorionic Gonadotropin (HCG) are detectable by the mother in a urine test shortly after implantation.",
+"sec": "Ch 26 3(i)"
+},
+{
+"q": "Gestation: Implantation",
+"a": "The zygote implants in the wall of the uterus roughly a week after fertilization.",
+"sec": "Ch 26 3(i)"
+},
+{
+"q": "Functions of the placenta",
+"a": "Nourishes the fetus, provides oxygen exchange, and supplies the hormones necessary to maintain the uterine endometrium.",
+"sec": "Ch 26 3(i)"
+},
+{
+"q": "Parturition: Signals beginning labor",
+"a": "The relationship between uterine stretch by the growing fetus initiates signals that begin labor.",
+"sec": "Ch 26 3(j)"
+},
+{
+"q": "Parturition: Positive feedback",
+"a": "Labor is one of the examples of positive feedback in the body, driven by stretch, oxytocin, and contractions.",
+"sec": "Ch 26 3(j)"
+},
+{
+"q": "Lactation: Hormonal stimulation",
+"a": "Prolactin stimulates milk production by the mammary glands.",
+"sec": "Ch 26 3(k)"
+},
+{
+"q": "Lactation: Let-down reflex",
+"a": "Oxytocin stimulates smooth muscle contraction around the nipple of the breast.",
+"sec": "Ch 26 3(k)"
+},
+{
+"q": "END",
+"a": "END",
+"sec": "END"
+}
+]
