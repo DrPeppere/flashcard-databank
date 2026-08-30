@@ -24,7 +24,7 @@ export default function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/catalog.json')
+    fetch('/catalog.json?t=' + new Date().getTime())
       .then((res) => res.json())
       .then((data) => {
         setCatalog(data);
@@ -38,7 +38,7 @@ export default function App() {
 
   const loadDeck = (deck: CatalogEntry) => {
     setLoading(true);
-    fetch('/' + deck.file)
+    fetch('/' + deck.file + '?t=' + new Date().getTime())
       .then((res) => res.json())
       .then((data: Flashcard[]) => {
         // Filter out END markers if they exist
