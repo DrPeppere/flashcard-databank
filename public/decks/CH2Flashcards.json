@@ -1,0 +1,132 @@
+[
+  {
+    "q": "What determines the chemical behavior/reactivity of an element?",
+    "a": "Atomic structure, specifically whether atoms take, donate, or share valence electrons.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are valence electrons?",
+    "a": "The electrons found in the outermost energy shell of an atom. They determine how an atom can bond.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is the Octet Rule?",
+    "a": "When the outer shell of an atom contains fewer than 8 (or 2) electrons, the atom tends to gain, lose, or share electrons to achieve a complete outer shell.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is a covalent bond?",
+    "a": "A strong chemical bond formed by the sharing of electrons between atoms.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Differentiate between nonpolar and polar covalent bonds.",
+    "a": "Nonpolar: electrons are shared equally. Polar: electrons are not shared equally because one atom has a higher electronegativity (e.g., oxygen in water).",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is an ionic bond?",
+    "a": "A bond formed when two atoms are so unequal in their attraction for valence electrons that one atom strips an electron completely from the other, creating oppositely charged ions.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Define cations and anions.",
+    "a": "Cations are atoms with a net positive charge. Anions are atoms with a net negative charge.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are weak chemical bonds and why are they important?",
+    "a": "Hydrogen bonds and van der Waals interactions. While individual bonds are weak, collectively they have strength and play important roles in the chemistry of life.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Describe a hydrogen bond.",
+    "a": "An attractive force between the hydrogen attached to an electronegative atom of one molecule and an electronegative atom (like O or N) of a different molecule.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Define acid and base.",
+    "a": "Acid: a substance that donates protons (H+) and increases the [H+] of a solution. Base: a substance that accepts protons and decreases the [H+] of a solution.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What does the pH scale measure?",
+    "a": "It measures the negative exponent of the [H+] concentration. pH 7 is neutral, below 7 is acidic, and above 7 is basic.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is a functional group?",
+    "a": "An attachment that replaces one or more hydrogen atoms on the carbon skeleton of a hydrocarbon, and is commonly involved in chemical reactions.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Identify the structural formulas of hydroxyl, carbonyl, carboxyl, and amino groups.",
+    "a": "Hydroxyl: -OH. Carbonyl: C=O. Carboxyl: -COOH. Amino: -NH2.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are polymers and monomers?",
+    "a": "Polymers are large macromolecules consisting of many similar or identical building blocks linked by covalent bonds. Monomers are the small repeated units.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Explain condensation (dehydration) and hydrolysis reactions.",
+    "a": "Dehydration builds polymers by removing a water molecule to form a covalent bond. Hydrolysis breaks down polymers by adding a water molecule to break the bond.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are carbohydrates and their building blocks?",
+    "a": "Fuel and building materials for cells. Their building blocks are monosaccharides (simple sugars), often with the formula multiple CH2O.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are lipids and their unifying feature?",
+    "a": "Diverse molecules including fats, phospholipids, and steroids. Their unifying feature is that they are hydrophobic (have little/no affinity for water) due to nonpolar covalent bonds. They do not form long chain polymers.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Differentiate between saturated and unsaturated fats.",
+    "a": "Saturated fats have no carbon-carbon double bonds and are solid at room temperature. Unsaturated fats have one or more double bonds and are liquid at room temperature.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is the structure and function of a phospholipid?",
+    "a": "Composed of two fatty acids and a phosphate group attached to glycerol. They self-assemble into bilayers (with hydrophobic tails inside and hydrophilic heads outside) and are major components of cell membranes.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are proteins and their building blocks?",
+    "a": "The labor force of the cell (structural support, storage, transport, signaling, enzymes). Their building blocks are amino acids connected by peptide bonds.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What makes up an amino acid?",
+    "a": "An alpha carbon attached to a hydrogen atom, a carboxyl group, an amino group, and a variable R group (side chain) which determines its properties.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What happens when a protein is denatured?",
+    "a": "Alterations in pH, salt concentration, or temperature disrupt the weak bonds maintaining the protein's shape, causing it to unravel and lose its function.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are nucleic acids and their building blocks?",
+    "a": "Informational polymers (DNA and RNA) that store and transmit hereditary info. Their building blocks are nucleotides.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are the three parts of a nucleotide?",
+    "a": "A nitrogenous base, a pentose (5-carbon) sugar, and a phosphate group.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "How do DNA and RNA differ?",
+    "a": "DNA is double-stranded and its sugar (deoxyribose) lacks an oxygen atom on carbon two. RNA is single-stranded and its sugar is ribose.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is the role of ATP?",
+    "a": "Adenosine triphosphate powers cellular work by coupling exergonic reactions to endergonic reactions. The bonds between its three phosphate groups are unstable and high in potential energy.",
+    "sec": "Ch 2"
+  }
+]

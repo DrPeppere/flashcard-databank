@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Chapter 1: Microbial World and You",
+    "subject": "Microbiology",
+    "doc": "CH1",
+    "file": "decks/CH1Flashcards.json",
+    "folder": "Exam 1"
+  },
+  {
+    "name": "Chapter 2: Chemical Principles",
+    "subject": "Microbiology",
+    "doc": "CH2",
+    "file": "decks/CH2Flashcards.json",
+    "folder": "Exam 1"
+  },
+  {
+    "name": "Chapter 3: Observing Microorganisms",
+    "subject": "Microbiology",
+    "doc": "CH3",
+    "file": "decks/CH3Flashcards.json",
+    "folder": "Exam 1"
+  },
+  {
+    "name": "Chapter 4: Functional Anatomy of Cells",
+    "subject": "Microbiology",
+    "doc": "CH4",
+    "file": "decks/CH4Flashcards.json",
+    "folder": "Exam 1"
+  },
+  {
+    "name": "Chapter 23 Flashcards(AlisonSG)",
+    "subject": "PHYS",
+    "doc": "CH23",
+    "file": "decks/CH23Flashcards.json",
+    "folder": "Exam 5"
+  },
+  {
+    "name": "Chapter 22 Flashcards(AlisonSG)",
+    "subject": "PHYS",
+    "doc": "CH22",
+    "file": "decks/CH22Flashcards.json",
+    "folder": "Exam 5"
+  },
+  {
+    "name": "Chapter 21 Flashcards(AlisonSG)",
+    "subject": "PHYS",
+    "doc": "CH21",
+    "file": "decks/CH21Flashcards.json",
+    "folder": "Exam 5"
+  },
+  {
+    "name": "Chapter 24-26",
+    "subject": "PHYS",
+    "doc": "CH24-26",
+    "file": "decks/CH24-26Flashcards.json",
+    "folder": "Final"
+  }
+]

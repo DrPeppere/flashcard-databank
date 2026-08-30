@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Define magnification and resolving power.",
+    "a": "Magnification: ratio of an object's image to its real size. Resolving power: measures the clarity of the image/ability of lenses to distinguish two points.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "How is total magnification calculated on a compound light microscope?",
+    "a": "Objective lens power multiplied by ocular lens power.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What is the purpose of immersion oil?",
+    "a": "It keeps light from bending (refracting) so it doesn't miss the small high-magnification lens.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Describe brightfield illumination.",
+    "a": "Dark objects are visible against a bright background. Used to observe stained specimens and count microbes.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Describe darkfield illumination.",
+    "a": "Light objects are visible against a dark background due to an opaque disc. Used to observe living microbes that are invisible in brightfield or don't stain easily.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Describe phase-contrast microscopy.",
+    "a": "Direct and refracted light come together to produce an image. Used for detailed examination of internal structures of living specimens; no staining required.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Describe fluorescence microscopy.",
+    "a": "Uses ultraviolet light to cause fluorochrome dyes to emit visible light. Used for rapid diagnosis of specific diseases using immunofluorescence.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Describe confocal microscopy.",
+    "a": "Uses fluorochromes and a laser light to illuminate each plane of a specimen, producing a 3-D image.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Describe Transmission Electron Microscopy (TEM).",
+    "a": "Electrons pass through ultrathin sections of a specimen. Gives excellent view of internal structures with huge magnification (100,000x+), but specimens must be dead, dehydrated, and sliced thin.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Describe Scanning Electron Microscopy (SEM).",
+    "a": "An electron gun scans the surface of a whole specimen, knocking out secondary electrons to produce a 3-D image of the external surface.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What are the steps for a heat-fixed smear?",
+    "a": "Add microbes to a slide with water, emulsify and air dry, heat fix by passing over a flame/incinerator to attach and kill microbes, then stain.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Differentiate between basic and acidic dyes.",
+    "a": "Stains are salts. In a basic dye, the colored chromophore is a positive ion (cation). In an acidic dye, it is a negative ion (anion).",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Why do basic dyes stain bacteria?",
+    "a": "Bacteria are slightly negatively charged, so they attract the positively charged chromophore of basic dyes like crystal violet or safranin.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What is negative staining?",
+    "a": "Using an acidic dye, like eosin or nigrosin, which is repelled by the negative cell surface, staining the background instead of the cell. Useful for observing capsules.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What is a simple stain and a mordant?",
+    "a": "Simple stain: use of a single basic dye to view cell shape and structures. Mordant: used to hold or intensify the stain or coat a specimen to thicken it.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What is the Gram Stain?",
+    "a": "A differential stain that classifies bacteria into Gram-positive (purple) and Gram-negative (pink) based on cell wall structure.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What are the steps of the Gram Stain?",
+    "a": "Crystal violet (primary), Gram's Iodine (mordant), Alcohol (decolorizer), Safranin (counterstain).",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Why do Gram-positive and Gram-negative cells stain differently?",
+    "a": "Gram-positive cells have a thick peptidoglycan wall that retains the crystal violet-iodine complex. Gram-negative cells have a thin wall and outer membrane that is dissolved by alcohol, washing out the purple, and take up the pink safranin.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What is the Acid-Fast Stain?",
+    "a": "A differential stain used to identify bacteria with waxy/lipid cell walls, like Mycobacterium. Acid-fast cells retain the red carbol fuchsin stain; non-acid-fast cells are counterstained blue.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Why is heat required for endospore staining?",
+    "a": "Endospores are highly resistant to desiccation, heat, and radiation. Heat is needed to drive the stain into the endospore.",
+    "sec": "Ch 3"
+  }
+]
