@@ -26,5 +26,12 @@
     "doc": "CH4",
     "file": "decks/CH4Flashcards.json",
     "folder": "Exam 1"
+  },
+  {
+    "name": "CHEM QUIZ 2",
+    "subject": "Chemistry",
+    "doc": "CHEMQUIZ2",
+    "file": "decks/ChemQuiz2.json",
+    "folder": "Quiz 2"
   }
 ]

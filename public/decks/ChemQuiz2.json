@@ -1,0 +1,357 @@
+[
+  {
+    "q": "Why is a neutral atom electrically neutral?",
+    "a": "It has equal numbers of positively charged protons and negatively charged electrons, so the charges cancel.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What charge does an electron have?",
+    "a": "An electron has a negative charge of -1.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is an ion?",
+    "a": "An atom or molecule that has acquired a net electrical charge by losing or gaining electrons.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How does losing or gaining electrons change an atom's charge?",
+    "a": "Losing electrons produces a positive ion; gaining electrons produces a negative ion. The number of protons does not change during ordinary ionization.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is the difference between a cation and an anion?",
+    "a": "A cation is positively charged because it lost electrons. An anion is negatively charged because it gained electrons.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is the valence shell?",
+    "a": "The outermost occupied electron energy level of an atom. Its electrons control most chemical bonding and ion formation.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "Why do atoms gain, lose, or share valence electrons?",
+    "a": "They tend to reach a lower-energy, more stable electron arrangement resembling a nearby noble gas.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What are the duet rule and octet rule?",
+    "a": "The first shell is stable with 2 electrons, called a duet. Many other main-group atoms are stable with 8 valence electrons, called an octet.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "Why are noble gases usually unreactive?",
+    "a": "Their valence shells are already full, so they have little tendency to gain, lose, or share electrons.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What does a Lewis dot structure show?",
+    "a": "The element symbol represents the nucleus and inner electrons, while dots around it represent valence electrons.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How do you draw a Lewis symbol for a main-group atom?",
+    "a": "Write the element symbol and place one dot on each of four sides before pairing dots, until the number of dots equals the number of valence electrons.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How can valence electrons predict whether an atom forms a positive ion?",
+    "a": "Atoms with 1, 2, or 3 valence electrons often lose them and form cations with charges of +1, +2, or +3.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How can valence electrons predict whether an atom forms a negative ion?",
+    "a": "Atoms with 5, 6, or 7 valence electrons often gain 3, 2, or 1 electrons and form anions with charges of -3, -2, or -1.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What ions do sodium, magnesium, chlorine, oxygen, and sulfur commonly form?",
+    "a": "Na+, Mg2+, Cl-, O2-, and S2-. Their charges give each ion a stable outer electron shell.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is an ionic bond?",
+    "a": "The electrostatic attraction between oppositely charged ions formed after one atom transfers electrons to another.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What happens when sodium and chlorine form NaCl?",
+    "a": "Sodium transfers one electron to chlorine, forming Na+ and Cl-. Their opposite charges attract in an ionic lattice.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "Why must an ionic compound have an overall neutral formula?",
+    "a": "The total positive charge of all cations must equal the total negative charge of all anions.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How do you determine the formula of an ionic compound?",
+    "a": "Choose the smallest whole-number ratio of cations to anions that makes the total charge zero. For Mg2+ and Cl-, the ratio is 1:2, giving MgCl2.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What happens when many ionic compounds dissolve in water?",
+    "a": "Polar water molecules separate and hydrate the ions, so the compound dissociates into mobile cations and anions.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is an acid in the Bronsted-Lowry sense?",
+    "a": "A substance that donates hydrogen ions, H+, also called protons, in a reaction.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is a base in the Bronsted-Lowry sense?",
+    "a": "A substance that accepts hydrogen ions, H+, in a reaction.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How can hydroxide-containing bases lower H+ concentration?",
+    "a": "They release OH- in water, and OH- combines with H+ to form H2O.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is a salt?",
+    "a": "An ionic compound whose cation is not H+ and whose anion is not OH-. Salts commonly form in acid-base neutralization reactions.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How can you distinguish an acid, base, and salt from the ions produced in water?",
+    "a": "An acid increases H+; a base accepts H+ or increases OH-; a salt dissociates into other cations and anions without being classified simply as an acid or base.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is an electrolyte?",
+    "a": "A substance that produces mobile ions in water, allowing the solution to conduct electricity. Acids, bases, and soluble salts are common electrolytes.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is a nonelectrolyte?",
+    "a": "A substance that dissolves without forming ions, so its solution conducts little or no electricity. Glucose and sucrose are examples.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How do strong and weak electrolytes differ?",
+    "a": "Strong electrolytes form ions almost completely and conduct well. Weak electrolytes ionize only partly and conduct less strongly.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "Which ions move toward the anode and cathode in an electric field?",
+    "a": "Anions move toward the positively charged anode; cations move toward the negatively charged cathode.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What does pH measure?",
+    "a": "The hydrogen-ion concentration of a solution on a logarithmic scale: pH = -log10[H+].",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How do you find pH when [H+] is a power of ten?",
+    "a": "The pH is the positive value of the exponent. If [H+] = 10^-4 M, pH = 4; if [H+] = 10^-9 M, pH = 9.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What pH values are acidic, neutral, and basic?",
+    "a": "At about room temperature, pH below 7 is acidic, pH 7 is neutral, and pH above 7 is basic.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How much does acidity or basicity change with one pH unit?",
+    "a": "Each pH unit represents a tenfold change in [H+]. A two-unit difference represents a 100-fold change.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is the difference between acid strength and acid concentration?",
+    "a": "Strength describes the fraction of acid molecules that ionize; concentration describes how much acid is present per volume. A dilute strong acid and a concentrated weak acid are both possible.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How do strong and weak acids differ?",
+    "a": "A strong acid ionizes nearly completely and yields relatively many H+ ions. A weak acid ionizes only partially and establishes an equilibrium.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How do strong and weak bases differ?",
+    "a": "A strong base reacts with or removes H+ nearly completely; a weak base accepts only a fraction of the available H+.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is a buffer?",
+    "a": "A solution containing a weak acid-base pair that resists large pH changes when small amounts of acid or base are added.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How does a buffer respond to added strong acid?",
+    "a": "The buffer's weak-base component accepts added H+, converting much of the strong acid into a weak acid and limiting the pH decrease.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How does a buffer respond to added strong base?",
+    "a": "The buffer's weak-acid component donates H+ to neutralize OH-, converting much of the strong base into water and a weak base and limiting the pH increase.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "Which buffer systems are important in the body?",
+    "a": "Bicarbonate, phosphate, and protein buffer systems help keep body fluids, including blood, within a narrow pH range.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What are a solution, solute, and solvent?",
+    "a": "A solution is a homogeneous mixture. The solute is the less abundant dissolved substance; the solvent is the more abundant dissolving medium, usually water in living systems.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What properties distinguish a true solution?",
+    "a": "It is homogeneous and usually transparent; dissolved particles do not settle and are individual ions or molecules.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What does a percent mass/volume solution mean?",
+    "a": "It gives grams of solute per 100 mL of final solution. A 5% m/v glucose solution contains 5 g glucose in each 100 mL of solution.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How do you calculate grams needed for a percent mass/volume solution?",
+    "a": "grams solute = (% m/v / 100) x solution volume in mL. Example: 2% of 500 mL requires 10 g.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What does 0.9% NaCl mean?",
+    "a": "It contains 0.9 g NaCl per 100 mL of solution, or 9 g per liter. This is commonly called physiologic saline.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is a mole?",
+    "a": "An amount containing 6.022 x 10^23 particles. One mole has a mass in grams equal to the substance's formula or molecular mass.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How is molecular or formula mass calculated?",
+    "a": "Multiply each element's atomic mass by its subscript and add all contributions. For glucose, C6H12O6 = 6(12) + 12(1) + 6(16) = 180 g/mol.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is molarity?",
+    "a": "Molarity, M, is moles of solute per liter of final solution: M = moles/L.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How do you calculate solute mass for a molar solution?",
+    "a": "grams = molarity x volume in liters x molar mass. For 1.0 L of 0.10 M NaCl, use 0.10 mol x 58.5 g/mol = 5.85 g.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is osmolarity?",
+    "a": "The total concentration of dissolved particles that contribute to osmotic effects, expressed as osmoles per liter: osmolarity = molarity x particles produced per formula unit.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How does dissociation affect osmolarity?",
+    "a": "A nonelectrolyte such as glucose produces about 1 particle per molecule, NaCl about 2 ions, and K2SO4 about 3 ions. More particles produce greater osmolarity at the same molarity.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How are osmoles and milliosmoles related?",
+    "a": "1 osmole = 1,000 milliosmoles, and 1 mOsm = 0.001 Osm.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "Compare solutions, colloids, and suspensions.",
+    "a": "Solutions contain molecular-size particles that do not settle. Colloids contain intermediate particles that do not readily settle. Suspensions contain large particles that settle and can often be filtered.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What are typical properties of a suspension?",
+    "a": "It is heterogeneous, often cloudy or opaque, contains large particles, and separates on standing because gravity causes particles to settle.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What are typical properties of a colloid?",
+    "a": "It has particles larger than those in a true solution but small enough to remain dispersed; it is often translucent or milky and does not readily pass through selectively permeable membranes.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is diffusion?",
+    "a": "Net movement of particles from an area of higher concentration to an area of lower concentration because of random molecular motion.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "Why is diffusion considered passive transport?",
+    "a": "It moves particles down their concentration gradient and requires no direct cellular energy such as ATP.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "Does diffusion require a membrane?",
+    "a": "No. Diffusion can occur within a fluid or across a membrane if that membrane is permeable to the diffusing substance.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is dynamic equilibrium in diffusion?",
+    "a": "Particles continue moving randomly in both directions, but equal movement each way produces no net concentration change.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What does selectively permeable mean?",
+    "a": "A membrane allows some substances to cross more easily than others based on properties such as size, charge, lipid solubility, and available transport proteins.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is osmosis?",
+    "a": "The net diffusion of water across a selectively permeable membrane toward the side with higher effective solute concentration.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "In which direction does water move during osmosis?",
+    "a": "From the hypotonic side with lower nonpenetrating-solute concentration to the hypertonic side with higher nonpenetrating-solute concentration.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "Define hypotonic, hypertonic, and isotonic.",
+    "a": "Hypotonic means lower effective solute concentration, hypertonic means higher, and isotonic means equal effective solute concentration relative to the comparison solution or cell.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How do solute diffusion and osmosis differ?",
+    "a": "Solute diffusion is net movement of solute from high to low solute concentration. Osmosis is net movement of water toward higher effective solute concentration through a selectively permeable membrane.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is osmotic pressure?",
+    "a": "The pressure required to prevent net water movement by osmosis. A larger difference in effective particle concentration creates greater osmotic pressure.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "Why does liquid rise on the concentrated side of an osmotic U-tube?",
+    "a": "Water crosses toward the higher nonpenetrating-solute concentration, increasing volume and hydrostatic pressure on that side until it balances the osmotic driving force.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is active transport?",
+    "a": "Movement of a substance across a membrane against its concentration or electrochemical gradient using energy and a transport protein.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "How does active transport differ from passive transport?",
+    "a": "Passive transport moves substances down a gradient without direct energy. Active transport uses energy to move substances against a gradient and maintain unequal concentrations.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is the sodium-potassium pump?",
+    "a": "An ATP-powered membrane protein that pumps Na+ out of animal cells and K+ into them against their electrochemical gradients.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is the sodium-potassium pump's ion ratio?",
+    "a": "For each ATP used, it pumps 3 Na+ out of the cell and 2 K+ into the cell.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "Why is the sodium-potassium pump called electrogenic?",
+    "a": "It moves one more positive charge out than in during each cycle, helping make the cell interior electrically negative relative to the exterior.",
+    "sec": "CHEM QUIZ 2"
+  },
+  {
+    "q": "What is a membrane potential?",
+    "a": "A voltage difference across a cell membrane caused by unequal ion distributions and selective membrane permeability; animal-cell interiors are usually negative relative to the outside.",
+    "sec": "CHEM QUIZ 2"
+  }
+]
