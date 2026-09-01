@@ -1,162 +1,432 @@
 [
   {
-    "q": "What are the main characteristics of a prokaryotic cell?",
-    "a": "One circular chromosome not in a membrane, no nucleus, no organelles, peptidoglycan cell walls, reproduce through binary fission.",
+    "q": "What features are shared by all prokaryotic and eukaryotic cells?",
+    "a": "All have a plasma membrane, cytoplasm, DNA as genetic material, and ribosomes for protein synthesis.",
     "sec": "Ch 4"
   },
   {
-    "q": "What are the main characteristics of a eukaryotic cell?",
-    "a": "Paired chromosomes in a nuclear membrane, DNA with histones, organelles, polysaccharide cell walls (in plants/fungi), divides by mitosis.",
+    "q": "What are the major characteristics of prokaryotic cells?",
+    "a": "They are generally small, lack a membrane-bound nucleus and other membrane-bound organelles, usually have one circular chromosome in a nucleoid, contain 70S ribosomes, and divide by binary fission.",
     "sec": "Ch 4"
   },
   {
-    "q": "What is binary fission and generation time?",
-    "a": "Binary fission: a process by which one bacterium splits into two. Generation time: the time it takes for a population of bacteria to double in number.",
+    "q": "What are the major characteristics of eukaryotic cells?",
+    "a": "They are generally larger, have a membrane-bound nucleus containing multiple linear chromosomes associated with histones, contain membrane-bound organelles and 80S cytoplasmic ribosomes, and divide by mitosis or meiosis.",
     "sec": "Ch 4"
   },
   {
-    "q": "What are the basic shapes of bacteria?",
-    "a": "Cocci: spherical. Bacilli: rod-shaped. Spiral: vibrio, spirillum, or spirochete.",
+    "q": "What is binary fission, and what is generation time?",
+    "a": "Binary fission is prokaryotic division in which one cell replicates its chromosome and separates into two cells. Generation time is the time required for a population to double.",
     "sec": "Ch 4"
   },
   {
-    "q": "Describe the arrangements of cocci.",
-    "a": "Diplococcus: pairs. Streptococcus: chains. Tetrad: square of four. Sarcina: cube of eight. Staphylococcus: random clusters.",
+    "q": "What is the usual size range of a prokaryotic cell?",
+    "a": "A typical prokaryote is about 0.2-1.0 µm wide and 2-8 µm long, although sizes vary widely.",
     "sec": "Ch 4"
   },
   {
-    "q": "Describe the arrangements of bacilli.",
-    "a": "Single bacillus, diplobacilli, streptobacillus (chains), coccobacillus (oval rods).",
+    "q": "What are the three basic bacterial shapes?",
+    "a": "Coccus (spherical or oval), bacillus (rod-shaped), and spiral forms.",
     "sec": "Ch 4"
   },
   {
-    "q": "Describe the three forms of spiral bacteria.",
-    "a": "Vibrio: curved or comma-shaped. Spirillum: thick, rigid spiral. Spirochete: thin, flexible spiral.",
+    "q": "What are diplococci, streptococci, tetrads, sarcinae, and staphylococci?",
+    "a": "Cocci arranged respectively as pairs, chains, groups of four, cubical packets of eight, and irregular grape-like clusters.",
     "sec": "Ch 4"
   },
   {
-    "q": "What is the glycocalyx and its functions?",
-    "a": "An outer viscous covering of polysaccharide or polypeptide. Functions: resist phagocytosis, adhere to surfaces, protect from harmful enzymes/pH/predators.",
+    "q": "How do planes of division create coccal arrangements?",
+    "a": "One plane produces pairs or chains; two perpendicular planes produce tetrads; three planes produce sarcinae; random planes produce staphylococcal clusters.",
     "sec": "Ch 4"
   },
   {
-    "q": "Differentiate between a capsule and a slime layer.",
-    "a": "Capsule: extensive, tightly bound gelatinous material attached to cell wall. Slime layer: unorganized and loosely attached.",
+    "q": "What are single bacilli, diplobacilli, streptobacilli, and coccobacilli?",
+    "a": "Rod-shaped cells occurring singly, in pairs, in chains, or as short oval rods intermediate between cocci and bacilli.",
     "sec": "Ch 4"
   },
   {
-    "q": "Describe the structure of a bacterial flagellum.",
-    "a": "Outside the cell wall, made of flagellin chains. Has 3 parts: a filament, a hook, and a basal body. Used for motility.",
+    "q": "Distinguish vibrio, spirillum, and spirochete shapes.",
+    "a": "A vibrio is a curved comma-shaped rod; a spirillum is a thick, rigid spiral; a spirochete is a thin, flexible spiral.",
     "sec": "Ch 4"
   },
   {
-    "q": "What are axial filaments (endoflagella)?",
-    "a": "Bundles of fibers anchored at ends of the cell beneath an outer sheath in spirochetes. Rotation produces a corkscrew motion for penetrating tissues.",
+    "q": "What is a bacterial glycocalyx?",
+    "a": "A sticky outer coating, usually polysaccharide and sometimes polypeptide, located outside the cell wall.",
     "sec": "Ch 4"
   },
   {
-    "q": "Differentiate between fimbriae and pili.",
-    "a": "Fimbriae: organelles of adhesion to colonize surfaces. Sex pili: enable transfer of DNA from a donor to a recipient bacterium during conjugation.",
+    "q": "How do a capsule and slime layer differ?",
+    "a": "A capsule is organized and tightly attached to the cell; a slime layer is diffuse, unorganized, and loosely attached.",
     "sec": "Ch 4"
   },
   {
-    "q": "What is the function of the bacterial cell wall?",
-    "a": "A semi-rigid structure that surrounds the membrane, prevents osmotic lysis, maintains shape, and consists of peptidoglycan.",
+    "q": "What are the main functions of a bacterial glycocalyx?",
+    "a": "It promotes adhesion and biofilm formation, resists removal by flushing, inhibits phagocytosis, reduces drying, and protects against harmful chemicals, enzymes, pH changes, and predators.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is the structure and function of a prokaryotic flagellum?",
+    "a": "It is a rotating motility appendage made of flagellin with a filament, hook, and basal body. Rotation propels the cell, and flagellar H antigens can identify serotypes.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is an axial filament (endoflagellum)?",
+    "a": "A bundle of flagella-like fibers anchored beneath a spirochete's outer sheath. Rotation twists the cell in a corkscrew motion that can help it move through viscous material and tissues.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are fimbriae?",
+    "a": "Numerous short protein appendages, especially common in Gram-negative bacteria, that attach cells to surfaces, host tissues, or one another and help form biofilms.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are pili, and what is a conjugation pilus?",
+    "a": "Pili are longer and fewer than fimbriae. A sex or conjugation pilus connects a donor to a recipient and enables DNA transfer during bacterial conjugation.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are the main functions of the bacterial cell wall?",
+    "a": "It maintains shape, protects the plasma membrane, and prevents osmotic lysis. It is porous and does not itself selectively regulate solute passage.",
     "sec": "Ch 4"
   },
   {
     "q": "What is peptidoglycan?",
-    "a": "A polymer of interlocking chains of monomers consisting of two amino sugars (NAG and NAM) with a tetrapeptide side chain attached to NAM.",
+    "a": "A bacteria-specific mesh polymer of alternating N-acetylglucosamine (NAG) and N-acetylmuramic acid (NAM); tetrapeptides attached to NAM cross-link adjacent glycan chains.",
     "sec": "Ch 4"
   },
   {
-    "q": "Describe the Gram-Positive cell wall.",
-    "a": "A thick layer of peptidoglycan containing teichoic acids (lipoteichoic and wall teichoic acids) which may regulate cation movement and provide antigenic variation.",
+    "q": "Describe a Gram-positive cell wall.",
+    "a": "It has many thick layers of peptidoglycan, usually with wall teichoic acids and membrane-anchored lipoteichoic acids, and lacks a Gram-negative outer membrane.",
     "sec": "Ch 4"
   },
   {
-    "q": "Describe the Gram-Negative cell wall and outer membrane.",
-    "a": "A thin layer of peptidoglycan in the periplasm, surrounded by an outer membrane made of lipopolysaccharides (LPS), lipoproteins, and phospholipids. Provides protection from phagocytes and antibiotics. Lipid A is an endotoxin.",
+    "q": "What are functions of teichoic and lipoteichoic acids?",
+    "a": "They help maintain wall structure, regulate cation movement, contribute negative charge and adhesion, and can provide antigenic variation; lipoteichoic acid anchors the wall to the membrane.",
     "sec": "Ch 4"
   },
   {
-    "q": "How do antibiotics like penicillin affect the cell wall?",
-    "a": "They inhibit normal synthesis of peptidoglycan. Penicillin blocks transpeptidase enzymes from cross-linking the sugar chains, weakening the wall and causing lysis.",
+    "q": "Describe a Gram-negative cell envelope.",
+    "a": "It has a thin peptidoglycan layer in the periplasm between the plasma membrane and an outer membrane containing phospholipids, lipoproteins, proteins or porins, and lipopolysaccharide (LPS).",
     "sec": "Ch 4"
   },
   {
-    "q": "Describe the structure and function of the plasma membrane.",
-    "a": "A selectively permeable phospholipid bilayer with integral and peripheral proteins. Functions include transport, energy production, motility bases, waste removal, and endospore formation.",
+    "q": "What are the three main parts of Gram-negative lipopolysaccharide (LPS)?",
+    "a": "Lipid A, which anchors LPS and acts as endotoxin; a core polysaccharide; and the variable O polysaccharide, which functions as an O antigen.",
     "sec": "Ch 4"
   },
   {
-    "q": "Differentiate between simple diffusion, facilitated diffusion, and osmosis.",
-    "a": "Simple diffusion: passive movement from high to low concentration. Facilitated: passive movement requiring a transporter protein. Osmosis: passive movement of water across a semipermeable membrane.",
+    "q": "What is the periplasm?",
+    "a": "The space between the Gram-negative outer and plasma membranes containing the thin peptidoglycan layer plus transport proteins and enzymes.",
     "sec": "Ch 4"
   },
   {
-    "q": "What is active transport and group translocation?",
-    "a": "Active transport: pumping solutes against their gradient using ATP and a transporter protein. Group translocation: substrate is chemically modified (e.g., phosphorylated) as it moves across the membrane using PEP.",
+    "q": "Compare Gram-positive and Gram-negative wall thickness and composition.",
+    "a": "Gram-positive walls are mostly thick peptidoglycan with teichoic acids. Gram-negative walls have only a thin peptidoglycan layer plus an LPS-containing outer membrane and periplasm.",
     "sec": "Ch 4"
   },
   {
-    "q": "What happens to a cell in isotonic, hypotonic, and hypertonic solutions?",
-    "a": "Isotonic: no net movement. Hypotonic: water moves in, cell may burst (osmotic lysis). Hypertonic: water moves out, cytoplasm shrinks (plasmolysis).",
+    "q": "Why are Gram-positive cells usually more sensitive to penicillin and lysozyme?",
+    "a": "Their thick peptidoglycan is exposed. Penicillin blocks peptide cross-linking during wall synthesis, and lysozyme cleaves bonds between NAG and NAM, weakening the wall and promoting osmotic lysis.",
     "sec": "Ch 4"
   },
   {
-    "q": "What are bacterial ribosomes?",
-    "a": "Workbenches for protein synthesis composed of rRNA and protein. Composed of two subunits: 50S and 30S, combining to form a 70S ribosome.",
+    "q": "Why are many Gram-negative cells more resistant to penicillin, detergents, and some chemicals?",
+    "a": "Their outer membrane is a permeability barrier that slows entry, porins restrict some solutes, and periplasmic enzymes can inactivate drugs. Agents that disrupt the outer membrane can increase sensitivity.",
     "sec": "Ch 4"
   },
   {
-    "q": "What are inclusion bodies?",
-    "a": "Storage reserves in bacteria for substances like inorganic phosphate, glycogen, starch, lipids, and gas.",
+    "q": "How does penicillin weaken a bacterial cell wall?",
+    "a": "It binds penicillin-binding transpeptidase proteins and prevents cross-linking of newly made peptidoglycan. Growing cells form weak walls and may burst from osmotic pressure.",
     "sec": "Ch 4"
   },
   {
-    "q": "What are endospores?",
-    "a": "Resistant, dormant survival forms of Gram-positive bacteria. Not for reproduction. Sporulation is endospore formation; germination is return to vegetative state. Highly resistant to heat, chemicals, radiation.",
+    "q": "How does lysozyme damage a bacterial cell wall?",
+    "a": "It hydrolyzes the glycosidic bond between NAG and NAM in peptidoglycan, removing the wall's mechanical support.",
     "sec": "Ch 4"
   },
   {
-    "q": "Describe eukaryotic flagella and cilia.",
-    "a": "Composed of microtubules. Cilia are short and numerous; flagella are long and few. Both propel water past the organism for movement.",
+    "q": "What happens to Gram-positive and Gram-negative cells during the crystal-violet and iodine steps?",
+    "a": "Both types first become purple; iodine then forms large crystal-violet-iodine complexes inside both.",
     "sec": "Ch 4"
   },
   {
-    "q": "What makes up the eukaryotic cell wall?",
-    "a": "Plants & algae: cellulose, pectin. Fungi: cellulose or chitin. Yeasts: glucan & mannan. Protozoa have a pellicle instead.",
+    "q": "What happens to Gram-positive cells during Gram-stain decolorization?",
+    "a": "Alcohol dehydrates and tightens the thick peptidoglycan, closing pores and trapping the crystal-violet-iodine complex, so cells remain purple.",
     "sec": "Ch 4"
   },
   {
-    "q": "Describe endocytosis (phagocytosis and pinocytosis).",
-    "a": "Phagocytosis: pseudopods extend and engulf solid particles. Pinocytosis: membrane folds inward bringing in fluid and dissolved substances.",
+    "q": "What happens to Gram-negative cells during Gram-stain decolorization and counterstaining?",
+    "a": "Alcohol dissolves outer-membrane lipids and the thin peptidoglycan cannot retain the dye complex, so cells become colorless; safranin then stains them pink or red.",
     "sec": "Ch 4"
   },
   {
-    "q": "What is the function of the rough and smooth endoplasmic reticulum (ER)?",
-    "a": "Rough ER: studded with ribosomes, synthesizes and exports proteins; membrane factory. Smooth ER: no ribosomes, synthesizes lipids, detoxifies drugs/alcohol.",
+    "q": "What is a protoplast?",
+    "a": "A wall-less cell produced when the cell wall is completely removed, classically from a Gram-positive bacterium. It survives only in an osmotically protective environment.",
     "sec": "Ch 4"
   },
   {
-    "q": "What is the function of the Golgi apparatus?",
-    "a": "Flattened sacs that receive vesicles on the cis face, process materials, and bud off transport vesicles on the trans face for shipping.",
+    "q": "What is a spheroplast?",
+    "a": "A Gram-negative cell whose peptidoglycan is largely removed but whose outer membrane remains partly intact; it becomes spherical and osmotically fragile.",
     "sec": "Ch 4"
   },
   {
-    "q": "What are lysosomes and peroxisomes?",
-    "a": "Lysosomes: sacs of hydrolytic enzymes that digest macromolecules at acidic pH. Peroxisomes: contain enzymes that transfer hydrogen to oxygen, producing and then breaking down hydrogen peroxide; also break down fatty acids and detoxify.",
+    "q": "What is an L form?",
+    "a": "A wall-deficient variant derived from a normally walled bacterium. Some L forms can divide and later rebuild the wall; stable forms do not revert.",
     "sec": "Ch 4"
   },
   {
-    "q": "Describe the structure and function of mitochondria.",
-    "a": "Site of cellular respiration generating ATP. Have a smooth outer membrane and a folded inner membrane called cristae, enclosing the mitochondrial matrix containing DNA and ribosomes.",
+    "q": "How does Mycoplasma differ from a temporary L form?",
+    "a": "Mycoplasma naturally and permanently lacks a cell wall, has sterols in its membrane, is pleomorphic, and is intrinsically resistant to drugs that target peptidoglycan; an L form derives from a normally walled bacterium.",
     "sec": "Ch 4"
   },
   {
-    "q": "Describe the structure and function of chloroplasts.",
-    "a": "Site of photosynthesis. Contain sacs called thylakoids (stacked into grana) floating in a fluid stroma, along with their own DNA and ribosomes.",
+    "q": "How do archaeal cell walls differ from bacterial walls?",
+    "a": "Archaeal walls never contain true peptidoglycan. They may contain pseudopeptidoglycan, protein or glycoprotein S-layers, polysaccharides, or no wall.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What makes an acid-fast bacterial wall atypical?",
+    "a": "A waxy layer rich in mycolic acids lies outside the peptidoglycan, limiting dye and drug penetration and resisting acid-alcohol decolorization; Mycobacterium is the classic example.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is the basic structure of a bacterial plasma membrane?",
+    "a": "A fluid phospholipid bilayer with hydrophilic heads outward, hydrophobic tails inward, and integral and peripheral proteins that can move laterally.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are the major functions of a prokaryotic plasma membrane?",
+    "a": "Selective transport, nutrient uptake, waste removal, secretion, energy generation by electron transport, photosynthesis in some bacteria, anchoring flagellar bases, and participation in wall or endospore formation.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "Why are phospholipids ideal membrane molecules?",
+    "a": "Their amphipathic nature makes them self-assemble into a fluid, self-sealing bilayer that creates a hydrophobic barrier while keeping hydrophilic surfaces in contact with water.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "How can cells adjust membrane lipids when temperature changes?",
+    "a": "Cold makes membranes rigid, so cells can increase unsaturated or shorter fatty acids. Heat makes membranes too fluid, so cells can increase saturated or longer fatty acids to promote tighter packing.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is passive transport?",
+    "a": "Movement down a concentration or electrochemical gradient without direct cellular energy expenditure; it includes simple diffusion, facilitated diffusion, and osmosis.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is simple diffusion?",
+    "a": "Net movement of small or lipid-soluble molecules directly through the membrane from high to low concentration until equilibrium.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is facilitated diffusion?",
+    "a": "Passive movement down a gradient through a specific membrane channel or carrier protein; it requires no ATP but is selective and can become saturated.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is osmosis?",
+    "a": "Net movement of water across a selectively permeable membrane from higher free-water concentration and lower solute concentration toward lower free-water concentration and higher solute concentration.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is osmotic pressure?",
+    "a": "The pressure required to stop the net movement of water into a solution across a selectively permeable membrane.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What happens to a cell in an isotonic solution?",
+    "a": "Solute concentration is effectively equal on both sides, so water moves in both directions at equal rates and there is no net volume change.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What happens to a cell in a hypotonic solution?",
+    "a": "The surrounding solution has less nonpenetrating solute than the cytoplasm, so water enters. A wall-less cell may undergo osmotic lysis; a normal bacterial wall resists bursting.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What happens to a cell in a hypertonic solution?",
+    "a": "The surrounding solution has more nonpenetrating solute, so water leaves and the cytoplasm shrinks. In a walled cell, separation of membrane from wall is plasmolysis.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is active transport?",
+    "a": "Carrier-mediated movement against a concentration or electrochemical gradient using energy, commonly ATP or energy stored in an ion gradient.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is group translocation?",
+    "a": "An energy-requiring bacterial transport process that chemically changes a solute as it enters. For example, PEP supplies energy to phosphorylate glucose, trapping it inside.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is the cytoplasm, and what is cytosol?",
+    "a": "Cytoplasm is everything inside the plasma membrane; cytosol is its fluid component containing water, ions, metabolites, enzymes, and other dissolved substances.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is the bacterial nucleoid?",
+    "a": "A dense, non-membrane-bound region of cytoplasm containing the main bacterial chromosome, usually one circular double-stranded DNA molecule.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are plasmids?",
+    "a": "Small, usually circular DNA molecules separate from the main chromosome that replicate independently and often carry advantageous genes such as antibiotic resistance.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are bacterial ribosomes and their function?",
+    "a": "70S particles made of 30S and 50S subunits containing rRNA and protein; they translate mRNA to synthesize proteins.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are bacterial inclusions?",
+    "a": "Cytoplasmic storage or specialized structures, including metachromatic phosphate granules, glycogen or starch granules, lipid inclusions, and gas vesicles.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is an endospore, and what is its function?",
+    "a": "A dormant, nonreproductive survival structure formed inside certain bacteria. Multiple protective layers preserve essential DNA, ribosomes, and enzymes during heat, drying, radiation, or chemical stress.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "Define sporulation and germination.",
+    "a": "Sporulation is formation of an endospore in response to unfavorable conditions. Germination is the return of the endospore to a metabolically active vegetative cell when conditions improve.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "Why are endospores not a form of reproduction?",
+    "a": "One vegetative cell produces one endospore, which later yields one vegetative cell; cell number does not increase.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "Which medically important genera form endospores?",
+    "a": "Bacillus and Clostridium include spore-forming species that cause diseases such as anthrax, tetanus, and botulism.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "Compare prokaryotic and eukaryotic flagella.",
+    "a": "Prokaryotic flagella are flagellin filaments that rotate from a basal motor. Eukaryotic flagella are membrane-covered 9+2 microtubule structures that bend in a whip-like motion using ATP.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are eukaryotic cilia, and how do they differ from eukaryotic flagella?",
+    "a": "Both are membrane-covered microtubule appendages with similar movement. Cilia are short and numerous; flagella are much longer and usually one or a few per cell.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "Compare prokaryotic and eukaryotic cell walls.",
+    "a": "Bacterial walls contain peptidoglycan; archaeal walls lack it. Eukaryotic walls, when present, use polysaccharides such as cellulose, chitin, glucan, or mannan; animal cells lack walls.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What wall or outer covering occurs in major eukaryotic groups?",
+    "a": "Plants and many algae use cellulose and pectin; fungi use chitin or cellulose; yeasts commonly use glucan and mannan; protozoa may have a flexible pellicle; animals have a glycocalyx but no wall.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "Compare bacterial and animal-cell glycocalyces.",
+    "a": "A bacterial glycocalyx is usually a capsule or slime layer for protection and attachment. The animal glycocalyx consists of membrane carbohydrates on glycoproteins and glycolipids important in protection, adhesion, and cell recognition.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "Compare prokaryotic and eukaryotic plasma membranes.",
+    "a": "Both are selectively permeable phospholipid bilayers with proteins. Eukaryotic membranes normally contain sterols and support endocytosis and exocytosis; most bacterial membranes lack sterols and also perform respiratory energy production.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "Compare prokaryotic and eukaryotic cytoplasm.",
+    "a": "Both contain cytosol, enzymes, metabolites, and ribosomes. Eukaryotic cytoplasm is compartmentalized by organelles and an extensive cytoskeleton; prokaryotic cytoplasm generally is not.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "Compare prokaryotic and eukaryotic ribosomes.",
+    "a": "Prokaryotic ribosomes are 70S (30S + 50S). Eukaryotic cytoplasmic ribosomes are 80S (40S + 60S), while mitochondria and chloroplasts contain bacteria-like 70S ribosomes.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are endocytosis and exocytosis?",
+    "a": "Endocytosis brings material into a eukaryotic cell by forming vesicles from the plasma membrane; exocytosis fuses an internal vesicle with the membrane to release its contents outside.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "Distinguish phagocytosis and pinocytosis.",
+    "a": "Phagocytosis extends pseudopods around large particles or cells; pinocytosis brings in extracellular fluid and dissolved solutes in small vesicles.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is an organelle?",
+    "a": "A specialized structure within a cell that performs a particular function; many eukaryotic organelles are enclosed by membranes.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is the function of the eukaryotic cytoskeleton?",
+    "a": "Its protein-fiber network maintains cell shape, provides mechanical support, anchors organelles and enzymes, moves materials internally, and enables cell or chromosome movement.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are the major functions and structures of the nucleus and nucleolus?",
+    "a": "The double-membrane nucleus stores most cellular DNA and controls gene expression through nuclear pores. The nucleolus synthesizes rRNA and assembles ribosomal subunits.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is the endomembrane system?",
+    "a": "A connected network of nuclear envelope, endoplasmic reticulum, Golgi apparatus, lysosomes, vesicles, vacuoles, and plasma membrane that synthesizes, modifies, transports, and digests cellular materials.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are the functions of free and bound eukaryotic ribosomes?",
+    "a": "Free ribosomes synthesize proteins that function mainly in the cytosol. Ribosomes bound to rough ER make proteins for secretion, membranes, or delivery within the endomembrane system.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are the functions of rough endoplasmic reticulum (RER)?",
+    "a": "RER receives proteins made by attached ribosomes, begins their folding and modification, and produces membrane for transport to the Golgi and other destinations.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are the functions of smooth endoplasmic reticulum (SER)?",
+    "a": "SER synthesizes lipids such as phospholipids and steroids, participates in carbohydrate metabolism, stores calcium in some cells, and detoxifies drugs and poisons.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is the structure and function of the Golgi apparatus?",
+    "a": "Stacks of flattened cisternae receive vesicles at the cis face, modify and sort proteins and lipids, then package them into vesicles that leave from the trans face.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are lysosomes?",
+    "a": "Acidic membrane-bound sacs of hydrolytic enzymes that digest macromolecules, worn organelles, and engulfed material while isolating destructive enzymes from the cytosol.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What functions can eukaryotic vacuoles perform?",
+    "a": "Food vacuoles digest engulfed material, contractile vacuoles expel excess water, and large central plant vacuoles store solutes, maintain pressure, and aid growth.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is the structure and function of mitochondria?",
+    "a": "Double-membrane organelles where aerobic respiration generates ATP. The inner membrane folds into cristae around a matrix containing enzymes, circular DNA, and 70S ribosomes.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is the structure and function of chloroplasts?",
+    "a": "Double-membrane organelles in plants and algae that convert light energy to chemical energy. Thylakoids stacked as grana lie in stroma containing photosynthetic enzymes, circular DNA, and 70S ribosomes.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What are peroxisomes?",
+    "a": "Single-membrane organelles that oxidize fatty acids and detoxify compounds. Their reactions can generate H2O2, which catalase and other enzymes convert to water.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What is the endosymbiotic theory?",
+    "a": "It proposes that mitochondria and chloroplasts evolved from free-living bacteria engulfed by an ancestral host cell; a stable mutualistic relationship eventually made them organelles.",
+    "sec": "Ch 4"
+  },
+  {
+    "q": "What evidence supports the endosymbiotic theory?",
+    "a": "Mitochondria and chloroplasts have double membranes, circular bacteria-like DNA, 70S ribosomes, bacteria-like size, and divide by binary fission; molecular sequences link mitochondria to aerobic bacteria and chloroplasts to cyanobacteria.",
     "sec": "Ch 4"
   }
 ]

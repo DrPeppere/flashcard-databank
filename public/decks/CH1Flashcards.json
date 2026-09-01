@@ -1,132 +1,237 @@
 [
   {
     "q": "What are microorganisms?",
-    "a": "Organisms that are too small to be seen with the unaided eye.",
+    "a": "Organisms or acellular agents that are too small to be seen clearly with the unaided eye.",
     "sec": "Ch 1"
   },
   {
-    "q": "List the 7 basic groups of microbes.",
-    "a": "Bacteria, Archaea, Fungi, Protozoa, Algae, Viruses, and Multicellular Animal Parasites.",
+    "q": "List the 7 major groups of microorganisms studied in microbiology.",
+    "a": "Bacteria, Archaea, fungi, protozoa, algae, viruses, and multicellular animal parasites.",
     "sec": "Ch 1"
   },
   {
-    "q": "Describe the main characteristics of bacteria.",
-    "a": "Unicellular, microscopic, prokaryotic organisms that reproduce by binary fission.",
+    "q": "What are the major characteristics of bacteria?",
+    "a": "They are usually unicellular prokaryotes, normally have peptidoglycan cell walls, and commonly reproduce by binary fission.",
     "sec": "Ch 1"
   },
   {
-    "q": "Describe the main characteristics of archaea.",
-    "a": "Prokaryotic organisms that lack peptidoglycan in their cell walls.",
+    "q": "What are the major characteristics of Archaea?",
+    "a": "They are unicellular prokaryotes whose cell walls lack peptidoglycan. Their membrane chemistry and rRNA differ from those of Bacteria; many inhabit extreme environments, although many live in ordinary habitats.",
     "sec": "Ch 1"
   },
   {
-    "q": "Describe the main characteristics of fungi.",
-    "a": "Eukaryotic. Yeasts are unicellular and reproduce asexually by budding. Molds are filamentous and reproduce by asexual spores.",
+    "q": "What are the major characteristics of fungi?",
+    "a": "They are eukaryotes. Unicellular yeasts commonly reproduce by budding, while multicellular molds consist of filaments and produce reproductive spores.",
     "sec": "Ch 1"
   },
   {
-    "q": "Describe the main characteristics of protozoa.",
-    "a": "Unicellular, microscopic, eukaryotic organisms that lack a cell wall; they may be motile.",
+    "q": "What are the major characteristics of protozoa?",
+    "a": "They are unicellular eukaryotes that generally lack a cell wall. Many are motile by pseudopods, cilia, or flagella, and some are parasites.",
     "sec": "Ch 1"
   },
   {
-    "q": "Describe the main characteristics of algae.",
-    "a": "Eukaryotic microorganisms that carry out photosynthesis and have cellulose cell walls.",
+    "q": "What are the major characteristics of algae?",
+    "a": "They are photosynthetic eukaryotes, may be unicellular or multicellular, generally have cellulose cell walls, and produce oxygen and organic matter.",
     "sec": "Ch 1"
   },
   {
-    "q": "Describe the main characteristics of viruses.",
-    "a": "Submicroscopic, acellular infectious particles containing either DNA or RNA as a genome that can only replicate inside a living host cell.",
+    "q": "What are the major characteristics of viruses?",
+    "a": "They are acellular infectious particles containing either DNA or RNA inside a protein coat, sometimes with an envelope, and can reproduce only inside living host cells.",
     "sec": "Ch 1"
   },
   {
-    "q": "List several beneficial activities of microorganisms.",
-    "a": "Decompose organic waste (bioremediation), generate oxygen by photosynthesis, produce chemical products (ethanol, vitamins), produce fermented foods (cheese, bread), and produce manufacturing products (cellulose) and disease treatments (insulin).",
+    "q": "What are the major characteristics of multicellular animal parasites?",
+    "a": "They are eukaryotic animals, such as helminths, whose adult stages may be macroscopic but whose eggs, larvae, or other life-cycle stages are microscopic and medically important.",
     "sec": "Ch 1"
   },
   {
-    "q": "What is the normal microbiota (microbiome)?",
-    "a": "The collection of acquired microorganisms on or in a healthy human being. They help maintain good health, prevent growth of pathogenic microbes, and train the immune system.",
+    "q": "What are the three domains of cellular life?",
+    "a": "Bacteria, Archaea, and Eukarya. Bacteria and Archaea contain prokaryotes; Eukarya contains organisms with eukaryotic cells. Viruses are not placed in any domain.",
     "sec": "Ch 1"
   },
   {
-    "q": "Give two examples of scientific names and what their specific epithet describes.",
-    "a": "Staphylococcus aureus: clustered arrangement (staphylo-) and golden color (aur-). Escherichia coli: honors discoverer Theodor Escherich and describes habitat, the colon.",
+    "q": "What characteristics distinguish the three domains?",
+    "a": "Classification uses small-subunit rRNA and other molecular sequences plus cell organization and chemistry. Bacteria have bacterial rRNA and peptidoglycan; Archaea have distinct rRNA, ether-linked membranes, and no peptidoglycan; Eukarya have nuclei, membrane-bound organelles, and 80S cytoplasmic ribosomes.",
     "sec": "Ch 1"
   },
   {
-    "q": "What was Robert Hooke's contribution to microbiology?",
-    "a": "In 1665, he observed \"little boxes\" under a microscope and coined the term \"cell\", marking the beginning of cell theory.",
+    "q": "How does binomial nomenclature name an organism?",
+    "a": "It uses two words: the capitalized genus followed by the lowercase specific epithet. Both are italicized, as in Escherichia coli; after first use, the genus may be abbreviated, as in E. coli.",
     "sec": "Ch 1"
   },
   {
-    "q": "What was Antoni van Leeuwenhoek's contribution?",
-    "a": "Between 1673-1723, he was the first person to observe live microorganisms, which he called \"animalcules\".",
+    "q": "What do the names Staphylococcus aureus and Escherichia coli illustrate?",
+    "a": "Staphylococcus aureus refers to clustered cells and golden colonies. Escherichia honors Theodor Escherich, while coli refers to the colon, its common habitat.",
     "sec": "Ch 1"
   },
   {
-    "q": "What did Rudolf Virchow state in 1858?",
-    "a": "He said cells arise from preexisting cells, an important part of the Cell Theory.",
+    "q": "List several ways microbes affect everyday life and the environment.",
+    "a": "They recycle nutrients and decompose waste, produce oxygen, ferment foods and beverages, synthesize chemicals and medicines, support normal microbiota, treat sewage and pollutants, aid agriculture, and sometimes cause disease or food spoilage.",
     "sec": "Ch 1"
   },
   {
-    "q": "Compare the theory of spontaneous generation with biogenesis.",
-    "a": "Spontaneous generation is the belief that life spontaneously developed from non-living matter. Biogenesis is the belief that living cells can only arise from other living cells.",
+    "q": "Name at least four beneficial activities of microorganisms.",
+    "a": "Any four: nutrient recycling, oxygen production, food fermentation, vitamin or drug production, protection by normal microbiota, sewage treatment, bioremediation, biological insect control, or production of useful proteins by biotechnology.",
     "sec": "Ch 1"
   },
   {
-    "q": "Describe the contributions of Redi, Needham, and Spallanzani to the spontaneous generation debate.",
-    "a": "Redi: proved maggots don't arise spontaneously from decaying meat. Needham: boiled nutrient broth and observed microbial growth, arguing for spontaneous generation. Spallanzani: heated broth in a sealed flask and observed no growth, arguing against it.",
+    "q": "How do microbes contribute to decomposition and bioremediation?",
+    "a": "Microbes break down organic matter and return nutrients to ecosystems. In sewage and polluted sites they convert wastes to simpler products and can degrade or detoxify pollutants such as oil and mercury.",
     "sec": "Ch 1"
   },
   {
-    "q": "How did Louis Pasteur disprove spontaneous generation?",
-    "a": "In 1861, he designed swan-neck flasks that let air in but trapped microbes in the bend, showing microbes in the air caused growth in the broth. He also developed aseptic technique.",
+    "q": "How are microbes used as biological insecticides?",
+    "a": "Microbes pathogenic to insects can replace chemical pesticides. Bacillus thuringiensis produces a crystal toxin that kills susceptible insect larvae, and its toxin gene can be engineered into crops.",
     "sec": "Ch 1"
   },
   {
-    "q": "List Louis Pasteur's major contributions to microbiology.",
-    "a": "Disproved spontaneous generation, found yeast causes fermentation, developed pasteurization, and developed a rabies vaccine.",
-    "sec": "Ch 1"
-  },
-  {
-    "q": "What is the Germ Theory of Disease?",
-    "a": "The belief that microbes cause diseases, which replaced prior beliefs that diseases were caused by divine punishment, curses, or poisonous vapors.",
-    "sec": "Ch 1"
-  },
-  {
-    "q": "What did Ignaz Semmelweis and Joseph Lister contribute?",
-    "a": "Semmelweis demonstrated childbirth fever transmission could be stopped by hand disinfection. Lister used disinfectants to treat surgical wounds, greatly reducing infection rates (father of antiseptic surgery).",
-    "sec": "Ch 1"
-  },
-  {
-    "q": "What did Robert Koch contribute?",
-    "a": "In 1876, he was the first to prove microorganisms cause disease using Bacillus anthracis, and established \"Koch's Postulates\" to show a cause-and-effect relationship.",
-    "sec": "Ch 1"
-  },
-  {
-    "q": "What did Edward Jenner do?",
-    "a": "In 1796, he inoculated a person with live cowpox virus to protect against smallpox, demonstrating the first vaccination.",
-    "sec": "Ch 1"
-  },
-  {
-    "q": "What did Paul Ehrlich and Alexander Fleming discover?",
-    "a": "Ehrlich: developed a synthetic arsenic drug, salvarsan, to treat syphilis (chemotherapy). Fleming: discovered the first antibiotic, penicillin, produced by a fungus.",
-    "sec": "Ch 1"
-  },
-  {
-    "q": "Define bacteriology, virology, mycology, and parasitology.",
-    "a": "Bacteriology: study of bacteria. Virology: study of viruses. Mycology: study of fungi. Parasitology: study of protozoa & parasitic worms.",
-    "sec": "Ch 1"
-  },
-  {
-    "q": "Define immunology and serology.",
-    "a": "Immunology: study of immunity (vaccines, interferons). Serology: use of antibodies to identify bacteria & viruses.",
+    "q": "What is biotechnology?",
+    "a": "The practical use of organisms, cells, or their components to make useful foods, chemicals, medicines, enzymes, and other products.",
     "sec": "Ch 1"
   },
   {
     "q": "What is recombinant DNA technology (genetic engineering)?",
-    "a": "The use of microbial genetics and molecular biology to make DNA from two different sources, often to produce proteins, protect crops, or replace defective genes (gene therapy).",
+    "a": "Methods that combine DNA from two different sources and manipulate genes so cells can acquire traits or produce useful products such as insulin, vaccines, or enzymes.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What is gene therapy?",
+    "a": "An application of genetic engineering intended to replace, repair, or compensate for a missing or defective gene in a patient's cells.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What is the human microbiome?",
+    "a": "The community of microbes and their genetic material that live stably on and in the human body; they can exclude pathogens, contribute to health, and help train the immune system.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What is normal microbiota?",
+    "a": "The microorganisms normally acquired and found on or in a healthy person. Resident microbiota persist, whereas transient microbiota remain only briefly.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What is a biofilm?",
+    "a": "An organized community of microorganisms attached to a surface and embedded in a self-produced extracellular matrix; the matrix promotes adhesion and protection.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What is an infectious disease?",
+    "a": "A disease caused when a pathogen invades or multiplies in a host and damages tissues or disrupts normal function; an infection does not always produce disease.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What is an emerging infectious disease?",
+    "a": "An infectious disease that is newly recognized, newly appearing in a population, rapidly increasing in incidence or geographic range, or reappearing after decline.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did Robert Hooke contribute to microbiology?",
+    "a": "He observed microscopic compartments in cork, called them cells, and helped establish the idea that living things are composed of cells.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did Antoni van Leeuwenhoek contribute to microbiology?",
+    "a": "Using simple microscopes, he became the first person to describe living microorganisms, which he called animalcules, in samples such as dental scrapings and water.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What is spontaneous generation, and how does it differ from biogenesis?",
+    "a": "Spontaneous generation claims life arises from nonliving matter. Biogenesis states that living cells arise only from preexisting living cells.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did Francesco Redi show in the spontaneous-generation debate?",
+    "a": "Maggots appeared on meat only when flies could reach it, showing that the maggots came from flies rather than arising spontaneously from meat.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did John Needham conclude from his broth experiment?",
+    "a": "After briefly boiling broth and then observing microbial growth in covered flasks, he argued for spontaneous generation; inadequate heating or contamination explains the result.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "How did Lazzaro Spallanzani challenge Needham?",
+    "a": "He heated nutrient broth longer in sealed flasks and observed no growth, supporting biogenesis. Critics claimed sealing or boiling removed a supposed life force.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did Rudolf Virchow contribute?",
+    "a": "He stated that cells arise from preexisting cells, strengthening cell theory and the principle of biogenesis.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "How did Louis Pasteur's swan-neck flask experiment disprove spontaneous generation?",
+    "a": "Boiled broth remained sterile when air could enter but airborne dust and microbes were trapped in the flask's curved neck. Growth occurred only when contamination reached the broth.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What were Pasteur's major contributions to microbiology and society?",
+    "a": "He disproved spontaneous generation, linked microbes to fermentation and spoilage, developed aseptic methods and pasteurization, and produced a rabies vaccine. His work improved food safety, medicine, sanitation, and disease prevention.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What is pasteurization?",
+    "a": "Controlled heating of a food or beverage to destroy most spoilage and disease-causing microbes without the more severe treatment used for sterilization.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What is the germ theory of disease, and why was it important?",
+    "a": "It states that specific microorganisms can cause specific diseases. It replaced supernatural and miasma explanations and led to sanitation, aseptic surgery, vaccination, laboratory diagnosis, and targeted antimicrobial treatment.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did Agostino Bassi contribute to germ theory?",
+    "a": "He showed that a fungus caused a contagious disease of silkworms, providing early evidence that a microorganism could cause disease.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did Ignaz Semmelweis contribute to infection control?",
+    "a": "He showed that physicians transmitted puerperal fever between patients and that hand disinfection greatly reduced its incidence.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did Joseph Lister contribute to microbiology?",
+    "a": "Applying germ theory to surgery, he used chemical disinfectants on wounds and instruments, greatly reducing surgical infections and becoming known as the father of antiseptic surgery.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did Robert Koch contribute?",
+    "a": "He proved that Bacillus anthracis causes anthrax and developed Koch's postulates, experimental rules for linking a particular microorganism to a particular disease.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What is the basic logic of Koch's postulates?",
+    "a": "Associate the suspected microbe with diseased hosts, isolate it in pure culture, reproduce the disease in a healthy susceptible host, and reisolate the same microbe.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did Edward Jenner contribute?",
+    "a": "He used cowpox exposure to protect a person from smallpox, demonstrating vaccination and adaptive immunity.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did Paul Ehrlich contribute?",
+    "a": "He pioneered modern chemotherapy and developed salvarsan, a synthetic arsenic compound used to treat syphilis, illustrating the idea of a selective chemical treatment.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What did Alexander Fleming contribute?",
+    "a": "He observed that Penicillium mold produced penicillin, a substance that inhibited Staphylococcus, leading to the first widely important antibiotic.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "Distinguish chemotherapy from an antibiotic.",
+    "a": "Chemotherapy is treatment of disease with chemical agents. An antibiotic is a chemical naturally produced by a microorganism that inhibits or kills other microbes; many modern antimicrobial drugs are synthetic or semisynthetic.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "Define bacteriology, mycology, parasitology, virology, and immunology.",
+    "a": "Bacteriology studies bacteria; mycology studies fungi; parasitology studies protozoa and parasitic worms; virology studies viruses; immunology studies immunity and immune responses.",
+    "sec": "Ch 1"
+  },
+  {
+    "q": "What is serology?",
+    "a": "The study and diagnostic use of antigen-antibody reactions in blood serum, including using antibodies to identify microbes or distinguish serotypes.",
     "sec": "Ch 1"
   }
 ]

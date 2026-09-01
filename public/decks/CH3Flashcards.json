@@ -1,102 +1,257 @@
 [
   {
-    "q": "Define magnification and resolving power.",
-    "a": "Magnification: ratio of an object's image to its real size. Resolving power: measures the clarity of the image/ability of lenses to distinguish two points.",
+    "q": "What metric prefixes are most important for microbiology?",
+    "a": "centi- (c) = 10^-2, milli- (m) = 10^-3, micro- (µ) = 10^-6, and nano- (n) = 10^-9 of the base unit; common base units are meter, gram, and liter.",
     "sec": "Ch 3"
   },
   {
-    "q": "How is total magnification calculated on a compound light microscope?",
-    "a": "Objective lens power multiplied by ocular lens power.",
+    "q": "Give the key metric length equivalents used for microorganisms.",
+    "a": "1 m = 100 cm = 1,000 mm = 1,000,000 µm = 1,000,000,000 nm; 1 mm = 1,000 µm and 1 µm = 1,000 nm.",
     "sec": "Ch 3"
   },
   {
-    "q": "What is the purpose of immersion oil?",
-    "a": "It keeps light from bending (refracting) so it doesn't miss the small high-magnification lens.",
+    "q": "How do you convert between metric units?",
+    "a": "Use powers of ten. Moving to a smaller unit multiplies by the appropriate power of ten; moving to a larger unit divides. Example: 0.004 mm x 1,000 = 4 µm.",
     "sec": "Ch 3"
   },
   {
-    "q": "Describe brightfield illumination.",
-    "a": "Dark objects are visible against a bright background. Used to observe stained specimens and count microbes.",
+    "q": "What size ranges are generally visible to the unaided eye, light microscope, and electron microscope?",
+    "a": "The unaided eye resolves objects around 0.1 mm (100 µm) or larger; light microscopes resolve many cells and bacteria down to about 0.2 µm; electron microscopes resolve viruses and smaller structures in the nanometer range.",
     "sec": "Ch 3"
   },
   {
-    "q": "Describe darkfield illumination.",
-    "a": "Light objects are visible against a dark background due to an opaque disc. Used to observe living microbes that are invisible in brightfield or don't stain easily.",
+    "q": "Define magnification and resolution.",
+    "a": "Magnification is the ratio of image size to actual size. Resolution (resolving power) is the ability to distinguish two nearby points as separate; greater magnification without better resolution only makes a blur larger.",
     "sec": "Ch 3"
   },
   {
-    "q": "Describe phase-contrast microscopy.",
-    "a": "Direct and refracted light come together to produce an image. Used for detailed examination of internal structures of living specimens; no staining required.",
+    "q": "How is total magnification calculated in a compound microscope?",
+    "a": "Total magnification = ocular-lens magnification x objective-lens magnification. The condenser focuses light but does not magnify the image.",
     "sec": "Ch 3"
   },
   {
-    "q": "Describe fluorescence microscopy.",
-    "a": "Uses ultraviolet light to cause fluorochrome dyes to emit visible light. Used for rapid diagnosis of specific diseases using immunofluorescence.",
+    "q": "What total magnification results from a 10x ocular with the standard objectives?",
+    "a": "4x scanning = 40x total; 10x low power = 100x; 40x high dry = 400x; 100x oil immersion = 1,000x.",
     "sec": "Ch 3"
   },
   {
-    "q": "Describe confocal microscopy.",
-    "a": "Uses fluorochromes and a laser light to illuminate each plane of a specimen, producing a 3-D image.",
+    "q": "How does wavelength affect resolution?",
+    "a": "Shorter wavelengths provide better resolution because smaller details can be distinguished; electron beams have much shorter wavelengths than visible light.",
     "sec": "Ch 3"
   },
   {
-    "q": "Describe Transmission Electron Microscopy (TEM).",
-    "a": "Electrons pass through ultrathin sections of a specimen. Gives excellent view of internal structures with huge magnification (100,000x+), but specimens must be dead, dehydrated, and sliced thin.",
+    "q": "What is refractive index, and why is immersion oil used?",
+    "a": "Refractive index describes how strongly a medium bends light. Oil has a refractive index similar to glass, so it reduces refraction and directs more light into the small 100x objective, improving resolution.",
     "sec": "Ch 3"
   },
   {
-    "q": "Describe Scanning Electron Microscopy (SEM).",
-    "a": "An electron gun scans the surface of a whole specimen, knocking out secondary electrons to produce a 3-D image of the external surface.",
+    "q": "What is the correct path of light through a compound brightfield microscope?",
+    "a": "Illuminator -> iris diaphragm/condenser -> specimen -> objective lens -> body tube/head -> ocular lens -> eye.",
     "sec": "Ch 3"
   },
   {
-    "q": "What are the steps for a heat-fixed smear?",
-    "a": "Add microbes to a slide with water, emulsify and air dry, heat fix by passing over a flame/incinerator to attach and kill microbes, then stain.",
+    "q": "What are the functions of the ocular lenses, objectives, and revolving nosepiece?",
+    "a": "Oculars provide the final magnification for viewing. Objectives collect light and provide the main magnification and resolution. The revolving nosepiece holds objectives and rotates the selected one into place.",
     "sec": "Ch 3"
   },
   {
-    "q": "Differentiate between basic and acidic dyes.",
-    "a": "Stains are salts. In a basic dye, the colored chromophore is a positive ion (cation). In an acidic dye, it is a negative ion (anion).",
+    "q": "What are the functions of the stage, stage clip, and mechanical-stage controls?",
+    "a": "The stage supports the slide, the clip secures it, and the mechanical-stage knobs move the slide precisely along the x and y axes to center and scan the specimen.",
     "sec": "Ch 3"
   },
   {
-    "q": "Why do basic dyes stain bacteria?",
-    "a": "Bacteria are slightly negatively charged, so they attract the positively charged chromophore of basic dyes like crystal violet or safranin.",
+    "q": "What are the functions of the condenser and iris diaphragm?",
+    "a": "The condenser concentrates and focuses light on the specimen. The iris diaphragm regulates the cone and amount of light, affecting brightness, contrast, and resolution.",
     "sec": "Ch 3"
   },
   {
-    "q": "What is negative staining?",
-    "a": "Using an acidic dye, like eosin or nigrosin, which is repelled by the negative cell surface, staining the background instead of the cell. Useful for observing capsules.",
+    "q": "What do the coarse- and fine-focus knobs do?",
+    "a": "Coarse focus moves the stage or objectives a large distance for initial focus at low power. Fine focus makes small adjustments for a sharp image and should be used at high power.",
     "sec": "Ch 3"
   },
   {
-    "q": "What is a simple stain and a mordant?",
-    "a": "Simple stain: use of a single basic dye to view cell shape and structures. Mordant: used to hold or intensify the stain or coat a specimen to thicken it.",
+    "q": "What are the functions of the illuminator, light-intensity knob, arm, and base?",
+    "a": "The illuminator supplies light; the intensity knob controls brightness; the arm supports the upper components and is a carrying point; the base supports the microscope and often houses the lamp.",
     "sec": "Ch 3"
   },
   {
-    "q": "What is the Gram Stain?",
-    "a": "A differential stain that classifies bacteria into Gram-positive (purple) and Gram-negative (pink) based on cell wall structure.",
+    "q": "What is a safe basic procedure for focusing a specimen?",
+    "a": "Begin with the 4x objective, center the specimen, use coarse then fine focus, adjust light and diaphragm, move to higher objectives while keeping the specimen centered, and use only fine focus at high power.",
     "sec": "Ch 3"
   },
   {
-    "q": "What are the steps of the Gram Stain?",
-    "a": "Crystal violet (primary), Gram's Iodine (mordant), Alcohol (decolorizer), Safranin (counterstain).",
+    "q": "How should the 100x oil-immersion objective be used?",
+    "a": "Focus and center at lower power, rotate aside, place a small drop of immersion oil on the slide, rotate the 100x lens into the oil, use fine focus only, and clean the oil from the lens with lens paper afterward.",
     "sec": "Ch 3"
   },
   {
-    "q": "Why do Gram-positive and Gram-negative cells stain differently?",
-    "a": "Gram-positive cells have a thick peptidoglycan wall that retains the crystal violet-iodine complex. Gram-negative cells have a thin wall and outer membrane that is dissolved by alcohol, washing out the purple, and take up the pink safranin.",
+    "q": "What precautions protect a compound microscope?",
+    "a": "Carry it with two hands, begin and store it at low power, never use coarse focus at high power, never let an objective strike the slide, use oil only with the oil lens, and clean lenses only with lens paper.",
     "sec": "Ch 3"
   },
   {
-    "q": "What is the Acid-Fast Stain?",
-    "a": "A differential stain used to identify bacteria with waxy/lipid cell walls, like Mycobacterium. Acid-fast cells retain the red carbol fuchsin stain; non-acid-fast cells are counterstained blue.",
+    "q": "How does brightfield microscopy form an image, and what is it used for?",
+    "a": "Transmitted visible light produces dark or colored specimens against a bright background. It is commonly used for fixed, stained microbes and for counting cells.",
     "sec": "Ch 3"
   },
   {
-    "q": "Why is heat required for endospore staining?",
-    "a": "Endospores are highly resistant to desiccation, heat, and radiation. Heat is needed to drive the stain into the endospore.",
+    "q": "How does darkfield microscopy differ from brightfield, and what is it useful for?",
+    "a": "An opaque stop blocks direct light so only light scattered by the specimen enters the objective, making bright cells on a dark background. It is useful for living, thin, or poorly staining organisms.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "How does phase-contrast microscopy work, and what is it useful for?",
+    "a": "It converts differences in refractive index and phase between direct and refracted light into brightness differences. It reveals internal detail in living, unstained cells.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What is differential interference contrast (DIC) microscopy used for?",
+    "a": "DIC splits polarized light into two beams and recombines them to enhance optical-path differences, producing high-contrast, apparently three-dimensional images of live, unstained specimens and internal structures.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "How does fluorescence microscopy work, and what is it used for?",
+    "a": "Fluorescent substances absorb short-wavelength light and emit longer-wavelength visible light. Fluorochromes or fluorescent antibodies can rapidly locate particular cells, antigens, or nucleic acids.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What are natural fluorescence, a fluorochrome, and immunofluorescence?",
+    "a": "Natural fluorescence is emitted by an organism's own compounds; a fluorochrome is a fluorescent dye; immunofluorescence uses fluorescently labeled antibodies to detect a specific antigen.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "How does confocal microscopy work, and what is it used for?",
+    "a": "A laser scans thin optical planes through a fluorescent specimen while out-of-focus light is excluded. The sections can be combined into sharp 2-D or 3-D images, useful for thick cells and biofilms.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What is scanning acoustic microscopy (SAM) useful for?",
+    "a": "SAM sends high-frequency sound waves through a specimen and maps reflected waves. It can image internal features of living, unstained cells attached to surfaces, such as biofilms, without the vacuum required for electron microscopy.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "How does electron microscopy differ from light microscopy?",
+    "a": "It uses an electron beam and electromagnetic lenses rather than visible light and glass lenses, giving far greater resolution. Specimens are viewed in a vacuum, require extensive preparation, and cannot remain alive.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "How does a transmission electron microscope (TEM) form an image, and what is it used for?",
+    "a": "Electrons pass through an ultrathin, often heavy-metal-stained section. TEM produces a high-resolution 2-D view of internal ultrastructure, such as organelles, membranes, or viruses inside cells.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What are important limitations of TEM?",
+    "a": "The specimen must be thin, fixed, dehydrated, stained, and viewed under vacuum. Preparation kills cells and can create shrinkage, distortion, or other artifacts.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "How does a scanning electron microscope (SEM) form an image, and what is it used for?",
+    "a": "An electron beam scans a metal-coated specimen surface and emitted secondary electrons are detected. SEM produces a three-dimensional-looking view of external surface features of cells and viruses.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Compare the typical images produced by TEM and SEM.",
+    "a": "TEM: higher-resolution, 2-D internal section. SEM: lower-resolution, three-dimensional-looking external surface. Both require dead specimens in a vacuum.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "How is a heat-fixed bacterial smear prepared, and why is it fixed?",
+    "a": "Place cells in a small water drop unless using broth, spread/emulsify, air-dry completely, gently heat-fix, then stain. Fixing kills cells and attaches them to the slide while preserving general shape.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What is a chromophore?",
+    "a": "The colored ion in a dye. In a basic dye it is a cation; in an acidic dye it is an anion.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Why do basic dyes directly stain bacterial cells?",
+    "a": "Bacterial surfaces are usually negatively charged and attract the positively charged chromophores of basic dyes such as crystal violet, methylene blue, safranin, and basic fuchsin.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Why do acidic dyes usually stain the background rather than bacterial cells?",
+    "a": "Their negatively charged chromophores are repelled by the negatively charged cell surface. Dyes such as nigrosin and eosin therefore create a negative stain around unstained cells.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Compare simple, differential, and special or structural stains.",
+    "a": "A simple stain uses one dye to show size, shape, and arrangement. A differential stain uses multiple reagents to separate groups, such as Gram or acid-fast. A special stain reveals a structure such as a capsule, endospore, or flagellum.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What is a mordant?",
+    "a": "A reagent that increases a stain's binding or intensity. In the Gram stain, iodine forms a large crystal-violet-iodine complex; in some structural stains a mordant thickens the target.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Why is the Gram stain called a differential stain?",
+    "a": "It separates bacteria into Gram-positive and Gram-negative groups according to cell-wall structure and their response to decolorization.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What are the four Gram-stain reagents in order, and what does each do?",
+    "a": "Crystal violet is the primary stain; Gram's iodine is the mordant; alcohol or acetone-alcohol is the decolorizer; safranin is the counterstain.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What colors are Gram-positive and Gram-negative cells after crystal violet and after iodine?",
+    "a": "After crystal violet, both are purple. After iodine, both remain purple because the crystal-violet-iodine complex has formed.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What colors are Gram-positive and Gram-negative cells after decolorization?",
+    "a": "Gram-positive cells remain purple; Gram-negative cells become colorless because alcohol disrupts the outer membrane and the thin peptidoglycan cannot retain the dye complex.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What colors are Gram-positive and Gram-negative cells after safranin?",
+    "a": "Gram-positive cells remain purple because the darker primary stain masks safranin; Gram-negative cells take up the counterstain and become pink or red.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Why does alcohol affect Gram-positive and Gram-negative walls differently?",
+    "a": "Alcohol dehydrates and tightens thick Gram-positive peptidoglycan, trapping the dye complex. It dissolves Gram-negative outer-membrane lipids and exposes thin peptidoglycan, allowing the complex to wash out.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "How can Gram-stain technique cause a false result?",
+    "a": "Over-decolorizing can make Gram-positive cells appear negative; under-decolorizing can leave Gram-negative cells purple. Old or damaged Gram-positive cultures may be Gram-variable, and a smear that is too thick decolorizes unevenly.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Compare the Gram stain with the acid-fast stain.",
+    "a": "Both are differential stains. Gram staining distinguishes wall types by retention of crystal violet after alcohol; acid-fast staining identifies waxy mycolic-acid walls by retention of carbolfuchsin after acid-alcohol.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What are the acid-fast stain steps and final colors?",
+    "a": "Apply carbolfuchsin, use heat in the Ziehl-Neelsen method to drive it into waxy walls, decolorize with acid-alcohol, then counterstain with methylene blue. Acid-fast cells are red or pink; non-acid-fast cells are blue.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Which organisms are commonly identified with the acid-fast stain, and why?",
+    "a": "Mycobacterium and some Nocardia species because lipid-rich, waxy mycolic acids resist ordinary staining and acid-alcohol decolorization.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Why is a capsule stain useful, and what does a capsule look like?",
+    "a": "It shows a glycocalyx capsule that is difficult to stain directly and may contribute to virulence. Negative stain colors the background and a counterstain may color the cell, leaving the capsule as a clear halo.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Why is heat fixing usually avoided in a capsule stain?",
+    "a": "Heat can shrink or destroy the capsule and distort cell size, so a negative-staining method is used to preserve the halo.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "Why is an endospore stain useful, and why is heat required?",
+    "a": "It identifies bacteria that form highly resistant endospores and shows spore location. Heat drives the primary stain through the spore's resistant coats.",
+    "sec": "Ch 3"
+  },
+  {
+    "q": "What are the Schaeffer-Fulton endospore-stain steps and results?",
+    "a": "Steam with malachite green, rinse with water, then counterstain with safranin. Endospores appear green; vegetative cells appear pink or red.",
     "sec": "Ch 3"
   }
 ]

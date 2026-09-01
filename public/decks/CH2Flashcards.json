@@ -1,132 +1,397 @@
 [
   {
-    "q": "What determines the chemical behavior/reactivity of an element?",
-    "a": "Atomic structure, specifically whether atoms take, donate, or share valence electrons.",
+    "q": "What is matter, and what is an atom?",
+    "a": "Matter occupies space and has mass. An atom is the smallest unit of an element that retains that element's chemical properties.",
     "sec": "Ch 2"
   },
   {
-    "q": "What are valence electrons?",
-    "a": "The electrons found in the outermost energy shell of an atom. They determine how an atom can bond.",
+    "q": "Describe the three major subatomic particles.",
+    "a": "Protons have a +1 charge and neutrons have no charge; both are in the nucleus and each has about 1 atomic mass unit. Electrons have a -1 charge, negligible mass, and occupy energy levels around the nucleus.",
     "sec": "Ch 2"
   },
   {
-    "q": "What is the Octet Rule?",
-    "a": "When the outer shell of an atom contains fewer than 8 (or 2) electrons, the atom tends to gain, lose, or share electrons to achieve a complete outer shell.",
+    "q": "What is an element, and how is an atom related to an element?",
+    "a": "An element is a pure substance that cannot be broken down chemically into simpler substances. All atoms of an element have the same number of protons.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What information does an element's atomic number provide?",
+    "a": "The atomic number equals the number of protons and identifies the element. In a neutral atom it also equals the number of electrons.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What information does the mass number provide?",
+    "a": "The mass number is the total number of protons plus neutrons in one atom. Neutrons = mass number - atomic number.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "How does atomic mass differ from mass number?",
+    "a": "Mass number is the whole-number sum of protons and neutrons in one isotope. The atomic mass on the periodic table is the weighted average mass of the element's naturally occurring isotopes.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is an isotope?",
+    "a": "An isotope is a form of an element with the same number of protons but a different number of neutrons, so it has the same atomic number but a different mass number.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What makes a radioisotope different from a stable isotope?",
+    "a": "A radioisotope has an unstable nucleus that decays and releases particles or energy; a stable isotope does not undergo spontaneous radioactive decay.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Why is an atom normally electrically neutral? What is an ion?",
+    "a": "A neutral atom has equal numbers of positively charged protons and negatively charged electrons. An ion forms when an atom or molecule gains or loses electrons and acquires a net charge.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Distinguish a cation from an anion.",
+    "a": "A cation is positively charged because it lost electrons; an anion is negatively charged because it gained electrons.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are electron shells, and how are they filled?",
+    "a": "Electron shells are energy levels around the nucleus. Electrons fill the lowest-energy inner shells first, then higher-energy outer shells.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "How many electrons can the first four electron shells hold?",
+    "a": "The first shell holds 2, the second 8, the third up to 18, and the fourth up to 32. For biological bonding, the filled outer-shell rule is usually simplified to 2 for the first shell and 8 for the next valence shell.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are valence electrons, and why are they important?",
+    "a": "They are electrons in the outermost occupied shell. Their number determines an atom's reactivity and how many electrons it tends to gain, lose, or share in bonds.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is the octet rule, and what is its main exception?",
+    "a": "Atoms tend to gain, lose, or share electrons to obtain 8 electrons in the valence shell. The first shell is full with only 2 electrons, so hydrogen and helium follow a duet rule.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "How can valence electrons predict the usual number of covalent bonds?",
+    "a": "For many main-group atoms, bonds needed = 8 - valence electrons; hydrogen needs 2 - its 1 electron. Thus carbon usually forms 4 bonds, nitrogen 3, oxygen 2, and hydrogen 1.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "How do you interpret subscripts and coefficients in a chemical formula?",
+    "a": "A subscript gives the number of atoms of the preceding element in one molecule; a coefficient multiplies every atom in the formula. For example, 3H2O contains 3 molecules, 6 H atoms, and 3 O atoms.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is a molecule, and what is a compound?",
+    "a": "A molecule contains two or more atoms held together by covalent bonds. A compound contains atoms of two or more different elements chemically combined in a fixed ratio.",
     "sec": "Ch 2"
   },
   {
     "q": "What is a covalent bond?",
-    "a": "A strong chemical bond formed by the sharing of electrons between atoms.",
+    "a": "A strong bond formed when atoms share one or more pairs of valence electrons; a single, double, or triple bond shares one, two, or three pairs.",
     "sec": "Ch 2"
   },
   {
-    "q": "Differentiate between nonpolar and polar covalent bonds.",
-    "a": "Nonpolar: electrons are shared equally. Polar: electrons are not shared equally because one atom has a higher electronegativity (e.g., oxygen in water).",
+    "q": "Distinguish nonpolar and polar covalent bonds.",
+    "a": "In a nonpolar covalent bond, electrons are shared approximately equally. In a polar covalent bond, unequal electronegativity causes unequal sharing and partial positive and negative charges.",
     "sec": "Ch 2"
   },
   {
-    "q": "What is an ionic bond?",
-    "a": "A bond formed when two atoms are so unequal in their attraction for valence electrons that one atom strips an electron completely from the other, creating oppositely charged ions.",
+    "q": "What is electronegativity?",
+    "a": "A measure of an atom's attraction for shared electrons. A larger electronegativity difference makes a covalent bond more polar; an extreme difference favors electron transfer.",
     "sec": "Ch 2"
   },
   {
-    "q": "Define cations and anions.",
-    "a": "Cations are atoms with a net positive charge. Anions are atoms with a net negative charge.",
+    "q": "How is an ionic bond formed?",
+    "a": "One atom transfers one or more electrons to another, producing a cation and an anion whose opposite charges attract.",
     "sec": "Ch 2"
   },
   {
-    "q": "What are weak chemical bonds and why are they important?",
-    "a": "Hydrogen bonds and van der Waals interactions. While individual bonds are weak, collectively they have strength and play important roles in the chemistry of life.",
+    "q": "What is a hydrogen bond?",
+    "a": "A weak attraction between a partially positive hydrogen covalently bonded to an electronegative atom and a partially negative electronegative atom, commonly oxygen or nitrogen, nearby.",
     "sec": "Ch 2"
   },
   {
-    "q": "Describe a hydrogen bond.",
-    "a": "An attractive force between the hydrogen attached to an electronegative atom of one molecule and an electronegative atom (like O or N) of a different molecule.",
+    "q": "What are van der Waals interactions?",
+    "a": "Weak, short-range attractions caused by temporary or induced partial charges when atoms are close. Individually weak interactions can be strong collectively.",
     "sec": "Ch 2"
   },
   {
-    "q": "Define acid and base.",
-    "a": "Acid: a substance that donates protons (H+) and increases the [H+] of a solution. Base: a substance that accepts protons and decreases the [H+] of a solution.",
+    "q": "What is molecular weight (molecular mass)?",
+    "a": "The sum of the atomic masses of all atoms in one molecule, expressed in daltons or atomic mass units; the same numerical value in grams is one mole of that substance.",
     "sec": "Ch 2"
   },
   {
-    "q": "What does the pH scale measure?",
-    "a": "It measures the negative exponent of the [H+] concentration. pH 7 is neutral, below 7 is acidic, and above 7 is basic.",
+    "q": "What is a mole?",
+    "a": "The amount of substance containing 6.022 x 10^23 particles. One mole has a mass in grams numerically equal to its molecular or formula mass.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is a synthesis reaction?",
+    "a": "Two or more reactants combine to form a larger product: A + B -> AB. Biosynthetic synthesis reactions often require energy.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is a decomposition reaction?",
+    "a": "A larger reactant is broken into smaller products: AB -> A + B. Decomposition often releases energy or supplies reusable subunits.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is an exchange reaction?",
+    "a": "Parts of reactant molecules trade partners, such as AB + CD -> AD + CB; it contains both bond-breaking and bond-forming steps.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is a reversible reaction?",
+    "a": "A reaction that can proceed in either direction, written with double arrows. Its net direction depends on reactant and product concentrations and conditions.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Why is water polar?",
+    "a": "Oxygen attracts the shared electrons more strongly than hydrogen, giving oxygen a partial negative charge and the hydrogens partial positive charges.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Which properties of water are especially important to living systems?",
+    "a": "Polarity makes water an excellent solvent; hydrogen bonding gives cohesion, surface tension, and temperature stability; water participates in reactions; and ice is less dense than liquid water.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Why does water moderate temperature?",
+    "a": "Hydrogen bonds require substantial energy to break, so water has high specific heat and absorbs or releases much heat with relatively little temperature change; evaporation also removes heat.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Define hydrophilic and hydrophobic.",
+    "a": "Hydrophilic substances are polar or charged and interact with or dissolve in water. Hydrophobic substances are largely nonpolar and avoid water.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is an acid?",
+    "a": "A proton donor that increases the hydrogen-ion concentration [H+] of a solution.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is a base?",
+    "a": "A proton acceptor that lowers [H+]; some bases indirectly remove H+ by releasing hydroxide ions (OH-).",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is a salt?",
+    "a": "An ionic compound whose cation is not H+ and whose anion is not OH-; salts commonly form during acid-base neutralization and dissociate into ions in water.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "How do strong and weak acids or bases differ?",
+    "a": "Strong acids and bases dissociate almost completely in water, whereas weak acids and bases dissociate only partially and reversibly.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is pH?",
+    "a": "pH is the negative base-10 logarithm of hydrogen-ion concentration: pH = -log10[H+]. Low pH is acidic, pH 7 is neutral at room temperature, and high pH is basic.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "How much does [H+] change for each one-unit change in pH?",
+    "a": "Tenfold. A solution at pH 4 has 10 times more H+ than pH 5 and 100 times more H+ than pH 6.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What relationship links H+ and OH- concentrations in water?",
+    "a": "At room temperature, [H+][OH-] = 10^-14. Increasing one decreases the other; in neutral water both are 10^-7 M.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is a buffer, and why is it important?",
+    "a": "A buffer is a weak acid-base pair that accepts added H+ or releases H+ when it is depleted, resisting sudden pH change. Stable pH protects protein structure and cellular reactions.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Distinguish inorganic from organic compounds.",
+    "a": "Organic compounds generally contain carbon bonded to hydrogen and often form carbon skeletons. Inorganic compounds generally lack C-H bonds; water, salts, acids, bases, and carbon dioxide are common biological examples.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Why can carbon form such diverse molecules?",
+    "a": "Carbon has four valence electrons and can form four stable covalent bonds with many elements, producing chains, branches, rings, and single or double bonds.",
     "sec": "Ch 2"
   },
   {
     "q": "What is a functional group?",
-    "a": "An attachment that replaces one or more hydrogen atoms on the carbon skeleton of a hydrocarbon, and is commonly involved in chemical reactions.",
+    "a": "A specific group of atoms attached to a carbon skeleton that gives an organic molecule characteristic chemical properties and reactions.",
     "sec": "Ch 2"
   },
   {
-    "q": "Identify the structural formulas of hydroxyl, carbonyl, carboxyl, and amino groups.",
-    "a": "Hydroxyl: -OH. Carbonyl: C=O. Carboxyl: -COOH. Amino: -NH2.",
+    "q": "Identify the hydroxyl (alcohol) and methyl functional groups.",
+    "a": "Hydroxyl is -OH and makes many molecules polar; compounds containing it are alcohols. Methyl is -CH3, is nonpolar, and can alter molecular shape or gene expression when attached to other molecules.",
     "sec": "Ch 2"
   },
   {
-    "q": "What are polymers and monomers?",
-    "a": "Polymers are large macromolecules consisting of many similar or identical building blocks linked by covalent bonds. Monomers are the small repeated units.",
+    "q": "Identify the carbonyl functional group and its two forms.",
+    "a": "Carbonyl is C=O. At the end of a carbon skeleton it forms an aldehyde; within the skeleton it forms a ketone.",
     "sec": "Ch 2"
   },
   {
-    "q": "Explain condensation (dehydration) and hydrolysis reactions.",
-    "a": "Dehydration builds polymers by removing a water molecule to form a covalent bond. Hydrolysis breaks down polymers by adding a water molecule to break the bond.",
+    "q": "Identify the carboxyl functional group.",
+    "a": "Carboxyl is -COOH, a carbonyl plus hydroxyl. It can donate H+ and is found in carboxylic acids and all amino acids.",
     "sec": "Ch 2"
   },
   {
-    "q": "What are carbohydrates and their building blocks?",
-    "a": "Fuel and building materials for cells. Their building blocks are monosaccharides (simple sugars), often with the formula multiple CH2O.",
+    "q": "Identify the amino functional group.",
+    "a": "Amino is -NH2, can accept H+ and act as a base, and is present in all amino acids.",
     "sec": "Ch 2"
   },
   {
-    "q": "What are lipids and their unifying feature?",
-    "a": "Diverse molecules including fats, phospholipids, and steroids. Their unifying feature is that they are hydrophobic (have little/no affinity for water) due to nonpolar covalent bonds. They do not form long chain polymers.",
+    "q": "Identify the sulfhydryl functional group and a disulfide bridge.",
+    "a": "Sulfhydryl is -SH. Oxidation of two sulfhydryl groups can form a covalent disulfide bridge (-S-S-) that stabilizes protein structure.",
     "sec": "Ch 2"
   },
   {
-    "q": "Differentiate between saturated and unsaturated fats.",
-    "a": "Saturated fats have no carbon-carbon double bonds and are solid at room temperature. Unsaturated fats have one or more double bonds and are liquid at room temperature.",
+    "q": "Identify the phosphate functional group.",
+    "a": "A phosphate group contains phosphorus bonded to oxygen atoms, commonly written -OPO3^2-. It carries negative charge and is important in energy transfer, nucleic acids, and phospholipids.",
     "sec": "Ch 2"
   },
   {
-    "q": "What is the structure and function of a phospholipid?",
-    "a": "Composed of two fatty acids and a phosphate group attached to glycerol. They self-assemble into bilayers (with hydrophobic tails inside and hydrophilic heads outside) and are major components of cell membranes.",
+    "q": "What is an ester linkage?",
+    "a": "A covalent bond formed by dehydration between a hydroxyl group and a carboxyl group. Ester linkages join fatty acids to glycerol in fats and phospholipids.",
     "sec": "Ch 2"
   },
   {
-    "q": "What are proteins and their building blocks?",
-    "a": "The labor force of the cell (structural support, storage, transport, signaling, enzymes). Their building blocks are amino acids connected by peptide bonds.",
+    "q": "What is a glycosidic linkage?",
+    "a": "A covalent bond formed by dehydration between monosaccharides; it joins sugars in disaccharides and polysaccharides.",
     "sec": "Ch 2"
   },
   {
-    "q": "What makes up an amino acid?",
-    "a": "An alpha carbon attached to a hydrogen atom, a carboxyl group, an amino group, and a variable R group (side chain) which determines its properties.",
+    "q": "What is a peptide bond?",
+    "a": "A covalent bond formed by dehydration between the carboxyl group of one amino acid and the amino group of another.",
     "sec": "Ch 2"
   },
   {
-    "q": "What happens when a protein is denatured?",
-    "a": "Alterations in pH, salt concentration, or temperature disrupt the weak bonds maintaining the protein's shape, causing it to unravel and lose its function.",
+    "q": "How do dehydration synthesis and hydrolysis affect biological molecules?",
+    "a": "Dehydration synthesis removes H and OH as water to form a covalent bond and build larger molecules. Hydrolysis adds water to break the bond and release smaller units.",
     "sec": "Ch 2"
   },
   {
-    "q": "What are nucleic acids and their building blocks?",
-    "a": "Informational polymers (DNA and RNA) that store and transmit hereditary info. Their building blocks are nucleotides.",
+    "q": "What are the four major classes of biological macromolecules and their basic subunits?",
+    "a": "Carbohydrates use monosaccharides; proteins use amino acids; nucleic acids use nucleotides; lipids are built mainly from glycerol and fatty acids but are not true long-chain polymers.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are the major functions and basic structure of carbohydrates?",
+    "a": "They supply quick energy, store energy, and provide structural material. They contain C, H, and O, often near a 1:2:1 ratio, and range from monosaccharides to polysaccharides linked by glycosidic bonds.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Give examples of a monosaccharide, disaccharide, and polysaccharide.",
+    "a": "Monosaccharide: glucose, fructose, or galactose. Disaccharide: maltose or sucrose. Polysaccharide: glycogen, starch, cellulose, or peptidoglycan.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "How are monosaccharides classified?",
+    "a": "By carbon number (triose = 3, pentose = 5, hexose = 6) and carbonyl position (aldose at the end, ketose within the chain).",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are the major functions and shared property of lipids?",
+    "a": "Lipids store concentrated energy, form membranes, provide insulation, and act in signaling. Their structures are dominated by nonpolar bonds, so they have little affinity for water.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is the structure of a simple fat (triacylglycerol)?",
+    "a": "One glycerol joined to three fatty acids by ester linkages; its main role is long-term energy storage.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Distinguish saturated from unsaturated fatty acids.",
+    "a": "Saturated fatty acids have no C=C double bonds, pack tightly, and tend to be solid. Unsaturated fatty acids have one or more C=C bonds that create kinks, reduce packing, and increase fluidity.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "How does fatty-acid saturation affect membrane fluidity at different temperatures?",
+    "a": "More saturated tails make a membrane more ordered and less fluid, useful at warmer temperatures. In cold conditions cells can increase shorter or unsaturated fatty acids to prevent the membrane from becoming too rigid.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is the structure of a phospholipid?",
+    "a": "A glycerol bonded to two hydrophobic fatty-acid tails and a phosphate-containing, hydrophilic head group.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "Why are phospholipids well suited to form cell membranes?",
+    "a": "They are amphipathic: hydrophilic heads interact with water while hydrophobic tails avoid it. In water they spontaneously form a self-sealing bilayer with heads outward and tails inward.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is the basic structure and role of steroids?",
+    "a": "Steroids have four fused carbon rings with variable functional groups. They include cholesterol, vitamin D precursors, and many hormones; sterols also modify membrane fluidity.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is the basic structure of every amino acid?",
+    "a": "An alpha carbon bonded to a hydrogen, an amino group, a carboxyl group, and a variable R group that determines the amino acid's properties.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What are major functions of proteins?",
+    "a": "Enzymatic catalysis, structure, transport, movement, storage, signaling, receptors, and defense. A protein's specific three-dimensional shape is essential to its function.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is primary protein structure?",
+    "a": "The specific linear sequence of amino acids joined by peptide bonds; it determines the higher levels of folding.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is secondary protein structure?",
+    "a": "Local folding of the backbone into alpha helices or beta-pleated sheets stabilized mainly by hydrogen bonds between backbone groups.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is tertiary protein structure?",
+    "a": "The overall three-dimensional shape of one polypeptide produced by R-group interactions, including hydrophobic interactions, hydrogen bonds, ionic bonds, van der Waals forces, and disulfide bridges.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is quaternary protein structure?",
+    "a": "The association and arrangement of two or more folded polypeptide subunits into one functional protein.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is protein denaturation, and what can cause it?",
+    "a": "Denaturation is loss of normal protein shape and usually function without breaking the primary peptide backbone. Heat, extreme pH, altered salt concentration, solvents, detergents, or heavy metals can disrupt stabilizing interactions.",
     "sec": "Ch 2"
   },
   {
     "q": "What are the three parts of a nucleotide?",
-    "a": "A nitrogenous base, a pentose (5-carbon) sugar, and a phosphate group.",
+    "a": "A nitrogenous base, a five-carbon sugar, and one or more phosphate groups.",
     "sec": "Ch 2"
   },
   {
-    "q": "How do DNA and RNA differ?",
-    "a": "DNA is double-stranded and its sugar (deoxyribose) lacks an oxygen atom on carbon two. RNA is single-stranded and its sugar is ribose.",
+    "q": "How do a nucleoside and a nucleotide differ?",
+    "a": "A nucleoside is a nitrogenous base plus a pentose sugar. Adding one or more phosphate groups makes it a nucleotide.",
     "sec": "Ch 2"
   },
   {
-    "q": "What is the role of ATP?",
-    "a": "Adenosine triphosphate powers cellular work by coupling exergonic reactions to endergonic reactions. The bonds between its three phosphate groups are unstable and high in potential energy.",
+    "q": "What are the major functions and basic structure of nucleic acids?",
+    "a": "DNA stores hereditary information and RNA helps express it. Both are nucleotide polymers with a sugar-phosphate backbone joined by phosphodiester bonds and bases projecting from it.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "How do DNA and RNA differ in sugar, bases, strands, and function?",
+    "a": "DNA uses deoxyribose and thymine, is usually double-stranded, and stores genetic information. RNA uses ribose and uracil, is usually single-stranded, and functions in information transfer, protein synthesis, regulation, and catalysis.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "How is the DNA double helix held together?",
+    "a": "Two antiparallel sugar-phosphate backbones twist into a helix, while complementary bases pair through hydrogen bonds: A with T and G with C.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is ATP structurally, and which macromolecule is it most similar to?",
+    "a": "ATP is adenine plus ribose plus three phosphate groups. It is a ribonucleotide and is therefore most similar to the nucleotide monomers of RNA.",
+    "sec": "Ch 2"
+  },
+  {
+    "q": "What is ATP's role in cellular activities?",
+    "a": "ATP is the cell's immediate energy-transfer molecule. Hydrolysis of its terminal phosphate can be coupled to chemical synthesis, active transport, and mechanical work.",
     "sec": "Ch 2"
   }
 ]
