@@ -1,0 +1,482 @@
+[
+  {
+    "q": "What is metabolism?",
+    "a": "Metabolism is the complete set of chemical reactions in a cell, including energy-releasing catabolic reactions and energy-requiring anabolic reactions.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Distinguish catabolism from anabolism.",
+    "a": "Catabolism breaks larger molecules into smaller ones and releases energy. Anabolism uses energy and smaller building blocks to synthesize larger molecules.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How are catabolism and anabolism linked?",
+    "a": "Catabolism supplies ATP, reducing power, and molecular building blocks that drive anabolic synthesis.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is ATP's role in catabolism and anabolism?",
+    "a": "Catabolic reactions capture released energy by phosphorylating ADP to ATP. Hydrolysis of ATP back to ADP then supplies energy for anabolic reactions and other cellular work.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is a metabolic pathway?",
+    "a": "A sequence of enzyme-controlled reactions in which the product of one reaction becomes the substrate for the next.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is activation energy?",
+    "a": "Activation energy is the energy needed to push reactants over an energy barrier so bonds can break and a reaction can begin.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How does an enzyme affect activation energy and reaction rate?",
+    "a": "An enzyme lowers activation energy, increasing the frequency of successful molecular collisions and speeding the reaction without being consumed.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are apoenzymes, cofactors, and holoenzymes?",
+    "a": "The apoenzyme is the protein portion of an enzyme. A cofactor is its required nonprotein helper. Together, the apoenzyme and cofactor form the active holoenzyme.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How do inorganic cofactors and organic coenzymes differ?",
+    "a": "Inorganic cofactors are mineral ions such as Cu2+, Mn2+, K+, or Na+. Organic cofactors are coenzymes, often vitamin-derived molecules such as NAD+, NADP+, FAD, and coenzyme A.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What can cofactors and coenzymes carry between molecules?",
+    "a": "They can transfer chemical groups, electrons, or protons between donor and recipient molecules.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Describe the general mechanism of enzymatic action.",
+    "a": "A specific substrate binds the enzyme's active site, forming an enzyme-substrate complex. The enzyme catalyzes the reaction, releases the products, and is ready to act again.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How does temperature affect enzyme activity?",
+    "a": "Activity rises with temperature to an optimum as collisions increase, then falls sharply if excess heat alters or denatures the enzyme. Low temperature usually slows activity without denaturing the enzyme.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How does pH affect enzyme activity?",
+    "a": "Each enzyme has an optimal pH. Moving away from it changes ionization and shape at the active site, reducing activity; extreme pH can denature the enzyme.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How does substrate concentration affect enzyme activity?",
+    "a": "The reaction rate increases as substrate concentration rises until the enzymes are saturated. At saturation, all active sites are occupied and adding more substrate does not increase the rate.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How does competitive inhibition work?",
+    "a": "A substrate-like inhibitor competes for the enzyme's active site. Increasing the true substrate concentration can often reduce the inhibitor's effect.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How does sulfanilamide competitively inhibit bacteria?",
+    "a": "Sulfanilamide resembles PABA and occupies the active site of an enzyme needed for bacterial folic acid synthesis, preventing PABA from being converted and blocking growth.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How does noncompetitive inhibition work?",
+    "a": "The inhibitor binds away from the active site and changes the enzyme's shape, reducing catalysis. Adding more substrate generally does not overcome the inhibition.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Compare competitive and noncompetitive inhibition.",
+    "a": "Competitive inhibitors occupy the active site and compete with substrate; noncompetitive inhibitors bind elsewhere and alter enzyme function. Only competitive inhibition is commonly reduced by adding more substrate.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is feedback inhibition?",
+    "a": "An end product of a metabolic pathway inhibits an earlier enzyme in that pathway. Abundant product turns the pathway off; when product becomes scarce, the pathway resumes.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Distinguish negative feedback from positive feedback.",
+    "a": "Negative feedback causes a pathway's output to inhibit further activity. Positive feedback causes an output to stimulate more activity, amplifying the response.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Define oxidation and reduction.",
+    "a": "Oxidation is loss of electrons; reduction is gain of electrons. Remember OIL RIG: Oxidation Is Loss, Reduction Is Gain.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How can changes in hydrogen or oxygen reveal oxidation and reduction?",
+    "a": "Loss of hydrogen or gain of oxygen usually indicates oxidation. Gain of hydrogen or loss of oxygen usually indicates reduction.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "In glucose + oxygen -> carbon dioxide + water, what is oxidized and what is reduced?",
+    "a": "Glucose is oxidized to CO2, while oxygen is reduced to H2O.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What happens to an electron donor and an electron acceptor in a redox reaction?",
+    "a": "The electron donor loses electrons and is oxidized. The electron acceptor gains those electrons and is reduced.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How do NAD+ and NADH participate in redox reactions?",
+    "a": "NAD+ accepts electrons and hydrogen and is reduced to NADH. NADH later donates high-energy electrons and is oxidized back to NAD+.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How do FAD and FADH2 participate in redox reactions?",
+    "a": "FAD accepts electrons and hydrogen and is reduced to FADH2. FADH2 can donate those electrons to an electron transport chain and return to FAD.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are the three mechanisms that phosphorylate ADP to make ATP?",
+    "a": "Substrate-level phosphorylation, oxidative phosphorylation, and photophosphorylation.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is substrate-level phosphorylation?",
+    "a": "An enzyme transfers a phosphate directly from a phosphorylated organic substrate to ADP, producing ATP.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is oxidative phosphorylation?",
+    "a": "Electrons from oxidized nutrients pass through an electron transport chain, creating a proton gradient whose energy drives ATP synthase.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is photophosphorylation?",
+    "a": "Light energizes electrons that move through a photosynthetic electron transport chain, creating a proton gradient that drives ATP synthesis.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are the main stages of aerobic carbohydrate respiration?",
+    "a": "Glycolysis, conversion of pyruvate to acetyl-CoA, the Krebs cycle, and the electron transport chain with oxidative phosphorylation.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Where does glycolysis occur, and does it require oxygen?",
+    "a": "Glycolysis occurs in the cytoplasm of both prokaryotic and eukaryotic cells and does not require oxygen.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are the net products of glycolysis per glucose?",
+    "a": "Two pyruvate, two net ATP, and two NADH. Glycolysis itself produces no CO2.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What happens during glycolysis's energy-investment and energy-payoff phases?",
+    "a": "The investment phase uses two ATP and splits glucose into two G3P molecules. The payoff phase oxidizes the two G3P, produces four ATP and two NADH, and ends with two pyruvate, for a net gain of two ATP.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Why is substantial energy still available after glycolysis?",
+    "a": "Glycolysis only partly oxidizes glucose; most of its original energy remains stored in the two pyruvate molecules.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What happens during the transition step from pyruvate to acetyl-CoA?",
+    "a": "Each pyruvate loses CO2, transfers electrons to NAD+ to form NADH, and joins coenzyme A to form acetyl-CoA.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are the transition-step products per glucose?",
+    "a": "Two acetyl-CoA, two CO2, and two NADH are produced because one glucose yields two pyruvate.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How does the Krebs cycle begin?",
+    "a": "The two-carbon acetyl group from acetyl-CoA combines with four-carbon oxaloacetate to form six-carbon citrate.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are the products of one turn of the Krebs cycle?",
+    "a": "One turn per acetyl-CoA produces three NADH, one FADH2, one ATP by substrate-level phosphorylation, and two CO2 while regenerating oxaloacetate.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are the Krebs-cycle products per glucose?",
+    "a": "Two turns produce six NADH, two FADH2, two ATP, and four CO2 per glucose.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Where is most ATP from aerobic respiration generated?",
+    "a": "Most ATP is generated during oxidative phosphorylation, using electrons carried to the electron transport chain by NADH and FADH2.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is the main function of the electron transport chain?",
+    "a": "It transfers electrons through a series of carriers to a terminal electron acceptor and uses the released energy to pump protons across a membrane.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What three classes of electron carriers are emphasized in the lecture's ETC?",
+    "a": "Flavoproteins such as FMN, iron-containing cytochromes, and nonprotein ubiquinones such as coenzyme Q.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is the terminal electron acceptor in aerobic respiration?",
+    "a": "Molecular oxygen is the terminal electron acceptor; after accepting electrons and protons, it forms water.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Does the electron transport chain make ATP directly?",
+    "a": "No. It creates an electrochemical proton gradient; ATP synthase uses that gradient to make ATP.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How does the respiratory electron transport chain create a proton gradient?",
+    "a": "Energy released as electrons move between carriers powers the pumping of H+ across the membrane, producing high and low proton concentrations on opposite sides.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is chemiosmosis?",
+    "a": "Chemiosmosis is the coupling of an electron-transport-generated proton gradient to ATP synthesis as H+ flows down its gradient through ATP synthase.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is proton-motive force?",
+    "a": "The stored energy in an electrochemical H+ gradient across a membrane; the exergonic return flow of H+ can power ATP synthase.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Where do the stages of respiration occur in prokaryotes?",
+    "a": "Glycolysis, pyruvate oxidation, and the Krebs cycle occur in the cytoplasm; the electron transport chain and ATP synthase are in the plasma membrane.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Where do the stages of respiration occur in eukaryotes?",
+    "a": "Glycolysis occurs in the cytoplasm; pyruvate oxidation and the Krebs cycle occur in the mitochondrial matrix; the electron transport chain and ATP synthase are in the inner mitochondrial membrane.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "According to the lecture's traditional accounting, how much ATP can complete aerobic oxidation of one glucose yield?",
+    "a": "The lecture uses a maximum of 38 ATP in prokaryotes and 36 ATP in eukaryotes. These are course-specific traditional estimates; actual cellular yields can vary.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "According to the lecture, how many ATP come from substrate-level versus oxidative phosphorylation per glucose?",
+    "a": "Four ATP are made by substrate-level phosphorylation, while 34 ATP are attributed to oxidative phosphorylation in the lecture's traditional prokaryotic total.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Compare aerobic and anaerobic respiration.",
+    "a": "Both use glycolysis and an electron transport chain. Aerobic respiration uses O2 as the terminal electron acceptor; anaerobic respiration uses an inorganic acceptor other than O2 and generally yields less ATP.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What terminal electron acceptors can be used in anaerobic respiration?",
+    "a": "Examples include nitrate, sulfate, and carbonate; their reduction can produce nitrite or nitrogen gas, hydrogen sulfide, or methane, respectively.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Why does anaerobic respiration usually yield less energy than aerobic respiration?",
+    "a": "Its terminal acceptors generally provide a smaller energy drop than oxygen, and not all electron carriers in the respiratory chain may participate.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How does fermentation differ from respiration?",
+    "a": "Fermentation has no electron transport chain and transfers electrons from NADH to an organic molecule derived from the original substrate. Respiration uses an ETC and an external terminal electron acceptor.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is the essential purpose of fermentation?",
+    "a": "It oxidizes NADH back to NAD+, allowing glycolysis to continue when respiration cannot reoxidize NADH.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How much ATP does fermentation produce per glucose?",
+    "a": "Fermentation itself adds no ATP beyond glycolysis, so the net yield is two ATP per glucose.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What happens in lactic acid fermentation?",
+    "a": "NADH reduces pyruvate directly to lactate, regenerating NAD+ without releasing CO2.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What happens in alcoholic fermentation?",
+    "a": "Pyruvate first loses CO2 to form acetaldehyde; NADH then reduces acetaldehyde to ethanol and regenerates NAD+.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Distinguish homolactic and heterolactic fermentation.",
+    "a": "Homolactic fermentation produces lactic acid as the main end product. Heterolactic fermentation produces lactic acid plus other compounds.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Match major microbial fermentation products with example organisms from the lecture.",
+    "a": "Yeast produces ethanol and CO2; Streptococcus and Lactobacillus produce lactic acid; Propionibacterium produces propionic acid; Clostridium can produce butyric acid or butanol; Enterobacter performs mixed/formic-acid fermentation.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is an obligate aerobe?",
+    "a": "An organism that requires oxygen-dependent respiration to obtain energy and cannot grow without O2.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is a facultative anaerobe?",
+    "a": "An organism that uses aerobic respiration when O2 is available but can switch to fermentation or anaerobic respiration when O2 is absent; examples include E. coli and yeast.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is an obligate anaerobe?",
+    "a": "An organism that does not use oxygen for energy generation and is harmed by oxygen; Clostridium botulinum is an example.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is an aerotolerant anaerobe?",
+    "a": "An organism that does not use O2 for energy but can tolerate its presence; Streptococcus pyogenes is an example from the lecture.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How do fats enter central metabolism?",
+    "a": "Lipases split fats into glycerol and fatty acids. Glycerol enters glycolysis after conversion to an intermediate, while beta-oxidation splits fatty acids into two-carbon acetyl-CoA units that enter the Krebs cycle.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How do proteins enter central metabolism?",
+    "a": "Proteases and peptidases digest proteins to amino acids. After removal or modification of functional groups, their carbon skeletons enter glycolysis, become acetyl-CoA, or enter the Krebs cycle.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is deamination?",
+    "a": "Removal of an amino group from an amino acid. The amino group can become excreted ammonium, while the remaining organic acid can enter central metabolism or biosynthesis.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are decarboxylation and dehydrogenation?",
+    "a": "Decarboxylation removes a carboxyl group, often as CO2. Dehydrogenation removes hydrogen and commonly transfers electrons to an electron carrier.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How can biochemical tests identify bacteria?",
+    "a": "Different bacteria use substrates and produce metabolic end products in characteristic patterns. Media reveal those patterns through growth, pH changes, gas, colored products, or precipitates.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How is an amino-acid decarboxylation test interpreted?",
+    "a": "Glucose fermentation first produces acid and turns the indicator yellow. If the bacterium decarboxylates the amino acid, alkaline products raise the pH and turn the indicator purple.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What does a carbohydrate fermentation test medium contain?",
+    "a": "A protein source, one specific carbohydrate, a pH indicator, and an inverted Durham tube that traps any gas produced.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How are acid and gas detected in a carbohydrate fermentation test?",
+    "a": "Acid production changes the pH indicator color, and gas appears as a bubble in the inverted Durham tube.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How did the lecture's mannitol fermentation examples differ?",
+    "a": "Staphylococcus epidermidis grew but did not use mannitol; S. aureus used mannitol and produced acid without gas; E. coli used mannitol and produced both acid and gas.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How does peptone iron agar detect H2S production?",
+    "a": "Bacterial removal of sulfur from amino acids releases H2S, which reacts with iron in the medium to form a black precipitate.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Compare oxygenic and anoxygenic photosynthesis.",
+    "a": "Oxygenic photosynthesis uses H2O as an electron donor and releases O2. Anoxygenic photosynthesis can use H2S and produces elemental sulfur rather than oxygen.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are the reactants and products of the light-dependent reactions?",
+    "a": "Light, H2O, NADP+, ADP, and phosphate are used to produce O2, NADPH, and ATP during oxygenic photosynthesis.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are the reactants and products of the Calvin-Benson cycle?",
+    "a": "The cycle uses CO2, ATP, and NADPH to produce G3P while regenerating RuBP, ADP, and NADP+.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are photosystems?",
+    "a": "Light-gathering complexes in a photosynthetic membrane containing chlorophyll, accessory pigments, a reaction-center chlorophyll, and a primary electron acceptor.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How do photosystem I and photosystem II differ?",
+    "a": "Photosystem I has a P700 reaction center with peak absorption near 700 nm. Photosystem II has a P680 reaction center near 680 nm; together they generate ATP and NADPH in noncyclic flow.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What occurs during noncyclic photophosphorylation?",
+    "a": "Electrons stripped from water pass through photosystem II, an electron transport chain, and photosystem I before reducing NADP+. The process creates a proton gradient and produces ATP, NADPH, and O2.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What occurs during cyclic photophosphorylation?",
+    "a": "Excited electrons from photosystem I cycle back through an electron transport chain. The process produces ATP but no NADPH or O2.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Compare photophosphorylation with oxidative phosphorylation.",
+    "a": "Both use electron transport, proton pumping, chemiosmosis, and ATP synthase. Photophosphorylation begins with light-excited electrons; oxidative phosphorylation begins with electrons removed from reduced nutrients.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What mechanism for ATP production is shared by chloroplasts and mitochondria?",
+    "a": "Both create a proton-motive force with an electron transport chain and use H+ flow through ATP synthase to generate ATP by chemiosmosis.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What are the three phases of the Calvin-Benson cycle?",
+    "a": "Carbon fixation, reduction, and regeneration of the CO2 acceptor ribulose bisphosphate (RuBP).",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is the direct sugar product and energy cost of the Calvin-Benson cycle?",
+    "a": "The direct net sugar product is one three-carbon G3P, not glucose. Producing one G3P fixes three CO2 and consumes nine ATP and six NADPH.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How many Calvin-cycle turns are needed for G3P and glucose?",
+    "a": "Three turns fix three CO2 to produce one net G3P. Six turns fix six CO2 and provide enough carbon for one glucose.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How are organisms classified by energy source?",
+    "a": "Phototrophs obtain energy from light, while chemotrophs obtain energy by oxidizing chemicals.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "How are organisms classified by carbon source?",
+    "a": "Autotrophs use CO2 as their principal carbon source, while heterotrophs require preformed organic carbon.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is a photoautotroph?",
+    "a": "An organism that uses light for energy and CO2 for carbon; examples include cyanobacteria, algae, plants, and green or purple sulfur bacteria.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is a photoheterotroph?",
+    "a": "An organism that uses light for energy but organic compounds for carbon; green and purple nonsulfur bacteria are examples.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is a chemoautotroph?",
+    "a": "An organism that oxidizes inorganic chemicals for energy and fixes CO2 for carbon; iron-oxidizing bacteria are examples.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is a chemoheterotroph?",
+    "a": "An organism that uses organic compounds for both energy and carbon; animals, fungi, protozoa, many bacteria, and fermentative organisms are examples.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "What is an amphibolic pathway?",
+    "a": "An amphibolic pathway serves both catabolism and anabolism: it breaks molecules down for energy while also supplying intermediates used to build cellular molecules.",
+    "sec": "Ch 5"
+  },
+  {
+    "q": "Why is the Krebs cycle an amphibolic pathway?",
+    "a": "It oxidizes acetyl-CoA and captures energy during catabolism, while its intermediates can also be withdrawn as starting materials for biosynthesis.",
+    "sec": "Ch 5"
+  }
+]

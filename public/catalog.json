@@ -28,6 +28,13 @@
     "folder": "Exam 1"
   },
   {
+    "name": "Chapter 5: Microbial Metabolism",
+    "subject": "Microbiology",
+    "doc": "CH5",
+    "file": "decks/CH5Flashcards.json",
+    "folder": "Exam 2"
+  },
+  {
     "name": "CHEM QUIZ 2",
     "subject": "Chemistry",
     "doc": "CHEMQUIZ2",
